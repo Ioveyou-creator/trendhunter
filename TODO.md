@@ -67,12 +67,16 @@
 - [x] 소스 수집 상태 표시 (실패 시 빨간 점)
 - [x] 모바일 / 다크 모드 대응, 외부 데이터 XSS 방지
 - [x] 실제 데이터로 화면 캡처 확인 (데스크톱, 모바일, 다크)
-- [ ] **push #7**
+- [x] **push #7**
 
 ## 7단계: 자동화
-- [ ] GitHub Actions 워크플로 (매일 실행 + 결과 커밋)
-- [ ] GitHub Pages 설정 안내
+- [x] GitHub Actions 워크플로 `.github/workflows/daily.yml` (매일 07:17 KST + 수동 실행)
+- [x] 테스트 통과 시에만 수집, 변경된 데이터만 자동 커밋
+- [x] Actions 화면에 수집 결과 요약 표
+- [x] 워크플로 문법 검사(actionlint) 통과
 - [ ] **push #8**
+- [ ] GitHub Pages 켜기 (Settings → Pages → main /docs)
+- [ ] 수동 실행으로 첫 자동 수집 확인 (GitHub 서버에서 Reddit/Google 접속 되는지)
 
 ## 8단계: 리뷰 문서 (README)
 - [ ] 제작한 것 소개

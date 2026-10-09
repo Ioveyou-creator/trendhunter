@@ -4,6 +4,8 @@
 
 🚧 개발 중입니다. 진행 상황은 [TODO.md](TODO.md)를 확인하세요.
 
+**대시보드: https://ioveyou-creator.github.io/trendhunter/**
+
 ## 한 줄 소개
 
 Google Trends, Reddit, 이벤트 캘린더에서 매일 신호를 자동 수집해 점수를 매기고, eBay 판매완료 검색으로 바로 검증할 수 있는 후보 상품 목록을 보여줍니다. GitHub Actions와 GitHub Pages만 사용해 **비용 0원**으로 운영합니다.
@@ -33,6 +35,12 @@ python -m http.server -d docs
 ```
 
 `docs/index.html`을 더블클릭해서 열면 브라우저 보안 정책 때문에 데이터를 읽지 못합니다. 위처럼 간단한 서버로 열어 주세요.
+
+## 자동 실행
+
+GitHub Actions가 매일 한국 시간 오전 7시 17분에 수집을 돌리고, 결과(`docs/data/`)를 저장소에 자동으로 커밋합니다. GitHub Pages가 `docs/` 폴더를 웹사이트로 보여주므로 대시보드도 자동으로 갱신됩니다. 설정은 [.github/workflows/daily.yml](.github/workflows/daily.yml)에 있습니다.
+
+로봇이 매일 커밋하므로, 내 PC에서 작업하기 전에는 항상 `git pull`을 먼저 실행하세요.
 
 ## 문서
 
