@@ -27,7 +27,12 @@ python -m src.collectors.google_trends
 python -m src.collectors.reddit
 python -m src.collectors.events
 python -m src.scoring              # 점수화 + 급상승 추적(전날 대비 NEW/▲▼)
+
+# 4. 대시보드 보기 → 브라우저에서 http://localhost:8000
+python -m http.server -d docs
 ```
+
+`docs/index.html`을 더블클릭해서 열면 브라우저 보안 정책 때문에 데이터를 읽지 못합니다. 위처럼 간단한 서버로 열어 주세요.
 
 ## 문서
 

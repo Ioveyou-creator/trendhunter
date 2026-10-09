@@ -33,7 +33,7 @@
    "id": "051f92668c",
    "title": "[OoT] The Legend of Zelda: Ocarina of Time late-night store openings at Best Buy - find a participating store here",
    "query": "zelda Ocarina Time late-night store openings",
-   "score": 56,
+   "score": 59,
    "rank": 5
   },
   {
@@ -184,11 +184,18 @@
    "rank": 26
   },
   {
+   "id": "c9bb57973a",
+   "title": "vaccines",
+   "query": "vaccines",
+   "score": 37,
+   "rank": 27
+  },
+  {
    "id": "e94519dde8",
    "title": "play store",
    "query": "play store",
    "score": 37,
-   "rank": 27
+   "rank": 28
   }
  ]
 }

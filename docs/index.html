@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrendHunter</title>
+<meta name="description" content="eBay 해외 판매자를 위한 오늘의 후보 상품 대시보드">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ------------------------------------------------------------------
+     디자인 토큰
+     컨셉: 국제 항공우편. 한국 → 미국으로 보내는 셀러의 도구.
+     강조는 상단 항공우편 띠와 날짜 소인 두 곳에만 쓰고, 나머지는 조용하게.
+     ------------------------------------------------------------------ */
+  :root {
+    --paper: #f2f4f6;        /* 바탕: 차가운 종이색 */
+    --sheet: #ffffff;        /* 목록 면 */
+    --ink: #17233b;          /* 본문: 우편 잉크 남색 */
+    --muted: #5d6b80;        /* 보조 글자 */
+    --line: #dde3ea;         /* 구분선 */
+    --mail-red: #c8102e;     /* 항공우편 빨강 */
+    --mail-blue: #1f3f9a;    /* 항공우편 파랑 */
+    --up: #0b7a55;           /* 상승 */
+    --down: #a3412b;         /* 하락 */
+    --new-bg: #fde8eb;       /* NEW 배지 바탕 */
+    --chip: #e9edf2;
+    --focus: #1f3f9a;
+    --on-primary: #ffffff;   /* 파란 버튼 위 글자 */
+    --radius-s: 4px;
+    --radius-m: 10px;
+    --font: "IBM Plex Sans KR", system-ui, sans-serif;
+    --stamp: "Black Han Sans", "IBM Plex Sans KR", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #0f1522;
+      --sheet: #161e2e;
+      --ink: #e6ebf3;
+      --muted: #9aa7ba;
+      --line: #273247;
+      --mail-red: #f0566b;
+      --mail-blue: #7d9cf0;
+      --up: #4cc79a;
+      --down: #f08a6f;
+      --new-bg: #3b1a22;
+      --chip: #212b3d;
+      --focus: #7d9cf0;
+      --on-primary: #0f1522;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0f1522; --sheet: #161e2e; --ink: #e6ebf3; --muted: #9aa7ba; --line: #273247;
+    --mail-red: #f0566b; --mail-blue: #7d9cf0; --up: #4cc79a; --down: #f08a6f;
+    --new-bg: #3b1a22; --chip: #212b3d; --focus: #7d9cf0; --on-primary: #0f1522;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font);
+    font-size: 16px;
+    line-height: 1.55;
+  }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 2px; }
+
+  /* 항공우편 띠: 이 페이지의 유일한 장식 */
+  .airmail {
+    height: 10px;
+    background: repeating-linear-gradient(
+      -45deg,
+      var(--mail-red) 0 18px, transparent 18px 26px,
+      var(--mail-blue) 26px 44px, transparent 44px 52px
+    );
+  }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- 머리 ---------- */
+  header.top { padding: 28px 0 20px; }
+  .top-row { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; }
+  h1 {
+    margin: 0;
+    font-size: 30px;
+    line-height: 1.15;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .lede { margin: 6px 0 0; color: var(--muted); font-size: 15px; max-width: 46ch; }
+
+  /* 날짜 소인 */
+  .postmark {
+    flex: none;
+    width: 112px; height: 112px;
+    border: 2.5px solid var(--mail-red);
+    border-radius: 50%;
+    display: grid; place-content: center; text-align: center;
+    color: var(--mail-red);
+    transform: rotate(-8deg);
+    position: relative;
+  }
+  .postmark::before {
+    content: ""; position: absolute; inset: 7px;
+    border: 1px solid var(--mail-red); border-radius: 50%; opacity: .55;
+  }
+  .postmark .pm-year { font-size: 12px; font-weight: 600; letter-spacing: .08em; }
+  .postmark .pm-day { font-family: var(--stamp); font-size: 30px; line-height: 1.05; }
+  .postmark .pm-zone { font-size: 11px; font-weight: 600; letter-spacing: .1em; }
+
+  .status-line {
+    display: flex; flex-wrap: wrap; gap: 8px 18px;
+    margin-top: 18px; font-size: 14px; color: var(--muted);
+  }
+  .status-line .src { display: inline-flex; align-items: center; gap: 6px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--up); }
+  .dot.fail { background: var(--mail-red); }
+  .status-line strong { color: var(--ink); font-weight: 600; }
+
+  /* ---------- 필터 ---------- */
+  .filters {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+    padding: 14px 0; border-top: 1px solid var(--line);
+  }
+  .filters button {
+    font: inherit; font-size: 14px;
+    padding: 6px 12px;
+    border: 1px solid var(--line);
+    background: var(--sheet); color: var(--ink);
+    border-radius: 999px; cursor: pointer;
+  }
+  .filters button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .filters .count { color: var(--muted); font-size: 12px; margin-left: 2px; }
+  .filters button[aria-pressed="true"] .count { color: inherit; opacity: .7; }
+  .filters .spacer { flex: 1; }
+  .filters label { font-size: 14px; display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+
+  /* ---------- 본문 2단 ---------- */
+  main.grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    gap: 28px;
+    padding: 8px 0 48px;
+  }
+  @media (max-width: 920px) { main.grid { grid-template-columns: 1fr; } }
+
+  h2 { font-size: 18px; margin: 0 0 10px; font-weight: 700; }
+  .section-note { color: var(--muted); font-size: 13px; margin: -6px 0 12px; }
+
+  /* 후보 목록: 카드가 아니라 하나의 장부처럼 */
+  ol.cands {
+    list-style: none; margin: 0; padding: 0;
+    background: var(--sheet);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-m);
+  }
+  .cand {
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr) 64px;
+    gap: 4px 16px;
+    padding: 16px 18px;
+    border-top: 1px solid var(--line);
+  }
+  .cand:first-child { border-top: 0; }
+  .rank { font-size: 15px; font-weight: 600; color: var(--muted); padding-top: 2px; font-variant-numeric: tabular-nums; }
+  .cand-title { margin: 0; font-size: 16px; font-weight: 600; line-height: 1.4; overflow-wrap: anywhere; }
+  .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 6px; font-size: 13px; color: var(--muted); }
+  .tag { background: var(--chip); color: var(--ink); padding: 1px 8px; border-radius: var(--radius-s); font-size: 12px; }
+  .badge-new { background: var(--new-bg); color: var(--mail-red); font-weight: 700; padding: 1px 7px; border-radius: var(--radius-s); font-size: 12px; }
+  .move-up { color: var(--up); font-weight: 700; font-size: 13px; }
+  .move-down { color: var(--down); font-weight: 600; font-size: 13px; }
+  .query { font-size: 13px; color: var(--muted); margin-top: 6px; }
+  .query b { color: var(--ink); font-weight: 500; }
+
+  .score { text-align: right; }
+  .score-num { font-size: 24px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+  .score-bar { height: 4px; background: var(--chip); border-radius: 2px; margin-top: 8px; overflow: hidden; }
+  .score-bar i { display: block; height: 100%; background: var(--mail-blue); }
+  .score-label { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+  .actions { grid-column: 2 / 4; display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .actions a {
+    font-size: 13px; font-weight: 500; text-decoration: none;
+    padding: 6px 12px; border-radius: var(--radius-s);
+    border: 1px solid var(--line); background: var(--paper);
+  }
+  .actions a.primary { background: var(--mail-blue); border-color: var(--mail-blue); color: var(--on-primary); }
+  .actions a:hover { border-color: var(--ink); }
+  .actions a.primary:hover { filter: brightness(1.1); }
+
+  details.why { grid-column: 2 / 4; margin-top: 8px; font-size: 14px; }
+  details.why summary { cursor: pointer; color: var(--muted); font-size: 13px; width: fit-content; }
+  details.why ul { margin: 8px 0 0; padding-left: 18px; }
+  details.why li { margin: 2px 0; }
+  .evidence { margin: 8px 0 0; padding: 0; list-style: none; }
+  .evidence li { font-size: 13px; color: var(--muted); padding-left: 0; margin: 4px 0; overflow-wrap: anywhere; }
+  .evidence .src-name { color: var(--ink); font-weight: 500; margin-right: 6px; }
+
+  .empty { padding: 36px 20px; text-align: center; color: var(--muted); }
+
+  /* ---------- 오른쪽: 이벤트 타임라인 등 ---------- */
+  aside > section { margin-bottom: 28px; }
+  ol.timeline { list-style: none; margin: 0; padding: 0 0 0 14px; border-left: 2px solid var(--line); }
+  .ev { position: relative; padding: 0 0 14px 12px; }
+  .ev::before {
+    content: ""; position: absolute; left: -21px; top: 6px;
+    width: 12px; height: 12px; border-radius: 50%;
+    background: var(--paper); border: 2px solid var(--muted);
+  }
+  .ev.prepare_now::before { background: var(--mail-red); border-color: var(--mail-red); }
+  .ev.too_late::before { border-color: var(--down); }
+  .ev-when { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .ev-when b { color: var(--ink); }
+  .ev.prepare_now .ev-when b { color: var(--mail-red); }
+  .ev-name { font-weight: 600; font-size: 15px; line-height: 1.35; }
+  .ev-name a { text-decoration: none; }
+  .ev-name a:hover { text-decoration: underline; }
+  .ev-state { font-size: 12px; color: var(--muted); }
+
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain li { padding: 7px 0; border-top: 1px solid var(--line); font-size: 14px; display: flex; justify-content: space-between; gap: 10px; }
+  ul.plain li:first-child { border-top: 0; }
+  ul.plain a { text-decoration: none; overflow-wrap: anywhere; }
+  ul.plain a:hover { text-decoration: underline; }
+  ul.plain .n { color: var(--muted); font-size: 13px; flex: none; font-variant-numeric: tabular-nums; }
+
+  footer { border-top: 1px solid var(--line); padding: 20px 0 36px; font-size: 13px; color: var(--muted); }
+  footer a { color: var(--ink); }
+
+  .notice {
+    background: var(--sheet); border: 1px solid var(--line); border-left: 4px solid var(--mail-red);
+    border-radius: var(--radius-s); padding: 14px 16px; margin: 12px 0 20px; font-size: 14px;
+  }
+  .notice code { background: var(--chip); padding: 1px 6px; border-radius: 3px; }
+
+  @media (max-width: 600px) {
+    .wrap { padding: 0 16px; }
+    h1 { font-size: 24px; }
+    .postmark { width: 84px; height: 84px; }
+    .postmark .pm-day { font-size: 22px; }
+    .postmark .pm-year, .postmark .pm-zone { font-size: 10px; }
+    .cand { grid-template-columns: 28px minmax(0, 1fr) 48px; padding: 14px 12px; gap: 4px 10px; }
+    .score-num { font-size: 20px; }
+    .actions, details.why { grid-column: 1 / 4; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="airmail" aria-hidden="true"></div>
+
+<div class="wrap">
+  <header class="top">
+    <div class="top-row">
+      <div>
+        <h1>TrendHunter</h1>
+        <p class="lede">오늘 eBay에서 터질 만한 후보입니다. 판매완료 내역으로 확인하고, 국내에서 구할 수 있는지 바로 찾아보세요.</p>
+      </div>
+      <div class="postmark" id="postmark" aria-label="기준 날짜">
+        <span class="pm-year">----</span><span class="pm-day">--.--</span><span class="pm-zone">KST</span>
+      </div>
+    </div>
+    <div class="status-line" id="status-line" aria-live="polite">불러오는 중</div>
+  </header>
+
+  <div id="notice"></div>
+
+  <nav class="filters" id="filters" aria-label="카테고리 필터"></nav>
+
+  <main class="grid">
+    <section aria-labelledby="cand-h">
+      <h2 id="cand-h">오늘의 후보</h2>
+      <p class="section-note" id="cand-note"></p>
+      <ol class="cands" id="cands"></ol>
+    </section>
+
+    <aside>
+      <section aria-labelledby="ev-h">
+        <h2 id="ev-h">다가오는 이벤트</h2>
+        <p class="section-note">빨간 점은 지금 준비를 시작해야 하는 이벤트입니다.</p>
+        <ol class="timeline" id="timeline"></ol>
+      </section>
+      <section aria-labelledby="drop-h" id="dropped-sec" hidden>
+        <h2 id="drop-h">어제 있다가 빠진 후보</h2>
+        <ul class="plain" id="dropped"></ul>
+      </section>
+      <section aria-labelledby="other-h">
+        <h2 id="other-h">기타 검색 급상승</h2>
+        <p class="section-note">상품 신호가 없어 후보에서 뺀 미국 검색어입니다.</p>
+        <ul class="plain" id="others"></ul>
+      </section>
+    </aside>
+  </main>
+
+  <footer>
+    데이터: Google Trends(미국), Reddit, 직접 관리하는 이벤트 캘린더. 점수는 규칙 기반 추정이니 판매 전에 eBay 판매완료 내역으로 꼭 확인하세요.
+    <a href="https://github.com/Ioveyou-creator/trendhunter">소스 코드</a>
+  </footer>
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const SOURCE_NAME = { google_trends: "Google Trends", reddit: "Reddit", events: "이벤트", news: "뉴스" };
+  const prepText = (e) => {
+    const from = e.prep_by.slice(5).replace("-", "/");
+    if (e.status === "prepare_now") return `${from}부터 준비 중`;
+    if (e.status === "too_late") return "배송 시간 부족";
+    return `${from}부터 준비 시작`;
+  };
+  const FILTER_KEY = "trendhunter.filter";
+
+  const $ = (id) => document.getElementById(id);
+
+  /* 외부 데이터(Reddit 제목 등)는 항상 글자로만 넣는다: innerHTML 사용 금지 */
+  function el(tag, attrs, ...children) {
+    const node = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs || {})) {
+      if (v == null || v === false) continue;
+      if (k === "class") node.className = v;
+      else if (k === "text") node.textContent = v;
+      else if (k === "href") { const safe = safeUrl(v); if (safe) node.setAttribute("href", safe); }
+      else node.setAttribute(k, v);
+    }
+    for (const c of children) if (c != null) node.append(c instanceof Node ? c : document.createTextNode(String(c)));
+    return node;
+  }
+  function safeUrl(u) {
+    try { const url = new URL(u, location.href); return /^https?:$/.test(url.protocol) ? url.href : null; }
+    catch { return null; }
+  }
+  function store(key, value) {
+    try { if (value === undefined) return localStorage.getItem(key); localStorage.setItem(key, value); }
+    catch { return null; }
+  }
+
+  let DATA = null;
+  let state = { category: store(FILTER_KEY) || "all", onlyNew: false };
+
+  async function load() {
+    try {
+      const res = await fetch("data/latest.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      DATA = await res.json();
+    } catch (e) {
+      showLoadError(e);
+      return;
+    }
+    renderHeader();
+    renderFilters();
+    renderCandidates();
+    renderSide();
+  }
+
+  function showLoadError(e) {
+    $("status-line").textContent = "데이터를 불러오지 못했습니다.";
+    const box = el("div", { class: "notice", role: "alert" });
+    if (location.protocol === "file:") {
+      box.append(
+        "파일을 직접 열면 브라우저가 데이터 읽기를 막습니다. 프로젝트 폴더에서 ",
+        el("code", { text: "python -m http.server -d docs" }),
+        " 를 실행한 뒤 http://localhost:8000 으로 여세요."
+      );
+    } else {
+      box.append("data/latest.json 을 읽지 못했습니다 (" + e.message + "). ",
+        el("code", { text: "python -m src.run_all" }), " 로 데이터를 먼저 만들어 주세요.");
+    }
+    $("notice").append(box);
+    $("cands").append(el("li", { class: "empty", text: "표시할 후보가 없습니다." }));
+  }
+
+  function renderHeader() {
+    const d = (DATA.date || DATA.generated_at || "").slice(0, 10);
+    if (d) {
+      const [y, m, day] = d.split("-");
+      const pm = $("postmark");
+      pm.querySelector(".pm-year").textContent = y;
+      pm.querySelector(".pm-day").textContent = m + "." + day;
+      pm.setAttribute("aria-label", "기준 날짜 " + d);
+    }
+    const line = $("status-line");
+    line.textContent = "";
+    for (const [key, s] of Object.entries(DATA.sources || {})) {
+      line.append(el("span", { class: "src", title: s.error || "" },
+        el("span", { class: "dot" + (s.ok ? "" : " fail"), "aria-hidden": "true" }),
+        SOURCE_NAME[key] || key, " ",
+        s.ok ? el("strong", { text: s.count + "개" }) : el("strong", { text: "수집 실패" })
+      ));
+    }
+    const h = DATA.history || {};
+    if (h.previous_date) {
+      line.append(el("span", {}, h.previous_date + " 대비 ", el("strong", { text: "새로 등장 " + h.new_count + "개" })));
+    } else {
+      line.append(el("span", { text: "첫 기록이라 내일부터 NEW와 순위 변동이 표시됩니다" }));
+    }
+  }
+
+  function categories() {
+    const counts = new Map();
+    for (const c of DATA.candidates || []) {
+      const key = c.category;
+      const prev = counts.get(key) || { label: c.category_label || key, n: 0 };
+      prev.n += 1;
+      counts.set(key, prev);
+    }
+    return [...counts.entries()].sort((a, b) => b[1].n - a[1].n);
+  }
+
+  function renderFilters() {
+    const nav = $("filters");
+    nav.textContent = "";
+    const cats = categories();
+    if (state.category !== "all" && !cats.some(([k]) => k === state.category)) state.category = "all";
+
+    const mk = (key, label, n) => {
+      const b = el("button", { type: "button", "aria-pressed": String(state.category === key) },
+        label, el("span", { class: "count", text: " " + n }));
+      b.addEventListener("click", () => { state.category = key; store(FILTER_KEY, key); renderFilters(); renderCandidates(); });
+      return b;
+    };
+    nav.append(mk("all", "전체", (DATA.candidates || []).length));
+    for (const [key, { label, n }] of cats) nav.append(mk(key, label, n));
+
+    nav.append(el("span", { class: "spacer" }));
+    const cb = el("input", { type: "checkbox", id: "only-new" });
+    cb.checked = state.onlyNew;
+    cb.disabled = !(DATA.history && DATA.history.previous_date);
+    cb.addEventListener("change", () => { state.onlyNew = cb.checked; renderCandidates(); });
+    nav.append(el("label", { for: "only-new" }, cb, "새로 등장한 것만"));
+  }
+
+  function moveBadge(t) {
+    if (!t) return null;
+    if (t.status === "new") return el("span", { class: "badge-new", text: "NEW" });
+    if (t.status === "up") return el("span", { class: "move-up", text: "▲" + t.rank_change, title: "어제 " + t.prev_rank + "위" });
+    if (t.status === "down") return el("span", { class: "move-down", text: "▼" + (-t.rank_change), title: "어제 " + t.prev_rank + "위" });
+    return null;
+  }
+
+  function renderCandidates() {
+    const list = $("cands");
+    list.textContent = "";
+    const all = DATA.candidates || [];
+    const shown = all
+      .map((c, i) => ({ c, rank: i + 1 }))
+      .filter(({ c }) => state.category === "all" || c.category === state.category)
+      .filter(({ c }) => !state.onlyNew || (c.trend && c.trend.status === "new"));
+
+    $("cand-note").textContent = shown.length === all.length
+      ? "점수가 높은 순서입니다. 숫자는 전체 순위입니다."
+      : `${all.length}개 중 ${shown.length}개를 보고 있습니다.`;
+
+    if (!shown.length) {
+      list.append(el("li", { class: "empty", text: "조건에 맞는 후보가 없습니다. 필터를 바꿔 보세요." }));
+      return;
+    }
+
+    for (const { c, rank } of shown) {
+      const t = c.trend || {};
+      const meta = el("div", { class: "meta" },
+        moveBadge(t),
+        el("span", { class: "tag", text: c.category_label || c.category }),
+        c.event ? el("span", { text: `D-${c.event.days_left}` }) : null,
+        t.streak > 1 ? el("span", { text: `${t.streak}일 연속` }) : null,
+        el("span", { text: (c.sources || []).map((s) => SOURCE_NAME[s] || s).join(", ") })
+      );
+
+      const reasons = el("ul", {}, ...(c.reasons || []).map((r) => el("li", { text: r })));
+      const evidence = el("ul", { class: "evidence" }, ...(c.evidence || []).map((e) => {
+        const label = el("span", { class: "src-name", text: SOURCE_NAME[e.source] || e.source });
+        const body = safeUrl(e.url)
+          ? el("a", { href: e.url, target: "_blank", rel: "noopener noreferrer", text: e.text })
+          : document.createTextNode(e.text || "");
+        return el("li", {}, label, body);
+      }));
+
+      const links = c.links || {};
+      list.append(el("li", { class: "cand" },
+        el("div", { class: "rank", text: rank }),
+        el("div", {},
+          el("h3", { class: "cand-title", text: c.title }),
+          meta,
+          el("div", { class: "query" }, "검색어 ", el("b", { text: c.query }))
+        ),
+        el("div", { class: "score", "aria-label": `점수 ${c.score}점` },
+          el("div", { class: "score-num", text: c.score }),
+          el("div", { class: "score-bar", "aria-hidden": "true" }, el("i", { style: `width:${Math.max(0, Math.min(100, c.score))}%` })),
+          el("div", { class: "score-label", text: "점수" })
+        ),
+        el("div", { class: "actions" },
+          el("a", { class: "primary", href: links.ebay_sold, target: "_blank", rel: "noopener noreferrer", text: "eBay 판매완료" }),
+          el("a", { href: links.ebay_active, target: "_blank", rel: "noopener noreferrer", text: "eBay 판매중" }),
+          el("a", { href: links.naver, target: "_blank", rel: "noopener noreferrer", text: "네이버쇼핑" })
+        ),
+        el("details", { class: "why" }, el("summary", { text: "점수 근거 보기" }), reasons, evidence)
+      ));
+    }
+  }
+
+  function renderSide() {
+    // 다가오는 이벤트
+    const tl = $("timeline");
+    tl.textContent = "";
+    const events = DATA.events || [];
+    if (!events.length) tl.append(el("li", { class: "ev", text: "앞으로 60일 안에 등록된 이벤트가 없습니다." }));
+    for (const e of events) {
+      const name = safeUrl(e.source)
+        ? el("a", { href: e.source, target: "_blank", rel: "noopener noreferrer", text: e.name, title: "출처 보기" })
+        : document.createTextNode(e.name);
+      tl.append(el("li", { class: "ev " + e.status },
+        el("div", { class: "ev-when" }, el("b", { text: `D-${e.days_left}` }), " ", e.date.slice(5).replace("-", "/")),
+        el("div", { class: "ev-name" }, name),
+        el("div", { class: "ev-state", text: prepText(e) })
+      ));
+    }
+
+    // 빠진 후보
+    const dropped = DATA.dropped || [];
+    $("dropped-sec").hidden = !dropped.length;
+    const dl = $("dropped");
+    dl.textContent = "";
+    for (const d of dropped.slice(0, 10)) {
+      dl.append(el("li", {}, el("span", { text: d.title }), el("span", { class: "n", text: `어제 ${d.rank}위` })));
+    }
+
+    // 기타 급상승
+    const ol = $("others");
+    ol.textContent = "";
+    const others = DATA.other_trends || [];
+    if (!others.length) ol.append(el("li", { text: "없음" }));
+    for (const o of others) {
+      ol.append(el("li", {},
+        el("a", { href: (o.links || {}).ebay_sold, target: "_blank", rel: "noopener noreferrer", text: o.keyword, title: "eBay 판매완료 검색" }),
+        el("span", { class: "n", text: o.traffic_label })
+      ));
+    }
+  }
+
+  load();
+})();
+</script>
+</body>
+</html>

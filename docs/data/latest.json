@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-09T08:49:10+00:00",
+  "generated_at": "2026-10-09T09:12:08+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-09T08:44:05+00:00"
+      "fetched_at": "2026-10-09T09:06:11+00:00"
     },
     "reddit": {
       "ok": true,
       "count": 100,
       "error": null,
-      "fetched_at": "2026-10-09T08:49:10+00:00"
+      "fetched_at": "2026-10-09T09:12:08+00:00"
     },
     "events": {
       "ok": true,
       "count": 17,
       "error": null,
-      "fetched_at": "2026-10-09T08:49:10+00:00"
+      "fetched_at": "2026-10-09T09:12:08+00:00"
     }
   },
   "candidates": [
@@ -185,9 +185,9 @@
       "title": "[OoT] The Legend of Zelda: Ocarina of Time late-night store openings at Best Buy - find a participating store here",
       "query": "zelda Ocarina Time late-night store openings",
       "category": "gaming",
-      "score": 56,
+      "score": 59,
       "reasons": [
-        "r/NintendoSwitch hot #8",
+        "r/NintendoSwitch hot #9",
         "상품 신호: 출시, 구매·개봉",
         "브랜드/IP: zelda"
       ],
@@ -985,6 +985,49 @@
       }
     },
     {
+      "title": "vaccines",
+      "query": "vaccines",
+      "category": "trend",
+      "score": 37,
+      "reasons": [
+        "미국 검색 급상승 500+",
+        "상품 신호: 출시"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "vaccines (500+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "HHS Launches Agency-Wide Actions to Strengthen Vaccine Injury Research, Reporting, and Patient Care",
+          "url": "https://www.hhs.gov/press-room/hhs-strengthens-vaccine-injury-research-reporting-patient-care.html"
+        },
+        {
+          "source": "news",
+          "text": "RFK Jr. touts vaccine injury initiative, worrying experts",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts"
+        }
+      ],
+      "id": "c9bb57973a",
+      "category_label": "검색 급상승",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=vaccines&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=vaccines",
+        "naver": "https://search.shopping.naver.com/search/all?query=vaccines"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
       "title": "play store",
       "query": "play store",
       "category": "trend",
@@ -1359,39 +1402,48 @@
   ],
   "other_trends": [
     {
-      "keyword": "earthquake now",
-      "traffic_label": "10000+",
+      "keyword": "openai",
+      "traffic_label": "20000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=earthquake+now&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=earthquake+now",
-        "naver": "https://search.shopping.naver.com/search/all?query=earthquake+now"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=openai&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=openai",
+        "naver": "https://search.shopping.naver.com/search/all?query=openai"
       }
     },
     {
-      "keyword": "earthquake",
-      "traffic_label": "5000+",
+      "keyword": "vaccinations",
+      "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=earthquake&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=earthquake",
-        "naver": "https://search.shopping.naver.com/search/all?query=earthquake"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=vaccinations&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=vaccinations",
+        "naver": "https://search.shopping.naver.com/search/all?query=vaccinations"
       }
     },
     {
-      "keyword": "lottery",
+      "keyword": "immunizations",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lottery&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lottery",
-        "naver": "https://search.shopping.naver.com/search/all?query=lottery"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=immunizations&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=immunizations",
+        "naver": "https://search.shopping.naver.com/search/all?query=immunizations"
       }
     },
     {
-      "keyword": "temblor hoy en california",
+      "keyword": "flu shots near me",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=temblor+hoy+en+california&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=temblor+hoy+en+california",
-        "naver": "https://search.shopping.naver.com/search/all?query=temblor+hoy+en+california"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=flu+shots+near+me&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=flu+shots+near+me",
+        "naver": "https://search.shopping.naver.com/search/all?query=flu+shots+near+me"
+      }
+    },
+    {
+      "keyword": "alejandro davidovich fokina",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=alejandro+davidovich+fokina&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=alejandro+davidovich+fokina",
+        "naver": "https://search.shopping.naver.com/search/all?query=alejandro+davidovich+fokina"
       }
     },
     {
@@ -1419,24 +1471,6 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=fc+barcelona&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=fc+barcelona",
         "naver": "https://search.shopping.naver.com/search/all?query=fc+barcelona"
-      }
-    },
-    {
-      "keyword": "steam free games weekend promotion",
-      "traffic_label": "100+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steam+free+games+weekend+promotion&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steam+free+games+weekend+promotion",
-        "naver": "https://search.shopping.naver.com/search/all?query=steam+free+games+weekend+promotion"
-      }
-    },
-    {
-      "keyword": "zverev",
-      "traffic_label": "100+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=zverev&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=zverev",
-        "naver": "https://search.shopping.naver.com/search/all?query=zverev"
       }
     }
   ],

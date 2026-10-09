@@ -1,55 +1,127 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-09T08:44:05+00:00",
+  "fetched_at": "2026-10-09T09:06:11+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "earthquake now",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOcxiwy3tPA8NcAdG9E_j-6FleWah7pbzBcLd4EvPnXJ2k2a3BE4SykuGIR4",
+      "keyword": "openai",
+      "traffic": 20000,
+      "traffic_label": "20000+",
+      "pub_date": "Fri, 9 Oct 2026 01:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7OPxzG-deNjK6cOHWWq5o4Y3-mWVo74ct8wMoVwkGjEmDkC69Ve774k9eDo4",
       "news": [
         {
-          "title": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area",
-          "url": "https://abc7.com/post/earthquake-los-angeles-county-32-magnitude-quake-rattles-long-beach-area/19924162/",
-          "source": "ABC7 Los Angeles"
+          "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates",
+          "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
+          "source": "CNBC"
         },
         {
-          "title": "Oct. 9: Earthquake of 3.2 magnitude registered close to Signal Hill in Los Angeles County",
-          "url": "https://www.ocregister.com/2026/10/09/oct-9-earthquake-of-3-2-magnitude-registered-close-to-signal-hill-in-los-angeles-county/",
-          "source": "Orange County Register"
+          "title": "OpenAI projected to bring in $20bn less in revenue than expected",
+          "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+          "source": "The Guardian"
         },
         {
-          "title": "Update: Earthquake shakes region near Signal Hill, CA on Oct. 9 - 3.2 magnitude detected",
-          "url": "https://www.sacbee.com/news/california/earthquakes/article317551063.html",
-          "source": "Sacramento Bee"
+          "title": "Tech stocks struggle on AI spending worries, elevated yields",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-09/",
+          "source": "Reuters"
         }
       ]
     },
     {
-      "keyword": "earthquake",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKUz-2EIp-Do8Bemct7CQWmu7lL_R6dETuQjy4Yn0haJSj30gE5pEn3tDgK1Q",
+      "keyword": "vaccinations",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUUUOGNcqQ5kKPe2lpFAItTkWPOEzQQH1pN3ASdHRKTXDxrZu2fTGCAtlMZI",
       "news": [
         {
-          "title": "3.5-magnitude earthquake strikes near Dana Point in Orange County",
-          "url": "https://abc7.com/post/35-magnitude-earthquake-strikes-dana-point-orange-county/19911172/",
-          "source": "ABC7 Los Angeles"
+          "title": "What vaccines doctors say you may need for respiratory virus season",
+          "url": "https://abcnews.com/Health/vaccines-doctors-respiratory-virus-season/story?id=137002349",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "3.5-Magnitude Earthquake Rattles Southern California Coast Near Dana Point",
-          "url": "https://www.edhat.com/beyond-local/news/dana-point-earthquake-southern-california/",
-          "source": "edhat"
+          "title": "How good is this year's flu shot? Here's what to know about flu season",
+          "url": "https://www.cbc.ca/news/health/flu-season-questions-9.7374821",
+          "source": "CBC"
         },
         {
-          "title": "3 Earthquakes Rattle OC Coast",
-          "url": "https://patch.com/california/lagunaniguel-danapoint/3-earthquakes-rattle-oc-coast",
-          "source": "Patch"
+          "title": "Flu season didn’t start when or where it was expected. Get your shot now, health officials say",
+          "url": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+          "source": "Los Angeles Times"
+        }
+      ]
+    },
+    {
+      "keyword": "immunizations",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIAjBdw3wPvxMqdrClTOwEPHA1EmnSizTBnS36bvHCCXdcVC_FtmGPOTjj0nI",
+      "news": [
+        {
+          "title": "Florida health officials meet amid fierce debate over childhood vaccine plans",
+          "url": "https://www.politico.com/news/2026/10/08/florida-health-vaccines-ladapo-children-debate-01112300",
+          "source": "Politico"
+        },
+        {
+          "title": "As state considers changes, new online tool eyes impacts of declining vaccination rates",
+          "url": "https://www.newsfromthestates.com/article/state-considers-changes-new-online-tool-eyes-impacts-declining-vaccination-rates",
+          "source": "News From The States"
+        },
+        {
+          "title": "CIDRAP Op-Ed: The diseases we've forgotten, like Hib, make their vaccines easy to dismiss",
+          "url": "https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-diseases-weve-forgotten-hib-make-their-vaccines-easy-dismiss",
+          "source": "CIDRAP"
+        }
+      ]
+    },
+    {
+      "keyword": "vaccines",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-g9UrQ5lf5j2FNgjGVTa6OoQDQgPTwMfkAMQP4RQzJDCLFgox4WlnYZfRf5A",
+      "news": [
+        {
+          "title": "HHS Launches Agency-Wide Actions to Strengthen Vaccine Injury Research, Reporting, and Patient Care",
+          "url": "https://www.hhs.gov/press-room/hhs-strengthens-vaccine-injury-research-reporting-patient-care.html",
+          "source": "HHS.gov"
+        },
+        {
+          "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
+          "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
+          "source": "NPR"
+        },
+        {
+          "title": "US health secretary Kennedy launches new push on vaccine injuries",
+          "url": "https://www.reuters.com/legal/litigation/us-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08/",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "keyword": "flu shots near me",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2yUh7MGNKpy5w4j61hVMyCfGtw9k8JtT90JVwr-NTo2Sql5w_tJYQUyOADeE",
+      "news": [
+        {
+          "title": "The U.S. states with the highest flu vaccination rates",
+          "url": "https://qz.com/states-highest-flu-vaccination-rates",
+          "source": "qz.com"
+        },
+        {
+          "title": "Free flu shot clinics set for Oct. 20 across Southeast Tennessee school districts",
+          "url": "https://newschannel9.com/news/local/free-flu-shot-clinics-set-for-oct-20-across-southeast-tennessee-school-districts",
+          "source": "WTVC"
+        },
+        {
+          "title": "Dyer County Health Department offering free flu shots",
+          "url": "https://www.stategazette.com/news/dyer-county-health-department-offering-free-flu-shots/article_27b25764-fa4d-5c42-b11a-d22987931899.html",
+          "source": "State Gazette"
         }
       ]
     },
@@ -78,50 +150,26 @@
       ]
     },
     {
-      "keyword": "lottery",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB_AGCYQE7b91kxQ2WkCyP6UCb76eieTrxmQ_hxrWq8d9oyM6o9vNJmK6wQTo",
+      "keyword": "alejandro davidovich fokina",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtxBS-T0PUH8_kLoz5e-t_GmtugQrGI3xeq8TyieruCBtReHCKa3005_t0RI",
       "news": [
         {
-          "title": "Oregon Lottery Powerball, Pick 4 results for Oct. 7",
-          "url": "https://www.yahoo.com/news/articles/oregon-lottery-powerball-pick-4-053036177.html",
-          "source": "Yahoo"
+          "title": "ATP Shanghai Day 1 Predictions Including Holger Rune vs Daniel Altmaier",
+          "url": "https://lastwordonsports.com/tennis/2026/10/06/atp-shanghai-day-1-predictions-rune-altmaier/",
+          "source": "Last Word On Sports"
         },
         {
-          "title": "Oregon Lottery Mega Millions, Pick 4 results for Oct. 2",
-          "url": "https://www.statesmanjournal.com/story/news/local/2026/10/02/oregon-lottery-results-friday-october-2-2026/92072726007/",
-          "source": "Statesman Journal"
+          "title": "Shanghai R1 previews and predictions: Rune vs. Altmaier, Fery vs. Cilic",
+          "url": "https://tenngrand.com/shanghai-tennis-previews-picks-predictions-rune-vs-altmaier-fery-cilic/",
+          "source": "The Grandstand"
         },
         {
-          "title": "Tennessee Lottery Results for October 9, 2026",
-          "url": "https://wilsoncountysource.com/tennessee-lottery-results-for-october-9-2026/",
-          "source": "Wilson County Source"
-        }
-      ]
-    },
-    {
-      "keyword": "temblor hoy en california",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBmWld3UvKn0RoBjPDnZ4AW34Ich6ai3BGmPN34-Ys8rDC_OoCGyfDQNZ_2RE",
-      "news": [
-        {
-          "title": "Temblor en EEUU: últimos reportes de sismos hoy viernes 9 de octubre",
-          "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-viernes-9-de-octubre-nid09102026/",
-          "source": "La Nación"
-        },
-        {
-          "title": "Sismo de magnitud preliminar de 3.7 sacude la costa del condado de Orange",
-          "url": "https://www.telemundo52.com/noticias/terremotos-en-california/sismo-preliminar-de-magnitud-3-7-sacude-la-costa-del-condado-de-orange/2904103/",
-          "source": "Telemundo 52"
-        },
-        {
-          "title": "Temblor en EE.UU. EN VIVO hoy, 07 de octubre — hora exacta, magnitud y dónde fue el epicentro del último sismo",
-          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-07-y-08-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-ultimo-sismo-via-usgs-california-nueva-york-nnda-nnrt-noticia/",
-          "source": "El Comercio Perú"
+          "title": "October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/dalibor-svrcina-vs-tomas-martin-etcheverry-round-of-64-match-oct-10-2026/",
+          "source": "Robinhood"
         }
       ]
     },
@@ -178,70 +226,22 @@
       "traffic": 100,
       "traffic_label": "100+",
       "pub_date": "Fri, 9 Oct 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJUWPzfxdPsCt03_zgQtqvSh4t0BVGFY73lpnU9w17_DcsIwiHDsDA-So4k1A",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1ZB6Kmh6TyznpGbvg036u0VtVutlQkwyKA1706fovIH1zQv75YmWYdPX6yfE",
       "news": [
         {
-          "title": "Barcelona renueva al defensa Xavi Espart hasta 2030",
-          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17354833/barcelona-laliga-xavi-espart-renueva-2030",
+          "title": "Raphinha se entrena en solitario a dos días de Barcelona vs Getafe",
+          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17353643/barcelona-raphinha-se-entrena-solitario-dos-dias-getafe",
           "source": "ESPN Deportes"
         },
         {
-          "title": "El Barça se asegura la continuidad de una de sus mayores promesas y revelaciones de Europa",
-          "url": "https://www.catalunyapress.es/articulo/deportes/2026-10-09/6045877-barca-asegura-continuidad-mayores-promesas-revelaciones-europa",
-          "source": "CatalunyaPress"
+          "title": "Lesionados y sancionados del Barcelona para enfrentarse al Getafe",
+          "url": "https://www.si.com/es-us/futbol/lesionados-y-sancionados-del-barcelona-para-enfrentarse-al-getafe-10-10-2026",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Ni Bernal ni Balde ni Cubarsí: Deco cierra una renovación estratégica para el Barça hasta 2030",
-          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20261008/bernal-balde-cubarsi-deco-renovacion-estrategica-barca/1003742801307_0.html",
-          "source": "Crónica Global"
-        }
-      ]
-    },
-    {
-      "keyword": "steam free games weekend promotion",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvB3qZTBvAbOGmQ2-FYcAmzbU_JPozOOh3nVFznb1voebZC6ByQdChPqcdVgk",
-      "news": [
-        {
-          "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
-          "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
-          "source": "Rock Paper Shotgun"
-        },
-        {
-          "title": "Steam Makes Popular PC Game 100% Free",
-          "url": "https://comicbook.com/gaming/news/steam-free-game-pc-download-october-8/",
-          "source": "ComicBook.com"
-        },
-        {
-          "title": "Steam Officially Makes 3 Games 100% Free Until ~October 12",
-          "url": "https://opencritic.com/news/37392/steam-officially-makes-3-games-100-free-until-october-12",
-          "source": "OpenCritic"
-        }
-      ]
-    },
-    {
-      "keyword": "zverev",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tZkuitbfB52cmXaD0nvhKxDy_taZEh7FkhQrtIlSS1DqoLTrV3Hl-WgzeT0",
-      "news": [
-        {
-          "title": "How can Zverev clinch ATP Year-End No. 1 presented by PIF in Shanghai?",
-          "url": "https://www.atptour.com/en/news/zverev-year-end-no-1-projection-shanghai-2026",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "“It’s a load of rubbish. Absolute crap\" - Lack of big rivals should not dent Alexander Zverev's 2026 achievements believes Rusedski",
-          "url": "https://tennisuptodate.com/atp/its-a-load-of-rubbish-absolute-crap-lack-of-big-rivals-should-not-dent-alexander-zverevs-2026-achievements-believes-rusedski",
-          "source": "Tennisuptodate.com"
-        },
-        {
-          "title": "Wild, vintage and painful: 2026, the year of the unexpected",
-          "url": "https://www.claytenis.com/analysis/wild-vintage-and-painful-2026-the-year-of-the-unexpected/",
-          "source": "Clay Tenis"
+          "title": "Joan García tiene la palabra",
+          "url": "https://www.marca.com/futbol/barcelona/2026/10/08/joan-garcia-palabra.html",
+          "source": "MARCA"
         }
       ]
     }
