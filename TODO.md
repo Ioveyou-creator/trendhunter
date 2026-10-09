@@ -74,9 +74,10 @@
 - [x] 테스트 통과 시에만 수집, 변경된 데이터만 자동 커밋
 - [x] Actions 화면에 수집 결과 요약 표
 - [x] 워크플로 문법 검사(actionlint) 통과
-- [ ] **push #8**
-- [ ] GitHub Pages 켜기 (Settings → Pages → main /docs)
-- [ ] 수동 실행으로 첫 자동 수집 확인 (GitHub 서버에서 Reddit/Google 접속 되는지)
+- [x] **push #8**
+- [x] GitHub Pages 켜기 (Settings → Pages → main /docs)
+- [x] 수동 실행으로 첫 자동 수집 확인: 3분 42초, Google Trends 10 / Reddit 109 / 이벤트 17 모두 성공
+- [x] 첫 자동 수집에서 발견한 오탐("lisa cook") 수정 + 회귀 테스트
 
 ## 8단계: 리뷰 문서 (README)
 - [ ] 제작한 것 소개

@@ -98,7 +98,7 @@ once:
     category: kpop
     date: "2026-10-23"
     keywords: [lisa press play, lisa album]
-    match: [lisa, press play]
+    match: [lalisa, blackpink lisa, lisa press play]   # "lisa" 단독은 동명이인 오탐 (2026-10-10 "lisa cook")
     lead_days: 3
     source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
   - name: BABYMONSTER 신곡

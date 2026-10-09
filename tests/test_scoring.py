@@ -138,5 +138,26 @@ class TestBuild(unittest.TestCase):
         self.assertEqual(len(result["candidates"]), 1)
 
 
+class TestRealFalsePositives(unittest.TestCase):
+    """실제 자동 수집에서 나온 오탐 사례를 다시 생기지 않게 고정한다."""
+
+    def test_lisa_cook_is_not_blackpink_lisa(self):
+        # 2026-10-10: 미국 연준 이사 "lisa cook" 검색어가 LISA 컴백 이벤트와 매칭돼 57점 후보가 됐음
+        events_cfg = load_yaml("events.yaml")
+        lisa = next(e for e in events_cfg["once"] if e["name"].startswith("LISA"))
+        event = {**EVENT, "name": lisa["name"], "category": "kpop", "match": lisa["match"], "keywords": lisa["keywords"]}
+        result = build(
+            trends={"ok": True, "count": 1, "items": [
+                trend("lisa cook", 2000, news=["Fed governor Lisa Cook testifies before Senate"]),
+            ]},
+            reddit={"ok": True, "count": 0, "items": []},
+            events={"ok": True, "count": 1, "items": [event]},
+            scoring_cfg=SCORING, sources_cfg=SOURCES,
+        )
+        titles = [c["title"] for c in result["candidates"]]
+        self.assertNotIn("lisa cook", titles)
+        self.assertIn("lisa cook", [o["keyword"] for o in result["other_trends"]])
+
+
 if __name__ == "__main__":
     unittest.main()
