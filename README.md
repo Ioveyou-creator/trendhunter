@@ -14,15 +14,19 @@ Python 3.7 이상이 필요합니다.
 
 ```bash
 # 1. 의존성 설치 (처음 한 번)
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 # 2. 테스트 (인터넷 없이 샘플 데이터로 실행)
 python -m unittest discover tests
 
-# 3. 수집 실행 → 결과는 docs/data/*.json
+# 3. 전체 실행 (수집 3종 + 점수화, 약 1분) → docs/data/latest.json
+python -m src.run_all
+
+# 단계별로 따로 실행할 때
 python -m src.collectors.google_trends
-python -m src.collectors.reddit   # 약 30초~1분
-python -m src.collectors.events   # 다가오는 이벤트 (config/events.yaml)
+python -m src.collectors.reddit
+python -m src.collectors.events
+python -m src.scoring
 ```
 
 ## 문서

@@ -1,0 +1,96 @@
+# 점수화 설정
+# 실제 수집 데이터(2026-10-09)를 보고 정한 초기값. 써보면서 조정한다.
+#
+# 점수(0~100)는 아래를 더해서 만든다. 각 후보 카드에 "왜 이 점수인지" 이유가 함께 표시된다.
+
+weights:
+  # Reddit 글
+  reddit_hot: 15          # hot 순위 점수(0~1) x 이 값. 실제로는 대부분 0.9 이상이라 변별력이 낮아 작게 둠
+  # Google Trends 키워드
+  trends_traffic: 35      # 검색량 점수(0~1) x 이 값
+  traffic_cap: 20000      # 이 검색량 이상이면 만점
+  # 공통 가산/감산
+  hint: 15                # 상품 신호 1개당 (최대 3개까지)
+  brand: 15               # 브랜드/IP 이름이 들어 있으면
+  negative: 25            # 질문글·후기글 등 상품과 거리가 먼 신호
+  event_match: 20         # 다가오는 이벤트와 겹치면
+  cross_source: 10        # 이벤트가 다른 소스(Reddit, Trends)에서도 언급될 때 1건당 (최대 3건)
+  # 이벤트
+  event_prepare_now: 65
+  event_upcoming: 40      # + 가까울수록 최대 15점 추가
+  event_too_late: 20
+
+min_score: 35             # 이 점수 미만인 Reddit/Trends 글은 후보에서 제외
+top_n: 30                 # 최종 후보 수
+
+# 상품 신호: 제목/키워드에 있으면 가산점 (정규식, 대소문자 무시)
+product_hints:
+  - { pattern: "limited( edition)?|exclusive", label: 한정판 }
+  - { pattern: "\\bcollab(oration)?\\b|\\b[a-z0-9]+ x [a-z0-9]+", label: 콜라보 }
+  - { pattern: "restock|sold ?out|out of stock|scalp(er|ers|ing)?|sell(ing)? out", label: 품귀 }
+  - { pattern: "pre-?orders?|release|launch|drop(s|ped)?\\b|coming|announced|store openings?", label: 출시 }
+  - { pattern: "\\bpull(ed|s)?\\b|\\bhaul\\b|grabs?\\b|mail call|unbox|opening", label: 구매·개봉 }
+  - { pattern: "booster|\\betb\\b|elite trainer|blind box|\\bupc\\b|collection box", label: TCG·수집 }
+  - { pattern: "album|photo ?cards?|\\bpcs?\\b|lightstick|season'?s greetings|merch|pop-?up", label: K-pop 굿즈 }
+  # 4~6자리 숫자는 모델명으로 보되, 연도(1900~2099)는 제외
+  - { pattern: "\\bmodel\\s?\\d+|\\b(?!(?:19|20)\\d{2}\\b)\\d{4,6}\\b", label: 모델명 }
+  - { pattern: "tiktok|viral", label: 바이럴 }
+
+# 브랜드/IP: 이름이 나오면 가산점 (단어 단위)
+brands:
+  - pokemon
+  - pikachu
+  - funko
+  - lego
+  - nike
+  - jordan
+  - asics
+  - adidas
+  - new balance
+  - salomon
+  - zojirushi
+  - braun
+  - shure
+  - nintendo
+  - switch 2
+  - zelda
+  - canmake
+  - cosrx
+  - anua
+  - beauty of joseon
+  - laneige
+  - medicube
+  - labubu
+  - sanrio
+  - twice
+  - blackpink
+  - jennie
+  - lisa
+  - girls' generation
+  - bts
+  - stray kids
+  - seventeen
+  - ateez
+  - txt
+  - ive
+  - illit
+  - aespa
+  - newjeans
+  - katseye
+
+# 상품과 거리가 먼 신호: 있으면 감점
+negative_hints:
+  - "\\[?routine help\\]?|\\[acne\\]|\\[selfie|b&a|before and after"
+  - "\\bhelp\\b|advice|question|which one|\\?$"
+  - "trailer|overview|patch|update"
+  - "statement|sentencing|health issues|dating|rumou?r"
+  - "free talk|making friends|anything goes|share your"
+
+# eBay 검색어를 만들 때 지우는 단어 (Reddit 제목은 문장이라 핵심어만 남긴다)
+stopwords: >
+  a an the and or but of to in on at for from with by is are was were be been it its this that these those
+  i me my we our you your he she they them his her their just so very really finally today lately got get
+  have has had do does did can could would should will what when where who how why not no yes all any some
+  more most about after before again into out up down over than then there here new one two first
+  look looking found decided some another post posts thing things guys sub r day good bam lol
+  daughter son wife husband mom dad friend regular clutch coming came went walked think &

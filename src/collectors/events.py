@@ -97,6 +97,7 @@ def upcoming(cfg: dict, today: date) -> list[dict]:
                 "lead_days": lead,
                 "status": status,
                 "keywords": e.get("keywords", []),
+                "match": e.get("match", []),
                 "note": e.get("note", ""),
                 "source": e.get("source", ""),
                 "kind": e["kind"],

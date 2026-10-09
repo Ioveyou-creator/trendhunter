@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-09T07:24:45+00:00",
+  "fetched_at": "2026-10-09T08:28:05+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "wind advisory",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmECfBmAR6aCHfbJeCt6oz5ZMxcurqLBco23sFOMpHufgDURQPuoKLR7TdmI",
+      "keyword": "earthquake",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKUz-2EIp-Do8Bemct7CQWmu7lL_R6dETuQjy4Yn0haJSj30gE5pEn3tDgK1Q",
       "news": [
         {
-          "title": "Warm temps before we see some rain in Phoenix",
-          "url": "https://www.fox10phoenix.com/news/arizona-weather-forecast-100626",
-          "source": "FOX 10 Phoenix"
+          "title": "3.5-magnitude earthquake strikes near Dana Point in Orange County",
+          "url": "https://abc7.com/post/35-magnitude-earthquake-strikes-dana-point-orange-county/19911172/",
+          "source": "ABC7 Los Angeles"
         },
         {
-          "title": "Warm October week continues with highs near 100",
-          "url": "https://www.azfamily.com/2026/10/05/warm-october-week-continues-with-highs-near-100/",
-          "source": "AZ Family"
+          "title": "3.5-Magnitude Earthquake Rattles Southern California Coast Near Dana Point",
+          "url": "https://www.edhat.com/beyond-local/news/dana-point-earthquake-southern-california/",
+          "source": "edhat"
         },
         {
-          "title": "Arizona weather forecast: Rain chances, cooler weather expected this weekend",
-          "url": "https://www.yahoo.com/news/weather-news/articles/arizona-weather-forecast-rain-chances-143121191.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "google play",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81CNhvkv0T9iJh2c-4w5WBPl8Eyj7FdNzmkdYNtc3AHzyzeSCYIgZ8Lombog",
-      "news": [
-        {
-          "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
-          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
-          "source": "About Amazon"
-        },
-        {
-          "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
-          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever",
-          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-          "source": "Ars Technica"
-        }
-      ]
-    },
-    {
-      "keyword": "sa vs aus",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 8 Oct 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaIEFe3iTQO402Tz8kIWzidRG0mQvCOvJbSXq-ZmBOcRSYVqWX4zZP0mVP4d8",
-      "news": [
-        {
-          "title": "The long wait and low expectations of Test cricket in South Africa",
-          "url": "https://africa.espn.com/cricket/story/_/id/50133352/sa-v-aus-1st-test-2026-long-wait-low-expectations-test-cricket-south-africa",
-          "source": "ESPN"
-        },
-        {
-          "title": "Where to watch South Africa vs. Australia live stream, TV channel, start time and lineups for 1st Test",
-          "url": "https://sports.yahoo.com/articles/where-watch-south-africa-vs-193001604.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "T20 ties have softened on-field rivalries, says Harmer",
-          "url": "https://www.reuters.com/sports/cricket/t20-ties-have-softened-on-field-rivalries-says-harmer-2026-10-07/",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "keyword": "avatar seven havens release time",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuJxSsKA0cWzL6iid_4KX73rC5no6I5pivECrylxdYs5gLiwVOGLJmkYMPXdk",
-      "news": [
-        {
-          "title": "‘Avatar: Seven Havens’ Review: Paramount+’s Promising Addition to a Beloved Fantasy Franchise",
-          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/avatar-seven-havens-review-paramount-1236723958/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "A New Avatar Series Is Coming to Paramount+ This Week — Here's Everything We Know About Seven Havens",
-          "url": "https://www.ign.com/articles/avatar-seven-havens-episode-release-schedule",
-          "source": "IGN"
-        },
-        {
-          "title": "Avatar: Seven Havens Clip Has The Last Airbender Fans Complaining About One Specific Thing",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/avatar-seven-havens-clip-last-202449627.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "aion 2 maintenance",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 8 Oct 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqtO-Yrxddm8Wd-dmPOODHjykxki5YsxX3S9dgpjOdE1cbC_XdJ4cY0F5qL-o",
-      "news": [
-        {
-          "title": "News - NC’S EPIC MMORPG AION 2 LAUNCHES ON STEAM AND PURPLE TO A GLOBAL AUDIENCE",
-          "url": "https://www.nc.com/newsroom/news/articles/?articleId=6ac39f50fa34c1011d627aa7&boardLanguage=en",
-          "source": "NC"
-        },
-        {
-          "title": "Aion 2 Review-In-Progress",
-          "url": "https://www.mmorpg.com/reviews/aion-2-review-in-progress-2000139065",
-          "source": "MMORPG.com"
-        },
-        {
-          "title": "Aion 2 Beginner Guide: 10 Things to Do First",
-          "url": "https://mobalytics.gg/gamebase/guides/aion-2-beginner-guide",
-          "source": "Mobalytics"
-        }
-      ]
-    },
-    {
-      "keyword": "zion williamson",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 8 Oct 2026 23:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SGhecWLbKtHXrSJtUGj3urs_ai376ambJymJ73rIl0LtCH9KgC8G5bhVqlE",
-      "news": [
-        {
-          "title": "Yves Missi on anchoring the defense | Pelicans Training Camp 2026",
-          "url": "https://www.nba.com/pelicans/videos/yves-missi-interview-pelicans-training-camp-10-1-2026",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Why Zion Williamson, Pelicans believe Yves Missi can become next Hakeem Olajuwon-level DPOY",
-          "url": "https://sports.yahoo.com/articles/why-zion-williamson-pelicans-believe-183209370.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Pelicans Back Yves Missi to Become an Elite Defensive Center",
-          "url": "https://suaragarut.id/en/pelicans-back-yves-missi-defense",
-          "source": "SuaraGarut.ID"
-        }
-      ]
-    },
-    {
-      "keyword": "shawn layden",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqd6faFn6b0xyyNCR0SuPgdA0_lX-E6Tspq8b-iMZKNmCCcJ5uQvkV_vWcqwk",
-      "news": [
-        {
-          "title": "Ex-PlayStation boss recalls Nintendo employee's reaction to the PSP reveal: \"You bastards\"",
-          "url": "https://tech.yahoo.com/gaming/articles/ex-playstation-boss-recalls-nintendo-220006175.html",
-          "source": "Yahoo Tech"
-        },
-        {
-          "title": "\"You Bastards\" - Ex-PlayStation Exec Shawn Layden Reveals What A Nintendo Counterpart Thought About PSP",
-          "url": "https://www.timeextension.com/news/2026/10/you-bastards-ex-playstation-exec-shawn-layden-reveals-what-a-nintendo-counterpart-thought-about-psp",
-          "source": "Time Extension"
-        },
-        {
-          "title": "Former Sony exec reveals Nintendo's sweary response to original PSP reveal",
-          "url": "https://metro.co.uk/2026/10/07/former-sony-exec-reveals-nintendos-sweary-response-original-psp-reveal-29688043/",
-          "source": "Metro.co.uk"
-        }
-      ]
-    },
-    {
-      "keyword": "salma hayek",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRClscBT6z3D6YPzO3eCD-f2biCRwNA4RobZO8ki-iJK-egWkrU5JqbrGvgQ",
-      "news": [
-        {
-          "title": "‘Richest’: Action star is a secret billionaire",
-          "url": "https://www.news.com.au/entertainment/movies/salma-hayeks-secret-life-as-a-billionaire-uncovered/news-story/07163868d40d5a840a68c777e8975bd6",
-          "source": "News.com.au"
-        },
-        {
-          "title": "#SHOWBIZ: Salma Hayek beyond Hollywood: Inside her US$15bil luxury dynasty and marriage",
-          "url": "https://www.nst.com.my/lifestyle/groove/2026/10/1550790/showbiz-salma-hayek-beyond-hollywood-inside-her-us15bil-luxury",
-          "source": "NST Online"
-        },
-        {
-          "title": "Salma Hayek and Her Life in a Billionaire Family: Lavish Homes, $15 Billion and Love with François-Henri Pinault",
-          "url": "https://style.news.am/eng/news/116555/salma-hayek-and-her-life-in-a-billionaire-family-lavish-homes-$15-billion-and-love-with-fran%C3%A7ois-henri-pinault.html",
-          "source": "NEWS.am STYLE"
-        }
-      ]
-    },
-    {
-      "keyword": "weather los angeles",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Thu, 8 Oct 2026 23:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCiC_VCEXnwN0HhS35Jqpbg8AH5iabESJFWhczMxsUZ8DU6gPpOMG-7HxNX7Q",
-      "news": [
-        {
-          "title": "Hot weather continues along with LA County beach warnings",
-          "url": "https://www.nbclosangeles.com/news/local/hot-weather-continues-along-with-la-county-beach-warnings/3952478/",
-          "source": "NBC Los Angeles"
-        },
-        {
-          "title": "LA County Warns Swimmers to Avoid Six Beach Areas",
-          "url": "https://mynewsla.com/weather/2026/10/08/la-county-warns-swimmers-to-avoid-six-beach-areas/",
-          "source": "MyNewsLA.com"
-        },
-        {
-          "title": "10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels",
-          "url": "https://patch.com/california/los-angeles/10-la-county-beaches-unsafe-swimming-due-bacteria-levels-1",
+          "title": "3 Earthquakes Rattle OC Coast",
+          "url": "https://patch.com/california/lagunaniguel-danapoint/3-earthquakes-rattle-oc-coast",
           "source": "Patch"
         }
       ]
     },
     {
-      "keyword": "anya taylor-joy",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Thu, 8 Oct 2026 23:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf1sQZSCPEgNdIlYLK7yQpo13WohpUtrHCCFHgPr_Em4OFyRBUGDEVi33OVHo",
+      "keyword": "temblor hoy en california",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6hyZhOkaeRLIhg7vSl3TTHKUCIDrXU12pnKnGOVsVPaCzUVf-Q-QPHsfDboc",
       "news": [
         {
-          "title": "Anya Taylor-Joy’s LBD Has More Going On Than You Think",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/anya-taylor-joy-lbd-more-185252988.html",
+          "title": "Temblor en EEUU: últimos reportes de sismos hoy viernes 9 de octubre",
+          "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-viernes-9-de-octubre-nid09102026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Sismo de magnitud preliminar de 3.7 sacude la costa del condado de Orange",
+          "url": "https://www.telemundo52.com/noticias/terremotos-en-california/sismo-preliminar-de-magnitud-3-7-sacude-la-costa-del-condado-de-orange/2904103/",
+          "source": "Telemundo 52"
+        },
+        {
+          "title": "Temblor en EE.UU. EN VIVO hoy, 07 de octubre — hora exacta, magnitud y dónde fue el epicentro del último sismo",
+          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-07-y-08-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-ultimo-sismo-via-usgs-california-nueva-york-nnda-nnrt-noticia/",
+          "source": "El Comercio Perú"
+        }
+      ]
+    },
+    {
+      "keyword": "earthquake los angeles",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzde24IWaZsIQl9l0rArAj7EieR1dcsMwNjPCNbobpWIrrGrA0jPreLzJa1BU",
+      "news": [
+        {
+          "title": "The Great California ShakeOut Tour 2026",
+          "url": "https://www.news.caloes.ca.gov/the-great-california-shakeout-tour-2026/",
+          "source": "Cal OES News (.gov)"
+        },
+        {
+          "title": "Earthquake Simulator Will Bring Magnitude 7.0 Shaking To LA",
+          "url": "https://patch.com/california/los-angeles/earthquake-simulator-will-bring-magnitude-7-0-shaking-la",
+          "source": "Patch"
+        },
+        {
+          "title": "Great California ShakeOut Tour to stop in four California cities",
+          "url": "https://www.lassennews.com/great-california-shakeout-tour-to-stop-in-four-california-cities",
+          "source": "Lassen County News"
+        }
+      ]
+    },
+    {
+      "keyword": "sexually transmitted diarrhea disease",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZr2IhEfwBWxiaar9T6Y87ZrEgJP5YKjfIS6xIhecnRy7NEs-cOYR5_iGclR4",
+      "news": [
+        {
+          "title": "Sexually Transmitted Diarrhea Is Exploding in The US. And It's Growing Resistant to Medicine",
+          "url": "https://www.sciencealert.com/sexually-transmitted-diarrhea-is-exploding-in-the-us-and-its-growing-resistant-to-medicine",
+          "source": "ScienceAlert"
+        },
+        {
+          "title": "Sexually transmitted diarrhea is on the rise — and it’s morphing into a drug-resistant superbug",
+          "url": "https://nypost.com/2026/10/08/health/sexually-transmitted-diarrhea-is-morphing-into-a-superbug/",
+          "source": "New York Post"
+        },
+        {
+          "title": "In the US, the share of XDR Shigella strains rose to 8.5% — ScienceAlert",
+          "url": "https://ua.news/en/health/u-ssha-chastka-xdr-shtamiv-shigella-zrosla-do-8-5-sciencealert",
+          "source": "UA.NEWS"
+        }
+      ]
+    },
+    {
+      "keyword": "elina svitolina",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63jR8R2_ZB-Kzy2JIdK9RGlqj1tlzu4BsD4aHzryNTQd6p1Csy870veuhnWM",
+      "news": [
+        {
+          "title": "Svitolina earns final Beijing quarterfinal spot with straight-sets win over Li",
+          "url": "https://www.wtatennis.com/videos/4588135/svitolina-secures-final-beijing-quarterfinal-spot-with-straight-sets-win-over-li",
+          "source": "WTA Tennis"
+        },
+        {
+          "title": "Follow all the action from Beijing and Shanghai live!",
+          "url": "https://www.flashscore.com/news/tennis-tracker-shanghai-masters-beijing-open-swiatek-gauff-zheng-svitolina/jiExjRl2/",
+          "source": "Flashscore.com"
+        },
+        {
+          "title": "China Open Tennis",
+          "url": "https://www.wvnews.com/sports/pro/china-open-tennis/image_f883ddf4-4309-5d6d-85c6-4c9e1ae9b219.html",
+          "source": "WV News"
+        }
+      ]
+    },
+    {
+      "keyword": "lottery",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB_AGCYQE7b91kxQ2WkCyP6UCb76eieTrxmQ_hxrWq8d9oyM6o9vNJmK6wQTo",
+      "news": [
+        {
+          "title": "Oregon Lottery Powerball, Pick 4 results for Oct. 7",
+          "url": "https://www.yahoo.com/news/articles/oregon-lottery-powerball-pick-4-053036177.html",
           "source": "Yahoo"
         },
         {
-          "title": "Anya Taylor-Joy's New 'White Lotus' Replacement Officially Hits Netflix Next Week",
-          "url": "https://www.imdb.com/es-es/news/ni66053447/?ref_=tt_nwr_2",
-          "source": "IMDb"
+          "title": "Oregon Lottery Mega Millions, Pick 4 results for Oct. 2",
+          "url": "https://www.statesmanjournal.com/story/news/local/2026/10/02/oregon-lottery-results-friday-october-2-2026/92072726007/",
+          "source": "Statesman Journal"
         },
         {
-          "title": "Anya Taylor-Joy’s $1 Billion Sci-Fi Blockbuster Is Officially Taking Over the World",
-          "url": "https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-streaming-success-peacock-october-2026/",
-          "source": "Collider"
+          "title": "Tennessee Lottery Results for October 9, 2026",
+          "url": "https://wilsoncountysource.com/tennessee-lottery-results-for-october-9-2026/",
+          "source": "Wilson County Source"
+        }
+      ]
+    },
+    {
+      "keyword": "yannick hanfmann",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3sUGrwg7qOWzxMdzQAXgzz64OlmGo8zNRZfnoFUmliG6UCGRO34gWJzCrgk",
+      "news": [
+        {
+          "title": "Sports News, Transfers, Scores | Watch Live Sport",
+          "url": "https://www.skysports.com/tennis/watch/8375078377895397112/rolex-shanghai-masters-2026",
+          "source": "Sky Sports"
+        },
+        {
+          "title": "Shelton vs. Altmaier Prediction at the Rolex Shanghai Masters – Friday, October 9",
+          "url": "https://www.bleachernation.com/picks/2026/10/07/shelton-vs-altmaier-prediction-at-the-rolex-shanghai-masters-friday-october-9/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Yannick Hanfmann vs Frances Tiafoe Prediction & Picks - ATP Shanghai Masters",
+          "url": "https://www.sportytrader.com/us/picks/yannick-hanfmann-frances-tiafoe-377708/",
+          "source": "SportyTrader"
+        }
+      ]
+    },
+    {
+      "keyword": "fc barcelona",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 01:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJUWPzfxdPsCt03_zgQtqvSh4t0BVGFY73lpnU9w17_DcsIwiHDsDA-So4k1A",
+      "news": [
+        {
+          "title": "Barcelona renueva al defensa Xavi Espart hasta 2030",
+          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17354833/barcelona-laliga-xavi-espart-renueva-2030",
+          "source": "ESPN Deportes"
+        },
+        {
+          "title": "El Barça se asegura la continuidad de una de sus mayores promesas y revelaciones de Europa",
+          "url": "https://www.catalunyapress.es/articulo/deportes/2026-10-09/6045877-barca-asegura-continuidad-mayores-promesas-revelaciones-europa",
+          "source": "CatalunyaPress"
+        },
+        {
+          "title": "Ni Bernal ni Balde ni Cubarsí: Deco cierra una renovación estratégica para el Barça hasta 2030",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20261008/bernal-balde-cubarsi-deco-renovacion-estrategica-barca/1003742801307_0.html",
+          "source": "Crónica Global"
+        }
+      ]
+    },
+    {
+      "keyword": "steam free games weekend promotion",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvB3qZTBvAbOGmQ2-FYcAmzbU_JPozOOh3nVFznb1voebZC6ByQdChPqcdVgk",
+      "news": [
+        {
+          "title": "You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too",
+          "url": "https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too",
+          "source": "Rock Paper Shotgun"
+        },
+        {
+          "title": "Steam Makes Popular PC Game 100% Free",
+          "url": "https://comicbook.com/gaming/news/steam-free-game-pc-download-october-8/",
+          "source": "ComicBook.com"
+        },
+        {
+          "title": "Steam Officially Makes 3 Games 100% Free Until ~October 12",
+          "url": "https://opencritic.com/news/37392/steam-officially-makes-3-games-100-free-until-october-12",
+          "source": "OpenCritic"
+        }
+      ]
+    },
+    {
+      "keyword": "zverev",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tZkuitbfB52cmXaD0nvhKxDy_taZEh7FkhQrtIlSS1DqoLTrV3Hl-WgzeT0",
+      "news": [
+        {
+          "title": "How can Zverev clinch ATP Year-End No. 1 presented by PIF in Shanghai?",
+          "url": "https://www.atptour.com/en/news/zverev-year-end-no-1-projection-shanghai-2026",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "“It’s a load of rubbish. Absolute crap\" - Lack of big rivals should not dent Alexander Zverev's 2026 achievements believes Rusedski",
+          "url": "https://tennisuptodate.com/atp/its-a-load-of-rubbish-absolute-crap-lack-of-big-rivals-should-not-dent-alexander-zverevs-2026-achievements-believes-rusedski",
+          "source": "Tennisuptodate.com"
+        },
+        {
+          "title": "Wild, vintage and painful: 2026, the year of the unexpected",
+          "url": "https://www.claytenis.com/analysis/wild-vintage-and-painful-2026-the-year-of-the-unexpected/",
+          "source": "Clay Tenis"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "source": "events",
-  "fetched_at": "2026-10-09T08:15:33+00:00",
+  "fetched_at": "2026-10-09T08:33:10+00:00",
   "ok": true,
   "error": null,
   "count": 17,
@@ -16,6 +16,9 @@
       "keywords": [
         "nct wish album",
         "nct wish photocard"
+      ],
+      "match": [
+        "nct wish"
       ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
@@ -33,6 +36,9 @@
         "plave album",
         "plave hyperdrive"
       ],
+      "match": [
+        "plave"
+      ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
       "kind": "once"
@@ -48,6 +54,9 @@
       "keywords": [
         "nmixx album",
         "nmixx photocard"
+      ],
+      "match": [
+        "nmixx"
       ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
@@ -65,6 +74,9 @@
         "babymonster album",
         "babymonster photocard"
       ],
+      "match": [
+        "babymonster"
+      ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
       "kind": "once"
@@ -80,6 +92,10 @@
       "keywords": [
         "lisa press play",
         "lisa album"
+      ],
+      "match": [
+        "lisa",
+        "press play"
       ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
@@ -97,6 +113,9 @@
         "illit album",
         "illit photocard"
       ],
+      "match": [
+        "illit"
+      ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
       "kind": "once"
@@ -112,6 +131,9 @@
       "keywords": [
         "ive album",
         "ive photocard"
+      ],
+      "match": [
+        "ive"
       ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
@@ -129,6 +151,9 @@
         "riize album",
         "riize photocard"
       ],
+      "match": [
+        "riize"
+      ],
       "note": "",
       "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
       "kind": "once"
@@ -144,6 +169,9 @@
       "keywords": [
         "halloween costume",
         "halloween decor"
+      ],
+      "match": [
+        "halloween"
       ],
       "note": "",
       "source": "",
@@ -161,6 +189,9 @@
         "tws album",
         "tws photocard"
       ],
+      "match": [
+        "tws"
+      ],
       "note": "",
       "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
       "kind": "once"
@@ -176,6 +207,12 @@
       "keywords": [
         "pokemon 30th celebration upc",
         "pokemon 30th anniversary"
+      ],
+      "match": [
+        "30th celebration",
+        "30th collection",
+        "30th etb",
+        "30th anniversary"
       ],
       "note": "",
       "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
@@ -193,6 +230,10 @@
         "delta reign booster box",
         "pokemon delta reign"
       ],
+      "match": [
+        "delta reign",
+        "me06"
+      ],
       "note": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
       "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
       "kind": "once"
@@ -207,6 +248,10 @@
       "status": "upcoming",
       "keywords": [
         "singles day sale"
+      ],
+      "match": [
+        "singles day",
+        "11.11"
       ],
       "note": "",
       "source": "",
@@ -224,6 +269,9 @@
         "ateez golden hour",
         "ateez photocard"
       ],
+      "match": [
+        "ateez"
+      ],
       "note": "",
       "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
       "kind": "once"
@@ -240,6 +288,10 @@
         "txt perfect storm",
         "txt photocard"
       ],
+      "match": [
+        "txt",
+        "tomorrow x together"
+      ],
       "note": "",
       "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
       "kind": "once"
@@ -255,6 +307,9 @@
       "keywords": [
         "black friday deals"
       ],
+      "match": [
+        "black friday"
+      ],
       "note": "",
       "source": "",
       "kind": "nth_weekday"
@@ -269,6 +324,9 @@
       "status": "upcoming",
       "keywords": [
         "cyber monday deals"
+      ],
+      "match": [
+        "cyber monday"
       ],
       "note": "",
       "source": "",
