@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-09T08:33:10+00:00",
+  "generated_at": "2026-10-09T08:49:10+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-09T08:28:05+00:00"
+      "fetched_at": "2026-10-09T08:44:05+00:00"
     },
     "reddit": {
       "ok": true,
       "count": 100,
       "error": null,
-      "fetched_at": "2026-10-09T08:33:10+00:00"
+      "fetched_at": "2026-10-09T08:49:10+00:00"
     },
     "events": {
       "ok": true,
       "count": 17,
       "error": null,
-      "fetched_at": "2026-10-09T08:33:10+00:00"
+      "fetched_at": "2026-10-09T08:49:10+00:00"
     }
   },
   "candidates": [
@@ -63,6 +63,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc",
         "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -95,6 +101,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nct+wish+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nct+wish+album",
         "naver": "https://search.shopping.naver.com/search/all?query=nct+wish+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -127,6 +139,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=plave+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=plave+album",
         "naver": "https://search.shopping.naver.com/search/all?query=plave+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -155,6 +173,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Pulled+10+packs+30th+ETB+box&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Pulled+10+packs+30th+ETB+box",
         "naver": "https://search.shopping.naver.com/search/all?query=Pulled+10+packs+30th+ETB+box"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -183,6 +207,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=zelda+Ocarina+Time+late-night+store+openings&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=zelda+Ocarina+Time+late-night+store+openings",
         "naver": "https://search.shopping.naver.com/search/all?query=zelda+Ocarina+Time+late-night+store+openings"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -215,6 +245,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album",
         "naver": "https://search.shopping.naver.com/search/all?query=nmixx+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -247,6 +283,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album",
         "naver": "https://search.shopping.naver.com/search/all?query=babymonster+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -279,6 +321,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play",
         "naver": "https://search.shopping.naver.com/search/all?query=lisa+press+play"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -311,6 +359,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=illit+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=illit+album",
         "naver": "https://search.shopping.naver.com/search/all?query=illit+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -343,6 +397,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ive+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ive+album",
         "naver": "https://search.shopping.naver.com/search/all?query=ive+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -375,6 +435,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=riize+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=riize+album",
         "naver": "https://search.shopping.naver.com/search/all?query=riize+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -407,6 +473,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume",
         "naver": "https://search.shopping.naver.com/search/all?query=halloween+costume"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -439,6 +511,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tws+album&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tws+album",
         "naver": "https://search.shopping.naver.com/search/all?query=tws+album"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -467,6 +545,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pulled+30th+collection&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pulled+30th+collection",
         "naver": "https://search.shopping.naver.com/search/all?query=pulled+30th+collection"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -499,6 +583,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box",
         "naver": "https://search.shopping.naver.com/search/all?query=delta+reign+booster+box"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -531,6 +621,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale",
         "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -563,6 +659,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
         "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -595,6 +697,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
         "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -623,6 +731,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Canmake+Limited+Edition&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Canmake+Limited+Edition",
         "naver": "https://search.shopping.naver.com/search/all?query=Canmake+Limited+Edition"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -651,6 +765,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+2027+Season+Greetings&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+2027+Season+Greetings",
         "naver": "https://search.shopping.naver.com/search/all?query=girls+generation+2027+Season+Greetings"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -679,6 +799,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Shure+Model+450+Mic&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Shure+Model+450+Mic",
         "naver": "https://search.shopping.naver.com/search/all?query=Shure+Model+450+Mic"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -707,6 +833,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=LEGO+67006+Marvel+Skyline&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=LEGO+67006+Marvel+Skyline",
         "naver": "https://search.shopping.naver.com/search/all?query=LEGO+67006+Marvel+Skyline"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -734,6 +866,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Forbidden+Planet+Worlds+Apart+tackling+scalpers&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Forbidden+Planet+Worlds+Apart+tackling+scalpers",
         "naver": "https://search.shopping.naver.com/search/all?query=Forbidden+Planet+Worlds+Apart+tackling+scalpers"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -766,6 +904,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
         "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -798,6 +942,12 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals",
         "naver": "https://search.shopping.naver.com/search/all?query=cyber+monday+deals"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
@@ -826,6 +976,55 @@
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=TWICE+Dance+2027&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=TWICE+Dance+2027",
         "naver": "https://search.shopping.naver.com/search/all?query=TWICE+Dance+2027"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "play store",
+      "query": "play store",
+      "category": "trend",
+      "score": 37,
+      "reasons": [
+        "미국 검색 급상승 500+",
+        "상품 신호: 출시"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "play store (500+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
+          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus"
+        },
+        {
+          "source": "news",
+          "text": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html"
+        }
+      ],
+      "id": "e94519dde8",
+      "category_label": "검색 급상승",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=play+store&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=play+store",
+        "naver": "https://search.shopping.naver.com/search/all?query=play+store"
+      },
+      "trend": {
+        "status": "first_run",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     }
   ],
@@ -1160,12 +1359,30 @@
   ],
   "other_trends": [
     {
+      "keyword": "earthquake now",
+      "traffic_label": "10000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=earthquake+now&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=earthquake+now",
+        "naver": "https://search.shopping.naver.com/search/all?query=earthquake+now"
+      }
+    },
+    {
       "keyword": "earthquake",
       "traffic_label": "5000+",
       "links": {
         "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=earthquake&LH_Sold=1&LH_Complete=1&_sop=13",
         "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=earthquake",
         "naver": "https://search.shopping.naver.com/search/all?query=earthquake"
+      }
+    },
+    {
+      "keyword": "lottery",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lottery&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lottery",
+        "naver": "https://search.shopping.naver.com/search/all?query=lottery"
       }
     },
     {
@@ -1178,48 +1395,21 @@
       }
     },
     {
-      "keyword": "earthquake los angeles",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=earthquake+los+angeles&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=earthquake+los+angeles",
-        "naver": "https://search.shopping.naver.com/search/all?query=earthquake+los+angeles"
-      }
-    },
-    {
-      "keyword": "sexually transmitted diarrhea disease",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=sexually+transmitted+diarrhea+disease&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=sexually+transmitted+diarrhea+disease",
-        "naver": "https://search.shopping.naver.com/search/all?query=sexually+transmitted+diarrhea+disease"
-      }
-    },
-    {
-      "keyword": "elina svitolina",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=elina+svitolina&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=elina+svitolina",
-        "naver": "https://search.shopping.naver.com/search/all?query=elina+svitolina"
-      }
-    },
-    {
-      "keyword": "lottery",
+      "keyword": "tiafoe",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lottery&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lottery",
-        "naver": "https://search.shopping.naver.com/search/all?query=lottery"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tiafoe&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tiafoe",
+        "naver": "https://search.shopping.naver.com/search/all?query=tiafoe"
       }
     },
     {
-      "keyword": "yannick hanfmann",
-      "traffic_label": "200+",
+      "keyword": "karen khachanov",
+      "traffic_label": "100+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=yannick+hanfmann&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=yannick+hanfmann",
-        "naver": "https://search.shopping.naver.com/search/all?query=yannick+hanfmann"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=karen+khachanov&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=karen+khachanov",
+        "naver": "https://search.shopping.naver.com/search/all?query=karen+khachanov"
       }
     },
     {
@@ -1249,5 +1439,12 @@
         "naver": "https://search.shopping.naver.com/search/all?query=zverev"
       }
     }
-  ]
+  ],
+  "date": "2026-10-09",
+  "dropped": [],
+  "history": {
+    "date": "2026-10-09",
+    "previous_date": null,
+    "new_count": 0
+  }
 }

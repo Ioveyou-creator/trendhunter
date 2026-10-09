@@ -1,10 +1,34 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-09T08:28:05+00:00",
+  "fetched_at": "2026-10-09T08:44:05+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
+    {
+      "keyword": "earthquake now",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOcxiwy3tPA8NcAdG9E_j-6FleWah7pbzBcLd4EvPnXJ2k2a3BE4SykuGIR4",
+      "news": [
+        {
+          "title": "Earthquake in Los Angeles County: 3.2-magnitude quake rattles Long Beach area",
+          "url": "https://abc7.com/post/earthquake-los-angeles-county-32-magnitude-quake-rattles-long-beach-area/19924162/",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "title": "Oct. 9: Earthquake of 3.2 magnitude registered close to Signal Hill in Los Angeles County",
+          "url": "https://www.ocregister.com/2026/10/09/oct-9-earthquake-of-3-2-magnitude-registered-close-to-signal-hill-in-los-angeles-county/",
+          "source": "Orange County Register"
+        },
+        {
+          "title": "Update: Earthquake shakes region near Signal Hill, CA on Oct. 9 - 3.2 magnitude detected",
+          "url": "https://www.sacbee.com/news/california/earthquakes/article317551063.html",
+          "source": "Sacramento Bee"
+        }
+      ]
+    },
     {
       "keyword": "earthquake",
       "traffic": 5000,
@@ -30,105 +54,33 @@
       ]
     },
     {
-      "keyword": "temblor hoy en california",
+      "keyword": "play store",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6hyZhOkaeRLIhg7vSl3TTHKUCIDrXU12pnKnGOVsVPaCzUVf-Q-QPHsfDboc",
+      "pub_date": "Fri, 9 Oct 2026 01:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81CNhvkv0T9iJh2c-4w5WBPl8Eyj7FdNzmkdYNtc3AHzyzeSCYIgZ8Lombog",
       "news": [
         {
-          "title": "Temblor en EEUU: últimos reportes de sismos hoy viernes 9 de octubre",
-          "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-viernes-9-de-octubre-nid09102026/",
-          "source": "La Nación"
+          "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
+          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
+          "source": "About Amazon"
         },
         {
-          "title": "Sismo de magnitud preliminar de 3.7 sacude la costa del condado de Orange",
-          "url": "https://www.telemundo52.com/noticias/terremotos-en-california/sismo-preliminar-de-magnitud-3-7-sacude-la-costa-del-condado-de-orange/2904103/",
-          "source": "Telemundo 52"
+          "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+          "source": "CNBC"
         },
         {
-          "title": "Temblor en EE.UU. EN VIVO hoy, 07 de octubre — hora exacta, magnitud y dónde fue el epicentro del último sismo",
-          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-07-y-08-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-ultimo-sismo-via-usgs-california-nueva-york-nnda-nnrt-noticia/",
-          "source": "El Comercio Perú"
-        }
-      ]
-    },
-    {
-      "keyword": "earthquake los angeles",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzde24IWaZsIQl9l0rArAj7EieR1dcsMwNjPCNbobpWIrrGrA0jPreLzJa1BU",
-      "news": [
-        {
-          "title": "The Great California ShakeOut Tour 2026",
-          "url": "https://www.news.caloes.ca.gov/the-great-california-shakeout-tour-2026/",
-          "source": "Cal OES News (.gov)"
-        },
-        {
-          "title": "Earthquake Simulator Will Bring Magnitude 7.0 Shaking To LA",
-          "url": "https://patch.com/california/los-angeles/earthquake-simulator-will-bring-magnitude-7-0-shaking-la",
-          "source": "Patch"
-        },
-        {
-          "title": "Great California ShakeOut Tour to stop in four California cities",
-          "url": "https://www.lassennews.com/great-california-shakeout-tour-to-stop-in-four-california-cities",
-          "source": "Lassen County News"
-        }
-      ]
-    },
-    {
-      "keyword": "sexually transmitted diarrhea disease",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZr2IhEfwBWxiaar9T6Y87ZrEgJP5YKjfIS6xIhecnRy7NEs-cOYR5_iGclR4",
-      "news": [
-        {
-          "title": "Sexually Transmitted Diarrhea Is Exploding in The US. And It's Growing Resistant to Medicine",
-          "url": "https://www.sciencealert.com/sexually-transmitted-diarrhea-is-exploding-in-the-us-and-its-growing-resistant-to-medicine",
-          "source": "ScienceAlert"
-        },
-        {
-          "title": "Sexually transmitted diarrhea is on the rise — and it’s morphing into a drug-resistant superbug",
-          "url": "https://nypost.com/2026/10/08/health/sexually-transmitted-diarrhea-is-morphing-into-a-superbug/",
-          "source": "New York Post"
-        },
-        {
-          "title": "In the US, the share of XDR Shigella strains rose to 8.5% — ScienceAlert",
-          "url": "https://ua.news/en/health/u-ssha-chastka-xdr-shtamiv-shigella-zrosla-do-8-5-sciencealert",
-          "source": "UA.NEWS"
-        }
-      ]
-    },
-    {
-      "keyword": "elina svitolina",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT63jR8R2_ZB-Kzy2JIdK9RGlqj1tlzu4BsD4aHzryNTQd6p1Csy870veuhnWM",
-      "news": [
-        {
-          "title": "Svitolina earns final Beijing quarterfinal spot with straight-sets win over Li",
-          "url": "https://www.wtatennis.com/videos/4588135/svitolina-secures-final-beijing-quarterfinal-spot-with-straight-sets-win-over-li",
-          "source": "WTA Tennis"
-        },
-        {
-          "title": "Follow all the action from Beijing and Shanghai live!",
-          "url": "https://www.flashscore.com/news/tennis-tracker-shanghai-masters-beijing-open-swiatek-gauff-zheng-svitolina/jiExjRl2/",
-          "source": "Flashscore.com"
-        },
-        {
-          "title": "China Open Tennis",
-          "url": "https://www.wvnews.com/sports/pro/china-open-tennis/image_f883ddf4-4309-5d6d-85c6-4c9e1ae9b219.html",
-          "source": "WV News"
+          "title": "Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever",
+          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+          "source": "Ars Technica"
         }
       ]
     },
     {
       "keyword": "lottery",
-      "traffic": 200,
-      "traffic_label": "200+",
+      "traffic": 500,
+      "traffic_label": "500+",
       "pub_date": "Fri, 9 Oct 2026 01:00:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB_AGCYQE7b91kxQ2WkCyP6UCb76eieTrxmQ_hxrWq8d9oyM6o9vNJmK6wQTo",
       "news": [
@@ -150,10 +102,34 @@
       ]
     },
     {
-      "keyword": "yannick hanfmann",
+      "keyword": "temblor hoy en california",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBmWld3UvKn0RoBjPDnZ4AW34Ich6ai3BGmPN34-Ys8rDC_OoCGyfDQNZ_2RE",
+      "news": [
+        {
+          "title": "Temblor en EEUU: últimos reportes de sismos hoy viernes 9 de octubre",
+          "url": "https://www.lanacion.com.ar/estados-unidos/temblor-en-eeuu-ultimos-reportes-de-sismos-hoy-viernes-9-de-octubre-nid09102026/",
+          "source": "La Nación"
+        },
+        {
+          "title": "Sismo de magnitud preliminar de 3.7 sacude la costa del condado de Orange",
+          "url": "https://www.telemundo52.com/noticias/terremotos-en-california/sismo-preliminar-de-magnitud-3-7-sacude-la-costa-del-condado-de-orange/2904103/",
+          "source": "Telemundo 52"
+        },
+        {
+          "title": "Temblor en EE.UU. EN VIVO hoy, 07 de octubre — hora exacta, magnitud y dónde fue el epicentro del último sismo",
+          "url": "https://elcomercio.pe/mag/usa/local-us/temblor-en-eeuu-en-vivo-hoy-07-y-08-de-octubre-2026-hora-exacta-magnitud-y-donde-fue-el-ultimo-sismo-via-usgs-california-nueva-york-nnda-nnrt-noticia/",
+          "source": "El Comercio Perú"
+        }
+      ]
+    },
+    {
+      "keyword": "tiafoe",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 00:20:00 -0700",
+      "pub_date": "Fri, 9 Oct 2026 01:10:00 -0700",
       "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3sUGrwg7qOWzxMdzQAXgzz64OlmGo8zNRZfnoFUmliG6UCGRO34gWJzCrgk",
       "news": [
         {
@@ -170,6 +146,30 @@
           "title": "Yannick Hanfmann vs Frances Tiafoe Prediction & Picks - ATP Shanghai Masters",
           "url": "https://www.sportytrader.com/us/picks/yannick-hanfmann-frances-tiafoe-377708/",
           "source": "SportyTrader"
+        }
+      ]
+    },
+    {
+      "keyword": "karen khachanov",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 01:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8YmV5eG1WcI958YQ3cRrnfE0BoCvas6QPLmZltcG5swMs5wKwUn3qzPNDHEA",
+      "news": [
+        {
+          "title": "Highlights: Fery sinks Cilic on Shanghai 2026 debut",
+          "url": "https://www.atptour.com/en/video/highlights-fery-sinks-cilic-on-shanghai-2026-debut",
+          "source": "ATP Tour"
+        },
+        {
+          "title": "How to watch Arthur Fery v Marin Cilic at the Shanghai Masters: TV channel, live streaming, start time and venue",
+          "url": "https://news.bet365.com/en-gb/article/how-to-watch-arthur-fery-v-marin-cilic-at-the-shanghai-masters-tv-channel-live-streaming-start-time-and-venue/2026100615344651696",
+          "source": "news.bet365.com"
+        },
+        {
+          "title": "ATP Shanghai Day 1 Predictions Including Arthur Fery vs Marin Cilic",
+          "url": "https://lastwordonsports.com/tennis/2026/10/06/atp-shanghai-day-1-predictions-fery-cilic/",
+          "source": "Last Word On Sports"
         }
       ]
     },

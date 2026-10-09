@@ -26,7 +26,7 @@ python -m src.run_all
 python -m src.collectors.google_trends
 python -m src.collectors.reddit
 python -m src.collectors.events
-python -m src.scoring
+python -m src.scoring              # 점수화 + 급상승 추적(전날 대비 NEW/▲▼)
 ```
 
 ## 문서

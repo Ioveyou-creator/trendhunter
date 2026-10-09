@@ -20,12 +20,15 @@ docs/data/ 의 수집 결과(trends.json, reddit.json, events.json)를 합쳐
 
 from __future__ import annotations
 
+import argparse
 import hashlib
 import json
 import math
 import re
+from datetime import date
 from urllib.parse import quote_plus
 
+from src import history
 from src.config import load_sources, load_yaml
 from src.utils import DATA_DIR, now_iso, save_json, setup_console
 
@@ -341,8 +344,23 @@ def _load(name: str) -> dict:
         return {"ok": False, "count": 0, "error": f"{name}: {type(e).__name__}", "items": []}
 
 
+def trend_mark(t: dict) -> str:
+    """콘솔 표시용 급상승 표시."""
+    if t["status"] == "new":
+        return "NEW "
+    if t["status"] == "up":
+        return f"▲{t['rank_change']:<3}"
+    if t["status"] == "down":
+        return f"▼{-t['rank_change']:<3}"
+    return "    "
+
+
 def main() -> None:
     setup_console()
+    parser = argparse.ArgumentParser(description="점수화 + 급상승 추적")
+    parser.add_argument("--date", help="기록 날짜 YYYY-MM-DD (기본: 오늘, 한국 시간). 테스트용")
+    args = parser.parse_args()
+
     result = build(
         trends=_load("trends.json"),
         reddit=_load("reddit.json"),
@@ -350,15 +368,22 @@ def main() -> None:
         scoring_cfg=load_yaml("scoring.yaml"),
         sources_cfg=load_sources(),
     )
+    history.track(result, day=date.fromisoformat(args.date) if args.date else None)
     path = save_json(result, "latest.json")
 
+    h = result["history"]
     print(f"[scoring] 후보 {len(result['candidates'])}개, 기타 급상승 {len(result['other_trends'])}개 → {path}")
     for name, s in result["sources"].items():
         mark = "OK " if s["ok"] else "실패"
         print(f"  [{mark}] {name}: {s['count']}개" + (f" ({s['error']})" if s["error"] else ""))
+    if h["previous_date"]:
+        print(f"  비교 기준: {h['previous_date']} → 새로 등장 {h['new_count']}개, 빠진 후보 {len(result['dropped'])}개")
+    else:
+        print("  비교할 이전 기록 없음 (첫 실행). 내일부터 NEW/순위 변동이 표시됩니다")
     print()
     for i, c in enumerate(result["candidates"][:15], start=1):
-        print(f"  {i:>2}. [{c['score']:>3}] ({c['category_label']}) {c['title'][:55]}")
+        streak = f" ({c['trend']['streak']}일째)" if c["trend"]["streak"] > 1 else ""
+        print(f"  {i:>2}. {trend_mark(c['trend'])} [{c['score']:>3}] ({c['category_label']}) {c['title'][:50]}{streak}")
         print(f"       검색어: {c['query']}  |  {c['reasons'][-1] if len(c['reasons']) > 1 else c['reasons'][0]}")
 
 
