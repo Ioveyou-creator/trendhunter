@@ -1,0 +1,53 @@
+# 수집 대상 설정
+# 카테고리 제한 없이 "사람들이 사고 싶어 하는 것"이 드러나는 커뮤니티 위주로 고른다.
+# 서브레딧을 추가/삭제하려면 이 파일만 고치면 된다.
+
+google_trends:
+  geo: US
+
+reddit:
+  sort: hot           # hot | rising | new
+  limit: 100          # 그룹 요청 1번에 가져올 글 수 (최대 100)
+  keep_top: 10        # 서브레딧당 남길 상위 글 수 (hot 순위 기준)
+  request_delay: 10   # 그룹 요청 사이 대기(초)
+
+  # 서브레딧을 그룹으로 묶어 "r/a+b+c" 형태로 한 번에 요청한다.
+  # 서브레딧마다 따로 요청하면 비로그인 요청 한도(HTTP 429)에 바로 걸리기 때문.
+  # 큰 서브레딧이 작은 곳을 묻어버리지 않도록 규모가 비슷한 것끼리 묶는다.
+  groups:
+    shopping:          # 바이럴 / 충동구매
+      - shutupandtakemymoney
+      - BuyItForLife
+      - INEEEEDIT
+    collectibles:      # 수집품 / 한정판
+      - PokemonTCG
+      - pkmntcgcollections
+      - funkopop
+      - lego
+      - Sneakers
+    kculture:          # 한국 셀러에게 유리한 카테고리
+      - kpop
+      - kpopthoughts
+      - AsianBeauty
+      - SkincareAddiction
+    gaming:            # 게임 / 굿즈
+      - gaming
+      - NintendoSwitch
+
+  # 공지·정기 스레드 등 상품과 무관한 글을 제목으로 걸러낸다 (대소문자 무시)
+  # "daily"만 쓰면 "my daily sunscreen" 같은 상품 글까지 걸러지므로 조합으로 지정
+  exclude_title_patterns:
+    - "\\b(daily|weekly|monthly)\\b.*\\b(thread|discussion|help|questions?)\\b"
+    - "megathread"
+    - "\\bthread\\b"
+    - "\\brules?\\b"
+    - "announcement"
+    - "census"
+    - "voting"
+    - "\\bmods?\\b"
+    - "\\bpsa\\b"
+    - "^\\[?meta\\]?"
+    - "check your links"
+
+  # 제거한 서브레딧 (기록용)
+  # - TikTokMadeMeBuyIt: 2026-10-09 HTTP 404 (폐쇄 또는 비공개로 추정)

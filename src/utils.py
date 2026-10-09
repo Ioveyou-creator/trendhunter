@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import sys
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -12,6 +13,14 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 
 USER_AGENT = "Mozilla/5.0 (compatible; TrendHunter/0.1; +https://github.com/Ioveyou-creator/trendhunter)"
+
+
+def setup_console() -> None:
+    """Windows 콘솔(cp949)에서 이모지 등 출력 불가 문자가 있어도 멈추지 않게 '?'로 대체."""
+    try:
+        sys.stdout.reconfigure(errors="replace")
+    except AttributeError:
+        pass
 
 
 def now_iso() -> str:

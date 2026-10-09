@@ -14,7 +14,7 @@ import argparse
 import re
 import xml.etree.ElementTree as ET
 
-from src.utils import http_get, save_json, source_result
+from src.utils import http_get, save_json, setup_console, source_result
 
 SOURCE = "google_trends"
 FEED_URL = "https://trends.google.com/trending/rss?geo={geo}"
@@ -96,6 +96,7 @@ def collect(geo: str = "US", file: str | None = None) -> dict:
 
 
 def main() -> None:
+    setup_console()
     parser = argparse.ArgumentParser(description="Google Trends 급상승 검색어 수집")
     parser.add_argument("--geo", default="US", help="국가 코드 (기본: US)")
     parser.add_argument("--file", help="네트워크 대신 사용할 로컬 XML 파일")
