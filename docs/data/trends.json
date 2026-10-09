@@ -1,0 +1,249 @@
+{
+  "source": "google_trends",
+  "fetched_at": "2026-10-09T07:24:45+00:00",
+  "ok": true,
+  "error": null,
+  "count": 10,
+  "items": [
+    {
+      "keyword": "wind advisory",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScmECfBmAR6aCHfbJeCt6oz5ZMxcurqLBco23sFOMpHufgDURQPuoKLR7TdmI",
+      "news": [
+        {
+          "title": "Warm temps before we see some rain in Phoenix",
+          "url": "https://www.fox10phoenix.com/news/arizona-weather-forecast-100626",
+          "source": "FOX 10 Phoenix"
+        },
+        {
+          "title": "Warm October week continues with highs near 100",
+          "url": "https://www.azfamily.com/2026/10/05/warm-october-week-continues-with-highs-near-100/",
+          "source": "AZ Family"
+        },
+        {
+          "title": "Arizona weather forecast: Rain chances, cooler weather expected this weekend",
+          "url": "https://www.yahoo.com/news/weather-news/articles/arizona-weather-forecast-rain-chances-143121191.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "google play",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81CNhvkv0T9iJh2c-4w5WBPl8Eyj7FdNzmkdYNtc3AHzyzeSCYIgZ8Lombog",
+      "news": [
+        {
+          "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
+          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
+          "source": "About Amazon"
+        },
+        {
+          "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever",
+          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+          "source": "Ars Technica"
+        }
+      ]
+    },
+    {
+      "keyword": "sa vs aus",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 8 Oct 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaIEFe3iTQO402Tz8kIWzidRG0mQvCOvJbSXq-ZmBOcRSYVqWX4zZP0mVP4d8",
+      "news": [
+        {
+          "title": "The long wait and low expectations of Test cricket in South Africa",
+          "url": "https://africa.espn.com/cricket/story/_/id/50133352/sa-v-aus-1st-test-2026-long-wait-low-expectations-test-cricket-south-africa",
+          "source": "ESPN"
+        },
+        {
+          "title": "Where to watch South Africa vs. Australia live stream, TV channel, start time and lineups for 1st Test",
+          "url": "https://sports.yahoo.com/articles/where-watch-south-africa-vs-193001604.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "T20 ties have softened on-field rivalries, says Harmer",
+          "url": "https://www.reuters.com/sports/cricket/t20-ties-have-softened-on-field-rivalries-says-harmer-2026-10-07/",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "keyword": "avatar seven havens release time",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuJxSsKA0cWzL6iid_4KX73rC5no6I5pivECrylxdYs5gLiwVOGLJmkYMPXdk",
+      "news": [
+        {
+          "title": "‘Avatar: Seven Havens’ Review: Paramount+’s Promising Addition to a Beloved Fantasy Franchise",
+          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/avatar-seven-havens-review-paramount-1236723958/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "A New Avatar Series Is Coming to Paramount+ This Week — Here's Everything We Know About Seven Havens",
+          "url": "https://www.ign.com/articles/avatar-seven-havens-episode-release-schedule",
+          "source": "IGN"
+        },
+        {
+          "title": "Avatar: Seven Havens Clip Has The Last Airbender Fans Complaining About One Specific Thing",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/avatar-seven-havens-clip-last-202449627.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "aion 2 maintenance",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 8 Oct 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqtO-Yrxddm8Wd-dmPOODHjykxki5YsxX3S9dgpjOdE1cbC_XdJ4cY0F5qL-o",
+      "news": [
+        {
+          "title": "News - NC’S EPIC MMORPG AION 2 LAUNCHES ON STEAM AND PURPLE TO A GLOBAL AUDIENCE",
+          "url": "https://www.nc.com/newsroom/news/articles/?articleId=6ac39f50fa34c1011d627aa7&boardLanguage=en",
+          "source": "NC"
+        },
+        {
+          "title": "Aion 2 Review-In-Progress",
+          "url": "https://www.mmorpg.com/reviews/aion-2-review-in-progress-2000139065",
+          "source": "MMORPG.com"
+        },
+        {
+          "title": "Aion 2 Beginner Guide: 10 Things to Do First",
+          "url": "https://mobalytics.gg/gamebase/guides/aion-2-beginner-guide",
+          "source": "Mobalytics"
+        }
+      ]
+    },
+    {
+      "keyword": "zion williamson",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 8 Oct 2026 23:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SGhecWLbKtHXrSJtUGj3urs_ai376ambJymJ73rIl0LtCH9KgC8G5bhVqlE",
+      "news": [
+        {
+          "title": "Yves Missi on anchoring the defense | Pelicans Training Camp 2026",
+          "url": "https://www.nba.com/pelicans/videos/yves-missi-interview-pelicans-training-camp-10-1-2026",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Why Zion Williamson, Pelicans believe Yves Missi can become next Hakeem Olajuwon-level DPOY",
+          "url": "https://sports.yahoo.com/articles/why-zion-williamson-pelicans-believe-183209370.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Pelicans Back Yves Missi to Become an Elite Defensive Center",
+          "url": "https://suaragarut.id/en/pelicans-back-yves-missi-defense",
+          "source": "SuaraGarut.ID"
+        }
+      ]
+    },
+    {
+      "keyword": "shawn layden",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqd6faFn6b0xyyNCR0SuPgdA0_lX-E6Tspq8b-iMZKNmCCcJ5uQvkV_vWcqwk",
+      "news": [
+        {
+          "title": "Ex-PlayStation boss recalls Nintendo employee's reaction to the PSP reveal: \"You bastards\"",
+          "url": "https://tech.yahoo.com/gaming/articles/ex-playstation-boss-recalls-nintendo-220006175.html",
+          "source": "Yahoo Tech"
+        },
+        {
+          "title": "\"You Bastards\" - Ex-PlayStation Exec Shawn Layden Reveals What A Nintendo Counterpart Thought About PSP",
+          "url": "https://www.timeextension.com/news/2026/10/you-bastards-ex-playstation-exec-shawn-layden-reveals-what-a-nintendo-counterpart-thought-about-psp",
+          "source": "Time Extension"
+        },
+        {
+          "title": "Former Sony exec reveals Nintendo's sweary response to original PSP reveal",
+          "url": "https://metro.co.uk/2026/10/07/former-sony-exec-reveals-nintendos-sweary-response-original-psp-reveal-29688043/",
+          "source": "Metro.co.uk"
+        }
+      ]
+    },
+    {
+      "keyword": "salma hayek",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Fri, 9 Oct 2026 00:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyRClscBT6z3D6YPzO3eCD-f2biCRwNA4RobZO8ki-iJK-egWkrU5JqbrGvgQ",
+      "news": [
+        {
+          "title": "‘Richest’: Action star is a secret billionaire",
+          "url": "https://www.news.com.au/entertainment/movies/salma-hayeks-secret-life-as-a-billionaire-uncovered/news-story/07163868d40d5a840a68c777e8975bd6",
+          "source": "News.com.au"
+        },
+        {
+          "title": "#SHOWBIZ: Salma Hayek beyond Hollywood: Inside her US$15bil luxury dynasty and marriage",
+          "url": "https://www.nst.com.my/lifestyle/groove/2026/10/1550790/showbiz-salma-hayek-beyond-hollywood-inside-her-us15bil-luxury",
+          "source": "NST Online"
+        },
+        {
+          "title": "Salma Hayek and Her Life in a Billionaire Family: Lavish Homes, $15 Billion and Love with François-Henri Pinault",
+          "url": "https://style.news.am/eng/news/116555/salma-hayek-and-her-life-in-a-billionaire-family-lavish-homes-$15-billion-and-love-with-fran%C3%A7ois-henri-pinault.html",
+          "source": "NEWS.am STYLE"
+        }
+      ]
+    },
+    {
+      "keyword": "weather los angeles",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Thu, 8 Oct 2026 23:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCiC_VCEXnwN0HhS35Jqpbg8AH5iabESJFWhczMxsUZ8DU6gPpOMG-7HxNX7Q",
+      "news": [
+        {
+          "title": "Hot weather continues along with LA County beach warnings",
+          "url": "https://www.nbclosangeles.com/news/local/hot-weather-continues-along-with-la-county-beach-warnings/3952478/",
+          "source": "NBC Los Angeles"
+        },
+        {
+          "title": "LA County Warns Swimmers to Avoid Six Beach Areas",
+          "url": "https://mynewsla.com/weather/2026/10/08/la-county-warns-swimmers-to-avoid-six-beach-areas/",
+          "source": "MyNewsLA.com"
+        },
+        {
+          "title": "10 LA County Beaches Unsafe For Swimming Due To Bacteria Levels",
+          "url": "https://patch.com/california/los-angeles/10-la-county-beaches-unsafe-swimming-due-bacteria-levels-1",
+          "source": "Patch"
+        }
+      ]
+    },
+    {
+      "keyword": "anya taylor-joy",
+      "traffic": 100,
+      "traffic_label": "100+",
+      "pub_date": "Thu, 8 Oct 2026 23:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf1sQZSCPEgNdIlYLK7yQpo13WohpUtrHCCFHgPr_Em4OFyRBUGDEVi33OVHo",
+      "news": [
+        {
+          "title": "Anya Taylor-Joy’s LBD Has More Going On Than You Think",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/anya-taylor-joy-lbd-more-185252988.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Anya Taylor-Joy's New 'White Lotus' Replacement Officially Hits Netflix Next Week",
+          "url": "https://www.imdb.com/es-es/news/ni66053447/?ref_=tt_nwr_2",
+          "source": "IMDb"
+        },
+        {
+          "title": "Anya Taylor-Joy’s $1 Billion Sci-Fi Blockbuster Is Officially Taking Over the World",
+          "url": "https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-streaming-success-peacock-october-2026/",
+          "source": "Collider"
+        }
+      ]
+    }
+  ]
+}

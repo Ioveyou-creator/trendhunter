@@ -8,13 +8,14 @@
 - [x] TODO.md 작성
 - [x] DEVLOG.md 작성
 - [x] README.md 뼈대
-- [ ] **push #1**
+- [x] **push #1**
 
 ## 1단계: Google Trends 수집기
-- [ ] 미국 Trending now RSS 파싱
-- [ ] 검색량 추정치(approx_traffic) 숫자 변환
-- [ ] `docs/data/trends.json` 저장
-- [ ] 실패 시 빈 결과 + 에러 메시지 반환
+- [x] 미국 Trending now RSS 파싱
+- [x] 검색량 추정치(approx_traffic) 숫자 변환
+- [x] `docs/data/trends.json` 저장
+- [x] 실패 시 빈 결과 + 에러 메시지 반환
+- [x] 샘플 XML 기반 단위 테스트 (네트워크 없이 실행)
 - [ ] **push #2**
 
 ## 2단계: Reddit 수집기
