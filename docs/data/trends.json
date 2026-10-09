@@ -1,247 +1,237 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-09T09:06:11+00:00",
+  "fetched_at": "2026-10-09T15:18:45+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "openai",
-      "traffic": 20000,
-      "traffic_label": "20000+",
-      "pub_date": "Fri, 9 Oct 2026 01:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7OPxzG-deNjK6cOHWWq5o4Y3-mWVo74ct8wMoVwkGjEmDkC69Ve774k9eDo4",
+      "keyword": "mike ditka",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Fri, 9 Oct 2026 07:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6L8sx74g2sZFyJSLtN9_8k6eyODadOjgGUNBud81lv5Y4jFdProGdYVXt4-A",
       "news": [
         {
-          "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates",
-          "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-          "source": "CNBC"
+          "title": "Report: Bears legend Mike Ditka has passed away at age 86",
+          "url": "https://sports.yahoo.com/articles/report-bears-legend-mike-ditka-150049138.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "OpenAI projected to bring in $20bn less in revenue than expected",
-          "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
-          "source": "The Guardian"
+          "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
+          "url": "https://abc7chicago.com/post/legendary-coach-hall-fame-te-mike-ditka-dies-age-86/19924967/",
+          "source": "ABC7 Chicago"
         },
         {
-          "title": "Tech stocks struggle on AI spending worries, elevated yields",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-09/",
-          "source": "Reuters"
+          "title": "Chicago Bears legend Mike Ditka reportedly dies at 86",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/chicago-bears-legend-mike-ditka-dies-at-86-150831571.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "vaccinations",
+      "keyword": "ditka",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Fri, 9 Oct 2026 07:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj9KbDVMWXgOTiJNgRKqh-8w4J9b943JvMQA2QufLVfp_BcnOLfJ0MNhw-C28",
+      "news": [
+        {
+          "title": "Bears vs. Packers most hated list: Aaron Rodgers, Mike Ditka and the 10 rivalry figures fans love to hate",
+          "url": "https://www.sportingnews.com/us/nfl/news/bears-packers-most-hated-list/a2e58f210be502a51a0b9242",
+          "source": "Sporting News"
+        }
+      ]
+    },
+    {
+      "keyword": "saudi arabia",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUUUOGNcqQ5kKPe2lpFAItTkWPOEzQQH1pN3ASdHRKTXDxrZu2fTGCAtlMZI",
+      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDrXVtPpyLS853HFu9hLenVLR-eZsCAiFTDAO7SR1-1uXRMepT1La_5-ccE5s",
       "news": [
         {
-          "title": "What vaccines doctors say you may need for respiratory virus season",
-          "url": "https://abcnews.com/Health/vaccines-doctors-respiratory-virus-season/story?id=137002349",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict",
+          "url": "https://www.foxnews.com/live-news/us-iran-war-saudi-arabia-airport-attack-yemen-houthis-10-09-26",
+          "source": "Fox News"
         },
         {
-          "title": "How good is this year's flu shot? Here's what to know about flu season",
-          "url": "https://www.cbc.ca/news/health/flu-season-questions-9.7374821",
-          "source": "CBC"
-        },
-        {
-          "title": "Flu season didn’t start when or where it was expected. Get your shot now, health officials say",
-          "url": "https://www.latimes.com/california/story/2026-10-08/early-flu-season-health-officials-urge-vaccinations",
+          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport",
+          "url": "https://www.latimes.com/world-nation/story/2026-10-09/saudi-authorities-say-3-killed-in-houthi-claimed-attacks-on-riyadh-airport",
           "source": "Los Angeles Times"
+        },
+        {
+          "title": "Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments",
+          "url": "https://apnews.com/article/israel-consulate-britain-mideast-october-8-2026-c7a446e1bd01966f19b88af07149c3d5",
+          "source": "AP News"
         }
       ]
     },
     {
-      "keyword": "immunizations",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIAjBdw3wPvxMqdrClTOwEPHA1EmnSizTBnS36bvHCCXdcVC_FtmGPOTjj0nI",
+      "keyword": "iowa vs washington",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkTajClU63dnv4P_dF613H68rknZWxHmIVc6tPyF6JGFo4Ol7TmdQ1FaRwE0Q",
       "news": [
         {
-          "title": "Florida health officials meet amid fierce debate over childhood vaccine plans",
-          "url": "https://www.politico.com/news/2026/10/08/florida-health-vaccines-ladapo-children-debate-01112300",
-          "source": "Politico"
+          "title": "What to watch for as Huskies host No. 20, plus a prediction",
+          "url": "https://www.seattletimes.com/sports/washington-huskies-football/washington-huskies-hosts-no-20-iowa-what-to-watch/",
+          "source": "The Seattle Times"
         },
         {
-          "title": "As state considers changes, new online tool eyes impacts of declining vaccination rates",
-          "url": "https://www.newsfromthestates.com/article/state-considers-changes-new-online-tool-eyes-impacts-declining-vaccination-rates",
-          "source": "News From The States"
+          "title": "Iowa vs. Washington college football odds, parlay: Hawkeyes starting quarterback questionable for Friday game",
+          "url": "https://www.cbssports.com/betting/news/iowa-vs-washington-college-football-odds-parlay-hawkeyes-starting-quarterback-questionable-for-friday-game",
+          "source": "CBS Sports"
         },
         {
-          "title": "CIDRAP Op-Ed: The diseases we've forgotten, like Hib, make their vaccines easy to dismiss",
-          "url": "https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-diseases-weve-forgotten-hib-make-their-vaccines-easy-dismiss",
-          "source": "CIDRAP"
+          "title": "Kirk Ferentz -- Iowa can't count on Hank Brown being ready Fri.",
+          "url": "https://www.espn.com/college-football/story/_/id/50129420/kirk-ferentz-iowa-count-hank-brown-being-ready-fri",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "vaccines",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-g9UrQ5lf5j2FNgjGVTa6OoQDQgPTwMfkAMQP4RQzJDCLFgox4WlnYZfRf5A",
+      "keyword": "mrna stock",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 9 Oct 2026 07:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHsJfv16rOWDQyTk1xn6ukt5kkIY0H1yssZJ4Lw9kLNPzYRMyUjCdjLHYmqs",
       "news": [
         {
-          "title": "HHS Launches Agency-Wide Actions to Strengthen Vaccine Injury Research, Reporting, and Patient Care",
-          "url": "https://www.hhs.gov/press-room/hhs-strengthens-vaccine-injury-research-reporting-patient-care.html",
-          "source": "HHS.gov"
+          "title": "Moderna (MRNA) Was Removed From the Nasdaq-100 and Is Going Back In. What Changed?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-removed-nasdaq-100-014446416.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "RFK Jr. touts vaccine injury initiative, worrying experts",
-          "url": "https://www.npr.org/2026/10/09/nx-s1-5995393/rfk-jr-touts-vaccine-injury-initiative-worrying-experts",
-          "source": "NPR"
+          "title": "Why is Moderna stock surging today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-surging-today-93CH-4941340",
+          "source": "Investing.com"
         },
         {
-          "title": "US health secretary Kennedy launches new push on vaccine injuries",
-          "url": "https://www.reuters.com/legal/litigation/us-health-secretary-kennedy-launches-new-push-vaccine-injuries-2026-10-08/",
+          "title": "Moderna Is Up 545% in 2026: Take Profits Now, or Keep Buying?",
+          "url": "https://247wallst.com/investing/2026/10/06/moderna-is-up-545-in-2026-take-profits-now-or-keep-buying/",
+          "source": "24/7 Wall St."
+        }
+      ]
+    },
+    {
+      "keyword": "nelson toburen",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6zKViYv81Tw7FlAVB8foSsO8s8ej51mo7OHn0Btm72p59UpJQbU9YHubdvg8",
+      "news": [
+        {
+          "title": "Former Packers linebacker, two-time NFL champion dies following battle with cancer",
+          "url": "https://www.pennlive.com/sports/2026/10/former-packers-linebacker-two-time-nfl-champion-dies-following-battle-with-cancer.html",
+          "source": "PennLive.com"
+        },
+        {
+          "title": "Obituary for Nelson Edward (Toburen) Toburen",
+          "url": "https://www.brennermortuary.com/obituary/Nelson-Toburen",
+          "source": "Brenner Mortuary"
+        },
+        {
+          "title": "Nelson Toburen, Lombardi-Era Packers Linebacker Turned Kansas Judge, Dies at 87",
+          "url": "https://www.thatericalper.com/2026/10/07/nelson-toburen-lombardi-era-packers-linebacker-turned-kansas-judge-dies-at-87/",
+          "source": "That Eric Alper"
+        }
+      ]
+    },
+    {
+      "keyword": "lisa cook",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 07:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4C1voD7K4m9x5_HkKaHmcHXeCJyp0EBnToEh8nNgF7pYPWM_I96dinw7T4vU",
+      "news": [
+        {
+          "title": "Trump Announces White House Inquiry into Fed Governor Cook",
+          "url": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
+          "url": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
+          "source": "NBC News"
+        },
+        {
+          "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
+          "url": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
+          "source": "AP News"
+        }
+      ]
+    },
+    {
+      "keyword": "interstate 95",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrF9-VLNUiJ870UAADpmZ4FfyREw1PYvSzjw1OC9Uu3XNrRFu0WsQEpVfCPXk",
+      "news": [
+        {
+          "title": "Major closures planned on Dolphin Expressway, I-395 in Miami this weekend",
+          "url": "https://www.local10.com/traffic/2026/10/08/major-closures-planned-on-dolphin-expressway-i-395-in-miami-this-weekend/",
+          "source": "WPLG Local 10"
+        },
+        {
+          "title": "FDOT announces road closures on I-395, SR 836, I-95 due to construction project",
+          "url": "https://wsvn.com/news/local/miami-dade/miami-i-395-sr-836-i-95-closures/",
+          "source": "WSVN"
+        },
+        {
+          "title": "Major closures planned on Dolphin Expressway in Miami; drivers should expect detours",
+          "url": "https://www.local10.com/traffic/2026/10/01/major-closures-planned-on-dolphin-expressway-in-miami-drivers-should-expect-detours/",
+          "source": "WPLG Local 10"
+        }
+      ]
+    },
+    {
+      "keyword": "harry",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZmRBwT3-YiGZigBDHW8nqBCcRncB9Fl4Z4CTqbN0xiueUrTqLUYNKRxYRAM",
+      "news": [
+        {
+          "title": "UK's Prince Harry says he fell into depression as he weighed royal future",
+          "url": "https://www.reuters.com/world/uk/uks-prince-harry-says-he-fell-into-depression-he-weighed-royal-future-2026-10-09/",
           "source": "Reuters"
+        },
+        {
+          "title": "Prince Harry Says Princess Diana’s Perfume Helped Unlock Memories He Had ‘Shut Down’",
+          "url": "https://people.com/prince-harry-says-princess-diana-perfume-unlocked-memories-masterclass-12160802",
+          "source": "People.com"
+        },
+        {
+          "title": "Harry says he 'slipped into depression' after leaving UK for Canada",
+          "url": "https://www.bbc.com/news/articles/c623dv9n93evo",
+          "source": "BBC"
         }
       ]
     },
     {
-      "keyword": "flu shots near me",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2yUh7MGNKpy5w4j61hVMyCfGtw9k8JtT90JVwr-NTo2Sql5w_tJYQUyOADeE",
-      "news": [
-        {
-          "title": "The U.S. states with the highest flu vaccination rates",
-          "url": "https://qz.com/states-highest-flu-vaccination-rates",
-          "source": "qz.com"
-        },
-        {
-          "title": "Free flu shot clinics set for Oct. 20 across Southeast Tennessee school districts",
-          "url": "https://newschannel9.com/news/local/free-flu-shot-clinics-set-for-oct-20-across-southeast-tennessee-school-districts",
-          "source": "WTVC"
-        },
-        {
-          "title": "Dyer County Health Department offering free flu shots",
-          "url": "https://www.stategazette.com/news/dyer-county-health-department-offering-free-flu-shots/article_27b25764-fa4d-5c42-b11a-d22987931899.html",
-          "source": "State Gazette"
-        }
-      ]
-    },
-    {
-      "keyword": "play store",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 01:30:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81CNhvkv0T9iJh2c-4w5WBPl8Eyj7FdNzmkdYNtc3AHzyzeSCYIgZ8Lombog",
-      "news": [
-        {
-          "title": "Introducing all-new Amazon Alexa Tablets—powerful tablets with Alexa+ built in",
-          "url": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
-          "source": "About Amazon"
-        },
-        {
-          "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
-          "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Amazon’s new Alexa Tablets drop the Fire branding but are more Android than ever",
-          "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-          "source": "Ars Technica"
-        }
-      ]
-    },
-    {
-      "keyword": "alejandro davidovich fokina",
+      "keyword": "unh stock",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 01:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRtxBS-T0PUH8_kLoz5e-t_GmtugQrGI3xeq8TyieruCBtReHCKa3005_t0RI",
+      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdtxwFycYuxQX6bjUmpjAYxsNUmnuJCydeoF33kx10YqFzptKA5kt-in_RJY",
       "news": [
         {
-          "title": "ATP Shanghai Day 1 Predictions Including Holger Rune vs Daniel Altmaier",
-          "url": "https://lastwordonsports.com/tennis/2026/10/06/atp-shanghai-day-1-predictions-rune-altmaier/",
-          "source": "Last Word On Sports"
+          "title": "UnitedHealth Gears Up for Q3 Earnings: Should Investors Buy the Stock?",
+          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-gears-q3-earnings-investors-151100456.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Shanghai R1 previews and predictions: Rune vs. Altmaier, Fery vs. Cilic",
-          "url": "https://tenngrand.com/shanghai-tennis-previews-picks-predictions-rune-vs-altmaier-fery-cilic/",
-          "source": "The Grandstand"
+          "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13",
+          "url": "https://www.barchart.com/story/news/5092693/dear-unitedhealth-stock-fans-mark-your-calendars-for-october-13",
+          "source": "Barchart.com"
         },
         {
-          "title": "October 10, 2026: Dalibor Svrcina vs Tomas Martin Etcheverry Round of 64 match Tennis Prediction Market",
-          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/dalibor-svrcina-vs-tomas-martin-etcheverry-round-of-64-match-oct-10-2026/",
-          "source": "Robinhood"
-        }
-      ]
-    },
-    {
-      "keyword": "tiafoe",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3sUGrwg7qOWzxMdzQAXgzz64OlmGo8zNRZfnoFUmliG6UCGRO34gWJzCrgk",
-      "news": [
-        {
-          "title": "Sports News, Transfers, Scores | Watch Live Sport",
-          "url": "https://www.skysports.com/tennis/watch/8375078377895397112/rolex-shanghai-masters-2026",
-          "source": "Sky Sports"
-        },
-        {
-          "title": "Shelton vs. Altmaier Prediction at the Rolex Shanghai Masters – Friday, October 9",
-          "url": "https://www.bleachernation.com/picks/2026/10/07/shelton-vs-altmaier-prediction-at-the-rolex-shanghai-masters-friday-october-9/",
-          "source": "Bleacher Nation"
-        },
-        {
-          "title": "Yannick Hanfmann vs Frances Tiafoe Prediction & Picks - ATP Shanghai Masters",
-          "url": "https://www.sportytrader.com/us/picks/yannick-hanfmann-frances-tiafoe-377708/",
-          "source": "SportyTrader"
-        }
-      ]
-    },
-    {
-      "keyword": "karen khachanov",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 01:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8YmV5eG1WcI958YQ3cRrnfE0BoCvas6QPLmZltcG5swMs5wKwUn3qzPNDHEA",
-      "news": [
-        {
-          "title": "Highlights: Fery sinks Cilic on Shanghai 2026 debut",
-          "url": "https://www.atptour.com/en/video/highlights-fery-sinks-cilic-on-shanghai-2026-debut",
-          "source": "ATP Tour"
-        },
-        {
-          "title": "How to watch Arthur Fery v Marin Cilic at the Shanghai Masters: TV channel, live streaming, start time and venue",
-          "url": "https://news.bet365.com/en-gb/article/how-to-watch-arthur-fery-v-marin-cilic-at-the-shanghai-masters-tv-channel-live-streaming-start-time-and-venue/2026100615344651696",
-          "source": "news.bet365.com"
-        },
-        {
-          "title": "ATP Shanghai Day 1 Predictions Including Arthur Fery vs Marin Cilic",
-          "url": "https://lastwordonsports.com/tennis/2026/10/06/atp-shanghai-day-1-predictions-fery-cilic/",
-          "source": "Last Word On Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "fc barcelona",
-      "traffic": 100,
-      "traffic_label": "100+",
-      "pub_date": "Fri, 9 Oct 2026 01:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1ZB6Kmh6TyznpGbvg036u0VtVutlQkwyKA1706fovIH1zQv75YmWYdPX6yfE",
-      "news": [
-        {
-          "title": "Raphinha se entrena en solitario a dos días de Barcelona vs Getafe",
-          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17353643/barcelona-raphinha-se-entrena-solitario-dos-dias-getafe",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Lesionados y sancionados del Barcelona para enfrentarse al Getafe",
-          "url": "https://www.si.com/es-us/futbol/lesionados-y-sancionados-del-barcelona-para-enfrentarse-al-getafe-10-10-2026",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Joan García tiene la palabra",
-          "url": "https://www.marca.com/futbol/barcelona/2026/10/08/joan-garcia-palabra.html",
-          "source": "MARCA"
+          "title": "UnitedHealth: A Beat Is Priced In, But There's Room For Surprise (NYSE:UNH)",
+          "url": "https://seekingalpha.com/article/4953067-unitedhealth-a-beat-is-priced-in-but-theres-room-for-surprise",
+          "source": "Seeking Alpha"
         }
       ]
     }
