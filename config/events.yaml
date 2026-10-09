@@ -1,0 +1,148 @@
+# 이벤트 캘린더
+# "날짜가 정해진 붐"을 미리 잡기 위한 목록. 직접 추가/수정해서 쓴다.
+#
+# 항목 공통 필드
+#   name       이벤트 이름
+#   category   season | kpop | tcg | game | etc
+#   keywords   관련 검색어 (4단계에서 다른 신호와 매칭, eBay 검색 링크 생성에 사용)
+#   lead_days  며칠 전부터 준비해야 하는지 (소싱 + 리스팅 + 배송). 없으면 default_lead_days
+#   note       메모 (선택)
+#   source     출처 링크 (일회성 일정은 꼭 적기)
+
+lookahead_days: 60        # 오늘부터 며칠 뒤까지 보여줄지
+default_lead_days: 21     # 기본 준비 기간 (한국 → 미국 배송 7~14일 + 소싱·리스팅)
+shipping_days: 10         # 이벤트까지 이보다 적게 남으면 "배송 시간 부족" 경고
+
+# 1) 매년 같은 날짜: date = "MM-DD"
+yearly:
+  - name: Halloween
+    category: season
+    date: "10-31"
+    keywords: [halloween costume, halloween decor]
+  - name: Singles' Day (11.11)
+    category: season
+    date: "11-11"
+    keywords: [singles day sale]
+    lead_days: 14
+  - name: Christmas
+    category: season
+    date: "12-25"
+    keywords: [christmas gift, stocking stuffer]
+    lead_days: 30
+    note: 미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비
+  - name: Valentine's Day
+    category: season
+    date: "02-14"
+    keywords: [valentines gift]
+
+# 2) 매년 날짜가 바뀌는 이벤트: N번째 요일 + 보정일
+#    weekday: mon tue wed thu fri sat sun / n: 1~5 / offset_days: 이후 며칠
+nth_weekday:
+  - name: Black Friday
+    category: season
+    month: 11
+    n: 4
+    weekday: thu       # 추수감사절(11월 넷째 목요일)
+    offset_days: 1     # 다음 날
+    keywords: [black friday deals]
+    lead_days: 28
+  - name: Cyber Monday
+    category: season
+    month: 11
+    n: 4
+    weekday: thu
+    offset_days: 4
+    keywords: [cyber monday deals]
+    lead_days: 28
+  - name: Mother's Day (US)
+    category: season
+    month: 5
+    n: 2
+    weekday: sun
+    keywords: [mothers day gift]
+
+# 3) 일회성 일정: date = "YYYY-MM-DD"
+#    K-pop: 한국 발매일 기준. 한국 셀러는 발매 당일 구매 가능 → 준비 기간 짧게
+once:
+  # --- K-pop (출처: Korea Times 2026-10-06, kpopofficial.com 11월 일정) ---
+  - name: NCT WISH 'I SPY'
+    category: kpop
+    date: "2026-10-12"
+    keywords: [nct wish album, nct wish photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: PLAVE 'HYPERDRIVE'
+    category: kpop
+    date: "2026-10-12"
+    keywords: [plave album, plave hyperdrive]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: NMIXX 'Strange Muse'
+    category: kpop
+    date: "2026-10-19"
+    keywords: [nmixx album, nmixx photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: LISA 'PRESS PLAY'
+    category: kpop
+    date: "2026-10-23"
+    keywords: [lisa press play, lisa album]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: BABYMONSTER 신곡
+    category: kpop
+    date: "2026-10-23"
+    keywords: [babymonster album, babymonster photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: IVE 'Looks Can Kill'
+    category: kpop
+    date: "2026-10-26"
+    keywords: [ive album, ive photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: ILLIT 'BREAK EVEN'
+    category: kpop
+    date: "2026-10-26"
+    keywords: [illit album, illit photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: RIIZE 정규 2집 선공개
+    category: kpop
+    date: "2026-10-26"
+    keywords: [riize album, riize photocard]
+    lead_days: 3
+    source: https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up
+  - name: TWS 'TO US'
+    category: kpop
+    date: "2026-11-02"
+    keywords: [tws album, tws photocard]
+    lead_days: 3
+    source: https://kpopofficial.com/kpop-comeback-schedule-november-2026/
+  - name: ATEEZ 'GOLDEN HOUR Part.6'
+    category: kpop
+    date: "2026-11-13"
+    keywords: [ateez golden hour, ateez photocard]
+    lead_days: 3
+    source: https://kpopofficial.com/kpop-comeback-schedule-november-2026/
+  - name: TXT 'PERFECT STORM'
+    category: kpop
+    date: "2026-11-16"
+    keywords: [txt perfect storm, txt photocard]
+    lead_days: 3
+    source: https://kpopofficial.com/kpop-comeback-schedule-november-2026/
+
+  # --- Pokemon TCG (영문판) ---
+  - name: Pokemon TCG Delta Reign (ME06)
+    category: tcg
+    date: "2026-11-06"
+    keywords: [delta reign booster box, pokemon delta reign]
+    lead_days: 7
+    note: 영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인
+    source: https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026
+  - name: Pokemon 30th Celebration Ultra-Premium Collection
+    category: tcg
+    date: "2026-11-06"
+    keywords: [pokemon 30th celebration upc, pokemon 30th anniversary]
+    lead_days: 7
+    source: https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026

@@ -1,0 +1,279 @@
+{
+  "source": "events",
+  "fetched_at": "2026-10-09T08:15:33+00:00",
+  "ok": true,
+  "error": null,
+  "count": 17,
+  "items": [
+    {
+      "name": "NCT WISH 'I SPY'",
+      "category": "kpop",
+      "date": "2026-10-12",
+      "days_left": 3,
+      "prep_by": "2026-10-09",
+      "lead_days": 3,
+      "status": "prepare_now",
+      "keywords": [
+        "nct wish album",
+        "nct wish photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "PLAVE 'HYPERDRIVE'",
+      "category": "kpop",
+      "date": "2026-10-12",
+      "days_left": 3,
+      "prep_by": "2026-10-09",
+      "lead_days": 3,
+      "status": "prepare_now",
+      "keywords": [
+        "plave album",
+        "plave hyperdrive"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "NMIXX 'Strange Muse'",
+      "category": "kpop",
+      "date": "2026-10-19",
+      "days_left": 10,
+      "prep_by": "2026-10-16",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "nmixx album",
+        "nmixx photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "BABYMONSTER 신곡",
+      "category": "kpop",
+      "date": "2026-10-23",
+      "days_left": 14,
+      "prep_by": "2026-10-20",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "babymonster album",
+        "babymonster photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "LISA 'PRESS PLAY'",
+      "category": "kpop",
+      "date": "2026-10-23",
+      "days_left": 14,
+      "prep_by": "2026-10-20",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "lisa press play",
+        "lisa album"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "ILLIT 'BREAK EVEN'",
+      "category": "kpop",
+      "date": "2026-10-26",
+      "days_left": 17,
+      "prep_by": "2026-10-23",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "illit album",
+        "illit photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "IVE 'Looks Can Kill'",
+      "category": "kpop",
+      "date": "2026-10-26",
+      "days_left": 17,
+      "prep_by": "2026-10-23",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "ive album",
+        "ive photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "RIIZE 정규 2집 선공개",
+      "category": "kpop",
+      "date": "2026-10-26",
+      "days_left": 17,
+      "prep_by": "2026-10-23",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "riize album",
+        "riize photocard"
+      ],
+      "note": "",
+      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
+      "kind": "once"
+    },
+    {
+      "name": "Halloween",
+      "category": "season",
+      "date": "2026-10-31",
+      "days_left": 22,
+      "prep_by": "2026-10-10",
+      "lead_days": 21,
+      "status": "upcoming",
+      "keywords": [
+        "halloween costume",
+        "halloween decor"
+      ],
+      "note": "",
+      "source": "",
+      "kind": "yearly"
+    },
+    {
+      "name": "TWS 'TO US'",
+      "category": "kpop",
+      "date": "2026-11-02",
+      "days_left": 24,
+      "prep_by": "2026-10-30",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "tws album",
+        "tws photocard"
+      ],
+      "note": "",
+      "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+      "kind": "once"
+    },
+    {
+      "name": "Pokemon 30th Celebration Ultra-Premium Collection",
+      "category": "tcg",
+      "date": "2026-11-06",
+      "days_left": 28,
+      "prep_by": "2026-10-30",
+      "lead_days": 7,
+      "status": "upcoming",
+      "keywords": [
+        "pokemon 30th celebration upc",
+        "pokemon 30th anniversary"
+      ],
+      "note": "",
+      "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
+      "kind": "once"
+    },
+    {
+      "name": "Pokemon TCG Delta Reign (ME06)",
+      "category": "tcg",
+      "date": "2026-11-06",
+      "days_left": 28,
+      "prep_by": "2026-10-30",
+      "lead_days": 7,
+      "status": "upcoming",
+      "keywords": [
+        "delta reign booster box",
+        "pokemon delta reign"
+      ],
+      "note": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
+      "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
+      "kind": "once"
+    },
+    {
+      "name": "Singles' Day (11.11)",
+      "category": "season",
+      "date": "2026-11-11",
+      "days_left": 33,
+      "prep_by": "2026-10-28",
+      "lead_days": 14,
+      "status": "upcoming",
+      "keywords": [
+        "singles day sale"
+      ],
+      "note": "",
+      "source": "",
+      "kind": "yearly"
+    },
+    {
+      "name": "ATEEZ 'GOLDEN HOUR Part.6'",
+      "category": "kpop",
+      "date": "2026-11-13",
+      "days_left": 35,
+      "prep_by": "2026-11-10",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "ateez golden hour",
+        "ateez photocard"
+      ],
+      "note": "",
+      "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+      "kind": "once"
+    },
+    {
+      "name": "TXT 'PERFECT STORM'",
+      "category": "kpop",
+      "date": "2026-11-16",
+      "days_left": 38,
+      "prep_by": "2026-11-13",
+      "lead_days": 3,
+      "status": "upcoming",
+      "keywords": [
+        "txt perfect storm",
+        "txt photocard"
+      ],
+      "note": "",
+      "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
+      "kind": "once"
+    },
+    {
+      "name": "Black Friday",
+      "category": "season",
+      "date": "2026-11-27",
+      "days_left": 49,
+      "prep_by": "2026-10-30",
+      "lead_days": 28,
+      "status": "upcoming",
+      "keywords": [
+        "black friday deals"
+      ],
+      "note": "",
+      "source": "",
+      "kind": "nth_weekday"
+    },
+    {
+      "name": "Cyber Monday",
+      "category": "season",
+      "date": "2026-11-30",
+      "days_left": 52,
+      "prep_by": "2026-11-02",
+      "lead_days": 28,
+      "status": "upcoming",
+      "keywords": [
+        "cyber monday deals"
+      ],
+      "note": "",
+      "source": "",
+      "kind": "nth_weekday"
+    }
+  ],
+  "today": "2026-10-09"
+}

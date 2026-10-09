@@ -22,6 +22,7 @@ python -m unittest discover tests
 # 3. 수집 실행 → 결과는 docs/data/*.json
 python -m src.collectors.google_trends
 python -m src.collectors.reddit   # 약 30초~1분
+python -m src.collectors.events   # 다가오는 이벤트 (config/events.yaml)
 ```
 
 ## 문서
