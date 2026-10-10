@@ -1,237 +1,237 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-09T15:18:45+00:00",
+  "fetched_at": "2026-10-10T01:46:25+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "mike ditka",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Fri, 9 Oct 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6L8sx74g2sZFyJSLtN9_8k6eyODadOjgGUNBud81lv5Y4jFdProGdYVXt4-A",
-      "news": [
-        {
-          "title": "Report: Bears legend Mike Ditka has passed away at age 86",
-          "url": "https://sports.yahoo.com/articles/report-bears-legend-mike-ditka-150049138.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
-          "url": "https://abc7chicago.com/post/legendary-coach-hall-fame-te-mike-ditka-dies-age-86/19924967/",
-          "source": "ABC7 Chicago"
-        },
-        {
-          "title": "Chicago Bears legend Mike Ditka reportedly dies at 86",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/chicago-bears-legend-mike-ditka-dies-at-86-150831571.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "ditka",
+      "keyword": "olivia rodrigo",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 9 Oct 2026 07:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj9KbDVMWXgOTiJNgRKqh-8w4J9b943JvMQA2QufLVfp_BcnOLfJ0MNhw-C28",
+      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDECqTmCOqV97P-fl3-bZbOWW68yFnLqSsaiM1hJaJtLowKrouIr0UJaIBeco",
       "news": [
         {
-          "title": "Bears vs. Packers most hated list: Aaron Rodgers, Mike Ditka and the 10 rivalry figures fans love to hate",
-          "url": "https://www.sportingnews.com/us/nfl/news/bears-packers-most-hated-list/a2e58f210be502a51a0b9242",
-          "source": "Sporting News"
+          "title": "Olivia Rodrigo: The Queen of Sad Finds Her Happy Place",
+          "url": "https://www.hollywoodreporter.com/music/music-features/olivia-rodrigo-interview-daisy-chain-festival-album-stardom-1236723322/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Olivia Rodrigo’s Schiaparelli Skirt Is Nothing but Cutouts on THR Cover",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-rodrigo-schiaparelli-skirt-nothing-092956338.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Olivia Rodrigo’s Blinding Calvin Klein Dress Is Held up by Just 2 Strings",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-rodrigo-blinding-calvin-klein-093205753.html",
+          "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "saudi arabia",
+      "keyword": "hannah waddingham",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDrXVtPpyLS853HFu9hLenVLR-eZsCAiFTDAO7SR1-1uXRMepT1La_5-ccE5s",
+      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHwVMZFBX4WmpUNutbLHCKDH_SGGDFjSHUaF8Tw1Lo-VVfhmP_PhZqRTNsFCc",
       "news": [
         {
-          "title": "Attacks on airport in Riyadh, Saudi Arabia leave 3 dead as Iran-backed Houthis escalate conflict",
-          "url": "https://www.foxnews.com/live-news/us-iran-war-saudi-arabia-airport-attack-yemen-houthis-10-09-26",
-          "source": "Fox News"
+          "title": "Hannah Waddingham's Early Career Included A Role On Another Sports-Themed Show",
+          "url": "https://www.tvline.com/2275607/hannah-waddingham-role-other-sports-themed-show-footballers-wives/",
+          "source": "TVLine"
         },
         {
-          "title": "Saudi authorities say 3 killed in Houthi-claimed attacks on Riyadh airport",
-          "url": "https://www.latimes.com/world-nation/story/2026-10-09/saudi-authorities-say-3-killed-in-houthi-claimed-attacks-on-riyadh-airport",
-          "source": "Los Angeles Times"
+          "title": "Hannah Waddingham's Early Career Included A Role On Another Sports-Themed Show",
+          "url": "https://www.imdb.com/es/news/ni66053185/?ref_=nwc_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "Explosions heard in Saudi capital and Riyadh airport, and other Mideast developments",
-          "url": "https://apnews.com/article/israel-consulate-britain-mideast-october-8-2026-c7a446e1bd01966f19b88af07149c3d5",
-          "source": "AP News"
+          "title": "Ted Lasso Star Hannah Waddingham Played A Superhero On A Popular British Sitcom",
+          "url": "https://www.aol.com/articles/ted-lasso-star-hannah-waddingham-141200000.html",
+          "source": "AOL.com"
         }
       ]
     },
     {
-      "keyword": "iowa vs washington",
+      "keyword": "caleb wilson",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkTajClU63dnv4P_dF613H68rknZWxHmIVc6tPyF6JGFo4Ol7TmdQ1FaRwE0Q",
+      "pub_date": "Fri, 9 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fBcdPkL9-7dsvdzV0W2ad4KPliWV8Qc374a3n9Lq3zkUQJRrqJoR2-yyuTs",
       "news": [
         {
-          "title": "What to watch for as Huskies host No. 20, plus a prediction",
-          "url": "https://www.seattletimes.com/sports/washington-huskies-football/washington-huskies-hosts-no-20-iowa-what-to-watch/",
-          "source": "The Seattle Times"
+          "title": "Ask Sam Mailbag: Takeaways from the start of Preseason",
+          "url": "https://bulls.com/news/ask-sam-mailbag-takeaways-from-the-start-of-preseason",
+          "source": "NBA.com"
         },
         {
-          "title": "Iowa vs. Washington college football odds, parlay: Hawkeyes starting quarterback questionable for Friday game",
-          "url": "https://www.cbssports.com/betting/news/iowa-vs-washington-college-football-odds-parlay-hawkeyes-starting-quarterback-questionable-for-friday-game",
-          "source": "CBS Sports"
+          "title": "Caleb Wilson’s First Shot With Bulls Echoes Michael Jordan",
+          "url": "https://sports.yahoo.com/articles/caleb-wilson-first-shot-bulls-012020056.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Kirk Ferentz -- Iowa can't count on Hank Brown being ready Fri.",
-          "url": "https://www.espn.com/college-football/story/_/id/50129420/kirk-ferentz-iowa-count-hank-brown-being-ready-fri",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "mrna stock",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 07:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJHsJfv16rOWDQyTk1xn6ukt5kkIY0H1yssZJ4Lw9kLNPzYRMyUjCdjLHYmqs",
-      "news": [
-        {
-          "title": "Moderna (MRNA) Was Removed From the Nasdaq-100 and Is Going Back In. What Changed?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/moderna-mrna-removed-nasdaq-100-014446416.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Why is Moderna stock surging today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-surging-today-93CH-4941340",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Moderna Is Up 545% in 2026: Take Profits Now, or Keep Buying?",
-          "url": "https://247wallst.com/investing/2026/10/06/moderna-is-up-545-in-2026-take-profits-now-or-keep-buying/",
-          "source": "24/7 Wall St."
-        }
-      ]
-    },
-    {
-      "keyword": "nelson toburen",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 07:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6zKViYv81Tw7FlAVB8foSsO8s8ej51mo7OHn0Btm72p59UpJQbU9YHubdvg8",
-      "news": [
-        {
-          "title": "Former Packers linebacker, two-time NFL champion dies following battle with cancer",
-          "url": "https://www.pennlive.com/sports/2026/10/former-packers-linebacker-two-time-nfl-champion-dies-following-battle-with-cancer.html",
-          "source": "PennLive.com"
-        },
-        {
-          "title": "Obituary for Nelson Edward (Toburen) Toburen",
-          "url": "https://www.brennermortuary.com/obituary/Nelson-Toburen",
-          "source": "Brenner Mortuary"
-        },
-        {
-          "title": "Nelson Toburen, Lombardi-Era Packers Linebacker Turned Kansas Judge, Dies at 87",
-          "url": "https://www.thatericalper.com/2026/10/07/nelson-toburen-lombardi-era-packers-linebacker-turned-kansas-judge-dies-at-87/",
-          "source": "That Eric Alper"
-        }
-      ]
-    },
-    {
-      "keyword": "lisa cook",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 07:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4C1voD7K4m9x5_HkKaHmcHXeCJyp0EBnToEh8nNgF7pYPWM_I96dinw7T4vU",
-      "news": [
-        {
-          "title": "Trump Announces White House Inquiry into Fed Governor Cook",
-          "url": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+          "title": "Bulls rookie Caleb Wilson keeps it cool in his NBA preseason debut",
+          "url": "https://www.nytimes.com/athletic/7671005/2026/10/08/caleb-wilson-preseason-debut-bulls/",
           "source": "The New York Times"
-        },
-        {
-          "title": "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
-          "url": "https://www.nbcnews.com/business/economy/trump-probe-fed-gov-lisa-cook-rcna602500",
-          "source": "NBC News"
-        },
-        {
-          "title": "Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her",
-          "url": "https://apnews.com/article/cook-federal-reserve-trump-debef61d38fbb6a74e84a57fe8e26fc5",
-          "source": "AP News"
         }
       ]
     },
     {
-      "keyword": "interstate 95",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrF9-VLNUiJ870UAADpmZ4FfyREw1PYvSzjw1OC9Uu3XNrRFu0WsQEpVfCPXk",
+      "keyword": "bob saget",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 9 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3BruvYfR1WrKQBOQoJTkapGQwaFH1-Zk1CQ0mV6ITX1Tn2tEV3xjWFi922X4",
       "news": [
         {
-          "title": "Major closures planned on Dolphin Expressway, I-395 in Miami this weekend",
-          "url": "https://www.local10.com/traffic/2026/10/08/major-closures-planned-on-dolphin-expressway-i-395-in-miami-this-weekend/",
-          "source": "WPLG Local 10"
-        },
-        {
-          "title": "FDOT announces road closures on I-395, SR 836, I-95 due to construction project",
-          "url": "https://wsvn.com/news/local/miami-dade/miami-i-395-sr-836-i-95-closures/",
-          "source": "WSVN"
-        },
-        {
-          "title": "Major closures planned on Dolphin Expressway in Miami; drivers should expect detours",
-          "url": "https://www.local10.com/traffic/2026/10/01/major-closures-planned-on-dolphin-expressway-in-miami-drivers-should-expect-detours/",
-          "source": "WPLG Local 10"
-        }
-      ]
-    },
-    {
-      "keyword": "harry",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZmRBwT3-YiGZigBDHW8nqBCcRncB9Fl4Z4CTqbN0xiueUrTqLUYNKRxYRAM",
-      "news": [
-        {
-          "title": "UK's Prince Harry says he fell into depression as he weighed royal future",
-          "url": "https://www.reuters.com/world/uk/uks-prince-harry-says-he-fell-into-depression-he-weighed-royal-future-2026-10-09/",
-          "source": "Reuters"
-        },
-        {
-          "title": "Prince Harry Says Princess Diana’s Perfume Helped Unlock Memories He Had ‘Shut Down’",
-          "url": "https://people.com/prince-harry-says-princess-diana-perfume-unlocked-memories-masterclass-12160802",
+          "title": "Bob Saget’s Widow Kelly Rizzo Shares Heartfelt Message About Grief",
+          "url": "https://people.com/bob-saget-s-widow-kelly-rizzo-shares-heartfelt-message-about-grief-12165996",
           "source": "People.com"
         },
         {
-          "title": "Harry says he 'slipped into depression' after leaving UK for Canada",
-          "url": "https://www.bbc.com/news/articles/c623dv9n93evo",
-          "source": "BBC"
+          "title": "From a DM in 2015 to a tragic farewell: a look back at Kelly Rizzo and Bob Saget's love story",
+          "url": "https://www.legit.ng/ask-legit/biographies/1734519-from-a-dm-2015-a-tragic-farewell-a-kelly-rizzo-bob-sagets-love-story/",
+          "source": "Legit News"
+        },
+        {
+          "title": "Bob Saget’s Widow Kelly Rizzo Reflects on Grief Almost 5 Years After the ‘Full House’ Star’s Death",
+          "url": "https://www.usmagazine.com/celebrity-news/news/bob-sagets-widow-kelly-rizzo-reflects-on-her-grief/",
+          "source": "Us Weekly"
         }
       ]
     },
     {
-      "keyword": "unh stock",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 07:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdtxwFycYuxQX6bjUmpjAYxsNUmnuJCydeoF33kx10YqFzptKA5kt-in_RJY",
+      "keyword": "robert griffin iii",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQmy-TvqYqj04ImwRpPecEGMHgQkxe5C__G8yCxBWutsb3TxKDbgOVunTqYRs",
       "news": [
         {
-          "title": "UnitedHealth Gears Up for Q3 Earnings: Should Investors Buy the Stock?",
-          "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-gears-q3-earnings-investors-151100456.html",
-          "source": "Yahoo Finance"
+          "title": "Majority of fans want Michigan QB Tommy Carr to start, bench Bryce Underwood",
+          "url": "https://www.maizenbrew.com/football/124898/michigan-football-tommy-carr-bryce-underwood-penn-state",
+          "source": "Maize n Brew"
         },
         {
-          "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 13",
-          "url": "https://www.barchart.com/story/news/5092693/dear-unitedhealth-stock-fans-mark-your-calendars-for-october-13",
-          "source": "Barchart.com"
+          "title": "Michigan football rumors: Bryce Underwood’s $12 million contract could be terminated after season if Wolverines give up on him",
+          "url": "https://sports.yahoo.com/articles/michigan-football-rumors-bryce-underwood-145032396.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "UnitedHealth: A Beat Is Priced In, But There's Room For Surprise (NYSE:UNH)",
-          "url": "https://seekingalpha.com/article/4953067-unitedhealth-a-beat-is-priced-in-but-theres-room-for-surprise",
-          "source": "Seeking Alpha"
+          "title": "Is it time for Michigan football to bench Bryce Underwood?",
+          "url": "https://www.freep.com/videos/sports/college/university-michigan/wolverines/2026/10/07/michigan-football-bench-bryce-underwood/92141889007/",
+          "source": "Detroit Free Press"
+        }
+      ]
+    },
+    {
+      "keyword": "fire country cast",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSla3ohZ_p3TloStkKB1qEyzR5o0753pCkKnaKxNBgqVZhn04yJzvbnCzWWo3s",
+      "news": [
+        {
+          "title": "‘Fire Country’ cast changes: See who’s not returning for season 5",
+          "url": "https://www.nj.com/entertainment/2026/10/fire-country-cast-changes-see-whos-not-returning-for-season-5.html",
+          "source": "NJ.com"
+        },
+        {
+          "title": "Fire Country's New Series Regular Olivia Thirlby Debuts As CJ In Season 5 Premiere (Exclusive Sneak Peek)",
+          "url": "https://www.tvline.com/2282203/fire-country-season-5-episode-1-olivia-thirlby-cast-cj-video/",
+          "source": "TVLine"
+        },
+        {
+          "title": "How to watch Fire Country season 5 online for FREE— stream the blazing hot series from anywhere",
+          "url": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-fire-country-season-5",
+          "source": "TechRadar"
+        }
+      ]
+    },
+    {
+      "keyword": "morgan freeman",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcVN0xX-ZbxLX36Ce2uKT7foqOf2NbZmdSojQOO4V-X8Mhqk3HSaO8PLHa3NA",
+      "news": [
+        {
+          "title": "Morgan Freeman, Pilot: The Real Story of His Flying",
+          "url": "https://migflug.com/afterburner/it/morgan-freeman-pilot-air-force-licence-sj30-jet/",
+          "source": "MiGFlug"
+        }
+      ]
+    },
+    {
+      "keyword": "talina galloway",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 9 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhRJw84NffY_kWD-JmlAagcYm7_gbR05u7ezYWLGGY_x7HOefRGtdxgrE0ns",
+      "news": [
+        {
+          "title": "Police found her roommate dismembered. Then they connected her to another years-old mystery.",
+          "url": "https://www.nbcnews.com/news/us-news/oklahoma-roommate-death-kore-bommeli-talina-galloway-rcna602143",
+          "source": "NBC News"
+        },
+        {
+          "title": "‘Dateline - the disappearance of Talina Galloway’: Where to watch (for free) in case you missed it",
+          "url": "https://www.nj.com/tv/2026/10/dateline-the-disappearance-of-talina-galloway-where-to-watch-for-free-in-case-you-missed-it.html",
+          "source": "NJ.com"
+        },
+        {
+          "title": "Dateline NBC October 9 New Episode To Feature A Disappearance Mystery In Oklahoma",
+          "url": "https://www.imdb.com/news/ni66054932/?ref_=int_nwr_2",
+          "source": "IMDb"
+        }
+      ]
+    },
+    {
+      "keyword": "jason sudeikis",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4jk5oLa4GkQUTEZFv3ahcOMRZ5MuAJ-DEVYZx-lt1sBkHtfXJvPnwdWk-x4o",
+      "news": [
+        {
+          "title": "‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/jason-sudeikis-wnba-breanna-stewart-interview-1236722754/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Jason Sudeikis Makes Strong Breanna Stewart MVP Case: ‘I Don’t Think You Were Brought Up Enough’",
+          "url": "https://sports.yahoo.com/articles/jason-sudeikis-makes-strong-breanna-170133540.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Breanna Stewart, Jason Sudeikis make UConn-SNL connection",
+          "url": "https://www.greenwichtime.com/sports/uconn-womens-basketball/article/breanna-stewart-jason-sudeikis-ted-lasso-wnba-22466637.php",
+          "source": "Greenwich Time"
+        }
+      ]
+    },
+    {
+      "keyword": "the miz",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 9 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4SOB7flR00jpQJbg3qIiexeZTPX5uf-tNQZvefIg9GJabdfclqsXBQCv3rKc",
+      "news": [
+        {
+          "title": "WWE Main Event Recap: Big Cass is still tall",
+          "url": "https://www.cagesideseats.com/wwe/480416/wwe-main-event-recap-review-oct-8-2026-big-cass-miz-nakamura",
+          "source": "Cageside Seats"
+        },
+        {
+          "title": "Leighty’s WWE Main Event Review 10.8.26",
+          "url": "https://411mania.com/wrestling/leightys-wwe-main-event-review-10-8-26/",
+          "source": "411MANIA"
+        },
+        {
+          "title": "WWE Main Event Results – October 8th, 2026",
+          "url": "https://bodyslam.net/wwe-main-event-results-october-8th-2026/",
+          "source": "Bodyslam.net"
         }
       ]
     }
