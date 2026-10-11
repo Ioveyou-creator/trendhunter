@@ -1,237 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-10T01:46:25+00:00",
+  "fetched_at": "2026-10-11T01:01:38+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "olivia rodrigo",
+      "keyword": "will stein",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDECqTmCOqV97P-fl3-bZbOWW68yFnLqSsaiM1hJaJtLowKrouIr0UJaIBeco",
+      "pub_date": "Sat, 10 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNbu_5B8N3tE9Tf40PMMUjYFcxMwG2RXJX2nlUTeN44XSxn0Ql875UOEgypo",
       "news": [
         {
-          "title": "Olivia Rodrigo: The Queen of Sad Finds Her Happy Place",
-          "url": "https://www.hollywoodreporter.com/music/music-features/olivia-rodrigo-interview-daisy-chain-festival-album-stardom-1236723322/",
-          "source": "The Hollywood Reporter"
+          "title": "Will Stein explains how Kentucky’s loss to Alabama changed his approach",
+          "url": "https://www.on3.com/teams/kentucky-wildcats/news/will-stein-lessons-learned-alabama-loss-lsu/",
+          "source": "On3"
         },
         {
-          "title": "Olivia Rodrigo’s Schiaparelli Skirt Is Nothing but Cutouts on THR Cover",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-rodrigo-schiaparelli-skirt-nothing-092956338.html",
-          "source": "Yahoo"
+          "title": "Kentucky coach Will Stein tells Wildcats players 'If you don't believe in what we're doing, you are high'",
+          "url": "https://www.foxnews.com/outkick-sports/kentucky-coach-will-stein-tells-wildcats-players-dont-believe-what-were-doing-you-are-high",
+          "source": "Fox News"
         },
         {
-          "title": "Olivia Rodrigo’s Blinding Calvin Klein Dress Is Held up by Just 2 Strings",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-rodrigo-blinding-calvin-klein-093205753.html",
-          "source": "Yahoo"
+          "title": "Ask Mark Anything: Is Will Stein’s team worthy of a Rupp’s Runts-type nickname?",
+          "url": "https://www.kentucky.com/sports/spt-columns-blogs/mark-story/article317503737.html",
+          "source": "Lexington Herald Leader"
         }
       ]
     },
     {
-      "keyword": "hannah waddingham",
+      "keyword": "will venable",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHwVMZFBX4WmpUNutbLHCKDH_SGGDFjSHUaF8Tw1Lo-VVfhmP_PhZqRTNsFCc",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7rdKT6hLFfErTcwuEXkb-hFdvdmALdqz2S9kduEvpc4PyBYzmdz1PdnIfn9k",
       "news": [
         {
-          "title": "Hannah Waddingham's Early Career Included A Role On Another Sports-Themed Show",
-          "url": "https://www.tvline.com/2275607/hannah-waddingham-role-other-sports-themed-show-footballers-wives/",
-          "source": "TVLine"
+          "title": "Bo Jackson of the Ivy League? How Venable rebounded from hoops to baseball",
+          "url": "https://www.mlb.com/news/white-sox-manager-will-venable-two-sport-athlete-in-college",
+          "source": "MLB.com"
         },
         {
-          "title": "Hannah Waddingham's Early Career Included A Role On Another Sports-Themed Show",
-          "url": "https://www.imdb.com/es/news/ni66053185/?ref_=nwc_art_perm",
-          "source": "IMDb"
+          "title": "Will Venable: the White Sox manager who used basketball tactics to transform a baseball loser",
+          "url": "https://www.theguardian.com/sport/2026/oct/07/will-venable-chicago-white-sox-mlb-playoffs",
+          "source": "The Guardian"
         },
         {
-          "title": "Ted Lasso Star Hannah Waddingham Played A Superhero On A Popular British Sitcom",
-          "url": "https://www.aol.com/articles/ted-lasso-star-hannah-waddingham-141200000.html",
-          "source": "AOL.com"
+          "title": "Criticisms of Will Venable",
+          "url": "https://roundtable.io/sports/mlb/white-sox/community/opinion/criticisms-of-will-venable",
+          "source": "roundtable.io"
         }
       ]
     },
     {
-      "keyword": "caleb wilson",
+      "keyword": "kalshi",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_fBcdPkL9-7dsvdzV0W2ad4KPliWV8Qc374a3n9Lq3zkUQJRrqJoR2-yyuTs",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSwFfJci8_FslH4SpMgV4g3QgOcIcgwOcpdvQhMCYdiLLmzlBazI7PKbnRiGw",
       "news": [
         {
-          "title": "Ask Sam Mailbag: Takeaways from the start of Preseason",
-          "url": "https://bulls.com/news/ask-sam-mailbag-takeaways-from-the-start-of-preseason",
-          "source": "NBA.com"
+          "title": "Kalshi promo code “OREGONLIVE55” updates $55 bonus for sports betting odds this Saturday",
+          "url": "https://www.oregonlive.com/betting/2026/10/kalshi-promo-code-oregonlive55-updates-55-bonus-for-sports-betting-odds-this-saturday.html",
+          "source": "OregonLive.com"
         },
         {
-          "title": "Caleb Wilson’s First Shot With Bulls Echoes Michael Jordan",
-          "url": "https://sports.yahoo.com/articles/caleb-wilson-first-shot-bulls-012020056.html",
+          "title": "Best Kalshi promo code CBSSPORTS55: Earn $55 bonus for Georgia-Alabama, Penn State-USC, college football",
+          "url": "https://www.cbssports.com/college-football/news/best-kalshi-promo-code-cbssports55-earn-55-bonus-georgia-alabama-usc-penn-state-college-football/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Kalshi Promo Code AL55: Claim a $55 bonus for college football, MLB Playoffs",
+          "url": "https://www.al.com/betting/2026/10/kalshi-promo-code-al55-claim-a-55-bonus-for-college-football-mlb-playoffs.html-3",
+          "source": "AL.com"
+        }
+      ]
+    },
+    {
+      "keyword": "clima para amanhã",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sat, 10 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBuVxEY40d8VbE0COlDm4gAk2-JbAV6ynWQ6ZOnL_3M5dZqD1pE3-UERXMybw",
+      "news": [
+        {
+          "title": "Clima para amanhã em Fortaleza: domingo de sol firme e vento forte na faixa litorânea",
+          "url": "https://www.portaldoholanda.com.br/fortaleza/clima-para-amanha-em-fortaleza-domingo-de-sol-firme-e-vento-forte-na-faixa-litoranea",
+          "source": "Portal do Holanda"
+        },
+        {
+          "title": "Previsão do tempo em Fortaleza (CE) hoje: veja como fica o clima nesta sexta-feira",
+          "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-fortaleza-ce-hoje-veja-como-fica-o-clima-nesta-sexta-feira,35320d6faf304a7a1a3de64fc9a581045xw4sza5.html",
+          "source": "Terra"
+        },
+        {
+          "title": "Previsão do tempo em Fortaleza: 30.3°C e 55% de chuva",
+          "url": "https://www.bra1.com.br/clima/id-698759/previsao_do_tempo_em_fortaleza__30.3_c_e_55__de_chuva",
+          "source": "www.bra1.com.br"
+        }
+      ]
+    },
+    {
+      "keyword": "mike bobo",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrBsQiFnsxyL7tL7rnCZPasusVActorevdS0pFdLmeV-Jwepkj-VZ4F2dkaM0",
+      "news": [
+        {
+          "title": "Alabama calls Georgia's Mike Bobo 'one of the best playcallers'",
+          "url": "https://sports.yahoo.com/articles/alabama-calls-georgias-mike-bobo-155456676.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Bulls rookie Caleb Wilson keeps it cool in his NBA preseason debut",
-          "url": "https://www.nytimes.com/athletic/7671005/2026/10/08/caleb-wilson-preseason-debut-bulls/",
-          "source": "The New York Times"
+          "title": "Alabama DC said what some Georgia fans won’t admit about Mike Bobo",
+          "url": "https://dawnofthedawg.com/alabama-dc-said-what-some-georgia-fans-won-t-admit-about-mike-bobo",
+          "source": "Dawn of the Dawg"
+        },
+        {
+          "title": "Wommack feels Georgia OC is one of the best play callers he has faced",
+          "url": "https://tdalabamamag.com/2026/10/06/wommack-feels-georgia-oc-is-one-of-the-best-play-callers-he-has-faced/",
+          "source": "Touchdown Alabama"
         }
       ]
     },
     {
-      "keyword": "bob saget",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 9 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3BruvYfR1WrKQBOQoJTkapGQwaFH1-Zk1CQ0mV6ITX1Tn2tEV3xjWFi922X4",
-      "news": [
-        {
-          "title": "Bob Saget’s Widow Kelly Rizzo Shares Heartfelt Message About Grief",
-          "url": "https://people.com/bob-saget-s-widow-kelly-rizzo-shares-heartfelt-message-about-grief-12165996",
-          "source": "People.com"
-        },
-        {
-          "title": "From a DM in 2015 to a tragic farewell: a look back at Kelly Rizzo and Bob Saget's love story",
-          "url": "https://www.legit.ng/ask-legit/biographies/1734519-from-a-dm-2015-a-tragic-farewell-a-kelly-rizzo-bob-sagets-love-story/",
-          "source": "Legit News"
-        },
-        {
-          "title": "Bob Saget’s Widow Kelly Rizzo Reflects on Grief Almost 5 Years After the ‘Full House’ Star’s Death",
-          "url": "https://www.usmagazine.com/celebrity-news/news/bob-sagets-widow-kelly-rizzo-reflects-on-her-grief/",
-          "source": "Us Weekly"
-        }
-      ]
-    },
-    {
-      "keyword": "robert griffin iii",
+      "keyword": "bron breakker",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQmy-TvqYqj04ImwRpPecEGMHgQkxe5C__G8yCxBWutsb3TxKDbgOVunTqYRs",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTssh1-RjqPe5h_indk8_zLVTG0cRD-BENeBM1Nx4-tDexpMxZ44utXCki52CA",
       "news": [
         {
-          "title": "Majority of fans want Michigan QB Tommy Carr to start, bench Bryce Underwood",
-          "url": "https://www.maizenbrew.com/football/124898/michigan-football-tommy-carr-bryce-underwood-penn-state",
-          "source": "Maize n Brew"
+          "title": "Bron Breakker is an ‘UNPREDICTABLE BADASS!’ Joe Tessitore previews Money in the Bank",
+          "url": "https://www.espn.com/watch/player/_/id/50125574",
+          "source": "ESPN"
         },
         {
-          "title": "Michigan football rumors: Bryce Underwood’s $12 million contract could be terminated after season if Wolverines give up on him",
-          "url": "https://sports.yahoo.com/articles/michigan-football-rumors-bryce-underwood-145032396.html",
-          "source": "Yahoo Sports"
+          "title": "WWE Money in the Bank: Live results, analysis for two ladder matches",
+          "url": "https://www.espn.com/wwe/story/_/id/50126489/wwe-money-bank-live-results-analysis-two-six-person-ladder-matches",
+          "source": "ESPN"
         },
         {
-          "title": "Is it time for Michigan football to bench Bryce Underwood?",
-          "url": "https://www.freep.com/videos/sports/college/university-michigan/wolverines/2026/10/07/michigan-football-bench-bryce-underwood/92141889007/",
-          "source": "Detroit Free Press"
+          "title": "Women’s Money in the Bank Ladder Match: Money in the Bank 2026 highlights",
+          "url": "https://www.wwe.com/videos/women-s-money-in-the-bank-ladder-match-money-in-the-bank-2026-highlights",
+          "source": "WWE"
         }
       ]
     },
     {
-      "keyword": "fire country cast",
+      "keyword": "kevin owens",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSla3ohZ_p3TloStkKB1qEyzR5o0753pCkKnaKxNBgqVZhn04yJzvbnCzWWo3s",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRhMrk1c-B0fQruXnEz67_BHwO9Lyh_pPbxBIuhilFb1gjy1PNcnl0zFZKwg",
       "news": [
         {
-          "title": "‘Fire Country’ cast changes: See who’s not returning for season 5",
-          "url": "https://www.nj.com/entertainment/2026/10/fire-country-cast-changes-see-whos-not-returning-for-season-5.html",
-          "source": "NJ.com"
+          "title": "Trick Williams, Je'Von Evans and Penta continue to talk trash: SmackDown exclusive, Oct. 2, 2026",
+          "url": "https://www.wwe.com/videos/trick-williams-je-von-evans-and-penta-continue-to-talk-trash-smackdown-exclusive-oct-2-2026",
+          "source": "WWE"
         },
         {
-          "title": "Fire Country's New Series Regular Olivia Thirlby Debuts As CJ In Season 5 Premiere (Exclusive Sneak Peek)",
-          "url": "https://www.tvline.com/2282203/fire-country-season-5-episode-1-olivia-thirlby-cast-cj-video/",
-          "source": "TVLine"
+          "title": "Trick Williams Is The Undisputed WWE Championship Challenger Sami Zayn Cannot Avoid",
+          "url": "https://www.stadiumrant.com/trick-williams-challenger-zayn-cannot-avoid/",
+          "source": "Stadium Rant"
         },
         {
-          "title": "How to watch Fire Country season 5 online for FREE— stream the blazing hot series from anywhere",
-          "url": "https://www.techradar.com/how-to-watch/tv-shows/how-to-watch-fire-country-season-5",
-          "source": "TechRadar"
+          "title": "Sami Zayn Confronted by Men’s Money in the Bank Competitors on 10/2 SmackDown",
+          "url": "https://lastwordonsports.com/prowrestling/2026/10/03/sami-zayn-confronted-by-mens-money-in-the-bank-competitors-on-10-2-smackdown/",
+          "source": "Last Word On Sports"
         }
       ]
     },
     {
-      "keyword": "morgan freeman",
+      "keyword": "météo demain",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcVN0xX-ZbxLX36Ce2uKT7foqOf2NbZmdSojQOO4V-X8Mhqk3HSaO8PLHa3NA",
+      "pub_date": "Sat, 10 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQdJoj-qWDfjmZqXnrLBAV7dCnlNq6cTS_8wpODVu4Aju_5kKrKfIcByaao4",
       "news": [
         {
-          "title": "Morgan Freeman, Pilot: The Real Story of His Flying",
-          "url": "https://migflug.com/afterburner/it/morgan-freeman-pilot-air-force-licence-sj30-jet/",
-          "source": "MiGFlug"
+          "title": "Prévisions météorologiques pour le dimanche 11 octobre 2026",
+          "url": "https://medias24.com/2026/10/10/previsions-meteorologiques-pour-le-dimanche-11-octobre-2026-1776445/",
+          "source": "Medias24"
+        },
+        {
+          "title": "Météo aujourd’hui samedi.. Averses attendues dans plusieurs régions",
+          "url": "https://fr.hibapress.com/news-277137.html",
+          "source": "هبة بريس"
+        },
+        {
+          "title": "Météo en Tunisie : Pluies au Nord et températures en baisse",
+          "url": "https://www.webdo.tn/fr/actualite/national/meteo-en-tunisie-pluies-au-nord-et-temperatures-en-baisse/405333/",
+          "source": "webdo"
         }
       ]
     },
     {
-      "keyword": "talina galloway",
+      "keyword": "penta",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 9 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhRJw84NffY_kWD-JmlAagcYm7_gbR05u7ezYWLGGY_x7HOefRGtdxgrE0ns",
+      "pub_date": "Sat, 10 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQflEhq4V2rnlOicoJs-unuMxKPB7aAwN6YEzmrz5ZJmkyrPXiEsLJMQov_Tvc",
       "news": [
         {
-          "title": "Police found her roommate dismembered. Then they connected her to another years-old mystery.",
-          "url": "https://www.nbcnews.com/news/us-news/oklahoma-roommate-death-kore-bommeli-talina-galloway-rcna602143",
-          "source": "NBC News"
-        },
-        {
-          "title": "‘Dateline - the disappearance of Talina Galloway’: Where to watch (for free) in case you missed it",
-          "url": "https://www.nj.com/tv/2026/10/dateline-the-disappearance-of-talina-galloway-where-to-watch-for-free-in-case-you-missed-it.html",
-          "source": "NJ.com"
-        },
-        {
-          "title": "Dateline NBC October 9 New Episode To Feature A Disappearance Mystery In Oklahoma",
-          "url": "https://www.imdb.com/news/ni66054932/?ref_=int_nwr_2",
-          "source": "IMDb"
-        }
-      ]
-    },
-    {
-      "keyword": "jason sudeikis",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4jk5oLa4GkQUTEZFv3ahcOMRZ5MuAJ-DEVYZx-lt1sBkHtfXJvPnwdWk-x4o",
-      "news": [
-        {
-          "title": "‘Ted Lasso’ Star Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart (Watch)",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/jason-sudeikis-wnba-breanna-stewart-interview-1236722754/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Jason Sudeikis Makes Strong Breanna Stewart MVP Case: ‘I Don’t Think You Were Brought Up Enough’",
-          "url": "https://sports.yahoo.com/articles/jason-sudeikis-makes-strong-breanna-170133540.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Breanna Stewart, Jason Sudeikis make UConn-SNL connection",
-          "url": "https://www.greenwichtime.com/sports/uconn-womens-basketball/article/breanna-stewart-jason-sudeikis-ted-lasso-wnba-22466637.php",
-          "source": "Greenwich Time"
-        }
-      ]
-    },
-    {
-      "keyword": "the miz",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 9 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4SOB7flR00jpQJbg3qIiexeZTPX5uf-tNQZvefIg9GJabdfclqsXBQCv3rKc",
-      "news": [
-        {
-          "title": "WWE Main Event Recap: Big Cass is still tall",
-          "url": "https://www.cagesideseats.com/wwe/480416/wwe-main-event-recap-review-oct-8-2026-big-cass-miz-nakamura",
-          "source": "Cageside Seats"
-        },
-        {
-          "title": "Leighty’s WWE Main Event Review 10.8.26",
-          "url": "https://411mania.com/wrestling/leightys-wwe-main-event-review-10-8-26/",
+          "title": "Penta vs. Roman Reigns Tops WWE YouTube Videos For September",
+          "url": "https://411mania.com/wrestling/penta-vs-roman-reigns-top-wwe-youtube-videos-september/",
           "source": "411MANIA"
         },
         {
-          "title": "WWE Main Event Results – October 8th, 2026",
-          "url": "https://bodyslam.net/wwe-main-event-results-october-8th-2026/",
-          "source": "Bodyslam.net"
+          "title": "WWE Money in the Bank: Live results, analysis for two ladder matches",
+          "url": "https://www.espn.com/wwe/story/_/id/50126489/wwe-money-bank-live-results-analysis-two-six-person-ladder-matches",
+          "source": "ESPN"
+        },
+        {
+          "title": "Roman Reigns vs. LA Knight | World Heavyweight Title Match: Money in the Bank 2026 Hype Package",
+          "url": "https://www.wwe.com/videos/roman-reigns-vs-la-knight-world-heavyweight-title-match-money-in-the-bank-2026-hype-package",
+          "source": "WWE"
+        }
+      ]
+    },
+    {
+      "keyword": "mitchell robinson",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 10 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnLorwMfCA1QlkKZgELVtEFKYBVazYjcFdcAyCkX-f4rdKOwWMSgOQTG0l0Z0",
+      "news": [
+        {
+          "title": "This Knick's Breakout Could Change Everything",
+          "url": "https://www.wthr.com/video/sports/locked-on/lo-new-york/knicks-show/this-knicks-breakout-could-change-everything/535-ee3f08b6-b947-4fc5-a39e-833bdaf1cc3c",
+          "source": "WTHR"
+        },
+        {
+          "title": "Why Mohamed Diawara's Start to Knicks' Preseason Was So Exciting",
+          "url": "https://www.si.com/nba/knicks/onsi/why-mohamed-diawara-start-knicks-preseason-so-exciting-01m493n0ckmt",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "Knicks seek Year 2 breakthrough from big man Mohamed Diawara",
+          "url": "https://nypost.com/2026/10/03/sports/knicks-seek-year-2-breakthrough-from-big-man-mohamed-diawara/",
+          "source": "New York Post"
         }
       ]
     }
