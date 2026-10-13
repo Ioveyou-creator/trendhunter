@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-12T01:21:52+00:00",
+  "fetched_at": "2026-10-13T03:04:07+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "cruz azul",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAaB1WbGYfkMjstlTDjSXVXVop2zd5CjU_ToF8YXt6QDflPaf6mhHAXURS9SY",
+      "keyword": "cedric mullins",
+      "traffic": 20000,
+      "traffic_label": "20000+",
+      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQageaVqJOgIjkmCoS5OlshLXZi9s5Bz9Fc8enX3FoybhHCCHOcItsltX1qNUg",
       "news": [
         {
-          "title": "Pumas vs Cruz Azul Prediction, Betting Tips, Lineups & Odds | 11 Oct 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/football/pumas-vs-cruz-azul-prediction-lineups-odds-2026-10-11/",
-          "source": "Sportsgambler"
+          "title": "Licensable picture: Strong earthquake felt in Panama",
+          "url": "https://www.reutersconnect.com/item/strong-earthquake-felt-in-panama/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlowT0E5T0dENQ%3D%3D?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
+          "source": "Reuters Connect"
         },
         {
-          "title": "Pumas UNAM vs Cruz Azul: Liga MX stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cqn73rxymdv5t",
-          "source": "BBC"
+          "title": "Licensable picture: Lake Weir Jeremiah Jacques (10) runs by Gainesville Zohn Ray Rochelle (7) during an FHSAA football game at Lake Weir High School",
+          "url": "https://www.reutersconnect.com/item/lake-weir-jeremiah-jacques-10-runs-by-gainesville-zohn-ray-rochelle-7-during-an-fhsaa-football-game-at-lake-weir-high-school/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwNjk3ODI",
+          "source": "Reuters Connect"
         },
         {
-          "title": "Can Pumas Finally Break the Cruz Azul Curse at Home?",
-          "url": "https://www.soyfutbol.com/en/news/can-pumas-finally-break-the-cruz-azul-curse-at-home-20261011-0026.html",
-          "source": "Soy Futbol"
+          "title": "Licensable picture: NBA: Preseason-Brooklyn Nets at Washington Wizards",
+          "url": "https://www.reutersconnect.com/item/nba-preseason-brooklyn-nets-at-washington-wizards/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwNjk2ODA",
+          "source": "Reuters Connect"
         }
       ]
     },
     {
-      "keyword": "calais campbell",
+      "keyword": "jose ramirez",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlb9xZ5gUyaxxqM6fqFehqkoK9jOhTKuBrZKJUWhnRDO8QcO2_h4On79dagY",
+      "pub_date": "Mon, 12 Oct 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQym4TENsndI6xRKWqT5o_Z9e8IQHFMifP18xYXIhm5pREiwnDEQMMvFS5S72A",
       "news": [
         {
-          "title": "Ravens’ Calais Campbell breaks NFL record for games by defensive lineman",
-          "url": "https://sports.yahoo.com/articles/ravens-calais-campbell-breaks-nfl-004423614.html",
+          "title": "Ramírez relishing another chance to carry Guardians to World Series berth",
+          "url": "https://www.mlb.com/news/jose-ramirez-has-chance-to-reach-world-series-for-second-time",
+          "source": "MLB.com"
+        },
+        {
+          "title": "White Sox fall flat in Game 5, crushed after wasting 2-0 ALDS lead",
+          "url": "https://www.espn.com/mlb/story/_/id/50154912/white-sox-fall-flat-game-5-crushed-wasting-2-0-alds-lead",
+          "source": "ESPN"
+        },
+        {
+          "title": "White Sox break their own 3-day-old MLB postseason record with 21 strikeouts in season-ending loss to Guardians",
+          "url": "https://sports.yahoo.com/mlb/article/white-sox-break-their-own-3-day-old-mlb-postseason-record-with-21-strikeouts-in-season-ending-loss-to-guardians-050542578.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "indians",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 12 Oct 2026 19:50:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgQdmITgFB5QqvRVdvgL_PFrhgPCHFzOgdJL_vMfcoLTYLbiSn3a45hjHjpg8",
+      "news": [
+        {
+          "title": "Didn’t Yandy Diaz Play for Cleveland? Revisiting Trade That Sent Rays Muscular Leadoff Hitter",
+          "url": "https://sports.yahoo.com/articles/didn-t-yandy-diaz-play-011502969.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Ravens defensive lineman Calais Campbell makes NFL history with tonight's game in Atlanta",
-          "url": "https://foxbaltimore.com/sports/sports-unlimited/ravens-defensive-lineman-calais-campbell-makes-nfl-history-with-tonights-game-in-atlanta",
-          "source": "WBFF"
+          "title": "What it means when the right calls Indian Americans a ‘question’",
+          "url": "https://www.cnn.com/2026/10/10/us/word-of-week-indian-question-cec",
+          "source": "CNN"
         },
         {
-          "title": "History for Ravens DL Calais Campbell",
-          "url": "https://foxbaltimore.com/sports/sports-unlimited/history-for-ravens-dl-calais-campbell",
-          "source": "WBFF"
+          "title": "Why the right turned on Indian-Americans, explained",
+          "url": "https://www.vox.com/podcasts/505495/anti-indian-racism-online-right-vivek-ramaswamy",
+          "source": "Vox"
         }
       ]
     },
     {
-      "keyword": "declan doyle",
+      "keyword": "carmelo hayes",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYs1w5mKSdV2vGb3AlFdC7eLapr1K-xOZWxlQE279nTpPmEyDE8F-enxPXZo",
+      "pub_date": "Mon, 12 Oct 2026 19:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQtkgwirvvwOfJh_aMUSmYtuNp63paBekZN8hvUgW0eVmuFevGxiEJQvtZQc",
       "news": [
         {
-          "title": "News & Notes: Tyler Huntley Says Starting Again Feels Like ‘Riding a Bike’",
-          "url": "https://www.baltimoreravens.com/news/tyler-huntley-starting-lamar-jackson-jakobi-lane-nick-vannett-zion-young-ravens-falcons",
-          "source": "Baltimore Ravens"
+          "title": "Carmelo Hayes Turns Heel, Helps 946 Beat Bloodline in Major Surprise on WWE Raw",
+          "url": "https://bleacherreport.com/articles/25507322-carmelo-hayes-turns-heel-helps-946-beat-bloodline-major-surprise-wwe-raw",
+          "source": "Bleacher Report"
         },
         {
-          "title": "Ravens’ OC Declan Doyle Makes Tyler Huntley Promise",
-          "url": "https://heavy.com/sports/nfl/baltimore-ravens/declan-doyle-tyler-huntley-promise-falcons/",
-          "source": "Heavy.com"
+          "title": "WWE Raw results, review, grades for Oct. 12: Carmelo Hayes joins 946 as faction lays out The Bloodline",
+          "url": "https://www.cbssports.com/wwe/news/wwe-raw-results-live-updates-match-grades-for-october-12/live/",
+          "source": "CBS Sports"
         },
         {
-          "title": "QB Tyler Huntley's Impact on Ravens vs. Falcons Game",
-          "url": "https://www.sportsgrid.com/nfl/video/tyler-huntleys-impact-on-ravens-vs-falcons-game",
-          "source": "SportsGrid"
+          "title": "WWE Raw Results (10/12/26): Carmelo Hayes Joins 946 and Destroys The Bloodline",
+          "url": "https://www.si.com/fannation/wrestling/wwe/wwe-raw-results-carmelo-hayes-joins-946-and-destroys-the-bloodline-october12",
+          "source": "Sports Illustrated"
         }
       ]
     },
     {
-      "keyword": "jake matthews",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkdYR1_lAREAlA5YxjEyc4_2XuiHJ4tEvxgKG0qSoyj8kNK41kS6UmO-9JWP8",
+      "keyword": "jim nantz",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 12 Oct 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUTlTHtavxmukQZOMpg0m6JldRCCRQ0rsGaaPYi38jFN0LfBZnfWK2bpjctQs",
       "news": [
         {
-          "title": "Falcons’ injury report: Jake Matthews questionable to make 200th straight start",
-          "url": "https://www.ajc.com/sports/2026/10/atlanta-falcons-injury-report-matthews-streak/",
-          "source": "The Atlanta Journal-Constitution"
+          "title": "‘Da Bears’ and the ‘S.N.L.’ Sketch That Immortalized Mike Ditka",
+          "url": "https://www.nytimes.com/2026/10/11/arts/television/mike-ditka-snl-da-bears.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Falcons injury report: Za'Darius Smith, Jake Matthews questionable vs. Ravens",
-          "url": "https://www.atlantafalcons.com/news/falcons-injury-report-vs-ravens-za-darius-smith-jake-matthews",
-          "source": "Atlanta Falcons"
+          "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
+          "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+          "source": "ESPN"
         },
         {
-          "title": "Falcons' Jake Matthews: All set for Sunday night",
-          "url": "https://www.cbssports.com/fantasy/football/news/falcons-jake-matthews-all-set-for-sunday-night/",
+          "title": "Inbox: This is the game. It’s always been the game",
+          "url": "https://www.packers.com/news/inbox-this-is-the-game-it-s-always-been-the-game-oct-10-2026",
+          "source": "Green Bay Packers – packers.com"
+        }
+      ]
+    },
+    {
+      "keyword": "line of fire",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 12 Oct 2026 19:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr4DOatRk896L1NHiDnaYEpg910-c0MGsqekFJM-5OJqeXejfLkDGtkxzfI0I",
+      "news": [
+        {
+          "title": "NBC Boss On 'Line Of Fire' Pickup, 'Newlyweds', 'Dungeon Crawler Carl'",
+          "url": "https://deadline.com/2026/10/nbc-peacock-scripted-strategy-liza-katz-interview-newlyweds-1237153816/",
+          "source": "Deadline"
+        },
+        {
+          "title": "NBC Orders Extra Scripts for Rookie Drama ‘Line of Fire’",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/line-of-fire-extra-scripts-nbc-1236728107/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Jenna Bush Hager’s ‘Line of Fire’ is Burning up the Ratings",
+          "url": "https://www.today.com/video/jenna-bush-hager-s-line-of-fire-is-burning-up-the-ratings-271255621698",
+          "source": "TODAY.com"
+        }
+      ]
+    },
+    {
+      "keyword": "angel martinez",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvubDZUcHCFjirjLhkYv6KeKJuKmyMGB33Abk8mtEmi7KYhecbE0beaJcdK7c",
+      "news": [
+        {
+          "title": "Guardians' Angel Martinez: Out of lineup again in Game 1",
+          "url": "https://www.cbssports.com/fantasy/baseball/news/guardians-angel-martinez-out-of-lineup-again-in-game-1/",
+          "source": "CBS Sports"
+        },
+        {
+          "title": "Petey Halpin gets start for Game 5 vs. White Sox",
+          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-10/petey-halpin-gets-start-for-game-5-vs-white-sox",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Guardians' Angel Martinez: On bench to begin Game 5",
+          "url": "https://www.cbssports.com/fantasy/baseball/news/guardians-angel-martinez-on-bench-to-begin-game-5/",
           "source": "CBS Sports"
         }
       ]
     },
     {
-      "keyword": "cooper pratt",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvSMhakT96aqr0ibKlwDB5KIZU5-K7-vRcuerxAG2IZCROt7GamTHZkWKY7iE",
+      "keyword": "bennett stirtz",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp33ZUm5qq_lPgWmNQ8UuxtjllxX_s_rAvxRRgFFdkE56p6382_BLBb7Im6Ps",
       "news": [
         {
-          "title": "Brewers shortstop celebrates series win with soda, not alcohol",
-          "url": "https://www.deseret.com/sports/2026/10/09/milwuakee-brewers-cooper-pratt-celebrate-orange-soda-national-league-championship-series/",
-          "source": "Deseret News"
+          "title": "Bennett Stirtz hits six triples, scores 26 points",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-12/bennett-stirtz-hits-six-triples-scores-26-points",
+          "source": "NBC Sports"
         },
         {
-          "title": "Licensable picture: Milwaukee Brewers shortstop Cooper Pratt (12) hits a single during the seventh inning of their National League Division Series",
-          "url": "https://www.reutersconnect.com/item/milwaukee-brewers-shortstop-cooper-pratt-12-hits-a-single-during-the-seventh-inning-of-their-national-league-division-series/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwNTE2Nzg",
-          "source": "Reuters Connect"
-        },
-        {
-          "title": "Cooper Pratt's throwing error proves costly in Brewers' Game 3 NLDS loss",
-          "url": "https://www.jsonline.com/videos/sports/mlb/brewers/2026/10/07/cooper-pratts-throwing-error-proves-costly-in-brewers-game-3-nlds-loss/92131495007/",
-          "source": "Milwaukee Journal Sentinel"
-        }
-      ]
-    },
-    {
-      "keyword": "andrew vaughn",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6yODMUq8F3wNmzA8nvY50Eqo9RDawBGFkZ_RiJxDOmqIOoZ60iDgd18YEv10",
-      "news": [
-        {
-          "title": "Why isn't Yelich in Brewers' starting lineup for NLCS Game 1?",
-          "url": "https://www.mlb.com/news/christian-yelich-out-of-starting-lineup-for-game-1-of-nlcs",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Christian Yelich out of Brewers lineup for NLCS Game 1",
-          "url": "https://www.nytimes.com/athletic/7681310/2026/10/11/christian-yelich-brewers-lineup-game-1-nlcs/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Andrew Vaughn in, Christian Yelich out in Game 1 NLCS lineup",
-          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/brewers-lineup-vs-dodgers-andrew-vaughn-in-for-christian-yelich/92177520007/",
-          "source": "Milwaukee Journal Sentinel"
-        }
-      ]
-    },
-    {
-      "keyword": "mookie betts",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXnlJFYf-uSlLBpLHb8KtD4afqc_djPs9Yn5_xFXGY3iXUyHxHtsfm_WscJIw",
-      "news": [
-        {
-          "title": "Dodgers' Mookie Betts, other MLB players feel haunted by Pfister Hotel",
-          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/11/dodgers-mookie-betts-mlb-players-haunted-pfister-hotel/92191940007/",
-          "source": "Milwaukee Journal Sentinel"
-        },
-        {
-          "title": "Max Muncy Has Hilarious Response to Dodgers’ Haunted Milwaukee Hotel",
-          "url": "https://dodgersnation.com/max-muncy-has-hilarious-response-to-dodgers-haunted-milwaukee-hotel/2026/10/10/",
-          "source": "Dodgers Nation"
-        },
-        {
-          "title": "Dodgers’ Max Muncy welcomes ghost to his Pfister Hotel room before NLCS",
-          "url": "https://sports.yahoo.com/articles/dodgers-max-muncy-welcomes-ghost-234156317.html",
+          "title": "“Whatever the team needs me to win, I’m going to do. …",
+          "url": "https://sports.yahoo.com/articles/whatever-team-needs-win-m-121450586.html",
           "source": "Yahoo Sports"
+        },
+        {
+          "title": "Scoreboard: Stirtz impresses in preseason loss to Pelicans",
+          "url": "https://www.dailythunder.com/scoreboard-preseason-2026-10-06-thunder-pelicans/",
+          "source": "Daily Thunder"
         }
       ]
     },
     {
-      "keyword": "jamie lee curtis",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR64MxrI-ljlBdgFzCkYFDnC2DR4rnM2aGMot5C7ZBN63ih4cyX_cgLeD-0ew",
+      "keyword": "jalen ramsey",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 12 Oct 2026 19:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpBlwPlPxIOu2zBIbVnwGjJ88ZMUOpFqyn4Iyaw8rbxc07WSFkPPPSEHkcsRE",
       "news": [
         {
-          "title": "Tea Leoni as Jeanie and Tim Daly as James in the Pilot episode of new NBC show \"Newlyweds.\"",
-          "url": "https://lufkindailynews.com/news_reuters/national/tea-leoni-as-jeanie-and-tim-daly-as-james-in-the-pilot-episode-of-new/image_4d3d9dde-db7f-50fd-bc19-1a0a65926303.html",
-          "source": "The Lufkin Daily News"
+          "title": "The Serious Health Risk Jalen Ramsey Is Taking to Stay on the Field",
+          "url": "https://sports.yahoo.com/articles/serious-health-risk-jalen-ramsey-134000092.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "‘Newlyweds’ Sneak Peek Shows Jamie Lee Curtis Mistaking Tim Daly’s Girlfriend Tea Leoni for His Maid",
-          "url": "https://www.usmagazine.com/entertainment/news/how-jamie-lee-curtis-meets-tea-leoni-in-newlyweds-premiere/",
-          "source": "Us Weekly"
+          "title": "NFL insider hints that yet another Pittsburgh Steelers defensive back could be on the move ahead of the NFL trade deadline",
+          "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/nfl-insider-jeremy-fowler-says-lions-should-trade-for-jalen-ramsey/",
+          "source": "A to Z Sports"
         },
         {
-          "title": "‘Newlyweds’ Co-Creator Gail Lerner Fired As Showrunner Of New NBC Sitcom Ahead Of Premiere",
-          "url": "https://deadline.com/2026/10/newlyweds-creator-gail-lerner-fired-showrunner-nbc-comedy-1237151406/",
-          "source": "Deadline"
+          "title": "Steelers need to bite the bullet sooner rather than later on Jalen Ramsey mistake",
+          "url": "https://stillcurtain.com/pittsburgh-steelers-need-to-bite-the-bullet-sooner-rather-than-later-on-jalen-ramsey-mistake-01m49cxey212",
+          "source": "Still Curtain"
         }
       ]
     },
     {
-      "keyword": "landman season 3",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2g4IAqpt_PzKm5kjFywcAI0pwmWjtwyIKWvVj0aXjm3dlG6S4H-YXyCI2eCc",
+      "keyword": "heartland",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmfrADNhzu16PHC7dVQij0ZtEy5_McusY9SjYF61CR7SsaLE4_sHQ-X9mkslA",
       "news": [
         {
-          "title": "‘Landman’ Just Announced a Major Cast Change for Season 3",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/landman-just-announced-major-cast-194902143.html",
-          "source": "Yahoo"
+          "title": "‘Heartland’ Season 20 U.S. Premiere Date Set: Get the Complete Schedule",
+          "url": "https://www.imdb.com/de/news/ni66058875/?ref_=nwc_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "When Does The New Season Of ‘Landman’ Come Out? ‘Landman’ Season 3 Release Date Info",
-          "url": "https://decider.com/2026/10/10/landman-season-3-release-date-when-does-new-season-landman-start-2027/",
-          "source": "Decider"
+          "title": "Beyond Local: GALLERY: Heartland stars dazzle at world premiere in High River",
+          "url": "https://www.stalbertgazette.com/beyond-local/gallery-heartland-stars-dazzle-at-world-premier-in-high-river-12874017",
+          "source": "St. Albert Gazette"
         },
         {
-          "title": "Taylor Sheridan's 'Landman' season 3 is filming at TCU in Fort Worth with 30 cheerleaders on set",
-          "url": "https://www.foxnews.com/outkick-culture/taylor-sheridan-landman-season-3-filming-tcu-fort-worth-30-cheerleaders-set",
-          "source": "Fox News"
-        }
-      ]
-    },
-    {
-      "keyword": "américa - medellín",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 11 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIExROPFA1YVr_UlLMj46xU0pQ1a3w1xJDm8hOUsnIn8S86DzF_eevKBpcC1Q",
-      "news": [
-        {
-          "title": "América, por la clasificación: David González convocó a 20 jugadores para recibir al DIM",
-          "url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17365486/america-de-cali-convocados-medellin-clasificacion-cuadrangulares",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "América vs. Medellín, en vivo: siga el minuto a minuto del partido de Liga BetPlay",
-          "url": "https://www.elespectador.com/deportes/futbol-colombiano/america-de-cali/america-vs-medellin-en-vivo-siga-el-minuto-a-minuto-del-partido-de-liga-betplay/",
-          "source": "El Espectador"
-        },
-        {
-          "title": "Duelo de rojos promete sacar chispas: América recibe al Medellín",
-          "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/america-de-cali-vs-independiente-medellin-alineaciones-hora-y-donde-ver-partido-de-liga-betplay-273767",
-          "source": "Futbolred"
+          "title": "How to watch Heartland Season 20 in NZ",
+          "url": "https://blog.reelgood.com/how-to-watch-heartland-season-20-in-nz",
+          "source": "UpNext by Reelgood"
         }
       ]
     }
