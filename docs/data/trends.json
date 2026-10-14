@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-13T03:04:07+00:00",
+  "fetched_at": "2026-10-14T01:15:42+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "cedric mullins",
-      "traffic": 20000,
-      "traffic_label": "20000+",
-      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQageaVqJOgIjkmCoS5OlshLXZi9s5Bz9Fc8enX3FoybhHCCHOcItsltX1qNUg",
+      "keyword": "ilias bulaid",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjQo3r3xWEZZy8_2aGY-Fk3jX4FvJxz70LbvoHgxAO_qu_v0J0zOvWTveZN6c",
       "news": [
         {
-          "title": "Licensable picture: Strong earthquake felt in Panama",
-          "url": "https://www.reutersconnect.com/item/strong-earthquake-felt-in-panama/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlowT0E5T0dENQ%3D%3D?utm_medium=rcom-article-media&utm_campaign=rcom-rcp-lead",
-          "source": "Reuters Connect"
+          "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
+          "url": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
+          "source": "UFC.com"
         },
         {
-          "title": "Licensable picture: Lake Weir Jeremiah Jacques (10) runs by Gainesville Zohn Ray Rochelle (7) during an FHSAA football game at Lake Weir High School",
-          "url": "https://www.reutersconnect.com/item/lake-weir-jeremiah-jacques-10-runs-by-gainesville-zohn-ray-rochelle-7-during-an-fhsaa-football-game-at-lake-weir-high-school/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwNjk3ODI",
-          "source": "Reuters Connect"
+          "title": "DWCS Results: Bulaid vs. Visconde",
+          "url": "https://www.mmafighting.com/ufc/515470/dwcs-results-bulaid-vs-visconde",
+          "source": "MMA Fighting"
         },
         {
-          "title": "Licensable picture: NBA: Preseason-Brooklyn Nets at Washington Wizards",
-          "url": "https://www.reutersconnect.com/item/nba-preseason-brooklyn-nets-at-washington-wizards/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAwNjk2ODA",
-          "source": "Reuters Connect"
+          "title": "UFC ‘Contender Series’ results, live coverage and full fight highlights | Season 10, Ep. 10",
+          "url": "https://www.mmamania.com/ufc-contender-series-dana-white/478442/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-10",
+          "source": "MMA Mania"
         }
       ]
     },
     {
-      "keyword": "jose ramirez",
+      "keyword": "adam levine",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Mon, 12 Oct 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQym4TENsndI6xRKWqT5o_Z9e8IQHFMifP18xYXIhm5pREiwnDEQMMvFS5S72A",
+      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabYxGlm-7DCcupowKCeInK1RoDpEMm-dkM6lDN44huqKjjPcT1oPQUnTuks8",
       "news": [
         {
-          "title": "Ramírez relishing another chance to carry Guardians to World Series berth",
-          "url": "https://www.mlb.com/news/jose-ramirez-has-chance-to-reach-world-series-for-second-time",
-          "source": "MLB.com"
+          "title": "Adam Levine on Choosing Alex Warren as His ‘The Voice’ Advisor (Exclusive)",
+          "url": "https://people.com/adam-levine-talks-choosing-alex-warren-as-advisor-on-the-voice-exclusive-12171632",
+          "source": "People.com"
         },
         {
-          "title": "White Sox fall flat in Game 5, crushed after wasting 2-0 ALDS lead",
-          "url": "https://www.espn.com/mlb/story/_/id/50154912/white-sox-fall-flat-game-5-crushed-wasting-2-0-alds-lead",
-          "source": "ESPN"
+          "title": "Alex Warren takes fans behind the scenes of ‘The Voice' with Adam Levine",
+          "url": "https://www.geo.tv/latest/686312-alex-warren-takes-fans-behind-the-scenes-of-the-voice-with-adam-levine",
+          "source": "Geo News"
         },
         {
-          "title": "White Sox break their own 3-day-old MLB postseason record with 21 strikeouts in season-ending loss to Guardians",
-          "url": "https://sports.yahoo.com/mlb/article/white-sox-break-their-own-3-day-old-mlb-postseason-record-with-21-strikeouts-in-season-ending-loss-to-guardians-050542578.html",
+          "title": "Adam Levine Calls His Latest ‘The Voice’ Advisor One of the Best He’s Ever Worked With",
+          "url": "https://americansongwriter.com/adam-levine-calls-his-latest-the-voice-advisor-one-of-the-best-hes-ever-worked-with/",
+          "source": "American Songwriter"
+        }
+      ]
+    },
+    {
+      "keyword": "brian austin green",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBG_U1hXrkJLyUUDeqU2zzLm_ggo85X2Plk-_4Wj9dIvJ2xl_K0_aVg58MdM",
+      "news": [
+        {
+          "title": "Brian Austin Green Explains Why He Hasn’t Been in ‘DWTS’ Audience Amid Sharna Burgess’ Return (Exclusive)",
+          "url": "https://www.usmagazine.com/entertainment/news/brian-austin-green-addresses-absence-from-dwts-audience/",
+          "source": "Us Weekly"
+        },
+        {
+          "title": "The Real Reason Brian Austin Green Has Been Missing From Sharna Burgess’s ‘DWTS’ Performances",
+          "url": "https://sg.news.yahoo.com/real-reason-brian-austin-green-165121980.html",
+          "source": "Yahoo News Singapore"
+        },
+        {
+          "title": "Brian Austin Green Reveals Why He Isn’t at Every Dancing with the Stars Episode to Cheer on Fiancée Sharna Burgess",
+          "url": "https://people.com/brian-austin-green-why-hasnt-been-dancing-with-the-stars-sharna-burgess-12171864",
+          "source": "People.com"
+        }
+      ]
+    },
+    {
+      "keyword": "okc thunder",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz1-ruV-nb2uKfutH9AIwxkqPkPZDbNMHfAP_aIiEUKgQkUvzTAZRp5tA99hU",
+      "news": [
+        {
+          "title": "Thunder’s Most Overlooked Addition Could Change Everything",
+          "url": "https://sports.yahoo.com/articles/thunder-most-overlooked-addition-could-233023991.html",
           "source": "Yahoo Sports"
+        },
+        {
+          "title": "Aday Mara continues to show diverse skill set Thunder initially fell in love with",
+          "url": "https://thunderousintentions.com/okc-thunder-aday-mara-continues-show-diverse-skill-initially-fell-in-love-with",
+          "source": "Thunderous Intentions"
+        },
+        {
+          "title": "OKC Thunder rookie Aday Mara's game is already translating to the NBA. Here's how",
+          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/10/12/okc-thunder-rookie-aday-mara-preseason-nba-statistics/92170569007/",
+          "source": "The Oklahoman"
         }
       ]
     },
     {
-      "keyword": "indians",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Mon, 12 Oct 2026 19:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgQdmITgFB5QqvRVdvgL_PFrhgPCHFzOgdJL_vMfcoLTYLbiSn3a45hjHjpg8",
+      "keyword": "james wiseman",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgUT5dqrdOprYoGX2QUhml18lsSZYcKwPLeeRFyloaRbbgBAuKHP9svkEuaHA",
       "news": [
         {
-          "title": "Didn’t Yandy Diaz Play for Cleveland? Revisiting Trade That Sent Rays Muscular Leadoff Hitter",
-          "url": "https://sports.yahoo.com/articles/didn-t-yandy-diaz-play-011502969.html",
+          "title": "Knicks ‘Likely’ to Cut Former Champ Soon",
+          "url": "https://sports.yahoo.com/articles/knicks-likely-cut-former-champ-202845045.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "What it means when the right calls Indian Americans a ‘question’",
-          "url": "https://www.cnn.com/2026/10/10/us/word-of-week-indian-question-cec",
-          "source": "CNN"
+          "title": "Knicks Notes: Third Center, Dadiet, Rotation, Second Apron",
+          "url": "https://www.hoopsrumors.com/2026/10/knicks-notes-third-center-dadiet-rotation-second-apron.html",
+          "source": "Hoops Rumors"
         },
         {
-          "title": "Why the right turned on Indian-Americans, explained",
-          "url": "https://www.vox.com/podcasts/505495/anti-indian-racism-online-right-vivek-ramaswamy",
-          "source": "Vox"
+          "title": "2 Knicks Players Could Be Traded for NBA Champion Wing: NBA Insider",
+          "url": "https://heavy.com/sports/nba/new-york-knicks/knicks-trade-rumors-nba-champion-wing/",
+          "source": "Heavy.com"
         }
       ]
     },
     {
-      "keyword": "carmelo hayes",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Mon, 12 Oct 2026 19:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQtkgwirvvwOfJh_aMUSmYtuNp63paBekZN8hvUgW0eVmuFevGxiEJQvtZQc",
+      "keyword": "jalen smith",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5hFQoa39It_-iNl0O8gYHuicSPpKkSHQgkTdpDzVIBT7rC93jzHGOeUQUlqQ",
       "news": [
         {
-          "title": "Carmelo Hayes Turns Heel, Helps 946 Beat Bloodline in Major Surprise on WWE Raw",
-          "url": "https://bleacherreport.com/articles/25507322-carmelo-hayes-turns-heel-helps-946-beat-bloodline-major-surprise-wwe-raw",
-          "source": "Bleacher Report"
+          "title": "NCAA Gambling Indictment",
+          "url": "https://www.wvnews.com/newsfeed/us/ncaa-gambling-indictment/image_ffced10f-cf2f-5a86-a937-99ffaa3929b6.html",
+          "source": "WV News"
         },
         {
-          "title": "WWE Raw results, review, grades for Oct. 12: Carmelo Hayes joins 946 as faction lays out The Bloodline",
-          "url": "https://www.cbssports.com/wwe/news/wwe-raw-results-live-updates-match-grades-for-october-12/live/",
-          "source": "CBS Sports"
+          "title": "Fixer in lucrative NCAA basketball betting scheme sentenced to 6 years in prison",
+          "url": "https://www.bozemandailychronicle.com/wire/sports/fixer-in-lucrative-ncaa-basketball-betting-scheme-sentenced-to-6-years-in-prison/article_c093e476-4d5f-58e0-80c7-a87101db6744.html",
+          "source": "Bozeman Daily Chronicle"
         },
         {
-          "title": "WWE Raw Results (10/12/26): Carmelo Hayes Joins 946 and Destroys The Bloodline",
-          "url": "https://www.si.com/fannation/wrestling/wwe/wwe-raw-results-carmelo-hayes-joins-946-and-destroys-the-bloodline-october12",
+          "title": "One of the organizers of a sprawling NCAA point shaving scheme was sentenced to six years in prison",
+          "url": "https://www.inquirer.com/crime/sports-gambling-ncaa-point-shaving-scheme-prison-20261013.html",
+          "source": "Inquirer.com"
+        }
+      ]
+    },
+    {
+      "keyword": "travis bazzana",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeXLspgOrrlt0P_6FVIkACWdTr3THEicrzwqF_AtuxP7EUqKW826MudKTVZCg",
+      "news": [
+        {
+          "title": "Pro Beavs: American League Championship Series Contains Three Oregon State Alums",
+          "url": "https://www.si.com/college/oregon-state/baseball/pro-beavs-american-league-championship-series-contains-three-oregon-state-alums",
           "source": "Sports Illustrated"
+        },
+        {
+          "title": "Pro Beavs: Rasmussen Shines, Kwan and Bazzana on Brink of Elimination",
+          "url": "https://www.si.com/college/oregon-state/baseball/pro-beavs-rasmussen-shines-kwan-and-bazzana-on-brink-of-elimination",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "MLB Best Bets Today: Player Props for Tuesday October 13 2026",
+          "url": "https://www.rotowire.com/baseball/article/mlb-best-bets-today-mlb-player-props-for-tuesday-october-13-140813",
+          "source": "RotoWire"
         }
       ]
     },
     {
-      "keyword": "jim nantz",
+      "keyword": "yandy diaz",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Mon, 12 Oct 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUTlTHtavxmukQZOMpg0m6JldRCCRQ0rsGaaPYi38jFN0LfBZnfWK2bpjctQs",
+      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTawW6EaihEMI4wzRcZILO7FVP7U-EBtlJObpizgBYFLK8IZi47SVCfrRTEKoU",
       "news": [
         {
-          "title": "‘Da Bears’ and the ‘S.N.L.’ Sketch That Immortalized Mike Ditka",
-          "url": "https://www.nytimes.com/2026/10/11/arts/television/mike-ditka-snl-da-bears.html",
-          "source": "The New York Times"
+          "title": "Rays’ Yandy Diaz Is About to Enter Rare Company",
+          "url": "https://sports.yahoo.com/articles/rays-yandy-diaz-enter-rare-222932979.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
-          "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
+          "title": "ALCS Game 2: Lineups, live updates from Guardians-Rays",
+          "url": "https://www.espn.com/mlb/story/_/id/50174091/mlb-2026-alcs-game-2-rays-guardians-lineups-updates-analysis-takeaways",
           "source": "ESPN"
         },
         {
-          "title": "Inbox: This is the game. It’s always been the game",
-          "url": "https://www.packers.com/news/inbox-this-is-the-game-it-s-always-been-the-game-oct-10-2026",
-          "source": "Green Bay Packers – packers.com"
+          "title": "Cleveland rocks—get Guardians vs Rays ALCS tickets for Progressive Field",
+          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/10/13/how-to-buy-cleveland-guardians-vs-tampa-bay-rays-alcs-tickets-progressive-field/92236333007/",
+          "source": "USA Today"
         }
       ]
     },
     {
-      "keyword": "line of fire",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 12 Oct 2026 19:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr4DOatRk896L1NHiDnaYEpg910-c0MGsqekFJM-5OJqeXejfLkDGtkxzfI0I",
-      "news": [
-        {
-          "title": "NBC Boss On 'Line Of Fire' Pickup, 'Newlyweds', 'Dungeon Crawler Carl'",
-          "url": "https://deadline.com/2026/10/nbc-peacock-scripted-strategy-liza-katz-interview-newlyweds-1237153816/",
-          "source": "Deadline"
-        },
-        {
-          "title": "NBC Orders Extra Scripts for Rookie Drama ‘Line of Fire’",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/line-of-fire-extra-scripts-nbc-1236728107/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Jenna Bush Hager’s ‘Line of Fire’ is Burning up the Ratings",
-          "url": "https://www.today.com/video/jenna-bush-hager-s-line-of-fire-is-burning-up-the-ratings-271255621698",
-          "source": "TODAY.com"
-        }
-      ]
-    },
-    {
-      "keyword": "angel martinez",
+      "keyword": "the voice judges",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvubDZUcHCFjirjLhkYv6KeKJuKmyMGB33Abk8mtEmi7KYhecbE0beaJcdK7c",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3AHBgyPa2rjzWvvu0nUMWnzAmvEONFsOwmqdr0HadGvggWnq1d9rZq2X91Cg",
       "news": [
         {
-          "title": "Guardians' Angel Martinez: Out of lineup again in Game 1",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/guardians-angel-martinez-out-of-lineup-again-in-game-1/",
-          "source": "CBS Sports"
+          "title": "Riley Green puts Alabama singers to the test on ‘The Voice,’ and one passes",
+          "url": "https://www.al.com/life/2026/10/riley-green-puts-alabama-singers-to-the-test-on-the-voice-and-one-passes.html",
+          "source": "AL.com"
         },
         {
-          "title": "Petey Halpin gets start for Game 5 vs. White Sox",
-          "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-10/petey-halpin-gets-start-for-game-5-vs-white-sox",
-          "source": "NBC Sports"
+          "title": "Riley Green Faces Tough Decision After Team Members Sing His Duet With Ella Langley On ‘The Voice’",
+          "url": "https://countrynow.com/riley-green-faces-tough-decision-after-team-members-sing-his-duet-with-ella-langley-on-the-voice/",
+          "source": "Country Now"
         },
         {
-          "title": "Guardians' Angel Martinez: On bench to begin Game 5",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/guardians-angel-martinez-on-bench-to-begin-game-5/",
-          "source": "CBS Sports"
+          "title": "WATCH: Riley Green Gave 17-Year-Old 'The Voice' Singer Moment She Never Saw Coming",
+          "url": "https://tasteofcountry.com/riley-green-isabella-taylor-the-voice-duet/",
+          "source": "Taste of Country"
         }
       ]
     },
     {
-      "keyword": "bennett stirtz",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp33ZUm5qq_lPgWmNQ8UuxtjllxX_s_rAvxRRgFFdkE56p6382_BLBb7Im6Ps",
-      "news": [
-        {
-          "title": "Bennett Stirtz hits six triples, scores 26 points",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-12/bennett-stirtz-hits-six-triples-scores-26-points",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "“Whatever the team needs me to win, I’m going to do. …",
-          "url": "https://sports.yahoo.com/articles/whatever-team-needs-win-m-121450586.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Scoreboard: Stirtz impresses in preseason loss to Pelicans",
-          "url": "https://www.dailythunder.com/scoreboard-preseason-2026-10-06-thunder-pelicans/",
-          "source": "Daily Thunder"
-        }
-      ]
-    },
-    {
-      "keyword": "jalen ramsey",
+      "keyword": "high potential season 3",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Mon, 12 Oct 2026 19:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpBlwPlPxIOu2zBIbVnwGjJ88ZMUOpFqyn4Iyaw8rbxc07WSFkPPPSEHkcsRE",
+      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlsmv9mkQFeEG_tfjuXVtO3XyPyzdrgNQ41JmL92I1omZmMIUaEu-xoPFrEmM",
       "news": [
         {
-          "title": "The Serious Health Risk Jalen Ramsey Is Taking to Stay on the Field",
-          "url": "https://sports.yahoo.com/articles/serious-health-risk-jalen-ramsey-134000092.html",
-          "source": "Yahoo Sports"
+          "title": "Watch 'High Potential' Immediately Following Super Bowl LXI on ABC and Disney+",
+          "url": "https://abc.com/news/7606552a-f25f-41bc-8726-7d03fe9459f7/category/1138628",
+          "source": "ABC Network"
         },
         {
-          "title": "NFL insider hints that yet another Pittsburgh Steelers defensive back could be on the move ahead of the NFL trade deadline",
-          "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/nfl-insider-jeremy-fowler-says-lions-should-trade-for-jalen-ramsey/",
-          "source": "A to Z Sports"
+          "title": "Will ‘High Potential’s Super Bowl Episode Tackle a Morgan-Karadec Moment?",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/high-potential-super-bowl-episode-231952034.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Steelers need to bite the bullet sooner rather than later on Jalen Ramsey mistake",
-          "url": "https://stillcurtain.com/pittsburgh-steelers-need-to-bite-the-bullet-sooner-rather-than-later-on-jalen-ramsey-mistake-01m49cxey212",
-          "source": "Still Curtain"
-        }
-      ]
-    },
-    {
-      "keyword": "heartland",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 12 Oct 2026 19:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmfrADNhzu16PHC7dVQij0ZtEy5_McusY9SjYF61CR7SsaLE4_sHQ-X9mkslA",
-      "news": [
-        {
-          "title": "‘Heartland’ Season 20 U.S. Premiere Date Set: Get the Complete Schedule",
-          "url": "https://www.imdb.com/de/news/ni66058875/?ref_=nwc_art_perm",
-          "source": "IMDb"
-        },
-        {
-          "title": "Beyond Local: GALLERY: Heartland stars dazzle at world premiere in High River",
-          "url": "https://www.stalbertgazette.com/beyond-local/gallery-heartland-stars-dazzle-at-world-premier-in-high-river-12874017",
-          "source": "St. Albert Gazette"
-        },
-        {
-          "title": "How to watch Heartland Season 20 in NZ",
-          "url": "https://blog.reelgood.com/how-to-watch-heartland-season-20-in-nz",
-          "source": "UpNext by Reelgood"
+          "title": "High Potential Lands Highly Coveted Post-Super Bowl 2027 Slot On ABC — Watch Promo",
+          "url": "https://www.tvline.com/2284811/high-potential-new-episode-super-bowl-2027-abc/",
+          "source": "TVLine"
         }
       ]
     }

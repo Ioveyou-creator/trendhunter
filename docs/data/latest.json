@@ -1,118 +1,33 @@
 {
-  "generated_at": "2026-10-13T03:09:04+00:00",
+  "generated_at": "2026-10-14T01:19:09+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-13T03:04:07+00:00"
+      "fetched_at": "2026-10-14T01:15:42+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 92,
+      "count": 120,
       "error": null,
-      "fetched_at": "2026-10-13T03:09:04+00:00"
+      "fetched_at": "2026-10-14T01:19:09+00:00"
     },
     "events": {
       "ok": true,
       "count": 15,
       "error": null,
-      "fetched_at": "2026-10-13T03:09:04+00:00"
+      "fetched_at": "2026-10-14T01:19:09+00:00"
     }
   },
   "candidates": [
-    {
-      "title": "BABYMONSTER 신곡",
-      "query": "babymonster album",
-      "category": "kpop",
-      "score": 72,
-      "reasons": [
-        "이벤트 D-10 (2026-10-23), 준비 예정",
-        "다른 소스에서 2건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "BABYMONSTER 신곡",
-          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
-        },
-        {
-          "source": "reddit",
-          "text": "MAMA Awards 2026 - 1st Lineup: ALPHA DRIVE ONE (ALD1), BABYMONSTER, ENHYPEN, ILLIT, INI, NCT WISH, RESCENE, CORTIS, KiiiKiii, LE SSERAFIM, TWICE Nayeon, ZEROBASEONE (ZB1)",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4h2w4/mama_awards_2026_1st_lineup_alpha_drive_one_ald1/"
-        },
-        {
-          "source": "reddit",
-          "text": "YG to do something about BABYMONSTER's rap lyrics",
-          "url": "https://www.reddit.com/r/kpopthoughts/comments/1x446qg/yg_to_do_something_about_babymonsters_rap_lyrics/"
-        }
-      ],
-      "event": {
-        "date": "2026-10-23",
-        "days_left": 10,
-        "prep_by": "2026-10-20",
-        "status": "upcoming"
-      },
-      "id": "96648ad8af",
-      "category_label": "K-pop",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album",
-        "naver": "https://search.shopping.naver.com/search/all?query=babymonster+album"
-      },
-      "trend": {
-        "status": "up",
-        "prev_rank": 7,
-        "rank_change": 6,
-        "streak": 5
-      }
-    },
-    {
-      "title": "MAMA Awards 2026 - 1st Lineup: ALPHA DRIVE ONE (ALD1), BABYMONSTER, ENHYPEN, ILLIT, INI, NCT WISH, RESCENE, CORTIS, KiiiKiii, LE SSERAFIM, TWICE Nayeon, ZEROBASEONE (ZB1)",
-      "query": "ALPHA DRIVE BABYMONSTER ENHYPEN ILLIT INI",
-      "category": "kculture",
-      "score": 69,
-      "reasons": [
-        "r/kpop hot #4",
-        "브랜드/IP: twice",
-        "다가오는 이벤트와 연결: BABYMONSTER 신곡 (D-10)",
-        "다가오는 이벤트와 연결: ILLIT 'BREAK EVEN' (D-13)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "MAMA Awards 2026 - 1st Lineup: ALPHA DRIVE ONE (ALD1), BABYMONSTER, ENHYPEN, ILLIT, INI, NCT WISH, RESCENE, CORTIS, KiiiKiii, LE SSERAFIM, TWICE Nayeon, ZEROBASEONE (ZB1)",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4h2w4/mama_awards_2026_1st_lineup_alpha_drive_one_ald1/"
-        }
-      ],
-      "id": "dc5acb4865",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ALPHA+DRIVE+BABYMONSTER+ENHYPEN+ILLIT+INI&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ALPHA+DRIVE+BABYMONSTER+ENHYPEN+ILLIT+INI",
-        "naver": "https://search.shopping.naver.com/search/all?query=ALPHA+DRIVE+BABYMONSTER+ENHYPEN+ILLIT+INI"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
     {
       "title": "Halloween",
       "query": "halloween costume",
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-18 (2026-10-31), 지금 준비할 때"
+        "이벤트 D-17 (2026-10-31), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -126,7 +41,7 @@
       ],
       "event": {
         "date": "2026-10-31",
-        "days_left": 18,
+        "days_left": 17,
         "prep_by": "2026-10-10",
         "status": "prepare_now"
       },
@@ -139,18 +54,18 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 1,
-        "rank_change": -2,
-        "streak": 5
+        "prev_rank": 3,
+        "rank_change": 2,
+        "streak": 6
       }
     },
     {
-      "title": "ILLIT 'BREAK EVEN'",
-      "query": "illit album",
+      "title": "NMIXX 'Strange Muse'",
+      "query": "nmixx album",
       "category": "kpop",
-      "score": 62,
+      "score": 64,
       "reasons": [
-        "이벤트 D-13 (2026-10-26), 준비 예정",
+        "이벤트 D-5 (2026-10-19), 준비 예정",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -160,33 +75,113 @@
       "evidence": [
         {
           "source": "events",
-          "text": "ILLIT 'BREAK EVEN'",
+          "text": "NMIXX 'Strange Muse'",
           "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
         },
         {
           "source": "reddit",
-          "text": "MAMA Awards 2026 - 1st Lineup: ALPHA DRIVE ONE (ALD1), BABYMONSTER, ENHYPEN, ILLIT, INI, NCT WISH, RESCENE, CORTIS, KiiiKiii, LE SSERAFIM, TWICE Nayeon, ZEROBASEONE (ZB1)",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4h2w4/mama_awards_2026_1st_lineup_alpha_drive_one_ald1/"
+          "text": "NMIXX Sullyoon with TWICE Sana - Birthday Wish (Dance Challenge) (261013)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x4yuxp/nmixx_sullyoon_with_twice_sana_birthday_wish/"
         }
       ],
       "event": {
-        "date": "2026-10-26",
-        "days_left": 13,
-        "prep_by": "2026-10-23",
+        "date": "2026-10-19",
+        "days_left": 5,
+        "prep_by": "2026-10-16",
         "status": "upcoming"
       },
-      "id": "5285fede8e",
+      "id": "c20627e211",
       "category_label": "K-pop",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=illit+album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=illit+album",
-        "naver": "https://search.shopping.naver.com/search/all?query=illit+album"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album",
+        "naver": "https://search.shopping.naver.com/search/all?query=nmixx+album"
       },
       "trend": {
         "status": "up",
-        "prev_rank": 9,
-        "rank_change": 5,
-        "streak": 5
+        "prev_rank": 6,
+        "rank_change": 4,
+        "streak": 6
+      }
+    },
+    {
+      "title": "NMIXX Sullyoon with TWICE Sana - Birthday Wish (Dance Challenge) (261013)",
+      "query": "NMIXX Sullyoon TWICE Sana",
+      "category": "kculture",
+      "score": 63,
+      "reasons": [
+        "r/kpop hot #7",
+        "상품 신호: 모델명",
+        "브랜드/IP: twice",
+        "다가오는 이벤트와 연결: NMIXX 'Strange Muse' (D-5)"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "NMIXX Sullyoon with TWICE Sana - Birthday Wish (Dance Challenge) (261013)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x4yuxp/nmixx_sullyoon_with_twice_sana_birthday_wish/"
+        }
+      ],
+      "id": "0314e41a8f",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=NMIXX+Sullyoon+TWICE+Sana&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=NMIXX+Sullyoon+TWICE+Sana",
+        "naver": "https://search.shopping.naver.com/search/all?query=NMIXX+Sullyoon+TWICE+Sana"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "LISA 'PRESS PLAY'",
+      "query": "lisa press play",
+      "category": "kpop",
+      "score": 63,
+      "reasons": [
+        "이벤트 D-9 (2026-10-23), 준비 예정",
+        "다른 소스에서 1건 언급"
+      ],
+      "sources": [
+        "events",
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "LISA 'PRESS PLAY'",
+          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
+        },
+        {
+          "source": "reddit",
+          "text": "BLACKPINK LISA - 1st EP: PRESS PLAY (Tracklist)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x50ac6/blackpink_lisa_1st_ep_press_play_tracklist/"
+        }
+      ],
+      "event": {
+        "date": "2026-10-23",
+        "days_left": 9,
+        "prep_by": "2026-10-20",
+        "status": "upcoming"
+      },
+      "id": "221b1c211b",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play",
+        "naver": "https://search.shopping.naver.com/search/all?query=lisa+press+play"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 7,
+        "rank_change": 3,
+        "streak": 6
       }
     },
     {
@@ -195,7 +190,7 @@
       "category": "kpop",
       "score": 62,
       "reasons": [
-        "이벤트 D-13 (2026-10-26), 준비 예정",
+        "이벤트 D-12 (2026-10-26), 준비 예정",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -210,13 +205,13 @@
         },
         {
           "source": "reddit",
-          "text": "The Orchard is campaigning for IVE, KiiiKiii and wave to earth for Best Asian Pop Music Performance at the 69th Annual Grammy Awards",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4f4xa/the_orchard_is_campaigning_for_ive_kiiikiii_and/"
+          "text": "IVE - EP: Looks Can Kill (Concept Photo HERO COMICS Ver. - Yujin vs Wonyoung)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x4to1s/ive_ep_looks_can_kill_concept_photo_hero_comics/"
         }
       ],
       "event": {
         "date": "2026-10-26",
-        "days_left": 13,
+        "days_left": 12,
         "prep_by": "2026-10-23",
         "status": "upcoming"
       },
@@ -231,54 +226,61 @@
         "status": "same",
         "prev_rank": 5,
         "rank_change": 0,
-        "streak": 5
+        "streak": 6
       }
     },
     {
-      "title": "NMIXX 'Strange Muse'",
-      "query": "nmixx album",
+      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+      "query": "ateez golden hour",
       "category": "kpop",
-      "score": 54,
+      "score": 58,
       "reasons": [
-        "이벤트 D-6 (2026-10-19), 준비 예정"
+        "이벤트 D-30 (2026-11-13), 준비 예정",
+        "다른 소스에서 1건 언급"
       ],
       "sources": [
-        "events"
+        "events",
+        "reddit"
       ],
       "evidence": [
         {
           "source": "events",
-          "text": "NMIXX 'Strange Muse'",
-          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
+          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
+          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+        },
+        {
+          "source": "reddit",
+          "text": "ATEEZ, do you know what's In My Fantasy™?",
+          "url": "https://www.reddit.com/r/kpopthoughts/comments/1x5e524/ateez_do_you_know_whats_in_my_fantasy/"
         }
       ],
       "event": {
-        "date": "2026-10-19",
-        "days_left": 6,
-        "prep_by": "2026-10-16",
+        "date": "2026-11-13",
+        "days_left": 30,
+        "prep_by": "2026-11-10",
         "status": "upcoming"
       },
-      "id": "c20627e211",
+      "id": "312a19efa8",
       "category_label": "K-pop",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nmixx+album",
-        "naver": "https://search.shopping.naver.com/search/all?query=nmixx+album"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
+        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
       },
       "trend": {
-        "status": "down",
-        "prev_rank": 2,
-        "rank_change": -4,
-        "streak": 5
+        "status": "up",
+        "prev_rank": 14,
+        "rank_change": 8,
+        "streak": 6
       }
     },
     {
-      "title": "LISA 'PRESS PLAY'",
-      "query": "lisa press play",
+      "title": "BABYMONSTER 신곡",
+      "query": "babymonster album",
       "category": "kpop",
-      "score": 52,
+      "score": 53,
       "reasons": [
-        "이벤트 D-10 (2026-10-23), 준비 예정"
+        "이벤트 D-9 (2026-10-23), 준비 예정"
       ],
       "sources": [
         "events"
@@ -286,28 +288,66 @@
       "evidence": [
         {
           "source": "events",
-          "text": "LISA 'PRESS PLAY'",
+          "text": "BABYMONSTER 신곡",
           "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
         }
       ],
       "event": {
         "date": "2026-10-23",
-        "days_left": 10,
+        "days_left": 9,
         "prep_by": "2026-10-20",
         "status": "upcoming"
       },
-      "id": "221b1c211b",
+      "id": "96648ad8af",
       "category_label": "K-pop",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lisa+press+play",
-        "naver": "https://search.shopping.naver.com/search/all?query=lisa+press+play"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=babymonster+album",
+        "naver": "https://search.shopping.naver.com/search/all?query=babymonster+album"
       },
       "trend": {
-        "status": "same",
-        "prev_rank": 8,
-        "rank_change": 1,
-        "streak": 5
+        "status": "down",
+        "prev_rank": 1,
+        "rank_change": -6,
+        "streak": 6
+      }
+    },
+    {
+      "title": "ILLIT 'BREAK EVEN'",
+      "query": "illit album",
+      "category": "kpop",
+      "score": 52,
+      "reasons": [
+        "이벤트 D-12 (2026-10-26), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "ILLIT 'BREAK EVEN'",
+          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
+        }
+      ],
+      "event": {
+        "date": "2026-10-26",
+        "days_left": 12,
+        "prep_by": "2026-10-23",
+        "status": "upcoming"
+      },
+      "id": "5285fede8e",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=illit+album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=illit+album",
+        "naver": "https://search.shopping.naver.com/search/all?query=illit+album"
+      },
+      "trend": {
+        "status": "down",
+        "prev_rank": 4,
+        "rank_change": -4,
+        "streak": 6
       }
     },
     {
@@ -316,7 +356,7 @@
       "category": "kpop",
       "score": 52,
       "reasons": [
-        "이벤트 D-13 (2026-10-26), 준비 예정"
+        "이벤트 D-12 (2026-10-26), 준비 예정"
       ],
       "sources": [
         "events"
@@ -330,7 +370,7 @@
       ],
       "event": {
         "date": "2026-10-26",
-        "days_left": 13,
+        "days_left": 12,
         "prep_by": "2026-10-23",
         "status": "upcoming"
       },
@@ -343,9 +383,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 10,
-        "rank_change": 2,
-        "streak": 5
+        "prev_rank": 8,
+        "rank_change": -1,
+        "streak": 6
       }
     },
     {
@@ -354,7 +394,7 @@
       "category": "kpop",
       "score": 50,
       "reasons": [
-        "이벤트 D-20 (2026-11-02), 준비 예정"
+        "이벤트 D-19 (2026-11-02), 준비 예정"
       ],
       "sources": [
         "events"
@@ -368,7 +408,7 @@
       ],
       "event": {
         "date": "2026-11-02",
-        "days_left": 20,
+        "days_left": 19,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -381,9 +421,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 11,
-        "rank_change": 2,
-        "streak": 5
+        "prev_rank": 9,
+        "rank_change": -1,
+        "streak": 6
       }
     },
     {
@@ -392,7 +432,7 @@
       "category": "tcg",
       "score": 49,
       "reasons": [
-        "이벤트 D-24 (2026-11-06), 준비 예정"
+        "이벤트 D-23 (2026-11-06), 준비 예정"
       ],
       "sources": [
         "events"
@@ -406,7 +446,7 @@
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 24,
+        "days_left": 23,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -418,10 +458,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 13,
-        "rank_change": 3,
-        "streak": 5
+        "status": "same",
+        "prev_rank": 10,
+        "rank_change": -1,
+        "streak": 6
       }
     },
     {
@@ -430,7 +470,7 @@
       "category": "tcg",
       "score": 49,
       "reasons": [
-        "이벤트 D-24 (2026-11-06), 준비 예정"
+        "이벤트 D-23 (2026-11-06), 준비 예정"
       ],
       "sources": [
         "events"
@@ -444,7 +484,7 @@
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 24,
+        "days_left": 23,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -456,44 +496,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=delta+reign+booster+box"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 14,
-        "rank_change": 3,
-        "streak": 5
-      }
-    },
-    {
-      "title": "The Orchard is campaigning for IVE, KiiiKiii and wave to earth for Best Asian Pop Music Performance at the 69th Annual Grammy Awards",
-      "query": "Orchard campaigning IVE KiiiKiii wave earth",
-      "category": "kculture",
-      "score": 48,
-      "reasons": [
-        "r/kpop hot #7",
-        "브랜드/IP: ive",
-        "다가오는 이벤트와 연결: IVE 'Looks Can Kill' (D-13)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "The Orchard is campaigning for IVE, KiiiKiii and wave to earth for Best Asian Pop Music Performance at the 69th Annual Grammy Awards",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4f4xa/the_orchard_is_campaigning_for_ive_kiiikiii_and/"
-        }
-      ],
-      "id": "459dc46344",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Orchard+campaigning+IVE+KiiiKiii+wave+earth&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Orchard+campaigning+IVE+KiiiKiii+wave+earth",
-        "naver": "https://search.shopping.naver.com/search/all?query=Orchard+campaigning+IVE+KiiiKiii+wave+earth"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "same",
+        "prev_rank": 11,
+        "rank_change": -1,
+        "streak": 6
       }
     },
     {
@@ -502,7 +508,7 @@
       "category": "season",
       "score": 48,
       "reasons": [
-        "이벤트 D-29 (2026-11-11), 준비 예정"
+        "이벤트 D-28 (2026-11-11), 준비 예정"
       ],
       "sources": [
         "events"
@@ -516,7 +522,7 @@
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 29,
+        "days_left": 28,
         "prep_by": "2026-10-28",
         "status": "upcoming"
       },
@@ -529,56 +535,86 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 15,
-        "rank_change": 2,
-        "streak": 5
+        "prev_rank": 13,
+        "rank_change": 0,
+        "streak": 6
       }
     },
     {
-      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
-      "query": "ateez golden hour",
-      "category": "kpop",
+      "title": "BLACKPINK LISA - 1st EP: PRESS PLAY (Tracklist)",
+      "query": "BLACKPINK LISA",
+      "category": "kculture",
       "score": 47,
       "reasons": [
-        "이벤트 D-31 (2026-11-13), 준비 예정"
+        "r/kpop hot #9",
+        "브랜드/IP: blackpink",
+        "다가오는 이벤트와 연결: LISA 'PRESS PLAY' (D-9)"
       ],
       "sources": [
-        "events"
+        "reddit"
       ],
       "evidence": [
         {
-          "source": "events",
-          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+          "source": "reddit",
+          "text": "BLACKPINK LISA - 1st EP: PRESS PLAY (Tracklist)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x50ac6/blackpink_lisa_1st_ep_press_play_tracklist/"
         }
       ],
-      "event": {
-        "date": "2026-11-13",
-        "days_left": 31,
-        "prep_by": "2026-11-10",
-        "status": "upcoming"
-      },
-      "id": "312a19efa8",
-      "category_label": "K-pop",
+      "id": "ef037855e0",
+      "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
-        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=BLACKPINK+LISA&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=BLACKPINK+LISA",
+        "naver": "https://search.shopping.naver.com/search/all?query=BLACKPINK+LISA"
       },
       "trend": {
-        "status": "same",
-        "prev_rank": 16,
-        "rank_change": 2,
-        "streak": 5
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "IVE - EP: Looks Can Kill (Concept Photo HERO COMICS Ver. - Yujin vs Wonyoung)",
+      "query": "IVE",
+      "category": "kculture",
+      "score": 47,
+      "reasons": [
+        "r/kpop hot #10",
+        "브랜드/IP: ive",
+        "다가오는 이벤트와 연결: IVE 'Looks Can Kill' (D-12)"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "IVE - EP: Looks Can Kill (Concept Photo HERO COMICS Ver. - Yujin vs Wonyoung)",
+          "url": "https://www.reddit.com/r/kpop/comments/1x4to1s/ive_ep_looks_can_kill_concept_photo_hero_comics/"
+        }
+      ],
+      "id": "38ab1afbd1",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=IVE&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=IVE",
+        "naver": "https://search.shopping.naver.com/search/all?query=IVE"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
       "title": "TXT 'PERFECT STORM'",
       "query": "txt perfect storm",
       "category": "kpop",
-      "score": 46,
+      "score": 47,
       "reasons": [
-        "이벤트 D-34 (2026-11-16), 준비 예정"
+        "이벤트 D-33 (2026-11-16), 준비 예정"
       ],
       "sources": [
         "events"
@@ -592,7 +628,7 @@
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 34,
+        "days_left": 33,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -605,43 +641,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 17,
-        "rank_change": 2,
-        "streak": 5
-      }
-    },
-    {
-      "title": "Gundam Has Launched on LEGO Ideas!",
-      "query": "Gundam Launched LEGO Ideas",
-      "category": "collectibles",
-      "score": 44,
-      "reasons": [
-        "r/lego hot #6",
-        "상품 신호: 출시",
-        "브랜드/IP: lego"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Gundam Has Launched on LEGO Ideas!",
-          "url": "https://www.reddit.com/r/lego/comments/1x4co7b/gundam_has_launched_on_lego_ideas/"
-        }
-      ],
-      "id": "3e3f15c48e",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Gundam+Launched+LEGO+Ideas&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Gundam+Launched+LEGO+Ideas",
-        "naver": "https://search.shopping.naver.com/search/all?query=Gundam+Launched+LEGO+Ideas"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "prev_rank": 15,
+        "rank_change": -1,
+        "streak": 6
       }
     },
     {
@@ -650,7 +652,7 @@
       "category": "season",
       "score": 44,
       "reasons": [
-        "이벤트 D-45 (2026-11-27), 준비 예정"
+        "이벤트 D-44 (2026-11-27), 준비 예정"
       ],
       "sources": [
         "events"
@@ -664,7 +666,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 45,
+        "days_left": 44,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -676,44 +678,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 20,
-        "rank_change": 3,
-        "streak": 5
-      }
-    },
-    {
-      "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction – Release Date – Nintendo Switch",
-      "query": "nintendo Release Date",
-      "category": "gaming",
-      "score": 44,
-      "reasons": [
-        "r/NintendoSwitch hot #3",
-        "상품 신호: 출시",
-        "브랜드/IP: nintendo"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction – Release Date – Nintendo Switch",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1x4beqo/heman_and_the_masters_of_the_universe_dragon/"
-        }
-      ],
-      "id": "961a9dd031",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nintendo+Release+Date&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nintendo+Release+Date",
-        "naver": "https://search.shopping.naver.com/search/all?query=nintendo+Release+Date"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
+        "status": "same",
+        "prev_rank": 17,
         "rank_change": 0,
-        "streak": 1
+        "streak": 6
       }
     },
     {
@@ -722,7 +690,7 @@
       "category": "season",
       "score": 43,
       "reasons": [
-        "이벤트 D-48 (2026-11-30), 준비 예정"
+        "이벤트 D-47 (2026-11-30), 준비 예정"
       ],
       "sources": [
         "events"
@@ -736,7 +704,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 48,
+        "days_left": 47,
         "prep_by": "2026-11-02",
         "status": "upcoming"
       },
@@ -748,37 +716,133 @@
         "naver": "https://search.shopping.naver.com/search/all?query=cyber+monday+deals"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 22,
-        "rank_change": 3,
-        "streak": 5
+        "status": "same",
+        "prev_rank": 19,
+        "rank_change": 1,
+        "streak": 6
       }
     },
     {
-      "title": "MEOVV - GO HARD, DDI RO RI, DROP TOP, HANDS UP, In my hands, Indestructible (LIVE) | MIC DRIVE @ DIVE Studios (261013)",
-      "query": "GO HARD DDI RO RI DROP",
-      "category": "kculture",
-      "score": 43,
+      "title": "adam levine",
+      "query": "adam levine",
+      "category": "trend",
+      "score": 42,
       "reasons": [
-        "r/kpop hot #8",
-        "상품 신호: 출시, 모델명"
+        "미국 검색 급상승 2000+",
+        "상품 신호: 한정판"
       ],
       "sources": [
-        "reddit"
+        "google_trends"
       ],
       "evidence": [
         {
-          "source": "reddit",
-          "text": "MEOVV - GO HARD, DDI RO RI, DROP TOP, HANDS UP, In my hands, Indestructible (LIVE) | MIC DRIVE @ DIVE Studios (261013)",
-          "url": "https://www.reddit.com/r/kpop/comments/1x4j7oy/meovv_go_hard_ddi_ro_ri_drop_top_hands_up_in_my/"
+          "source": "google_trends",
+          "text": "adam levine (2000+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "Adam Levine on Choosing Alex Warren as His ‘The Voice’ Advisor (Exclusive)",
+          "url": "https://people.com/adam-levine-talks-choosing-alex-warren-as-advisor-on-the-voice-exclusive-12171632"
+        },
+        {
+          "source": "news",
+          "text": "Alex Warren takes fans behind the scenes of ‘The Voice' with Adam Levine",
+          "url": "https://www.geo.tv/latest/686312-alex-warren-takes-fans-behind-the-scenes-of-the-voice-with-adam-levine"
         }
       ],
-      "id": "a23f0616b1",
-      "category_label": "K-컬처",
+      "id": "6e20f9a6af",
+      "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=GO+HARD+DDI+RO+RI+DROP&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=GO+HARD+DDI+RO+RI+DROP",
-        "naver": "https://search.shopping.naver.com/search/all?query=GO+HARD+DDI+RO+RI+DROP"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=adam+levine&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=adam+levine",
+        "naver": "https://search.shopping.naver.com/search/all?query=adam+levine"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "brian austin green",
+      "query": "brian austin green",
+      "category": "trend",
+      "score": 39,
+      "reasons": [
+        "미국 검색 급상승 1000+",
+        "상품 신호: 한정판"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "brian austin green (1000+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "Brian Austin Green Explains Why He Hasn’t Been in ‘DWTS’ Audience Amid Sharna Burgess’ Return (Exclusive)",
+          "url": "https://www.usmagazine.com/entertainment/news/brian-austin-green-addresses-absence-from-dwts-audience/"
+        },
+        {
+          "source": "news",
+          "text": "The Real Reason Brian Austin Green Has Been Missing From Sharna Burgess’s ‘DWTS’ Performances",
+          "url": "https://sg.news.yahoo.com/real-reason-brian-austin-green-165121980.html"
+        }
+      ],
+      "id": "c8522fd4c5",
+      "category_label": "검색 급상승",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=brian+austin+green&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=brian+austin+green",
+        "naver": "https://search.shopping.naver.com/search/all?query=brian+austin+green"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "the voice judges",
+      "query": "the voice judges",
+      "category": "trend",
+      "score": 37,
+      "reasons": [
+        "미국 검색 급상승 500+",
+        "상품 신호: 출시"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "the voice judges (500+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "Riley Green puts Alabama singers to the test on ‘The Voice,’ and one passes",
+          "url": "https://www.al.com/life/2026/10/riley-green-puts-alabama-singers-to-the-test-on-the-voice-and-one-passes.html"
+        },
+        {
+          "source": "news",
+          "text": "Riley Green Faces Tough Decision After Team Members Sing His Duet With Ella Langley On ‘The Voice’",
+          "url": "https://countrynow.com/riley-green-faces-tough-decision-after-team-members-sing-his-duet-with-ella-langley-on-the-voice/"
+        }
+      ],
+      "id": "110f87d1ad",
+      "category_label": "검색 급상승",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=the+voice+judges&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=the+voice+judges",
+        "naver": "https://search.shopping.naver.com/search/all?query=the+voice+judges"
       },
       "trend": {
         "status": "new",
@@ -793,7 +857,7 @@
       "name": "NMIXX 'Strange Muse'",
       "category": "kpop",
       "date": "2026-10-19",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-10-16",
       "lead_days": 3,
       "status": "upcoming",
@@ -812,7 +876,7 @@
       "name": "BABYMONSTER 신곡",
       "category": "kpop",
       "date": "2026-10-23",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-10-20",
       "lead_days": 3,
       "status": "upcoming",
@@ -831,7 +895,7 @@
       "name": "LISA 'PRESS PLAY'",
       "category": "kpop",
       "date": "2026-10-23",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-10-20",
       "lead_days": 3,
       "status": "upcoming",
@@ -852,7 +916,7 @@
       "name": "ILLIT 'BREAK EVEN'",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -871,7 +935,7 @@
       "name": "IVE 'Looks Can Kill'",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -890,7 +954,7 @@
       "name": "RIIZE 정규 2집 선공개",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -909,7 +973,7 @@
       "name": "Halloween",
       "category": "season",
       "date": "2026-10-31",
-      "days_left": 18,
+      "days_left": 17,
       "prep_by": "2026-10-10",
       "lead_days": 21,
       "status": "prepare_now",
@@ -928,7 +992,7 @@
       "name": "TWS 'TO US'",
       "category": "kpop",
       "date": "2026-11-02",
-      "days_left": 20,
+      "days_left": 19,
       "prep_by": "2026-10-30",
       "lead_days": 3,
       "status": "upcoming",
@@ -947,7 +1011,7 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 24,
+      "days_left": 23,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -969,7 +1033,7 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 24,
+      "days_left": 23,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -989,7 +1053,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 29,
+      "days_left": 28,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "upcoming",
@@ -1008,7 +1072,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 31,
+      "days_left": 30,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -1027,7 +1091,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 34,
+      "days_left": 33,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -1047,7 +1111,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 45,
+      "days_left": 44,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "upcoming",
@@ -1065,7 +1129,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 48,
+      "days_left": 47,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "upcoming",
@@ -1082,165 +1146,110 @@
   ],
   "other_trends": [
     {
-      "keyword": "cedric mullins",
-      "traffic_label": "20000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cedric+mullins&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cedric+mullins",
-        "naver": "https://search.shopping.naver.com/search/all?query=cedric+mullins"
-      }
-    },
-    {
-      "keyword": "jose ramirez",
+      "keyword": "ilias bulaid",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jose+ramirez&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jose+ramirez",
-        "naver": "https://search.shopping.naver.com/search/all?query=jose+ramirez"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ilias+bulaid&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ilias+bulaid",
+        "naver": "https://search.shopping.naver.com/search/all?query=ilias+bulaid"
       }
     },
     {
-      "keyword": "indians",
-      "traffic_label": "2000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=indians&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=indians",
-        "naver": "https://search.shopping.naver.com/search/all?query=indians"
-      }
-    },
-    {
-      "keyword": "carmelo hayes",
-      "traffic_label": "2000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=carmelo+hayes&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=carmelo+hayes",
-        "naver": "https://search.shopping.naver.com/search/all?query=carmelo+hayes"
-      }
-    },
-    {
-      "keyword": "jim nantz",
+      "keyword": "okc thunder",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jim+nantz&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jim+nantz",
-        "naver": "https://search.shopping.naver.com/search/all?query=jim+nantz"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=okc+thunder&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=okc+thunder",
+        "naver": "https://search.shopping.naver.com/search/all?query=okc+thunder"
       }
     },
     {
-      "keyword": "line of fire",
+      "keyword": "james wiseman",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=line+of+fire&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=line+of+fire",
-        "naver": "https://search.shopping.naver.com/search/all?query=line+of+fire"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=james+wiseman&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=james+wiseman",
+        "naver": "https://search.shopping.naver.com/search/all?query=james+wiseman"
       }
     },
     {
-      "keyword": "angel martinez",
-      "traffic_label": "500+",
+      "keyword": "jalen smith",
+      "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=angel+martinez&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=angel+martinez",
-        "naver": "https://search.shopping.naver.com/search/all?query=angel+martinez"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jalen+smith&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jalen+smith",
+        "naver": "https://search.shopping.naver.com/search/all?query=jalen+smith"
       }
     },
     {
-      "keyword": "bennett stirtz",
-      "traffic_label": "500+",
+      "keyword": "travis bazzana",
+      "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=bennett+stirtz&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=bennett+stirtz",
-        "naver": "https://search.shopping.naver.com/search/all?query=bennett+stirtz"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=travis+bazzana&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=travis+bazzana",
+        "naver": "https://search.shopping.naver.com/search/all?query=travis+bazzana"
       }
     },
     {
-      "keyword": "jalen ramsey",
+      "keyword": "yandy diaz",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=yandy+diaz&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=yandy+diaz",
+        "naver": "https://search.shopping.naver.com/search/all?query=yandy+diaz"
+      }
+    },
+    {
+      "keyword": "high potential season 3",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jalen+ramsey&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jalen+ramsey",
-        "naver": "https://search.shopping.naver.com/search/all?query=jalen+ramsey"
-      }
-    },
-    {
-      "keyword": "heartland",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=heartland&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=heartland",
-        "naver": "https://search.shopping.naver.com/search/all?query=heartland"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=high+potential+season+3&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=high+potential+season+3",
+        "naver": "https://search.shopping.naver.com/search/all?query=high+potential+season+3"
       }
     }
   ],
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "dropped": [
     {
-      "id": "7d8963db18",
-      "title": "NCT WISH 'I SPY'",
-      "query": "nct wish album",
-      "score": 65,
-      "rank": 3
+      "id": "dc5acb4865",
+      "title": "MAMA Awards 2026 - 1st Lineup: ALPHA DRIVE ONE (ALD1), BABYMONSTER, ENHYPEN, ILLIT, INI, NCT WISH, RESCENE, CORTIS, KiiiKiii, LE SSERAFIM, TWICE Nayeon, ZEROBASEONE (ZB1)",
+      "query": "ALPHA DRIVE BABYMONSTER ENHYPEN ILLIT INI",
+      "score": 69,
+      "rank": 2
     },
     {
-      "id": "955a6c1f30",
-      "title": "PLAVE 'HYPERDRIVE'",
-      "query": "plave album",
-      "score": 65,
-      "rank": 4
-    },
-    {
-      "id": "ffb8ad9604",
-      "title": "Unreleased Nike x A Ma Maniére Air Force at the thrift!!",
-      "query": "Unreleased Nike x Ma Maniére Air",
-      "score": 60,
-      "rank": 6
-    },
-    {
-      "id": "38ab1afbd1",
-      "title": "IVE - The 5th EP: Looks Can Kill (Concept Photo - HERO COMICS Ver. - Group)",
-      "query": "IVE",
-      "score": 49,
+      "id": "459dc46344",
+      "title": "The Orchard is campaigning for IVE, KiiiKiii and wave to earth for Best Asian Pop Music Performance at the 69th Annual Grammy Awards",
+      "query": "Orchard campaigning IVE KiiiKiii wave earth",
+      "score": 48,
       "rank": 12
     },
     {
-      "id": "00b9bc160c",
-      "title": "TWICE Tzuyu with F1 Drivers Alex Albon & Carlos Sainz - F1 Drivers & TWICE's Tzuyu Compete in an Anime Art Challenge! @ Atlassian Williams F1 Team (261010)",
-      "query": "TWICE Tzuyu F1 Drivers Alex Albon",
-      "score": 45,
+      "id": "3e3f15c48e",
+      "title": "Gundam Has Launched on LEGO Ideas!",
+      "query": "Gundam Launched LEGO Ideas",
+      "score": 44,
+      "rank": 16
+    },
+    {
+      "id": "961a9dd031",
+      "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction – Release Date – Nintendo Switch",
+      "query": "nintendo Release Date",
+      "score": 44,
       "rank": 18
     },
     {
-      "id": "c47599319c",
-      "title": "EL CAPITXN - Pre-Release Single 'Don’t Say Love' / Debut Full Album 'WHO KILLED EL?' (Concept Photo 2)",
-      "query": "Pre-Release Single Don t Say Love",
-      "score": 44,
-      "rank": 19
-    },
-    {
-      "id": "5c31fd9ef4",
-      "title": "Picked up these Jordan 4's for daughters homecoming - A Ma Maniére x Wmns Jordan 4 Retro 'While You Were Sleeping'",
-      "query": "Picked Jordan 4 daughters homecoming",
+      "id": "a23f0616b1",
+      "title": "MEOVV - GO HARD, DDI RO RI, DROP TOP, HANDS UP, In my hands, Indestructible (LIVE) | MIC DRIVE @ DIVE Studios (261013)",
+      "query": "GO HARD DDI RO RI DROP",
       "score": 43,
-      "rank": 21
-    },
-    {
-      "id": "3b187a0c68",
-      "title": "landman season 3",
-      "query": "landman season 3",
-      "score": 42,
-      "rank": 23
-    },
-    {
-      "id": "81805b9166",
-      "title": "Kowloon's Gate Suzaku - An obscure Japanese cult classic gets an English supported Switch release with a Japan crowdfunded exclusive physical edition",
-      "query": "obscure Japanese cult classic gets English",
-      "score": 42,
-      "rank": 24
+      "rank": 20
     }
   ],
   "history": {
-    "date": "2026-10-13",
-    "previous_date": "2026-10-12",
-    "new_count": 5
+    "date": "2026-10-14",
+    "previous_date": "2026-10-13",
+    "new_count": 6
   }
 }
