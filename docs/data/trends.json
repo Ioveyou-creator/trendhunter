@@ -1,247 +1,242 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-14T01:15:42+00:00",
+  "fetched_at": "2026-10-15T00:33:34+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "ilias bulaid",
+      "keyword": "james talarico",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Wed, 14 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRITNU9m46LbS57qc-oVc9-snrUYapB-1ulJ4ttOBll9f-3uNRyJ4xG46dr9wE",
+      "news": [
+        {
+          "title": "Election Dispatches: Texas Senate Race Tightens, Polls Show, Even as Talarico Keeps His Edge",
+          "url": "https://www.nytimes.com/live/2026/10/14/us/midterms-elections-trump",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Texas Senate, governor’s races diverge in new poll before early voting",
+          "url": "https://www.usatoday.com/story/news/state/texas/2026/10/14/texas-senate-governor-marist-poll-talarico-paxton-abbott-hinojosa/92247020007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "James Talarico has Democrats dreaming big after decades of dashed hopes in Texas",
+          "url": "https://edition.cnn.com/2026/10/13/politics/james-talarico-texas-senate-democrats",
+          "source": "CNN"
+        }
+      ]
+    },
+    {
+      "keyword": "robert gasser",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjQo3r3xWEZZy8_2aGY-Fk3jX4FvJxz70LbvoHgxAO_qu_v0J0zOvWTveZN6c",
+      "pub_date": "Wed, 14 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFnQHC0yMltb3XRIRvD_vGlXv8CScItGEFYZJ6Id7Uu9TV708NHPno9Sje0f4",
       "news": [
         {
-          "title": "Week 10 Results + Scorecards | Dana White's Contender Series, Season 10",
-          "url": "https://www.ufc.com/news/dana-whites-contender-series-season-10-week-10-results",
-          "source": "UFC.com"
+          "title": "Dodgers will start Blake Snell in NLCS Game 3, Tyler Glasnow in Game 4",
+          "url": "https://www.truebluela.com/los-angeles-dodgers-news-notes/126724/blake-snell-tyler-glasnow-nlcs-starts",
+          "source": "True Blue LA"
         },
         {
-          "title": "DWCS Results: Bulaid vs. Visconde",
-          "url": "https://www.mmafighting.com/ufc/515470/dwcs-results-bulaid-vs-visconde",
-          "source": "MMA Fighting"
+          "title": "Milwaukee Brewers' World Series Chase Runs Through Robert Gasser in Game 3",
+          "url": "https://www.yardbarker.com/mlb/articles/milwaukee_brewers_world_series_chase_runs_through_robert_gasser_in_game_3/s1_17814_44422752",
+          "source": "Yardbarker"
         },
         {
-          "title": "UFC ‘Contender Series’ results, live coverage and full fight highlights | Season 10, Ep. 10",
-          "url": "https://www.mmamania.com/ufc-contender-series-dana-white/478442/ufc-contender-series-results-live-coverage-and-full-fight-highlights-season-10-ep-10",
-          "source": "MMA Mania"
+          "title": "NLCS Dodgers Brewers Baseball",
+          "url": "https://www.idahostatejournal.com/sports/national/nlcs-dodgers-brewers-baseball/image_b851dc07-0921-5072-98f0-13691c771c1e.html",
+          "source": "Idaho State Journal"
         }
       ]
     },
     {
-      "keyword": "adam levine",
+      "keyword": "blake snell",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabYxGlm-7DCcupowKCeInK1RoDpEMm-dkM6lDN44huqKjjPcT1oPQUnTuks8",
+      "pub_date": "Wed, 14 Oct 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYlqGyJffPJ27KsNiFWJ_bf8gc4HA3C5yTo8Ey9cXx2tf_KtMjwXWVBNOXiLg",
       "news": [
         {
-          "title": "Adam Levine on Choosing Alex Warren as His ‘The Voice’ Advisor (Exclusive)",
-          "url": "https://people.com/adam-levine-talks-choosing-alex-warren-as-advisor-on-the-voice-exclusive-12171632",
-          "source": "People.com"
+          "title": "Dodgers need Snell to step up on big stage, just as he's done in the past",
+          "url": "https://www.mlb.com/news/blake-snell-faces-brewers-in-nlcs-game-3",
+          "source": "MLB.com"
         },
         {
-          "title": "Alex Warren takes fans behind the scenes of ‘The Voice' with Adam Levine",
-          "url": "https://www.geo.tv/latest/686312-alex-warren-takes-fans-behind-the-scenes-of-the-voice-with-adam-levine",
-          "source": "Geo News"
+          "title": "Commentary: Dodgers send SOS to Blake Snell and Tyler Glasnow: Save our season",
+          "url": "https://www.latimes.com/sports/dodgers/story/2026-10-13/dodgers-blake-snell-tyler-glasnow",
+          "source": "Los Angeles Times"
         },
         {
-          "title": "Adam Levine Calls His Latest ‘The Voice’ Advisor One of the Best He’s Ever Worked With",
-          "url": "https://americansongwriter.com/adam-levine-calls-his-latest-the-voice-advisor-one-of-the-best-hes-ever-worked-with/",
-          "source": "American Songwriter"
-        }
-      ]
-    },
-    {
-      "keyword": "brian austin green",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBG_U1hXrkJLyUUDeqU2zzLm_ggo85X2Plk-_4Wj9dIvJ2xl_K0_aVg58MdM",
-      "news": [
-        {
-          "title": "Brian Austin Green Explains Why He Hasn’t Been in ‘DWTS’ Audience Amid Sharna Burgess’ Return (Exclusive)",
-          "url": "https://www.usmagazine.com/entertainment/news/brian-austin-green-addresses-absence-from-dwts-audience/",
-          "source": "Us Weekly"
-        },
-        {
-          "title": "The Real Reason Brian Austin Green Has Been Missing From Sharna Burgess’s ‘DWTS’ Performances",
-          "url": "https://sg.news.yahoo.com/real-reason-brian-austin-green-165121980.html",
-          "source": "Yahoo News Singapore"
-        },
-        {
-          "title": "Brian Austin Green Reveals Why He Isn’t at Every Dancing with the Stars Episode to Cheer on Fiancée Sharna Burgess",
-          "url": "https://people.com/brian-austin-green-why-hasnt-been-dancing-with-the-stars-sharna-burgess-12171864",
-          "source": "People.com"
-        }
-      ]
-    },
-    {
-      "keyword": "okc thunder",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz1-ruV-nb2uKfutH9AIwxkqPkPZDbNMHfAP_aIiEUKgQkUvzTAZRp5tA99hU",
-      "news": [
-        {
-          "title": "Thunder’s Most Overlooked Addition Could Change Everything",
-          "url": "https://sports.yahoo.com/articles/thunder-most-overlooked-addition-could-233023991.html",
+          "title": "NLCS notes: Blake Snell, Shohei Ohtani’s status for Game 3",
+          "url": "https://sports.yahoo.com/articles/nlcs-notes-blake-snell-shohei-133500382.html",
           "source": "Yahoo Sports"
-        },
-        {
-          "title": "Aday Mara continues to show diverse skill set Thunder initially fell in love with",
-          "url": "https://thunderousintentions.com/okc-thunder-aday-mara-continues-show-diverse-skill-initially-fell-in-love-with",
-          "source": "Thunderous Intentions"
-        },
-        {
-          "title": "OKC Thunder rookie Aday Mara's game is already translating to the NBA. Here's how",
-          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/10/12/okc-thunder-rookie-aday-mara-preseason-nba-statistics/92170569007/",
-          "source": "The Oklahoman"
         }
       ]
     },
     {
-      "keyword": "james wiseman",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgUT5dqrdOprYoGX2QUhml18lsSZYcKwPLeeRFyloaRbbgBAuKHP9svkEuaHA",
+      "keyword": "sporting kc vs nashville",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Wed, 14 Oct 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsE3z_NGRJrfLqBMRyIgydIeby1jmW0PW5dzw8YAsagvCzp5m8Sbb9Zd0sG_s",
       "news": [
         {
-          "title": "Knicks ‘Likely’ to Cut Former Champ Soon",
-          "url": "https://sports.yahoo.com/articles/knicks-likely-cut-former-champ-202845045.html",
-          "source": "Yahoo Sports"
+          "title": "Nashville SC vs Sporting Kansas City live updates, score, where to watch",
+          "url": "https://www.tennessean.com/story/sports/nashvillesc/2026/10/14/nashville-sc-sporting-kansas-city-live-mls-score-highlights--live/92175306007/",
+          "source": "The Tennessean"
         },
         {
-          "title": "Knicks Notes: Third Center, Dadiet, Rotation, Second Apron",
-          "url": "https://www.hoopsrumors.com/2026/10/knicks-notes-third-center-dadiet-rotation-second-apron.html",
-          "source": "Hoops Rumors"
+          "title": "Player Availability Report: #NSHvSKC | Oct. 14, 2026",
+          "url": "https://www.sportingkc.com/news/player-availability-report-nshvskc-oct-14-2026",
+          "source": "Sporting Kansas City"
         },
         {
-          "title": "2 Knicks Players Could Be Traded for NBA Champion Wing: NBA Insider",
-          "url": "https://heavy.com/sports/nba/new-york-knicks/knicks-trade-rumors-nba-champion-wing/",
-          "source": "Heavy.com"
+          "title": "Nashville SC hosts Pet Adoption Night at GEODIS Park this Wednesday",
+          "url": "https://fox17.com/sports/nashville-sc/nashville-sc-hosts-pet-adoption-night-at-geodis-park-this-wednesday",
+          "source": "WZTV"
         }
       ]
     },
     {
-      "keyword": "jalen smith",
+      "keyword": "jon ossoff",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5hFQoa39It_-iNl0O8gYHuicSPpKkSHQgkTdpDzVIBT7rC93jzHGOeUQUlqQ",
+      "pub_date": "Wed, 14 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGdb2vYR10QOZOVHXNI1EjcYLxLThQzRLQphBBbc1FqnQzwugIVlRpraaG4l8",
       "news": [
         {
-          "title": "NCAA Gambling Indictment",
-          "url": "https://www.wvnews.com/newsfeed/us/ncaa-gambling-indictment/image_ffced10f-cf2f-5a86-a937-99ffaa3929b6.html",
-          "source": "WV News"
+          "title": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
+          "url": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
+          "source": "The New York Times"
         },
         {
-          "title": "Fixer in lucrative NCAA basketball betting scheme sentenced to 6 years in prison",
-          "url": "https://www.bozemandailychronicle.com/wire/sports/fixer-in-lucrative-ncaa-basketball-betting-scheme-sentenced-to-6-years-in-prison/article_c093e476-4d5f-58e0-80c7-a87101db6744.html",
-          "source": "Bozeman Daily Chronicle"
+          "title": "Jon Ossoff Says He Has ‘Zero Interest’ in Running for President",
+          "url": "https://www.wsj.com/politics/elections/jon-ossoff-says-he-has-zero-interest-in-running-for-president-7ec51f1c",
+          "source": "WSJ"
         },
         {
-          "title": "One of the organizers of a sprawling NCAA point shaving scheme was sentenced to six years in prison",
-          "url": "https://www.inquirer.com/crime/sports-gambling-ncaa-point-shaving-scheme-prison-20261013.html",
-          "source": "Inquirer.com"
+          "title": "Trump’s foreign policy, Epstein and corruption allegations loom over Senate debates in Maine, Georgia and Iowa",
+          "url": "https://www.cnn.com/2026/10/13/politics/georgia-maine-iowa-senate-debate-takeaways",
+          "source": "CNN"
         }
       ]
     },
     {
-      "keyword": "travis bazzana",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeXLspgOrrlt0P_6FVIkACWdTr3THEicrzwqF_AtuxP7EUqKW826MudKTVZCg",
+      "keyword": "the trap netflix",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Wed, 14 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtbp4rSZYMLg4gPdSK9hDsOjEvgEZLmApgS6PjIMX85LyFtAoGvqbkNW15rAk",
       "news": [
         {
-          "title": "Pro Beavs: American League Championship Series Contains Three Oregon State Alums",
-          "url": "https://www.si.com/college/oregon-state/baseball/pro-beavs-american-league-championship-series-contains-three-oregon-state-alums",
-          "source": "Sports Illustrated"
+          "title": "'The Trap' on Netflix Review: Stream It Or Skip It?",
+          "url": "https://decider.com/2026/10/13/the-trap-on-netflix-series-review-stream-or-skip/",
+          "source": "Decider"
         },
         {
-          "title": "Pro Beavs: Rasmussen Shines, Kwan and Bazzana on Brink of Elimination",
-          "url": "https://www.si.com/college/oregon-state/baseball/pro-beavs-rasmussen-shines-kwan-and-bazzana-on-brink-of-elimination",
-          "source": "Sports Illustrated"
+          "title": "Missing Harlan Coben? Netflix's new 6-part psychological thriller is your next binge-watch",
+          "url": "https://www.hellomagazine.com/film/928715/netflix-psychological-thriller-the-trap-next-binge-watch/",
+          "source": "HELLO! Magazine"
         },
         {
-          "title": "MLB Best Bets Today: Player Props for Tuesday October 13 2026",
-          "url": "https://www.rotowire.com/baseball/article/mlb-best-bets-today-mlb-player-props-for-tuesday-october-13-140813",
-          "source": "RotoWire"
+          "title": "‘The Trap’ Ending Explained – What REALLY Happened to Anna? I Think We Know…",
+          "url": "https://readysteadycut.com/2026/10/13/the-trap-ending-explained/",
+          "source": "Ready Steady Cut"
         }
       ]
     },
     {
-      "keyword": "yandy diaz",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 13 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTawW6EaihEMI4wzRcZILO7FVP7U-EBtlJObpizgBYFLK8IZi47SVCfrRTEKoU",
+      "keyword": "terrell owens",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Wed, 14 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk1MTorpzuI8oy8F4KakaswFoRGwOxaPciJA1MIpRwUemKRYHhKnKYkcbRzpg",
       "news": [
         {
-          "title": "Rays’ Yandy Diaz Is About to Enter Rare Company",
-          "url": "https://sports.yahoo.com/articles/rays-yandy-diaz-enter-rare-222932979.html",
-          "source": "Yahoo Sports"
+          "title": "Agent's Take: Making sense of Eagles' salary cap manipulation after Lane Johnson's retirement",
+          "url": "https://www.cbssports.com/nfl/news/agents-take-eagles-salary-cap-manipulation-lane-johnson-retirement/",
+          "source": "CBS Sports"
         },
         {
-          "title": "ALCS Game 2: Lineups, live updates from Guardians-Rays",
-          "url": "https://www.espn.com/mlb/story/_/id/50174091/mlb-2026-alcs-game-2-rays-guardians-lineups-updates-analysis-takeaways",
+          "title": "Eagles All-Pro Lane Johnson retires, ending 14-season NFL career",
+          "url": "https://www.espn.com/nfl/story/_/id/50119122/eagles-all-pro-rt-lane-johnson-reties-ending-14-season-nfl-career",
           "source": "ESPN"
         },
         {
-          "title": "Cleveland rocks—get Guardians vs Rays ALCS tickets for Progressive Field",
-          "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/10/13/how-to-buy-cleveland-guardians-vs-tampa-bay-rays-alcs-tickets-progressive-field/92236333007/",
-          "source": "USA Today"
+          "title": "Stephen A. Smith embarrasses himself with Lane Johnson mental health ‘First Take’",
+          "url": "https://www.nytimes.com/athletic/7668803/2026/10/07/stephen-a-smith-lane-johnson-mental-health/",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "keyword": "the voice judges",
+      "keyword": "michele tafoya",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3AHBgyPa2rjzWvvu0nUMWnzAmvEONFsOwmqdr0HadGvggWnq1d9rZq2X91Cg",
+      "pub_date": "Wed, 14 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQhoXWzMWvFSw0QpvpAke-7RkFa0sU5EeahmSCXS9Lqi0IXdE7nt7KOeEjYec",
       "news": [
         {
-          "title": "Riley Green puts Alabama singers to the test on ‘The Voice,’ and one passes",
-          "url": "https://www.al.com/life/2026/10/riley-green-puts-alabama-singers-to-the-test-on-the-voice-and-one-passes.html",
-          "source": "AL.com"
+          "title": "Sleeper GOP candidate puts blue-leaning state in play as fraud scandal shadows Dems",
+          "url": "https://www.foxnews.com/politics/sleeper-gop-candidate-puts-blue-leaning-state-play-fraud-scandal-shadows-dems",
+          "source": "Fox News"
         },
         {
-          "title": "Riley Green Faces Tough Decision After Team Members Sing His Duet With Ella Langley On ‘The Voice’",
-          "url": "https://countrynow.com/riley-green-faces-tough-decision-after-team-members-sing-his-duet-with-ella-langley-on-the-voice/",
-          "source": "Country Now"
+          "title": "Video: Peggy Flanagan on how childhood and faith shaped her politics",
+          "url": "https://www.mprnews.org/story/2026/10/14/video-peggy-flanagan-on-how-childhood-and-faith-shaped-her-politics",
+          "source": "MPR News"
         },
         {
-          "title": "WATCH: Riley Green Gave 17-Year-Old 'The Voice' Singer Moment She Never Saw Coming",
-          "url": "https://tasteofcountry.com/riley-green-isabella-taylor-the-voice-duet/",
-          "source": "Taste of Country"
+          "title": "Wednesday’s Campaign Round-Up, 10.14.26: Tafoya says she’s ‘pro-choice’ despite her record",
+          "url": "https://www.ms.now/rachel-maddow-show/maddowblog/minnesota-tafoya-texas-polls-nebraska-maine-midterm-elections",
+          "source": "MS NOW"
         }
       ]
     },
     {
-      "keyword": "high potential season 3",
+      "keyword": "chicago med cast",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Tue, 13 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlsmv9mkQFeEG_tfjuXVtO3XyPyzdrgNQ41JmL92I1omZmMIUaEu-xoPFrEmM",
+      "pub_date": "Wed, 14 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm0O5_lNkzoWj4MnoU0ZOY0EBOgV4FgBK1y4bW6iB8VxYcSuaaiPM6Xvg7S50",
       "news": [
         {
-          "title": "Watch 'High Potential' Immediately Following Super Bowl LXI on ABC and Disney+",
-          "url": "https://abc.com/news/7606552a-f25f-41bc-8726-7d03fe9459f7/category/1138628",
-          "source": "ABC Network"
+          "title": "Meet the Kids of the ‘Chicago Med’ Cast",
+          "url": "https://people.com/chicago-med-cast-kids-12062419",
+          "source": "People.com"
         },
         {
-          "title": "Will ‘High Potential’s Super Bowl Episode Tackle a Morgan-Karadec Moment?",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/high-potential-super-bowl-episode-231952034.html",
-          "source": "Yahoo"
+          "title": "Original ‘Chicago Med’ Star Colin Donnell Returning in Season 12, Seven Years After His Exit",
+          "url": "https://www.imdb.com/it/news/ni66054751/?ref_=nwc_art_perm",
+          "source": "IMDb"
         },
         {
-          "title": "High Potential Lands Highly Coveted Post-Super Bowl 2027 Slot On ABC — Watch Promo",
-          "url": "https://www.tvline.com/2284811/high-potential-new-episode-super-bowl-2027-abc/",
-          "source": "TVLine"
+          "title": "Original Chicago Med Cast Member With The Most Horrible Exit Returns After 7 Years For Redemption",
+          "url": "https://screenrant.com/chicago-med-season-12-colin-donnell-connor-rhodes-return-redemption/",
+          "source": "ScreenRant"
+        }
+      ]
+    },
+    {
+      "keyword": "mary hart",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Wed, 14 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjlDsZ0uvUwwK8IrGlt2QvQsblNTNbA0hELCfVf_56zBOX4GrqlJecjmkARAU",
+      "news": [
+        {
+          "title": "How Mary Hart became Los Angeles Dodgers superfan, went viral in 2018",
+          "url": "https://sports.yahoo.com/articles/mary-hart-became-los-angeles-233359839.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Is Mary Hart behind home plate for Dodgers playoffs? Why 'ET' host is a fan",
+          "url": "https://ftw.usatoday.com/story/sports/mlb/2026/10/14/mary-hart-dodgers-behind-home-plate-brewers-playoffs/92249079007/",
+          "source": "USA Today"
         }
       ]
     }
