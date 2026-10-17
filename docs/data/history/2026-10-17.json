@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-17",
+ "candidates": [
+  {
+   "id": "bc7cf47d39",
+   "title": "Halloween",
+   "query": "halloween costume",
+   "score": 75,
+   "rank": 1
+  },
+  {
+   "id": "c20627e211",
+   "title": "NMIXX 'Strange Muse'",
+   "query": "nmixx album",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "67b36a1b34",
+   "title": "ILLIT - The 5th Mini Album: BREAK EVEN (Album Contents Preview with Moka)",
+   "query": "illit 5th Mini Album",
+   "score": 64,
+   "rank": 3
+  },
+  {
+   "id": "5285fede8e",
+   "title": "ILLIT 'BREAK EVEN'",
+   "query": "illit album",
+   "score": 63,
+   "rank": 4
+  },
+  {
+   "id": "96648ad8af",
+   "title": "BABYMONSTER 신곡",
+   "query": "babymonster album",
+   "score": 54,
+   "rank": 5
+  },
+  {
+   "id": "221b1c211b",
+   "title": "LISA 'PRESS PLAY'",
+   "query": "lisa press play",
+   "score": 54,
+   "rank": 6
+  },
+  {
+   "id": "7839c2b549",
+   "title": "IVE 'Looks Can Kill'",
+   "query": "ive album",
+   "score": 53,
+   "rank": 7
+  },
+  {
+   "id": "0fc63d0a34",
+   "title": "RIIZE 정규 2집 선공개",
+   "query": "riize album",
+   "score": 53,
+   "rank": 8
+  },
+  {
+   "id": "6ed713c50c",
+   "title": "TWS 'TO US'",
+   "query": "tws album",
+   "score": 51,
+   "rank": 9
+  },
+  {
+   "id": "da034b1c48",
+   "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+   "query": "pokemon 30th celebration upc",
+   "score": 50,
+   "rank": 10
+  },
+  {
+   "id": "0771746723",
+   "title": "Pokemon TCG Delta Reign (ME06)",
+   "query": "delta reign booster box",
+   "score": 50,
+   "rank": 11
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 49,
+   "rank": 12
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 48,
+   "rank": 13
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 48,
+   "rank": 14
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 45,
+   "rank": 15
+  },
+  {
+   "id": "02d2805022",
+   "title": "The Legend of Zelda: Ocarina of Time - Commercial (Released Oct. 16)",
+   "query": "Legend Zelda",
+   "score": 44,
+   "rank": 16
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 44,
+   "rank": 17
+  },
+  {
+   "id": "85280faffe",
+   "title": "pedro martinez",
+   "query": "pedro martinez",
+   "score": 39,
+   "rank": 18
+  },
+  {
+   "id": "a98e782523",
+   "title": "I pulled two of these Charizards out of the 30th elite trainer box",
+   "query": "pulled Charizards 30th elite trainer box",
+   "score": 35,
+   "rank": 19
+  }
+ ]
+}
