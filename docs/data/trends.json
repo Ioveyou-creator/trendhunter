@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-20T01:06:15+00:00",
+  "fetched_at": "2026-10-21T00:39:26+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "valkyries",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHgB-emQFuaRzT8sLJccBcdbcLEHDT0d-n2HviuOqoi9gYFNa8mhxuutAtJ5A",
+      "keyword": "alfonso ribeiro",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Tue, 20 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUTLwPr4Kkn7wXeHnxMTeEtDLq90BBWURBnbmDBFdyK3nuFpYBCy8rkhEhNxA",
       "news": [
         {
-          "title": "WNBA Finals 2026: Valkyries vs. Dream schedule, scores, more",
-          "url": "https://www.espn.com/wnba/story/_/id/50176202/2026-wnba-finals-valkyries-dream-schedule-scores-news",
-          "source": "ESPN"
+          "title": "Who Is Alfonso Ribeiro’s Wife? All About Competitive Diver Angela Ribeiro",
+          "url": "https://people.com/all-about-alfonso-ribeiro-wife-angela-ribeiro-12182980",
+          "source": "People.com"
         },
         {
-          "title": "‘Ballhalla is everywhere’: Joyful Valkyries fans build loud, supportive community",
-          "url": "https://www.mercurynews.com/2026/10/19/golden-state-valkyries-fans-ballhalla-lgbtq-community/",
-          "source": "The Mercury News"
+          "title": "Tatyana Ali's 'Dancing With the Stars' tribute is a 'love letter' to James Avery. 'He always told me he was proud of me.'",
+          "url": "https://www.yahoo.com/entertainment/tv/article/tatyana-alis-dancing-with-the-stars-tribute-is-a-love-letter-to-james-avery-he-always-told-me-he-was-proud-of-me-203746934.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Valkyries star Gabby Williams takes over in WNBA Finals Game 1 win, shows why 'she's one of the best players in the world'",
-          "url": "https://sports.yahoo.com/wnba/article/valkyries-star-gabby-williams-takes-over-in-wnba-finals-game-1-win-shows-why-shes-one-of-the-best-players-in-the-world-005935122.html",
+          "title": "Tatyana Ali on James Avery DWTS Dedication, Fan Support, Jan Ravnik",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/tatyana-ali-dwts-james-avery-fresh-prince-jan-ravnik-1236734691/",
+          "source": "The Hollywood Reporter"
+        }
+      ]
+    },
+    {
+      "keyword": "wild vs oilers",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI-CycGDSGQziqiHAkIphoLX--sx7JmTVtOoPLGjPTYBcbvgMqV1pomfJtXKM",
+      "news": [
+        {
+          "title": "NHL On Tap: Kaprizov, McDavid go head-to-head in Wild-Oilers showdown",
+          "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-october-20-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Oilers Face Another Important Test Against Wild With Both Teams Tied In Standings",
+          "url": "https://sports.yahoo.com/videos/oilers-face-another-important-test-215750196.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Minnesota Wild vs Edmonton Oilers Prediction, Picks & Odds | 20 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/minnesota-wild-vs-edmonton-oilers-prediction-odds-2026-10-20/",
+          "source": "Sportsgambler"
+        }
+      ]
+    },
+    {
+      "keyword": "chivas game",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCLK_mGDH85gN3qS9xb8FVC5FmeuUVT3XB0oevUOGqRYiKocRYfeoxjC_yqrM",
+      "news": [
+        {
+          "title": "CLICK HERE for the Key Facts About Chivas Femenil vs. Necaxa",
+          "url": "https://sports.yahoo.com/articles/click-key-facts-chivas-femenil-154800696.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Guadalajara vs Necaxa - Where to Watch, Stream Info, TV Channel, and Live Updates (October 20, 2026)",
+          "url": "https://www.fubo.tv/news/soccer/guadalajara-vs-necaxa-where-to-watch-stream-info-tv-channel-and-live-updates-october-20-2026/",
+          "source": "Fubo"
+        },
+        {
+          "title": "CLICK HERE to Watch Chivas Femenil vs. Necaxa",
+          "url": "https://sports.yahoo.com/articles/click-watch-chivas-femenil-vs-131300915.html",
           "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "brandon aiyuk",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDz9Jxcnbxi0UEOhnCnYKYhrGGzYvlvswtkhxz2aWkCQXXmNuIDMS5yr-CfWk",
+      "keyword": "tatyana ali dancing with the stars",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Tue, 20 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSYqt-HsmrZxN0OofoAIJptEfiGgV_nUxlnRCLxYuKtgj5CZ-0WLNdSqI8t2A",
       "news": [
         {
-          "title": "Brandon Aiyuk was a star receiver with a $120M contract. Now he’s the NFL’s biggest enigma",
-          "url": "https://www.nytimes.com/athletic/7692622/2026/10/16/brandon-aiyuk-49ers-contract-what-happened/",
+          "title": "Tatyana Ali's 'Dancing With the Stars' tribute is a 'love letter' to James Avery. 'He always told me he was proud of me.'",
+          "url": "https://www.yahoo.com/entertainment/tv/article/tatyana-alis-dancing-with-the-stars-tribute-is-a-love-letter-to-james-avery-he-always-told-me-he-was-proud-of-me-203746934.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Tatyana Ali on James Avery DWTS Dedication, Fan Support, Jan Ravnik",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/tatyana-ali-dwts-james-avery-fresh-prince-jan-ravnik-1236734691/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "What Happened to ‘Fresh Prince’ Star James Avery? His Cause of Death & More",
+          "url": "https://www.tvinsider.com/1298293/what-happened-james-avery-death-heart-surgery-complications/",
+          "source": "TV Insider"
+        }
+      ]
+    },
+    {
+      "keyword": "the fugitive",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Tue, 20 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKbNoToj-GXFWGQjd1vn_cg3d8_AtavZYhXs6Dg_8DcSg18DjTz3vvi-gVPIw",
+      "news": [
+        {
+          "title": "Richard Riehle, Prolific Actor Who Appeared in ‘Office Space,’ Dies at 78",
+          "url": "https://www.nytimes.com/2026/10/20/us/richard-riehle-dead-office-space.html",
           "source": "The New York Times"
         },
         {
-          "title": "Why 49ers did not trade Brandon Aiyuk to Commanders despite abundance of rumors",
-          "url": "https://sports.yahoo.com/articles/why-49ers-did-not-trade-191109610.html",
-          "source": "Yahoo Sports"
+          "title": "Richard Riehle, dependable TV and film character actor who was in 'Glory' and 'Office Space,' dies",
+          "url": "https://apnews.com/article/richard-riehle-dies-9062f83178ad37c0875ecb5b61e15f3c",
+          "source": "AP News"
         },
         {
-          "title": "Brandon Aiyuk's Former 49ers Teammate Sounds Off on WR's 'Desperate' Antics amid Trade Push",
-          "url": "https://bleacherreport.com/articles/25512027-brandon-aiyuks-former-49ers-teammate-sounds-wrs-desperate-antics-amid-trade-push",
-          "source": "Bleacher Report"
+          "title": "'Office Space' Star Richard Riehle Dead at 78",
+          "url": "https://www.tmz.com/2026/10/19/richard-riehle-dead/",
+          "source": "TMZ"
         }
       ]
     },
     {
-      "keyword": "jayden daniels injury",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwwoaFYw5Niu9QiV_JJaS1QQT3BmE-7k7Zm0MhuSs_DV5iH-hxzzKRjH4J0JE",
-      "news": [
-        {
-          "title": "Why Jayden Daniels wears a Japanese flag on his helmet during Commanders games",
-          "url": "https://sports.yahoo.com/articles/why-jayden-daniels-wears-japanese-062001686.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Jayden Daniels Faces the Undefeated 49ers After His Historic Rushing Performance",
-          "url": "https://sports.yahoo.com/articles/jayden-daniels-faces-undefeated-49ers-181232376.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Commanders Film Session: How Jayden Daniels powered Washington in his return",
-          "url": "https://www.hogshaven.com/washington-commanders-analysis/449068/commanders-film-review-session-quarterback-jayden-daniels-giants",
-          "source": "Hogs Haven"
-        }
-      ]
-    },
-    {
-      "keyword": "steven kwan",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLRyL0Yk1yFRVkhAWWuVUrG_DyEalCnzAupH_UxCQd4wVgHoDbjo4SjdKH7o",
-      "news": [
-        {
-          "title": "Thought Kwan's first play was good? Gold Glover comes back with another gem",
-          "url": "https://www.mlb.com/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Guardians’ Kwan throws a rocket to cut Walls off at home plate",
-          "url": "https://www.sportsnet.ca/mlb/video/guardians-kwan-throws-a-rocket-to-cut-walls-off-at-home-plate/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "Moment: Steven Kwan’s stellar throw gets an out at home",
-          "url": "https://www.thechronicle.com.au/sport/moment-steven-kwans-stellar-throw-gets-an-out-at-home/video/6057f74298b1959f352a426cc921080e",
-          "source": "Toowoomba Chronicle"
-        }
-      ]
-    },
-    {
-      "keyword": "richie palacios",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 19 Oct 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRfo2ytCiyzsWP7K5MIK8EmaxicTUYNNMKLhUGEaXmuWnrcSs5hiTGk7CZDsQ",
-      "news": [
-        {
-          "title": "Rays' Victor Mesa: Sitting versus southpaw",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/rays-victor-mesa-sitting-versus-southpaw/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Richie Palacios News: On bench vs. lefty",
-          "url": "https://www.rotowire.com/baseball/headlines/richie-palacios-news-on-bench-vs-lefty-1027953",
-          "source": "RotoWire"
-        },
-        {
-          "title": "Victor Mesa News: Sitting versus southpaw",
-          "url": "https://www.rotowire.com/baseball/headlines/victor-mesa-news-sitting-versus-southpaw-1027954",
-          "source": "RotoWire"
-        }
-      ]
-    },
-    {
-      "keyword": "tb rays",
+      "keyword": "julianne moore",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sSxOFBQTs3xGwc3RKNLrzSq_uJt7eQThPW5q5jBOOXe12s2KYdD3d5YnqIk",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMZEKDJhcrxl9mMFg7GHIpAdJdiG5lRamXbN0jsGqdafK6xHZEkNUbefiSHI",
       "news": [
         {
-          "title": "Rays 3-1 Guardians (Oct 18, 2026) Box Score",
-          "url": "https://www.espn.com/mlb/boxscore/_/gameId/401930515",
-          "source": "ESPN"
+          "title": "Jesse Eisenberg, Julianne Moore bring curtain down on London Film Festival with 'The Debut'",
+          "url": "https://www.reuters.com/business/media-telecom/jesse-eisenberg-julianne-moore-bring-curtain-down-london-film-festival-with-the-2026-10-19/",
+          "source": "Reuters"
         },
         {
-          "title": "Facing elimination on road, Cleveland Guardians back on familiar ground",
-          "url": "https://www.espn.com/mlb/story/_/id/50216130/facing-elimination-road-again-guardians-keep-spirits-up",
-          "source": "ESPN"
+          "title": "The Debut has terrible acting and toe-curling songs – it’s the film of the year",
+          "url": "https://www.telegraph.co.uk/films/2026/10/18/the-debut-jesse-eisenberg-julianne-moore/",
+          "source": "The Telegraph"
         },
         {
-          "title": "Where have all the Guardians’ starting pitchers gone this postseason?",
-          "url": "https://www.cleveland.com/guardians/2026/10/where-have-all-the-guardians-starting-pitchers-gone-this-postseason.html",
-          "source": "Cleveland.com"
+          "title": "Julianne Moore and Paul Giamatti Were So ‘Perfect’ in ‘The Debut’ That They Cut Shooting Time Short",
+          "url": "https://www.indiewire.com/news/festivals/julianne-moore-paul-giamatti-perfect-takes-the-debut-1235222468/",
+          "source": "IndieWire"
         }
       ]
     },
     {
-      "keyword": "chandler simpson",
+      "keyword": "meteor shower october 2026",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz1hvOBmd7t6pndTRgxL_hM4yglJ0rrY9JR3vX8SNVslLhYq4MBf4XCRS6yNA",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkD8TGb2Ys6UZY0XFV4Box1rvy58rpZj-0Ee7JIvkXO3WFEXHcPI95Wqhn6qU",
       "news": [
         {
-          "title": "Gold Glove finalist nod rewards Simpson's 180 on 'D.' Here's how he did it",
-          "url": "https://www.mlb.com/news/chandler-simpson-discusses-being-2026-al-gold-glove-award-finalist",
-          "source": "MLB.com"
+          "title": "The Orionid meteor shower is coming. Here’s how and when to watch",
+          "url": "https://apnews.com/article/orionid-meteor-shower-shooting-stars-6c4b33c54257f27108cb952196827180",
+          "source": "AP News"
         },
         {
-          "title": "Taylor Walls deserves the Gold Glove",
-          "url": "https://www.draysbay.com/tampa-bay-rays-analysis/91454/taylor-walls-deserves-a-gold-glove",
-          "source": "DRaysBay"
+          "title": "SUN: Orionid meteor shower to light up Maryland s sky this week. What to know.",
+          "url": "https://foxbaltimore.com/news/local/orionid-meteor-shower-to-light-up-marylands-sky-this-week-what-to-know-nasa",
+          "source": "WBFF"
         },
         {
-          "title": "Rays Have Two Gold Glove Finalists at Respective Positions",
-          "url": "https://sports.yahoo.com/articles/rays-two-gold-glove-finalists-180409301.html",
-          "source": "Yahoo Sports"
+          "title": "Halley’s Comet Returns To The Night Sky — Sort Of",
+          "url": "https://www.forbes.com/sites/jamiecartereurope/2026/10/19/see-shooting-stars-from-halleys-comet-the-night-sky-this-week/",
+          "source": "Forbes"
         }
       ]
     },
     {
-      "keyword": "jaden daniels",
+      "keyword": "from show",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Mon, 19 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCd5JYGXEJD4baEJTTxZWV2BXxgavQPe-cMC6iAy4I258YzEvxjBrDL9wUhaQ",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6vNLlxppgaIBIIzke2-vUefgeFgnq9gEA4WfW1RZ5EjALLRXHDf4JC_Dh_38",
       "news": [
         {
-          "title": "49ers LB Dre Greenlaw ejected vs. Seahawks for head-butt of Ernest Jones IV during sideline scuffle",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/49ers-lb-dre-greenlaw-ejected-vs-seahawks-for-head-butt-of-ernest-jones-iv-during-sideline-scuffle-220105385.html",
-          "source": "Yahoo Sports"
+          "title": "Discover Why the Sci-Fi Horror Series From Might Just Become Your Next Obsession",
+          "url": "https://www.netflix.com/tudum/articles/from-cast-release-date-news",
+          "source": "Netflix"
         },
         {
-          "title": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders",
-          "url": "https://www.espn.com/nfl/story/_/id/50178480/niners-lb-dre-greenlaw-appeal-1-game-suspension-rejected",
-          "source": "ESPN"
+          "title": "'From' to premiere on Netflix ahead of Halloween. How to watch",
+          "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/18/from-netflix-how-to-watch/92252106007/",
+          "source": "USA Today"
         },
         {
-          "title": "Dre Greenlaw suspension leaves 49ers thin at linebacker against Jayden Daniels",
-          "url": "https://ninernoise.com/dre-greenlaw-suspension-49ers-thin-against-jayden-daniels",
-          "source": "Niner Noise"
+          "title": "The Matrix Star’s Horror TV Show With Incredible RT Score Hits Netflix Streaming Before Final Season",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/matrix-star-horror-tv-show-190150632.html",
+          "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "ed mccaffrey",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 19 Oct 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJj-Ct_2qNU_m3UZ5wQKEEonfzqejMJ6njYVcPE3TCT2nBv1ILxjd9nFiBsOQ",
+      "keyword": "gta 6 pre order",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 20 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUth28DN1W_Pce36c5nY-3UPKhVFLXujSSk0Sw7BME9hHUf0q9dFWqJDx0gX8",
       "news": [
         {
-          "title": "Ed McCaffrey recalls favorite John Elway memory with Rich Eisen",
-          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/10/17/denver-broncos-ed-mccaffrey-favorite-john-elway-memory/92204542007/",
-          "source": "Broncos Wire"
+          "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
+          "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+          "source": "GamesIndustry.biz"
         },
         {
-          "title": "Ed McCaffrey recalls favorite John Elway memory with Rich Eisen",
-          "url": "https://www.aol.com/articles/ed-mccaffrey-recalls-favorite-john-110143000.html",
-          "source": "AOL.com"
+          "title": "GTA 6 Digital Pre-Orders Climb to 6.45 Million, PlayStation Holds 74% Share",
+          "url": "https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share",
+          "source": "TechPowerUp"
         },
         {
-          "title": "Ed McCaffrey recalls favorite John Elway memory with Rich Eisen",
-          "url": "https://sports.yahoo.com/articles/ed-mccaffrey-recalls-favorite-john-110143303.html",
-          "source": "Yahoo Sports"
+          "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+          "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
+          "source": "GameSpot"
         }
       ]
     },
     {
-      "keyword": "jake moody",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 19 Oct 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBaVW4C3PgD85pxuBikexYSWasoizh7j41XuvwSTe__DhyrsID9S9C13naic",
+      "keyword": "state department kenya advisory changes",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 20 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn9BBIOkz5kWeGrApmqckmM4ZE2JExR3WNM-faosMNgul_vxYDYvI1JiLUdhU",
       "news": [
         {
-          "title": "Report: Ravens re-sign K Jake Moody to practice squad",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-ravens-re-sign-k-jake-moody-to-practice-squad",
-          "source": "NBC Sports"
+          "title": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
+          "url": "https://www.foxnews.com/travel/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings",
+          "source": "Fox News"
         },
         {
-          "title": "Ravens’ Jesse Minter puts Tyler Loop on notice for critical misses that are ‘almost like turnovers’",
-          "url": "https://sports.yahoo.com/articles/ravens-jesse-minter-puts-tyler-233829608.html",
-          "source": "Yahoo Sports"
+          "title": "US says travelers should reconsider Kenya trips on health risks amid Ebola spread",
+          "url": "https://www.reuters.com/world/africa/us-state-department-asks-americans-reconsider-travel-kenya-2026-10-19/",
+          "source": "Reuters"
         },
         {
-          "title": "Ravens’ Jesse Minter doesn’t rule out Tyler Loop competition: ‘Critical misses’",
-          "url": "https://www.baltimoresun.com/2026/10/19/ravens-possible-tyler-loop-competition-critical-misses/",
-          "source": "Baltimore Sun"
+          "title": "United States issues travel advisory against Kenya over Terrorism, Kidnapping and Diseases",
+          "url": "https://tanzaniatimes.net/united-states-issues-travel-advisory-against-kenya-over-terrorism-kidnapping-and-diseases/",
+          "source": "The Tanzania Times"
         }
       ]
     }

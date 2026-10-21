@@ -1,33 +1,113 @@
 {
-  "generated_at": "2026-10-20T01:12:04+00:00",
+  "generated_at": "2026-10-21T00:45:04+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-20T01:06:15+00:00"
+      "fetched_at": "2026-10-21T00:39:26+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 101,
+      "count": 111,
       "error": null,
-      "fetched_at": "2026-10-20T01:12:04+00:00"
+      "fetched_at": "2026-10-21T00:45:04+00:00"
     },
     "events": {
       "ok": true,
       "count": 14,
       "error": null,
-      "fetched_at": "2026-10-20T01:12:04+00:00"
+      "fetched_at": "2026-10-21T00:45:04+00:00"
     }
   },
   "candidates": [
+    {
+      "title": "TXT (TOMORROW X TOGETHER) - 9th Mini Album 'PERFECT STORM' (Logo / Banner Teaser Image)",
+      "query": "txt 9th Mini Album PERFECT STORM",
+      "category": "kculture",
+      "score": 79,
+      "reasons": [
+        "r/kpop hot #6",
+        "상품 신호: 콜라보, K-pop 굿즈",
+        "브랜드/IP: txt",
+        "다가오는 이벤트와 연결: TXT 'PERFECT STORM' (D-26)"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "TXT (TOMORROW X TOGETHER) - 9th Mini Album 'PERFECT STORM' (Logo / Banner Teaser Image)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xayuml/txt_tomorrow_x_together_9th_mini_album_perfect/"
+        }
+      ],
+      "id": "2c32a2845f",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+9th+Mini+Album+PERFECT+STORM&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+9th+Mini+Album+PERFECT+STORM",
+        "naver": "https://search.shopping.naver.com/search/all?query=txt+9th+Mini+Album+PERFECT+STORM"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Halloween",
+      "query": "halloween costume",
+      "category": "season",
+      "score": 75,
+      "reasons": [
+        "이벤트 D-10 (2026-10-31), 지금 준비할 때",
+        "다른 소스에서 1건 언급"
+      ],
+      "sources": [
+        "events",
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Halloween",
+          "url": ""
+        },
+        {
+          "source": "reddit",
+          "text": "Halloween Sale is up in the US eShop until 10/31/26",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xaw8b2/halloween_sale_is_up_in_the_us_eshop_until_103126/"
+        }
+      ],
+      "event": {
+        "date": "2026-10-31",
+        "days_left": 10,
+        "prep_by": "2026-10-10",
+        "status": "prepare_now"
+      },
+      "id": "bc7cf47d39",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume",
+        "naver": "https://search.shopping.naver.com/search/all?query=halloween+costume"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 3,
+        "rank_change": 1,
+        "streak": 13
+      }
+    },
     {
       "title": "BABYMONSTER 신곡",
       "query": "babymonster album",
       "category": "kpop",
       "score": 65,
       "reasons": [
-        "이벤트 D-3 (2026-10-23), 지금 준비할 때"
+        "이벤트 D-2 (2026-10-23), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,7 +121,7 @@
       ],
       "event": {
         "date": "2026-10-23",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-10-20",
         "status": "prepare_now"
       },
@@ -53,10 +133,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=babymonster+album"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 4,
-        "rank_change": 3,
-        "streak": 12
+        "status": "same",
+        "prev_rank": 1,
+        "rank_change": -2,
+        "streak": 13
       }
     },
     {
@@ -65,7 +145,7 @@
       "category": "kpop",
       "score": 65,
       "reasons": [
-        "이벤트 D-3 (2026-10-23), 지금 준비할 때"
+        "이벤트 D-2 (2026-10-23), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -79,7 +159,7 @@
       ],
       "event": {
         "date": "2026-10-23",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-10-20",
         "status": "prepare_now"
       },
@@ -91,149 +171,22 @@
         "naver": "https://search.shopping.naver.com/search/all?query=lisa+press+play"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 5,
-        "rank_change": 3,
-        "streak": 12
+        "status": "same",
+        "prev_rank": 2,
+        "rank_change": -2,
+        "streak": 13
       }
     },
     {
-      "title": "Halloween",
-      "query": "halloween costume",
-      "category": "season",
+      "title": "ILLIT - You’re Under Arrest @ PRESS START♥︎ ENCORE in KOREA (261018)",
+      "query": "ILLIT",
+      "category": "kculture",
       "score": 65,
       "reasons": [
-        "이벤트 D-11 (2026-10-31), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Halloween",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-10-31",
-        "days_left": 11,
-        "prep_by": "2026-10-10",
-        "status": "prepare_now"
-      },
-      "id": "bc7cf47d39",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume",
-        "naver": "https://search.shopping.naver.com/search/all?query=halloween+costume"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 1,
-        "rank_change": -2,
-        "streak": 12
-      }
-    },
-    {
-      "title": "IVE 'Looks Can Kill'",
-      "query": "ive album",
-      "category": "kpop",
-      "score": 64,
-      "reasons": [
-        "이벤트 D-6 (2026-10-26), 준비 예정",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "IVE 'Looks Can Kill'",
-          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
-        },
-        {
-          "source": "reddit",
-          "text": "IVE - Looks Can Kill",
-          "url": "https://www.reddit.com/r/kpop/comments/1x9rt60/ive_looks_can_kill/"
-        }
-      ],
-      "event": {
-        "date": "2026-10-26",
-        "days_left": 6,
-        "prep_by": "2026-10-23",
-        "status": "upcoming"
-      },
-      "id": "7839c2b549",
-      "category_label": "K-pop",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ive+album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ive+album",
-        "naver": "https://search.shopping.naver.com/search/all?query=ive+album"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 3,
-        "rank_change": -1,
-        "streak": 12
-      }
-    },
-    {
-      "title": "Pokemon 30th Celebration Ultra-Premium Collection",
-      "query": "pokemon 30th celebration upc",
-      "category": "tcg",
-      "score": 61,
-      "reasons": [
-        "이벤트 D-17 (2026-11-06), 준비 예정",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Pokemon 30th Celebration Ultra-Premium Collection",
-          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
-        },
-        {
-          "source": "reddit",
-          "text": "Finally got ahold of a 30th ETB…",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xa72ki/finally_got_ahold_of_a_30th_etb/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-06",
-        "days_left": 17,
-        "prep_by": "2026-10-30",
-        "status": "upcoming"
-      },
-      "id": "da034b1c48",
-      "category_label": "TCG",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc",
-        "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
-      },
-      "trend": {
-        "status": "up",
-        "prev_rank": 9,
-        "rank_change": 4,
-        "streak": 12
-      }
-    },
-    {
-      "title": "Nintendo \"underestimated\" how well its Zelda 40th Anniversary Edition Switch 2 would sell, exec admits, but restocks are coming: \"Please be patient\"",
-      "query": "Nintendo underestimated well Zelda 40th Anniversary",
-      "category": "gaming",
-      "score": 60,
-      "reasons": [
-        "r/NintendoSwitch hot #2",
-        "상품 신호: 품귀, 출시",
-        "브랜드/IP: nintendo"
+        "r/kpop hot #3",
+        "상품 신호: 모델명",
+        "브랜드/IP: illit",
+        "다가오는 이벤트와 연결: ILLIT 'BREAK EVEN' (D-5)"
       ],
       "sources": [
         "reddit"
@@ -241,16 +194,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Nintendo \"underestimated\" how well its Zelda 40th Anniversary Edition Switch 2 would sell, exec admits, but restocks are coming: \"Please be patient\"",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1x9xays/nintendo_underestimated_how_well_its_zelda_40th/"
+          "text": "ILLIT - You’re Under Arrest @ PRESS START♥︎ ENCORE in KOREA (261018)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xatwe4/illit_youre_under_arrest_press_start_encore_in/"
         }
       ],
-      "id": "8bbe54adb2",
-      "category_label": "게임",
+      "id": "69779fbca5",
+      "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+underestimated+well+Zelda+40th+Anniversary&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+underestimated+well+Zelda+40th+Anniversary",
-        "naver": "https://search.shopping.naver.com/search/all?query=Nintendo+underestimated+well+Zelda+40th+Anniversary"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ILLIT&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ILLIT",
+        "naver": "https://search.shopping.naver.com/search/all?query=ILLIT"
       },
       "trend": {
         "status": "new",
@@ -260,12 +213,12 @@
       }
     },
     {
-      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
-      "query": "ateez golden hour",
+      "title": "ILLIT 'BREAK EVEN'",
+      "query": "illit album",
       "category": "kpop",
-      "score": 59,
+      "score": 64,
       "reasons": [
-        "이벤트 D-24 (2026-11-13), 준비 예정",
+        "이벤트 D-5 (2026-10-26), 준비 예정",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -275,56 +228,18 @@
       "evidence": [
         {
           "source": "events",
-          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+          "text": "ILLIT 'BREAK EVEN'",
+          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
         },
         {
           "source": "reddit",
-          "text": "82WORLD: LA Faces Backlash: Did hello82 Fail ATEEZ Fans Who Built Its Success?",
-          "url": "https://www.reddit.com/r/kpop/comments/1xabiyc/82world_la_faces_backlash_did_hello82_fail_ateez/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-13",
-        "days_left": 24,
-        "prep_by": "2026-11-10",
-        "status": "upcoming"
-      },
-      "id": "312a19efa8",
-      "category_label": "K-pop",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
-        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
-      },
-      "trend": {
-        "status": "up",
-        "prev_rank": 12,
-        "rank_change": 5,
-        "streak": 12
-      }
-    },
-    {
-      "title": "ILLIT 'BREAK EVEN'",
-      "query": "illit album",
-      "category": "kpop",
-      "score": 54,
-      "reasons": [
-        "이벤트 D-6 (2026-10-26), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "ILLIT 'BREAK EVEN'",
-          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
+          "text": "ILLIT - You’re Under Arrest @ PRESS START♥︎ ENCORE in KOREA (261018)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xatwe4/illit_youre_under_arrest_press_start_encore_in/"
         }
       ],
       "event": {
         "date": "2026-10-26",
-        "days_left": 6,
+        "days_left": 5,
         "prep_by": "2026-10-23",
         "status": "upcoming"
       },
@@ -337,9 +252,126 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 6,
-        "rank_change": -2,
-        "streak": 12
+        "prev_rank": 8,
+        "rank_change": 2,
+        "streak": 13
+      }
+    },
+    {
+      "title": "SEVENTEEN's Jeonghan x Joshua (JxJ) Set Record For Highest 1st-Day Sales Of Any Unit Album In Hanteo History",
+      "query": "SEVENTEEN Jeonghan x Joshua Set Record",
+      "category": "kculture",
+      "score": 59,
+      "reasons": [
+        "r/kpop hot #8",
+        "상품 신호: 콜라보, K-pop 굿즈",
+        "브랜드/IP: seventeen"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "SEVENTEEN's Jeonghan x Joshua (JxJ) Set Record For Highest 1st-Day Sales Of Any Unit Album In Hanteo History",
+          "url": "https://www.reddit.com/r/kpop/comments/1xb24oa/seventeens_jeonghan_x_joshua_jxj_set_record_for/"
+        }
+      ],
+      "id": "bd59982325",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=SEVENTEEN+Jeonghan+x+Joshua+Set+Record&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=SEVENTEEN+Jeonghan+x+Joshua+Set+Record",
+        "naver": "https://search.shopping.naver.com/search/all?query=SEVENTEEN+Jeonghan+x+Joshua+Set+Record"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "TXT 'PERFECT STORM'",
+      "query": "txt perfect storm",
+      "category": "kpop",
+      "score": 58,
+      "reasons": [
+        "이벤트 D-26 (2026-11-16), 준비 예정",
+        "다른 소스에서 1건 언급"
+      ],
+      "sources": [
+        "events",
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "TXT 'PERFECT STORM'",
+          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+        },
+        {
+          "source": "reddit",
+          "text": "TXT (TOMORROW X TOGETHER) - 9th Mini Album 'PERFECT STORM' (Logo / Banner Teaser Image)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xayuml/txt_tomorrow_x_together_9th_mini_album_perfect/"
+        }
+      ],
+      "event": {
+        "date": "2026-11-16",
+        "days_left": 26,
+        "prep_by": "2026-11-13",
+        "status": "upcoming"
+      },
+      "id": "9f050d512a",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
+        "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 14,
+        "rank_change": 6,
+        "streak": 13
+      }
+    },
+    {
+      "title": "IVE 'Looks Can Kill'",
+      "query": "ive album",
+      "category": "kpop",
+      "score": 54,
+      "reasons": [
+        "이벤트 D-5 (2026-10-26), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "IVE 'Looks Can Kill'",
+          "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up"
+        }
+      ],
+      "event": {
+        "date": "2026-10-26",
+        "days_left": 5,
+        "prep_by": "2026-10-23",
+        "status": "upcoming"
+      },
+      "id": "7839c2b549",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ive+album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ive+album",
+        "naver": "https://search.shopping.naver.com/search/all?query=ive+album"
+      },
+      "trend": {
+        "status": "down",
+        "prev_rank": 4,
+        "rank_change": -5,
+        "streak": 13
       }
     },
     {
@@ -348,7 +380,7 @@
       "category": "kpop",
       "score": 54,
       "reasons": [
-        "이벤트 D-6 (2026-10-26), 준비 예정"
+        "이벤트 D-5 (2026-10-26), 준비 예정"
       ],
       "sources": [
         "events"
@@ -362,7 +394,7 @@
       ],
       "event": {
         "date": "2026-10-26",
-        "days_left": 6,
+        "days_left": 5,
         "prep_by": "2026-10-23",
         "status": "upcoming"
       },
@@ -375,9 +407,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 7,
-        "rank_change": -2,
-        "streak": 12
+        "prev_rank": 9,
+        "rank_change": -1,
+        "streak": 13
       }
     },
     {
@@ -386,7 +418,7 @@
       "category": "kpop",
       "score": 52,
       "reasons": [
-        "이벤트 D-13 (2026-11-02), 준비 예정"
+        "이벤트 D-12 (2026-11-02), 준비 예정"
       ],
       "sources": [
         "events"
@@ -400,7 +432,7 @@
       ],
       "event": {
         "date": "2026-11-02",
-        "days_left": 13,
+        "days_left": 12,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -413,9 +445,47 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 8,
-        "rank_change": -2,
-        "streak": 12
+        "prev_rank": 10,
+        "rank_change": -1,
+        "streak": 13
+      }
+    },
+    {
+      "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+      "query": "pokemon 30th celebration upc",
+      "category": "tcg",
+      "score": 51,
+      "reasons": [
+        "이벤트 D-16 (2026-11-06), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Pokemon 30th Celebration Ultra-Premium Collection",
+          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
+        }
+      ],
+      "event": {
+        "date": "2026-11-06",
+        "days_left": 16,
+        "prep_by": "2026-10-30",
+        "status": "upcoming"
+      },
+      "id": "da034b1c48",
+      "category_label": "TCG",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc",
+        "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
+      },
+      "trend": {
+        "status": "down",
+        "prev_rank": 5,
+        "rank_change": -7,
+        "streak": 13
       }
     },
     {
@@ -424,7 +494,7 @@
       "category": "tcg",
       "score": 51,
       "reasons": [
-        "이벤트 D-17 (2026-11-06), 준비 예정"
+        "이벤트 D-16 (2026-11-06), 준비 예정"
       ],
       "sources": [
         "events"
@@ -438,7 +508,7 @@
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 17,
+        "days_left": 16,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -451,43 +521,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 10,
-        "rank_change": -1,
-        "streak": 12
-      }
-    },
-    {
-      "title": "Finally got ahold of a 30th ETB…",
-      "query": "ahold 30th ETB",
-      "category": "collectibles",
-      "score": 50,
-      "reasons": [
-        "r/PokemonTCG hot #3",
-        "상품 신호: TCG·수집",
-        "다가오는 이벤트와 연결: Pokemon 30th Celebration Ultra-Premium Collection (D-17)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Finally got ahold of a 30th ETB…",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xa72ki/finally_got_ahold_of_a_30th_etb/"
-        }
-      ],
-      "id": "a594796e85",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ahold+30th+ETB&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ahold+30th+ETB",
-        "naver": "https://search.shopping.naver.com/search/all?query=ahold+30th+ETB"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "prev_rank": 11,
+        "rank_change": -2,
+        "streak": 13
       }
     },
     {
@@ -496,7 +532,7 @@
       "category": "season",
       "score": 50,
       "reasons": [
-        "이벤트 D-22 (2026-11-11), 준비 예정"
+        "이벤트 D-21 (2026-11-11), 준비 예정"
       ],
       "sources": [
         "events"
@@ -510,7 +546,7 @@
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 22,
+        "days_left": 21,
         "prep_by": "2026-10-28",
         "status": "upcoming"
       },
@@ -523,18 +559,18 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 11,
-        "rank_change": -2,
-        "streak": 12
+        "prev_rank": 13,
+        "rank_change": -1,
+        "streak": 13
       }
     },
     {
-      "title": "TXT 'PERFECT STORM'",
-      "query": "txt perfect storm",
+      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+      "query": "ateez golden hour",
       "category": "kpop",
-      "score": 48,
+      "score": 49,
       "reasons": [
-        "이벤트 D-27 (2026-11-16), 준비 예정"
+        "이벤트 D-23 (2026-11-13), 준비 예정"
       ],
       "sources": [
         "events"
@@ -542,62 +578,28 @@
       "evidence": [
         {
           "source": "events",
-          "text": "TXT 'PERFECT STORM'",
+          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
           "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
         }
       ],
       "event": {
-        "date": "2026-11-16",
-        "days_left": 27,
-        "prep_by": "2026-11-13",
+        "date": "2026-11-13",
+        "days_left": 23,
+        "prep_by": "2026-11-10",
         "status": "upcoming"
       },
-      "id": "9f050d512a",
+      "id": "312a19efa8",
       "category_label": "K-pop",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
-        "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
+        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
       },
       "trend": {
-        "status": "same",
-        "prev_rank": 14,
-        "rank_change": 0,
-        "streak": 12
-      }
-    },
-    {
-      "title": "IVE - Looks Can Kill",
-      "query": "IVE",
-      "category": "kculture",
-      "score": 47,
-      "reasons": [
-        "r/kpop hot #7",
-        "브랜드/IP: ive",
-        "다가오는 이벤트와 연결: IVE 'Looks Can Kill' (D-6)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "IVE - Looks Can Kill",
-          "url": "https://www.reddit.com/r/kpop/comments/1x9rt60/ive_looks_can_kill/"
-        }
-      ],
-      "id": "38ab1afbd1",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=IVE&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=IVE",
-        "naver": "https://search.shopping.naver.com/search/all?query=IVE"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 13,
-        "rank_change": -2,
-        "streak": 2
+        "status": "down",
+        "prev_rank": 7,
+        "rank_change": -8,
+        "streak": 13
       }
     },
     {
@@ -606,7 +608,7 @@
       "category": "season",
       "score": 46,
       "reasons": [
-        "이벤트 D-38 (2026-11-27), 준비 예정"
+        "이벤트 D-37 (2026-11-27), 준비 예정"
       ],
       "sources": [
         "events"
@@ -620,7 +622,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 38,
+        "days_left": 37,
         "prep_by": "2026-10-30",
         "status": "upcoming"
       },
@@ -633,9 +635,9 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 15,
-        "rank_change": -1,
-        "streak": 12
+        "prev_rank": 16,
+        "rank_change": 0,
+        "streak": 13
       }
     },
     {
@@ -644,7 +646,7 @@
       "category": "season",
       "score": 45,
       "reasons": [
-        "이벤트 D-41 (2026-11-30), 준비 예정"
+        "이벤트 D-40 (2026-11-30), 준비 예정"
       ],
       "sources": [
         "events"
@@ -658,7 +660,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 41,
+        "days_left": 40,
         "prep_by": "2026-11-02",
         "status": "upcoming"
       },
@@ -671,70 +673,46 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 16,
-        "rank_change": -1,
-        "streak": 12
-      }
-    },
-    {
-      "title": "Best way to celebrate winning WTA 1000? Buying Lego",
-      "query": "lego Best way celebrate winning WTA",
-      "category": "collectibles",
-      "score": 44,
-      "reasons": [
-        "r/lego hot #10",
-        "상품 신호: 모델명",
-        "브랜드/IP: lego"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Best way to celebrate winning WTA 1000? Buying Lego",
-          "url": "https://www.reddit.com/r/lego/comments/1xa9k97/best_way_to_celebrate_winning_wta_1000_buying_lego/"
-        }
-      ],
-      "id": "4d0e15b0e8",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lego+Best+way+celebrate+winning+WTA&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lego+Best+way+celebrate+winning+WTA",
-        "naver": "https://search.shopping.naver.com/search/all?query=lego+Best+way+celebrate+winning+WTA"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
+        "prev_rank": 17,
         "rank_change": 0,
-        "streak": 1
+        "streak": 13
       }
     },
     {
-      "title": "Pulls from 4 booster boxes",
-      "query": "Pulls 4 booster boxes",
-      "category": "collectibles",
-      "score": 44,
+      "title": "meteor shower october 2026",
+      "query": "meteor shower october 2026",
+      "category": "trend",
+      "score": 37,
       "reasons": [
-        "r/PokemonTCG hot #10",
-        "상품 신호: 구매·개봉, TCG·수집"
+        "미국 검색 급상승 500+",
+        "상품 신호: 출시"
       ],
       "sources": [
-        "reddit"
+        "google_trends"
       ],
       "evidence": [
         {
-          "source": "reddit",
-          "text": "Pulls from 4 booster boxes",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1x9wbs5/pulls_from_4_booster_boxes/"
+          "source": "google_trends",
+          "text": "meteor shower october 2026 (500+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "The Orionid meteor shower is coming. Here’s how and when to watch",
+          "url": "https://apnews.com/article/orionid-meteor-shower-shooting-stars-6c4b33c54257f27108cb952196827180"
+        },
+        {
+          "source": "news",
+          "text": "SUN: Orionid meteor shower to light up Maryland s sky this week. What to know.",
+          "url": "https://foxbaltimore.com/news/local/orionid-meteor-shower-to-light-up-marylands-sky-this-week-what-to-know-nasa"
         }
       ],
-      "id": "94f5016d3f",
-      "category_label": "수집품",
+      "id": "dc4507470c",
+      "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Pulls+4+booster+boxes&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Pulls+4+booster+boxes",
-        "naver": "https://search.shopping.naver.com/search/all?query=Pulls+4+booster+boxes"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=meteor+shower+october+2026&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=meteor+shower+october+2026",
+        "naver": "https://search.shopping.naver.com/search/all?query=meteor+shower+october+2026"
       },
       "trend": {
         "status": "new",
@@ -749,7 +727,7 @@
       "name": "BABYMONSTER 신곡",
       "category": "kpop",
       "date": "2026-10-23",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-10-20",
       "lead_days": 3,
       "status": "prepare_now",
@@ -768,7 +746,7 @@
       "name": "LISA 'PRESS PLAY'",
       "category": "kpop",
       "date": "2026-10-23",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-10-20",
       "lead_days": 3,
       "status": "prepare_now",
@@ -789,7 +767,7 @@
       "name": "ILLIT 'BREAK EVEN'",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -808,7 +786,7 @@
       "name": "IVE 'Looks Can Kill'",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -827,7 +805,7 @@
       "name": "RIIZE 정규 2집 선공개",
       "category": "kpop",
       "date": "2026-10-26",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-10-23",
       "lead_days": 3,
       "status": "upcoming",
@@ -846,7 +824,7 @@
       "name": "Halloween",
       "category": "season",
       "date": "2026-10-31",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-10-10",
       "lead_days": 21,
       "status": "prepare_now",
@@ -865,7 +843,7 @@
       "name": "TWS 'TO US'",
       "category": "kpop",
       "date": "2026-11-02",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-10-30",
       "lead_days": 3,
       "status": "upcoming",
@@ -884,7 +862,7 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 17,
+      "days_left": 16,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -906,7 +884,7 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 17,
+      "days_left": 16,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -926,7 +904,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 22,
+      "days_left": 21,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "upcoming",
@@ -945,7 +923,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 24,
+      "days_left": 23,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -964,7 +942,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 27,
+      "days_left": 26,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -984,7 +962,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 38,
+      "days_left": 37,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "upcoming",
@@ -1002,7 +980,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 41,
+      "days_left": 40,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "upcoming",
@@ -1019,123 +997,128 @@
   ],
   "other_trends": [
     {
-      "keyword": "valkyries",
-      "traffic_label": "10000+",
+      "keyword": "alfonso ribeiro",
+      "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=valkyries&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=valkyries",
-        "naver": "https://search.shopping.naver.com/search/all?query=valkyries"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=alfonso+ribeiro&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=alfonso+ribeiro",
+        "naver": "https://search.shopping.naver.com/search/all?query=alfonso+ribeiro"
       }
     },
     {
-      "keyword": "brandon aiyuk",
+      "keyword": "wild vs oilers",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=brandon+aiyuk&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=brandon+aiyuk",
-        "naver": "https://search.shopping.naver.com/search/all?query=brandon+aiyuk"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=wild+vs+oilers&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=wild+vs+oilers",
+        "naver": "https://search.shopping.naver.com/search/all?query=wild+vs+oilers"
       }
     },
     {
-      "keyword": "jayden daniels injury",
+      "keyword": "chivas game",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jayden+daniels+injury&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jayden+daniels+injury",
-        "naver": "https://search.shopping.naver.com/search/all?query=jayden+daniels+injury"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chivas+game&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chivas+game",
+        "naver": "https://search.shopping.naver.com/search/all?query=chivas+game"
       }
     },
     {
-      "keyword": "steven kwan",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steven+kwan&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steven+kwan",
-        "naver": "https://search.shopping.naver.com/search/all?query=steven+kwan"
-      }
-    },
-    {
-      "keyword": "richie palacios",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=richie+palacios&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=richie+palacios",
-        "naver": "https://search.shopping.naver.com/search/all?query=richie+palacios"
-      }
-    },
-    {
-      "keyword": "tb rays",
+      "keyword": "tatyana ali dancing with the stars",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tb+rays&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tb+rays",
-        "naver": "https://search.shopping.naver.com/search/all?query=tb+rays"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tatyana+ali+dancing+with+the+stars&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tatyana+ali+dancing+with+the+stars",
+        "naver": "https://search.shopping.naver.com/search/all?query=tatyana+ali+dancing+with+the+stars"
       }
     },
     {
-      "keyword": "chandler simpson",
+      "keyword": "the fugitive",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chandler+simpson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chandler+simpson",
-        "naver": "https://search.shopping.naver.com/search/all?query=chandler+simpson"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=the+fugitive&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=the+fugitive",
+        "naver": "https://search.shopping.naver.com/search/all?query=the+fugitive"
       }
     },
     {
-      "keyword": "jaden daniels",
+      "keyword": "julianne moore",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jaden+daniels&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jaden+daniels",
-        "naver": "https://search.shopping.naver.com/search/all?query=jaden+daniels"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=julianne+moore&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=julianne+moore",
+        "naver": "https://search.shopping.naver.com/search/all?query=julianne+moore"
       }
     },
     {
-      "keyword": "ed mccaffrey",
+      "keyword": "from show",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ed+mccaffrey&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ed+mccaffrey",
-        "naver": "https://search.shopping.naver.com/search/all?query=ed+mccaffrey"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=from+show&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=from+show",
+        "naver": "https://search.shopping.naver.com/search/all?query=from+show"
       }
     },
     {
-      "keyword": "jake moody",
-      "traffic_label": "500+",
+      "keyword": "gta 6 pre order",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jake+moody&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jake+moody",
-        "naver": "https://search.shopping.naver.com/search/all?query=jake+moody"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=gta+6+pre+order&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=gta+6+pre+order",
+        "naver": "https://search.shopping.naver.com/search/all?query=gta+6+pre+order"
+      }
+    },
+    {
+      "keyword": "state department kenya advisory changes",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=state+department+kenya+advisory+changes&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=state+department+kenya+advisory+changes",
+        "naver": "https://search.shopping.naver.com/search/all?query=state+department+kenya+advisory+changes"
       }
     }
   ],
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "dropped": [
     {
-      "id": "c20627e211",
-      "title": "NMIXX 'Strange Muse'",
-      "query": "nmixx album",
-      "score": 65,
-      "rank": 2
+      "id": "8bbe54adb2",
+      "title": "Nintendo \"underestimated\" how well its Zelda 40th Anniversary Edition Switch 2 would sell, exec admits, but restocks are coming: \"Please be patient\"",
+      "query": "Nintendo underestimated well Zelda 40th Anniversary",
+      "score": 60,
+      "rank": 6
     },
     {
-      "id": "39c4dabe8c",
-      "title": "john wick",
-      "query": "john wick",
-      "score": 42,
-      "rank": 17
+      "id": "a594796e85",
+      "title": "Finally got ahold of a 30th ETB…",
+      "query": "ahold 30th ETB",
+      "score": 50,
+      "rank": 12
     },
     {
-      "id": "0c67119c91",
-      "title": "natalia bryant",
-      "query": "natalia bryant",
-      "score": 39,
+      "id": "38ab1afbd1",
+      "title": "IVE - Looks Can Kill",
+      "query": "IVE",
+      "score": 47,
+      "rank": 15
+    },
+    {
+      "id": "4d0e15b0e8",
+      "title": "Best way to celebrate winning WTA 1000? Buying Lego",
+      "query": "lego Best way celebrate winning WTA",
+      "score": 44,
       "rank": 18
+    },
+    {
+      "id": "94f5016d3f",
+      "title": "Pulls from 4 booster boxes",
+      "query": "Pulls 4 booster boxes",
+      "score": 44,
+      "rank": 19
     }
   ],
   "history": {
-    "date": "2026-10-20",
-    "previous_date": "2026-10-19",
+    "date": "2026-10-21",
+    "previous_date": "2026-10-20",
     "new_count": 4
   }
 }
