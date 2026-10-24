@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-23T00:42:16+00:00",
+  "fetched_at": "2026-10-24T00:45:39+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "hurricanes vs oilers",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-ID1Nl_-q8-Z0ZFxNI3veA_GpN5P4rMFwPUCnNvKvQFBpxVEOkLsHqqJlsQ8",
+      "keyword": "christian yelich",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZYCO-IzZq0twlH_Dxkh3VmaANp98rB-r5p4XyfEl8tAJ8YtrD4YPaYEYZ78",
       "news": [
         {
-          "title": "Ehlers heating up just in time for Hurricanes’ big test against Oilers on Thursday",
-          "url": "https://www.nhl.com/news/nikolaj-ehlers-heating-up-ahead-of-carolina-hurricanes-clash-with-edmonton-oilers",
-          "source": "NHL.com"
+          "title": "Mentor, Head Honcho, Captain: Christian Yelich Epitomizes The Brewers",
+          "url": "https://www.foxsports.com/stories/mlb/brewers-rays-world-series-yelich-captain",
+          "source": "FOX Sports"
         },
         {
-          "title": "Hurricanes vs Oilers Prediction, Picks & Combo for Tonight’s NHL Game",
-          "url": "https://www.covers.com/nhl/hurricanes-vs-oilers-prediction-picks-oct-22-2026",
-          "source": "Covers.com"
+          "title": "A local product is guaranteed to be a World Series champion",
+          "url": "https://www.vcstar.com/story/sports/high-school/baseball/2026/10/23/a-local-product-is-guaranteed-to-be-a-world-series-champion/92399296007/",
+          "source": "Ventura County Star"
         },
         {
-          "title": "GDB 10.0: The Oilers want what the Hurricanes have (7 PM MT, SNW)",
-          "url": "https://oilersnation.com/news/edmonton-oilers-carolina-hurricanes-gdb-10-game-preview-stanley-cup",
-          "source": "Oilers Nation"
+          "title": "Brewers’ Christian Yelich makes feelings extremely clear on World Series Game 1 expectation",
+          "url": "https://sports.yahoo.com/articles/brewers-christian-yelich-makes-feelings-212525434.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "wild vs flames",
+      "keyword": "pat murphy",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwsncMcOX4IsAk0H7HaNzoBSq74ovwYy_LguQ3JrVGzf06-nEQ9r6wIXTQZWQ",
       "news": [
         {
-          "title": "Wild at Flames projected lineups",
-          "url": "https://www.nhl.com/news/minnesota-wild-calgary-flames-game-preview-october-22-2026",
-          "source": "NHL.com"
+          "title": "Nearly the Mets manager, Pat Murphy’s unique Brewers style is a New York what-if",
+          "url": "https://nypost.com/2026/10/23/sports/nearly-the-mets-manager-pat-murphys-brewers-style-is-a-new-york-what-if/",
+          "source": "New York Post"
         },
         {
-          "title": "As Wild’s Blake Coleman returns to Calgary, he reflects on his time in the ‘Texas of Canada’ - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7709839/2026/10/22/blake-coleman-calgary-return-wild/",
-          "source": "The New York Times"
+          "title": "'Last Man Standing': Murphy gets FaceTime call from idol Springsteen",
+          "url": "https://www.mlb.com/news/pat-murphy-gets-facetime-call-from-bruce-springsteen",
+          "source": "MLB.com"
         },
         {
-          "title": "Live: Wild face Flames, former teammate Jake Middleton for first time since trade",
-          "url": "https://www.startribune.com/minnesota-wild-calgary-flames-score-today-kirill-kaprizov-stats-jesper-wallstedt-saves-quinn-hughes/601900462",
-          "source": "Star Tribune"
+          "title": "Brewers manager with Springsteen tattoo got call from The Boss before World Series",
+          "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2026/10/22/brewers-pat-murphy-bruce-springteen/92385034007/",
+          "source": "USA Today"
         }
       ]
     },
     {
-      "keyword": "rhamondre stevenson",
+      "keyword": "junior caminero",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSChg1ypOMOlX3YnWH7KCMHn8V55zX4PgIcjaEQ6oOOnXMgFBHHrYNcmabL5sE",
+      "pub_date": "Fri, 23 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAWVma4xK2W9Y64NelvrhXaGg_g8jINVLSN5UQ0pHxN8IoOII07P_xRe5POYc",
       "news": [
         {
-          "title": "Things you don't know about Patriots running back Rhamondre Stevenson",
-          "url": "https://www.espn.com/nfl/story/_/id/50237846/new-england-patriots-rhamondre-stevenson-carries-protection",
-          "source": "ESPN"
+          "title": "Caminero damages videoboard with BP homer before World Series Game 1",
+          "url": "https://www.mlb.com/news/junior-caminero-damages-american-family-field-videoboard-before-world-series-game-1",
+          "source": "MLB.com"
         },
         {
-          "title": "Rhamondre Stevenson wows announcers on second effort in third-down rush",
-          "url": "https://www.patriots.com/video/rhamondre-stevenson-wows-announcers-on-second-effort-in-third-down-rush",
-          "source": "Patriots.com"
+          "title": "Junior Caminero hits FOX pregame set during BP",
+          "url": "https://www.mlb.com/video/junior-caminero-hits-fox-pregame-set-during-bp",
+          "source": "MLB.com"
         },
         {
-          "title": "Mike Clay lays out his Rhamondre Stevenson concerns in Week 7",
-          "url": "https://www.espn.co.uk/video/clip/_/id/50237926/mike-clay-lays-rhamondre-stevenson-concerns-week-7",
-          "source": "ESPN"
+          "title": "Before World Series Game 1, Rays’ Junior Caminero hits Fox set during BP",
+          "url": "https://sports.yahoo.com/articles/world-series-game-1-rays-233301152.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "mike vrabel",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStD0zqZY5udkwToOtrcvPGho2-zh8I3y3BV_6Th2RSt-yVwG1nRRNpzhRkxs8",
-      "news": [
-        {
-          "title": "Sources: Nick Sirianni, Mike Vrabel, Aaron Glenn fined for conduct toward refs",
-          "url": "https://www.espn.com/nfl/story/_/id/50244013/sirianni-vrabel-glenn-fined-250k-ref-conduct",
-          "source": "ESPN"
-        },
-        {
-          "title": "NFL fines three head coaches $250,000 for their conduct toward officials: report",
-          "url": "https://www.foxnews.com/outkick-sports/nfl-fines-three-head-coaches-250000-conduct-toward-officials-report",
-          "source": "Fox News"
-        },
-        {
-          "title": "Report: Eagles HC Nick Sirianni kinda-sorta-not really fined $250,000 for bad behavior",
-          "url": "https://www.phillyvoice.com/report-eagles-hc-nick-sirianni-kinda-sorta-not-really-fined-250000-bad-bahavior/",
-          "source": "PhillyVoice"
-        }
-      ]
-    },
-    {
-      "keyword": "servicio de control de inmigración y aduanas",
+      "keyword": "john collins",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Thu, 22 Oct 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkuanj_NPq8o6iXRRsp2ZhnO-msO2p66E65XqgjQwFzbCBu1sH460vMYehwQY",
+      "pub_date": "Fri, 23 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwzpks58YCUH7qUcStADZzTIgA3aEM5ORChh_I49GOEbj6JHeCuPrbp_0aR1g",
       "news": [
         {
-          "title": "Un inmigrante guatemalteco irá dos años a prisión tras dislocar un dedo a un agente de ICE durante su arresto",
-          "url": "https://www.univision.com/noticias/inmigracion/inmigrante-guatemalteco-ira-dos-anos-a-prision-tras-dislocar-un-dedo-a-agente-de-ice-durante-su-arresto",
-          "source": "Univision"
+          "title": "John Collins and Jalen Duren may have to swap roles on defense against Miami",
+          "url": "https://pistonpowered.com/john-collins-jalen-duren-swap-roles-defense-against-miami-detroit-pistons",
+          "source": "PistonPowered"
         },
         {
-          "title": "Arrestan a abogada que amenazó con atacar a agentes de ICE durante la compra de un arma en Florida",
-          "url": "https://www.univision.com/noticias/inmigracion/arrestan-a-abogada-que-amenazo-con-atacar-a-agentes-de-ice-durante-la-compra-de-un-arma-en-florida",
-          "source": "Univision"
+          "title": "John Collins' Pistons debut exposed a matchup problem with no easy answer",
+          "url": "https://pistonpowered.com/john-collins-detroit-pistons-debut-exposed-matchup-problem-no-easy-answer",
+          "source": "PistonPowered"
         },
         {
-          "title": "Florida Abogado acusado de amenazar con disparar a agentes de l ICE e mientras intentaba comprar un arma",
-          "url": "https://es-us.noticias.yahoo.com/florida-abogado-acusado-amenazar-disparar-013211998.html",
-          "source": "Yahoo"
+          "title": "Pistons saw firsthand why John Collins was not re-signed by the Clippers",
+          "url": "https://clipperholics.com/pistons-saw-firsthand-john-collins-not-re-signed-clippers",
+          "source": "Clipperholics"
         }
       ]
     },
     {
-      "keyword": "atlético nacional - pasto",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTWLdvRWak2BVDD82Z38xBmZ6ZDrypXanIFnSI3ZWkGjzY5HTg9rNKj1mVlAY",
-      "news": [
-        {
-          "title": "Nacional vs. Pasto: ¿Por qué no juega James Rodríguez?",
-          "url": "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17416772/nacional-vs-pasto-que-paso-por-que-no-juega-james-rodriguez",
-          "source": "ESPN Deportes"
-        },
-        {
-          "title": "Nacional y el contundente mensaje para arrebatarle el liderato a Cali",
-          "url": "https://www.winsports.co/futbol-colombiano/noticias/nacional-y-el-contundente-mensaje-para-arrebatarle-el-liderato-a-cali-472527",
-          "source": "Win Sports"
-        },
-        {
-          "title": "Sin James pero con Cardona, estos son los convocados de Atlético Nacional para recibir al Pasto | El Colombiano",
-          "url": "https://www.elcolombiano.com/deportes/futbol/atletico-nacional-convocados-partido-pasto-octubre-2026-KK42594097",
-          "source": "El Colombiano"
-        }
-      ]
-    },
-    {
-      "keyword": "charles barkley",
+      "keyword": "spurs game tonight",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Thu, 22 Oct 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSx6sDZKAGBuvahdu9WrK-LUEz6QAdrktxwHqNVk-PEg-L9lTzJRTuxSLRtoU4",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjQcU9PZg7QwWdLtrfG996yESG50L8wYc_7g9tEYDycWhMp-Y2WdUglQFdn68",
       "news": [
         {
-          "title": "Charles Barkley jokingly warns 'Inside the NBA' crew about Shaquille O'Neal's FBI connection",
-          "url": "https://www.foxnews.com/outkick-sports/charles-barkley-jokingly-warns-inside-nba-crew-shaquille-oneals-fbi-connection",
-          "source": "Fox News"
-        },
-        {
-          "title": "Charles Barkley Roasts Shaq for FBI Photo Op: ‘He Be Hanging Out with Kash Patel!’",
-          "url": "https://www.mediaite.com/media/sports/charles-barkley-roasts-shaq-for-fbi-photo-op-he-be-hanging-out-with-kash-patel/",
-          "source": "Mediaite"
-        },
-        {
-          "title": "Shaquille O'Neal told he's got 'dangerous' Kash Patel relationship on live TV",
-          "url": "https://www.irishstar.com/sport/nba/shaquille-oneal-told-hes-dangerous-37799206",
-          "source": "Irish Star"
-        }
-      ]
-    },
-    {
-      "keyword": "bernie kosar",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ0N6ElV5DCQvexYHWtQHc65c458y08ilD14nUmAD3vFMcg7VTv3EVKixAdnA",
-      "news": [
-        {
-          "title": "“So Sorry”: Bernie Kosar and More Send Condolences as Browns Legend Shares Tragic Personal News",
-          "url": "https://sports.yahoo.com/articles/sorry-bernie-kosar-more-send-104500814.html",
+          "title": "Thunder remind Spurs of their championship pedigree in statement-making opening win",
+          "url": "https://sports.yahoo.com/nba/article/thunder-remind-spurs-of-their-championship-pedigree-in-statement-making-opening-win-065441621.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Cleveland Browns Legend Josh Cribbs Receives Condolences After Sharing Heartbreaking News",
-          "url": "https://sports.ndtv.com/us/nfl/cleveland-browns-legend-josh-cribbs-receives-condolences-after-sharing-heartbreaking-news-12221451",
-          "source": "NDTV Sports"
+          "title": "Game Recap: Thunder 116, Spurs 104",
+          "url": "https://www.nba.com/watch/video/game-recap-thunder-116-spurs-104",
+          "source": "NBA.com"
         },
         {
-          "title": "“So Sorry”: Bernie Kosar and More Send Condolences as Browns Legend Shares Tragic Personal News",
-          "url": "https://www.essentiallysports.com/nfl-legends-news-cleveland-browns-so-sorry-bernie-kosar-and-more-send-condolences-as-browns-legend-shares-tragic-personal-news/",
-          "source": "EssentiallySports"
+          "title": "Spurs' De'Aaron Fox questions fall by Thunder's Chet Holmgren",
+          "url": "https://www.expressnews.com/sports/spurs/article/spurs-de-aaron-fox-questions-fall-thunder-s-chet-22486755.php",
+          "source": "San Antonio Express-News"
         }
       ]
     },
     {
-      "keyword": "chicago",
+      "keyword": "mlb hoy",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Thu, 22 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDC8pIO4WEggkwN1WUy1sOK6Ek8HWEE5b9xivjPMcoPHRQahQKHXW8BjFUN0",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-P8O2q_69qzo9c16w42dI1GCp-uV5BbWr1msk7Vm5yVWw_HzsJjaGSjhdW_s",
       "news": [
         {
-          "title": "Chicago spending up $4 billion since 2019, mainly for pensions, personnel",
-          "url": "https://www.illinoispolicy.org/chicago-spending-up-4-billion-since-2019-mainly-for-pensions-personnel/",
-          "source": "Illinois Policy"
+          "title": "EN VIVO: Sigue Rays vs. Brewers, Juego 1 de Serie Mundial",
+          "url": "https://espndeportes.espn.com/beisbol/nota/_/id/17420699/rays-vs-brewers-en-vivo-juego-1-serie-mundial",
+          "source": "ESPN Deportes"
         },
         {
-          "title": "Business groups vow to block Mayor Johnson's latest try at a head tax and a 20% cloud tax",
-          "url": "https://chicago.suntimes.com/city-hall/2026/10/21/business-community-reaction-mayor-brandon-johnson-2027-budget-corporate-head-tax",
-          "source": "Chicago Sun-Times"
+          "title": "La leyenda Robin Yount se encargó del lanzamiento de honor previo al Juego 1",
+          "url": "https://www.mlb.com/es/news/la-leyenda-robin-yount-se-encargo-del-lanzamiento-de-honor-previo-al-juego-1",
+          "source": "MLB.com"
         },
         {
-          "title": "Libraries, Homeless Programs See $130 Million Boost In Mayor’s New Budget Proposal",
-          "url": "https://blockclubchicago.org/2026/10/20/libraries-homeless-programs-see-130m-boost-in-mayors-new-budget-proposal/",
-          "source": "Block Club Chicago"
+          "title": "4 razones para emocionarse con el enfrentamiento de la Serie Mundial entre los Brewers y los Rays",
+          "url": "https://cnnespanol.cnn.com/2026/10/23/deportes/enfrentamiento-serie-mundial-brewers-rays-trax",
+          "source": "CNN en Español"
         }
       ]
     },
     {
-      "keyword": "terminal list season 2 cast",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 22 Oct 2026 17:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvUZilEPRDWW84b6hA6XXRREcdX5kpt2MtOs0nlFm-Z5W8_awrXn0m1H2iBK4",
+      "keyword": "nairobi kenya building collapse",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 23 Oct 2026 17:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQAeUfwHRDVCWGjAE9uQy8eXL96BMYZd2fhnjwKMNtTs7DwJ172Vdy9eA5sok",
       "news": [
         {
-          "title": "'Absolute perfection': Viewers can't get enough of 'epic' new thriller after agonising 4-year wait",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/absolute-perfection-viewers-cant-enough-095420475.html",
-          "source": "Yahoo"
+          "title": "Many feared trapped as a tall building collapses in Kenya",
+          "url": "https://abcnews.com/International/wireStory/feared-trapped-tall-building-collapses-kenya-137507771",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "Chris Pratt's \"Bourne Meets John Wick\" 8-Episode Action Thriller Resurfaces To Take Over Streaming",
-          "url": "https://www.imdb.com/news/ni66069557/",
-          "source": "IMDb"
+          "title": "Many feared trapped as a tall building collapses in Kenya",
+          "url": "https://apnews.com/article/kenya-building-collapse-a7dcc0932437d79d52ea29aa860ec11e",
+          "source": "AP News"
         },
         {
-          "title": "‘The Terminal List’ Author Explains Reason for the 4-Year Wait for Second Season (Exclusive)",
-          "url": "https://people.com/terminal-list-author-explains-4-years-make-season-2-exclusive-12186727",
-          "source": "People.com"
+          "title": "Building collapses in Kenyan capital, rescuers on the scene",
+          "url": "https://www.reuters.com/world/africa/building-collapses-kenyan-capital-rescuers-scene-2026-10-23/",
+          "source": "Reuters"
+        }
+      ]
+    },
+    {
+      "keyword": "junior - águilas doradas",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDEqtI5wwXzMvhoxKdpYO5T7EunAkqwu-Mo_G2q5Yd4_MNmOmIzB-Fmf8TP8",
+      "news": [
+        {
+          "title": "Junior vs. Águilas: terminen con dignidad",
+          "url": "https://www.elheraldo.co/deportes/2026/10/22/junior-vs-aguilas-terminen-con-dignidad/",
+          "source": "ELHERALDO.CO"
+        },
+        {
+          "title": "Junior vs. Águilas Doradas hoy: a qué hora juega y dónde ver la fecha 16 de la Liga BetPlay en vivo",
+          "url": "https://www.eltiempo.com/deportes/futbol-colombiano/junior-vs-aguilas-doradas-hoy-a-que-hora-juega-y-donde-ver-la-fecha-16-de-la-liga-betplay-en-vivo-3595683",
+          "source": "El Tiempo"
+        },
+        {
+          "title": "\"¡Ni que estuviésemos clasificados!\": junioristas vuelven a quejarse del precio de la boletería para el juego ante Águilas",
+          "url": "https://impactonews.co/ni-que-estuviesemos-clasificados-junioristas-vuelven-a-quejarse-del-precio-de-la-boleteria-para-el-juego-ante-aguilas/",
+          "source": "impactonews.co"
+        }
+      ]
+    },
+    {
+      "keyword": "world series 2025",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7psObSfHT1jFBKHCmvl9J_AFRbC2v1eECrWtu8QeebsBgUevfiXw_bO8YI8",
+      "news": [
+        {
+          "title": "Where 2026 ranks among best World Series matchups since 2000",
+          "url": "https://www.espn.com/mlb/story/_/id/50223790/ranking-best-world-series-matchups-2000",
+          "source": "ESPN"
+        },
+        {
+          "title": "MLB's World Series Records That Will Never Be Broken",
+          "url": "https://bleacherreport.com/articles/25513547-mlbs-world-series-records-will-never-be-broken",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "The 10 Greatest World Series of All Time",
+          "url": "https://www.justbaseball.com/baseball-history/10-greatest-world-series-all-time/",
+          "source": "Just Baseball"
+        }
+      ]
+    },
+    {
+      "keyword": "tampa bay devil rays",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 23 Oct 2026 17:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhjSUXMxh7cq2IK6lQhRQsfJ7FNS8LTWgIy7ZUcTc9mkTpKdAPcx8ef2WnEkw",
+      "news": [
+        {
+          "title": "How Rays' unique approach carried Tampa Bay to World Series",
+          "url": "https://www.espn.com/mlb/story/_/id/50222334/alcs-tampa-bay-rays-clinch-world-series-spot",
+          "source": "ESPN"
+        },
+        {
+          "title": "Tropicana Field will host the World Series after $58 million in repairs",
+          "url": "https://baynews9.com/fl/tampa/news/2026/10/22/tropicana-field-will-host-the-world-series-after--million-in-repairs",
+          "source": "Bay News 9"
+        },
+        {
+          "title": "Stu Sternberg: Happiness, joy, ‘a longing’ as Rays head to World Series",
+          "url": "https://www.tampabay.com/sports/rays/2026/10/21/stuart-sternberg-world-series-former-owner-patrick-zalupski/",
+          "source": "Tampa Bay Times"
         }
       ]
     }
