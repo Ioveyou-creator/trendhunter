@@ -1,247 +1,237 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-25T00:21:30+00:00",
+  "fetched_at": "2026-10-26T00:25:02+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "nobody wants this season 3 cast",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnl9OeFAZYqJdeVY1dc8QYHVcL3i2GaEr7swM1at8IA_haFmATKt4c9C7Ecd4",
+      "keyword": "76ers game",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpJapkHVgezZvw9Ungs9O8Nx4AHVY2g2ttjP521CpCQ8TPWpgQrpiojrHmFE",
       "news": [
         {
-          "title": "Nobody Wants This review – prepare to fall in love again … with a different couple",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Nobody Wants This Season 3 Lets Morgan and Sasha Open the Door to Romance",
-          "url": "https://www.netflix.com/tudum/articles/justine-lupe-timothy-simons-nobody-wants-this-season-3-interview",
-          "source": "Netflix"
-        },
-        {
-          "title": "‘Nobody Wants This’ turns a complicated triangle into a ‘situation’ in Season 3",
-          "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-10-23/nobody-wants-this-esther-sasha-morgan-season-3-finale",
-          "source": "Los Angeles Times"
-        }
-      ]
-    },
-    {
-      "keyword": "who sang the national anthem at the world series",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sat, 24 Oct 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL-UQAX7Up4JGK3Qmt1g1GC00eaRPtje0907sOpjuMMKK6vVxPT6V1o1qw2H0",
-      "news": [
-        {
-          "title": "Who is Kylie Cantrall, World Series Game 2 national anthem singer?",
-          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/24/kylie-cantrall-world-series-game-2-national-anthem-singer/92419686007/",
-          "source": "Milwaukee Journal Sentinel"
-        },
-        {
-          "title": "Mickey Guyton Performs National Anthem Ahead of Rays vs Brewers World Series Game 1",
-          "url": "https://www.foxsports.com/watch/fmc-68ijhvsvgvmaswn7",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Who is singing the national anthem at the World Series tonight?",
-          "url": "https://www.northjersey.com/story/news/2026/10/23/world-series-national-anthem-singers-2026/92397024007/",
-          "source": "Bergen Record"
-        }
-      ]
-    },
-    {
-      "keyword": "peyton manning",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2B0t4tpnqQ-wcHy_dBZN-d9y9oR9_3D6oTDpQq0hglF2THOgYGx_oq1V2LHg",
-      "news": [
-        {
-          "title": "What does firing GM Ballard mean for Colts coach Steichen?",
-          "url": "https://www.espn.com/nfl/story/_/id/50218623/colts-fire-gm-chris-ballard-shane-steichen",
+          "title": "Embiid posts triple-double as LeBron-less Sixers stay unbeaten",
+          "url": "https://www.espn.com/nba/story/_/id/50272945/embiid-posts-triple-double-james-less-76ers-stay-unbeaten",
           "source": "ESPN"
         },
         {
-          "title": "Quenton Nelson trade destinations: Five contenders that should call as Colts begin rebuild",
-          "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-destinations-landing-spots-colts/",
-          "source": "CBS Sports"
+          "title": "How LeBron-less Sixers overcame a 22-rebound deficit and still won by 11",
+          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-overcome-22-rebound-deficit-without-lebron/761373/",
+          "source": "NBC Sports Philadelphia"
         },
         {
-          "title": "Sometimes A Team Just Wants To Hire A Famous Guy",
-          "url": "https://defector.com/sometimes-a-team-just-wants-to-hire-a-famous-guy",
-          "source": "Defector"
+          "title": "76ers sans LeBron top Bucks, 127-116; rookie Nate Ament makes NBA debut",
+          "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/24/bucks-vs-76ers-team-feels-sense-of-urgency-after-two-straight-losses/92401319007/",
+          "source": "Milwaukee Journal Sentinel"
         }
       ]
     },
     {
-      "keyword": "nba league pass",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sat, 24 Oct 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0UWtdjR6YwDAMqpPYBonf3U36cjy-A2fRzC9-eptGCgHyrNjDbkB88O0umi8",
+      "keyword": "lamelo ball",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC1eR0-T80H-Hd8CQvKIYP-xkTYtP8rzEmh1_UMsyrsS497jLVr6H0UOw5j4U",
       "news": [
         {
-          "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Texas-Ole Miss, college football picks",
-          "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-for-texas-ole-miss-college-football-picks/",
-          "source": "CBS Sports"
+          "title": "Neal: Wolves paid a high price for LaMelo Ball. They expect a lot of time in return.",
+          "url": "https://www.startribune.com/minnesota-timberwolves-toronto-raptors-target-center-lamelo-ball-stats-anthony-edwards-chris-finch/601902946",
+          "source": "Star Tribune"
         },
         {
-          "title": "DraftKings Pick 6 Promo: Get $50 in Bonus Picks for NFL, MLB & More",
-          "url": "https://www.rotowire.com/news/draftkings-pick-6-promo-get-50-in-bonus-picks-for-october-2026-143430",
-          "source": "RotoWire"
+          "title": "The Bounce: Thoughts on LaMelo’s Timberwolves debut, Giannis in Miami and more",
+          "url": "https://www.nytimes.com/athletic/7714081/2026/10/22/lamelo-ball-giannis-nba-debuts-the-bounce/",
+          "source": "The New York Times"
         },
         {
-          "title": "UNC Wins Two Straight on the Road as an Underdog, Now Favored Against Syracuse",
-          "url": "https://www.betcarolina.com/news/unc-wins-two-straight-on-the-road-as-an-underdog-now-favored-against-syracuse",
-          "source": "North Carolina Sports Betting"
+          "title": "LaMelo Ball Made Shot & Anthony Edwards Celebration",
+          "url": "https://www.nba.com/watch/video/alt-angle-lamelo-ball-made-shot-anthony-edwards-celebration?plsrc=nba&collection=must-watch-videos",
+          "source": "NBA.com"
         }
       ]
     },
     {
-      "keyword": "who sang the national anthem at the brewers game today",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sat, 24 Oct 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa6hnDlxK260QEWpIsCiLZIa0SKMfOVjKl21FHuXzStRwVlYHWQZ5xFyqefHc",
+      "keyword": "grizzlies vs kings",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8JeB_iFhl5OEcsQ6ROIUu_Jnmj6qch6ahv0gWAoxCXncdjOAlhAjIHCNI7s",
       "news": [
         {
-          "title": "Who is singing World Series Game 2 anthem and throwing first pitch in Milwaukee?",
-          "url": "https://www.usatoday.com/story/sports/mlb/2026/10/24/world-series-anthem-first-pitch-brewers-milwaukee/92419578007/",
+          "title": "Keegan Murray is officially out tonight with a stiff …",
+          "url": "https://sports.yahoo.com/articles/keegan-murray-officially-tonight-stiff-233757761.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Pacific Notes: Murray, Warriors, Lendeborg, Timme",
+          "url": "https://www.hoopsrumors.com/2026/10/pacific-notes-murray-warriors-lendeborg-timme.html",
+          "source": "Hoops Rumors"
+        },
+        {
+          "title": "Grizzlies vs Kings live score updates, Cam Boozer highlights, TV channel",
+          "url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/10/25/memphis-grizzlies-sacramento-kings-score-cam-boozer-highlights--live/92432590007/",
+          "source": "The Commercial Appeal"
+        }
+      ]
+    },
+    {
+      "keyword": "kenneth walker",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJSX6-NtKNZkcBS62Sl1MoFUQro_iJwvK9RRo3U5X2zRPfMDLMsYH3WdRg-A",
+      "news": [
+        {
+          "title": "Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?",
+          "url": "https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker",
+          "source": "ESPN"
+        },
+        {
+          "title": "Seahawks’ Kenneth Walker Decision Draws ‘Punch Himself’ Criticism Ahead of Chiefs Matchup",
+          "url": "https://sports.yahoo.com/articles/seahawks-kenneth-walker-decision-draws-000749032.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Chiefs RB Kenneth Walker treating Seattle return ‘like any other week’",
+          "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/213984/kenneth-walker-treating-seattle-return-any-other-week",
+          "source": "Arrowhead Pride"
+        }
+      ]
+    },
+    {
+      "keyword": "phantom blade zero",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkm2UjgwkNEoKQrVMzcLAVPtEFr3f-R9amkDV-pUtdMi2Ks_IJBtFfRnpq7xI",
+      "news": [
+        {
+          "title": "Phantom Blade Zero Review",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-review",
+          "source": "IGN"
+        },
+        {
+          "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+          "url": "https://www.polygon.com/phantom-blade-zero-review/",
+          "source": "Polygon.com"
+        },
+        {
+          "title": "Phantom Blade Zero’s Combat Is So Good, You Won’t Care The Story Makes No Sense",
+          "url": "https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-care-the-story-makes-no-sense/",
+          "source": "GameSpot"
+        }
+      ]
+    },
+    {
+      "keyword": "ken jeong",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSxws-E7mpNA29HfVu3BYhzeEgKlmylajNz2XD4sG2jVIEja-NHsUV1BN6pA",
+      "news": [
+        {
+          "title": "Ken Jeong Jokes His Wife Told Him He Has a ‘Face for Audio’ Ahead of New Audible Original (Exclusive)",
+          "url": "https://people.com/celebrity-ken-jeong-wife-said-he-has-a-face-for-audio-exclusive-12190021",
+          "source": "People.com"
+        },
+        {
+          "title": "Danny Pudi Had a Different Experience on Community Than His Costars —Here’s Why (Exclusive)",
+          "url": "https://people.com/danny-pudi-had-a-different-experience-on-community-than-his-costars-here-is-why-exclusive-12186345",
+          "source": "People.com"
+        }
+      ]
+    },
+    {
+      "keyword": "terrence shannon jr.",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV_Q14f5qo6hdhIICI6sxlpqbQ7TdUUs4p55pawt3kB-Dbym3yf_Znx-izP8",
+      "news": [
+        {
+          "title": "One Underrated Timberwolves Wing Gets High Praise From Chris Finch",
+          "url": "https://sports.yahoo.com/articles/one-underrated-timberwolves-wing-gets-130036612.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Timberwolves Coach Chris Finch Admits He Made a Mistake",
+          "url": "https://sportsnaut.com/nba/timberwolves-coach-chris-finch-admits-he-made-a-mistake",
+          "source": "Sportsnaut"
+        }
+      ]
+    },
+    {
+      "keyword": "dolar hoje",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHzRE9hvdEhwGXV6bswo7vzyElfzgY8ijtIJhLTSZyn4AxCfqKJNKeFpWDV34",
+      "news": [
+        {
+          "title": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana",
+          "source": "Agência Brasil"
+        },
+        {
+          "title": "Eleições agitam a Bolsa, Petrobras dispara e risco nos EUA preocupa; veja as mais lidas da semana",
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/eleicoes-agitam-a-bolsa-petrobras-dispara-e-risco-nos-eua-preocupa-veja-as-mais-lidas-da-semana/",
+          "source": "Estadão"
+        },
+        {
+          "title": "Ibovespa e dólar hoje: reta final do 2º turno, petróleo e defasagem do diesel",
+          "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-reta-final-do-2o-turno-petroleo-e-defasagem-do-diesel-2101664",
+          "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos"
+        }
+      ]
+    },
+    {
+      "keyword": "querétaro - cruz azul",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6cqclVemi_-V1jnCLQ4IQRcbLFCTWqTWztg_372pA_3xMk3EpdGMVF-jRqjU",
+      "news": [
+        {
+          "title": "Querétaro vs Cruz Azul: posibles alineaciones y probabilidades",
+          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/17426445/queretaro-vs-cruz-azul-alineaciones-posibles-jornada-14",
+          "source": "ESPN Deportes"
+        },
+        {
+          "title": "¿Querétaro vs Cruz Azul, cuándo y a qué hora juegan? Alienaciones y dónde ver en vivo",
+          "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/10/24/queretaro-vs-cruz-azul-previa-hora-canal-fecha-apertura-2026-liga-mx/92403086007/",
+          "source": "azcentral.com and The Arizona Republic"
+        },
+        {
+          "title": "Lesionados y suspendidos para el partido Querétaro vs Cruz Azul",
+          "url": "https://www.si.com/es-us/lesionados-y-suspendidos-para-el-partido-queretaro-vs-cruz-azul",
+          "source": "Sports Illustrated"
+        }
+      ]
+    },
+    {
+      "keyword": "is taylor swift in seattle for chiefs game",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuZ_GbtT-CoEZzaTrGqFrmBpegtHQkMRseB07r5nkf3EvGqZkG_Y1u8xn2jRU",
+      "news": [
+        {
+          "title": "Is Taylor Swift at the Chiefs game tonight? Status for Week 7 vs. Seahawks",
+          "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2026/10/25/taylor-swift-chiefs-seahawks/92415297007/",
           "source": "USA Today"
         },
         {
-          "title": "Robin Yount on first pitch, homage to Bob Uecker",
-          "url": "https://www.mlb.com/video/robin-yount-on-first-pitch-homage-to-bob-uecker",
-          "source": "MLB.com"
+          "title": "Taylor Swift Brought Her Showgirl Style to Chiefs Home Game Against Chargers with a Red Bodysuit",
+          "url": "https://people.com/taylor-swift-brought-showgirl-style-chiefs-home-game-against-chargers-12154783",
+          "source": "People.com"
         },
         {
-          "title": "Ceremonial first pitches, Brewers roster set for the World Series",
-          "url": "https://wtmj.com/news/2026/10/23/ceremonial-first-pitches-brewers-roster-set-for-the-world-series/",
-          "source": "WTMJ"
-        }
-      ]
-    },
-    {
-      "keyword": "john smoltz",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQl9eC8VUCFmsezGhJGV_mZ8d2Raskl12HsoIGLsmfR0DG1eqm1YqmO6twklk",
-      "news": [
-        {
-          "title": "Mets Pitcher Mistaken for Brewers Star in World Series by John Smoltz",
-          "url": "https://sports.yahoo.com/articles/mets-pitcher-mistaken-brewers-star-165231283.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "MLB Fans Call Out John Smoltz For ‘Embarrassing’ World Series Performance",
-          "url": "https://thespun.com/mlb/mlb-fans-call-out-john-smoltz-for-embarrassing-world-series-performance",
-          "source": "The Spun"
-        },
-        {
-          "title": "John Smoltz's World Series faux pas mixes up NY Mets pitcher with his brother",
-          "url": "https://risingapple.com/ny-mets-pitcher-john-smoltz-world-series-faux-pas-trevor-megill-tylor-megill",
-          "source": "Rising Apple"
-        }
-      ]
-    },
-    {
-      "keyword": "vj edgecombe",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ1wzc8beXXAfZBs8aKKi3B4RuoIjRFrpBTB0knth8o3WZIZhuO_Uinaw2dZI",
-      "news": [
-        {
-          "title": "Sixers star Joel Embiid gives thoughts on VJ Edgecombe as a leader",
-          "url": "https://sports.yahoo.com/articles/sixers-star-joel-embiid-gives-171233941.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "PHILADELPHIA 76ERS EXERCISE THIRD-YEAR ROOKIE SCALE OPTION ON VJ EDGECOMBE | Philadelphia Sixers",
-          "url": "https://sixers.com/news/philadelphia-76ers-exercise-third-year-rookie-scale-option-on-vj-edgecombe",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Sixers exercise Edgecombe's 3rd-year contract option for 2027-28 season",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/vj-edgecombe-contract-option-sixers-news-nba/759871/",
-          "source": "NBC Sports Philadelphia"
-        }
-      ]
-    },
-    {
-      "keyword": "andrew wiggins",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ4YgclQOzwpWMtr0c6TX6d2e0EesrP9oIKzD3pZ9XEQLGFczLSiTK95zwj0U",
-      "news": [
-        {
-          "title": "Heat's Andrew Wiggins: Scores 11 in lopsided loss",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/heats-andrew-wiggins-scores-11-in-lopsided-loss/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Today's top games to watch, best bets, odds: Timberwolves vs. Heat, NHL action and more",
-          "url": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-timberwolves-vs-heat-nhl-action-and-more/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Game Preview #1: Wolves at Heat Game Thread",
-          "url": "https://www.canishoopus.com/timberwolves-game-previews/70888/nba-thread-miami-heat-lamelo-ball-giannis-antetokounmpo",
-          "source": "Canis Hoopus"
-        }
-      ]
-    },
-    {
-      "keyword": "austin vs sporting kc",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 24 Oct 2026 16:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISYMfMBOU59vXj4qNqh4Hjqqo9XPplqP5pLjxF06TWhBdlXtmBwjYCoWjeyE",
-      "news": [
-        {
-          "title": "Sporting Kansas City vs Austin FC Prediction, Betting Tips, Lineups & Odds | 24 Oct 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/football/sporting-kansas-city-vs-austin-fc-prediction-lineups-odds-2026-10-24/",
-          "source": "Sportsgambler"
-        },
-        {
-          "title": "Preview: Sporting KC hosts Austin FC on Saturday at Sporting Park",
-          "url": "https://www.sportingkc.com/news/copy-of-preview-sporting-kc-hosts-real-salt-lake-on-saturday-at-sporting-park",
-          "source": "Sporting Kansas City"
-        },
-        {
-          "title": "Calheira frustrated Sporting KC's performances have not been rewarded",
-          "url": "https://www.beinsports.com/en-nz/football/mls/articles/calheira-frustrated-sporting-kcs-performances-have-not-been-rewarded-2026-10-22",
-          "source": "beIN SPORTS"
-        }
-      ]
-    },
-    {
-      "keyword": "oscar piastri",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sat, 24 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPmsfGHUI8esXxtoZNzuKbTkbYvFdsiayxLIhqs2iDL1S0fmmgjO9zVF_b-Nk",
-      "news": [
-        {
-          "title": "McLaren drivers 'still allowed to race' each other – Norris",
-          "url": "https://www.formula1.com/en/latest/article/still-allowed-to-race-norris-offers-update-on-mclarens-intra-team-orders-ahead-of-united-states-gp.5eqxhHMneE3tNGRKrqFBiW",
-          "source": "Formula 1"
-        },
-        {
-          "title": "Lando Norris reveals “plenty of telling-offs” after Singapore Oscar Piastri crash",
-          "url": "https://www.motorsport.com/f1/news/lando-norris-reveals-he-got-plenty-of-telling-offs-after-singapore-crash-with-piastri/10867463/",
-          "source": "Motorsport.com"
-        },
-        {
-          "title": "Piastri Gives Cheeky Reminder to Norris About “Favorite” Singapore Moment",
-          "url": "https://sports.yahoo.com/articles/piastri-gives-cheeky-reminder-norris-184749107.html",
-          "source": "Yahoo Sports"
+          "title": "Taylor Swift Traveled From L.A. to Travis Kelce’s Chiefs-Chargers Game—and Brought 2 Famous Friends",
+          "url": "https://www.elle.com/culture/celebrities/a74163901/taylor-swift-photos-travis-kelce-chiefs-chargers-home-game-october-2026/",
+          "source": "ELLE"
         }
       ]
     }
