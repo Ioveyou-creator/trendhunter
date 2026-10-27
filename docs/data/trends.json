@@ -1,237 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-26T00:25:02+00:00",
+  "fetched_at": "2026-10-27T01:30:04+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "76ers game",
+      "keyword": "warriors vs nuggets",
       "traffic": 10000,
       "traffic_label": "10000+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpJapkHVgezZvw9Ungs9O8Nx4AHVY2g2ttjP521CpCQ8TPWpgQrpiojrHmFE",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3RJxLK9banD7hM6blqK4Vyl2ijur_jvwaMG2Ff_X7EmiVlKNz6meNX_3nvg",
       "news": [
         {
-          "title": "Embiid posts triple-double as LeBron-less Sixers stay unbeaten",
-          "url": "https://www.espn.com/nba/story/_/id/50272945/embiid-posts-triple-double-james-less-76ers-stay-unbeaten",
-          "source": "ESPN"
+          "title": "Game Preview: Warriors at Nuggets - 10/26/26",
+          "url": "https://warriors.com/news/gameday-preview-20261026",
+          "source": "NBA.com"
         },
         {
-          "title": "How LeBron-less Sixers overcame a 22-rebound deficit and still won by 11",
-          "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-overcome-22-rebound-deficit-without-lebron/761373/",
-          "source": "NBC Sports Philadelphia"
+          "title": "How to watch Warriors vs Nuggets: NBA, live stream, TV channel",
+          "url": "https://sports.yahoo.com/articles/watch-warriors-vs-nuggets-nba-010000771.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "76ers sans LeBron top Bucks, 127-116; rookie Nate Ament makes NBA debut",
-          "url": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/24/bucks-vs-76ers-team-feels-sense-of-urgency-after-two-straight-losses/92401319007/",
-          "source": "Milwaukee Journal Sentinel"
+          "title": "Warriors vs. Nuggets Prediction, Odds and Best NBA Prop Bets for Monday, Oct. 26",
+          "url": "https://www.si.com/betting/warriors-vs-nuggets-prediction-odds-and-best-nba-prop-bets-for-monday-oct-26-2026",
+          "source": "Sports Illustrated"
         }
       ]
     },
     {
-      "keyword": "lamelo ball",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC1eR0-T80H-Hd8CQvKIYP-xkTYtP8rzEmh1_UMsyrsS497jLVr6H0UOw5j4U",
+      "keyword": "royal caribbean",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5ThrhQqYORjGrxDlix8xTeaXGQj-gt1qBuh-d_24YKzYTCQvHYT_SES3cNw",
       "news": [
+        {
+          "title": "Watch: Northeast Ohioans share advice after Bahamas cruise re-routed to Canada",
+          "url": "https://fox8.com/news/watch-northeast-ohioans-share-advice-after-bahamas-cruise-re-routed-to-canada/",
+          "source": "FOX 8 News"
+        },
+        {
+          "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead",
+          "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
+          "source": "Fox News"
+        },
+        {
+          "title": "Royal Caribbean Reroutes Bermuda Cruise to Canada",
+          "url": "https://www.cruisecritic.com/news/royal-caribbean-bermuda-cruise-rerouted",
+          "source": "Cruise Critic"
+        }
+      ]
+    },
+    {
+      "keyword": "minnesota timberwolves",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJf6GdMySzlfmm-WZPQJKvZsMLWRXHM_a2bfzLExSWkvR9yigx7SA6BigkUI",
+      "news": [
+        {
+          "title": "LaMelo Ball Drops Confident Quote as Anthony Edwards, Wolves Start Undefeated After Hornets Trade",
+          "url": "https://bleacherreport.com/articles/25520590-lamelo-ball-drops-confident-quote-anthony-edwards-wolves-start-undefeated-after-hornets-trade",
+          "source": "Bleacher Report"
+        },
         {
           "title": "Neal: Wolves paid a high price for LaMelo Ball. They expect a lot of time in return.",
           "url": "https://www.startribune.com/minnesota-timberwolves-toronto-raptors-target-center-lamelo-ball-stats-anthony-edwards-chris-finch/601902946",
           "source": "Star Tribune"
         },
         {
-          "title": "The Bounce: Thoughts on LaMelo’s Timberwolves debut, Giannis in Miami and more",
-          "url": "https://www.nytimes.com/athletic/7714081/2026/10/22/lamelo-ball-giannis-nba-debuts-the-bounce/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "LaMelo Ball Made Shot & Anthony Edwards Celebration",
-          "url": "https://www.nba.com/watch/video/alt-angle-lamelo-ball-made-shot-anthony-edwards-celebration?plsrc=nba&collection=must-watch-videos",
-          "source": "NBA.com"
-        }
-      ]
-    },
-    {
-      "keyword": "grizzlies vs kings",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8JeB_iFhl5OEcsQ6ROIUu_Jnmj6qch6ahv0gWAoxCXncdjOAlhAjIHCNI7s",
-      "news": [
-        {
-          "title": "Keegan Murray is officially out tonight with a stiff …",
-          "url": "https://sports.yahoo.com/articles/keegan-murray-officially-tonight-stiff-233757761.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Pacific Notes: Murray, Warriors, Lendeborg, Timme",
-          "url": "https://www.hoopsrumors.com/2026/10/pacific-notes-murray-warriors-lendeborg-timme.html",
+          "title": "Northwest Notes: Ball, Gobert, Jazz, Trail Blazers",
+          "url": "https://www.hoopsrumors.com/2026/10/northwest-notes-ball-gobert-jazz-trail-blazers.html",
           "source": "Hoops Rumors"
-        },
-        {
-          "title": "Grizzlies vs Kings live score updates, Cam Boozer highlights, TV channel",
-          "url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/10/25/memphis-grizzlies-sacramento-kings-score-cam-boozer-highlights--live/92432590007/",
-          "source": "The Commercial Appeal"
         }
       ]
     },
     {
-      "keyword": "kenneth walker",
+      "keyword": "kalshi",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqJSX6-NtKNZkcBS62Sl1MoFUQro_iJwvK9RRo3U5X2zRPfMDLMsYH3WdRg-A",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnrfzmZeWglIoRznqZnGDqP0LJKBcEunIHzysQ9EYeI8BAqcU6PX5jiZaY_pI",
       "news": [
         {
-          "title": "Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?",
-          "url": "https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker",
-          "source": "ESPN"
+          "title": "Best Kalshi promo code CBSSPORTS55: Earn $55 bonus for Eagles vs. Cowboys, Monday Night Football predictions",
+          "url": "https://www.cbssports.com/nfl/news/best-kalshi-promo-code-cbssports55-earn-55-bonus-eagles-vs-cowboys-monday-night-football-predictions/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Seahawks’ Kenneth Walker Decision Draws ‘Punch Himself’ Criticism Ahead of Chiefs Matchup",
-          "url": "https://sports.yahoo.com/articles/seahawks-kenneth-walker-decision-draws-000749032.html",
-          "source": "Yahoo Sports"
+          "title": "Kalshi Promo Code FOXSPORTS55: Get $55 in Bonuses for Eagles vs. Cowboys on Monday Night Football",
+          "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports55-get-55-bonuses-eagles-vs-cowboys-monday-night-football",
+          "source": "FOX Sports"
         },
         {
-          "title": "Chiefs RB Kenneth Walker treating Seattle return ‘like any other week’",
-          "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/213984/kenneth-walker-treating-seattle-return-any-other-week",
-          "source": "Arrowhead Pride"
+          "title": "Kalshi Promo Code AL55: Get a $55 bonus for Monday Night Football and World Series Game 3",
+          "url": "https://www.al.com/prediction-markets/2026/10/kalshi-promo-code-al55-get-a-55-bonus-for-monday-night-football-and-world-series-game-3.html",
+          "source": "AL.com"
         }
       ]
     },
     {
-      "keyword": "phantom blade zero",
+      "keyword": "devin booker",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkm2UjgwkNEoKQrVMzcLAVPtEFr3f-R9amkDV-pUtdMi2Ks_IJBtFfRnpq7xI",
+      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHTv0orD6og_BLqUjT424x2i0ttixOlQ7y5juYE-VJ7U_8mzhekuKWOhOzj54",
       "news": [
         {
-          "title": "Phantom Blade Zero Review",
-          "url": "https://www.ign.com/articles/phantom-blade-zero-review",
-          "source": "IGN"
+          "title": "Devin Booker will have extreme ups and downs all season (and that is okay)",
+          "url": "https://valleyofthesuns.com/devin-booker-extreme-ups-downs-season",
+          "source": "Valley of the Suns"
         },
         {
-          "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
-          "url": "https://www.polygon.com/phantom-blade-zero-review/",
-          "source": "Polygon.com"
-        },
-        {
-          "title": "Phantom Blade Zero’s Combat Is So Good, You Won’t Care The Story Makes No Sense",
-          "url": "https://www.gamespot.com/reviews/phantom-blade-zeros-combat-is-so-good-you-wont-care-the-story-makes-no-sense/",
-          "source": "GameSpot"
-        }
-      ]
-    },
-    {
-      "keyword": "ken jeong",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSxws-E7mpNA29HfVu3BYhzeEgKlmylajNz2XD4sG2jVIEja-NHsUV1BN6pA",
-      "news": [
-        {
-          "title": "Ken Jeong Jokes His Wife Told Him He Has a ‘Face for Audio’ Ahead of New Audible Original (Exclusive)",
-          "url": "https://people.com/celebrity-ken-jeong-wife-said-he-has-a-face-for-audio-exclusive-12190021",
-          "source": "People.com"
-        },
-        {
-          "title": "Danny Pudi Had a Different Experience on Community Than His Costars —Here’s Why (Exclusive)",
-          "url": "https://people.com/danny-pudi-had-a-different-experience-on-community-than-his-costars-here-is-why-exclusive-12186345",
-          "source": "People.com"
-        }
-      ]
-    },
-    {
-      "keyword": "terrence shannon jr.",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV_Q14f5qo6hdhIICI6sxlpqbQ7TdUUs4p55pawt3kB-Dbym3yf_Znx-izP8",
-      "news": [
-        {
-          "title": "One Underrated Timberwolves Wing Gets High Praise From Chris Finch",
-          "url": "https://sports.yahoo.com/articles/one-underrated-timberwolves-wing-gets-130036612.html",
+          "title": "Devin Booker Blasts Phoenix Suns Chemistry",
+          "url": "https://sports.yahoo.com/articles/devin-booker-blasts-phoenix-suns-212153808.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Timberwolves Coach Chris Finch Admits He Made a Mistake",
-          "url": "https://sportsnaut.com/nba/timberwolves-coach-chris-finch-admits-he-made-a-mistake",
-          "source": "Sportsnaut"
+          "title": "The insane list of NBA legends Booker will lead when he hits 20K",
+          "url": "https://www.azcentral.com/story/sports/nba/suns/2026/10/18/devin-booker-julius-erving-scottie-pippen-isiah-thomas-career-points-phoenix-suns/92211184007/",
+          "source": "azcentral.com and The Arizona Republic"
         }
       ]
     },
     {
-      "keyword": "dolar hoje",
+      "keyword": "zendaya",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmxyjS6Q416IgK9vYcsVJ5evQUBFnv9Awbrau7SUNlWWV_LZNEq7QsriAZQAQ",
+      "news": [
+        {
+          "title": "Zendaya goes all-out for nephew's high school football game in Folsom",
+          "url": "https://www.sfgate.com/sf-culture/article/zendaya-high-school-football-22494873.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "Zendaya makes surprise appearance at nephew's football game in Northern California",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/zendaya-makes-surprise-appearance-nephews-000513758.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Why was Zendaya in Folsom on Friday night? Here’s who she came to see",
+          "url": "https://www.sacbee.com/community/folsom-news/article317772511.html",
+          "source": "Sacramento Bee"
+        }
+      ]
+    },
+    {
+      "keyword": "veronica burton",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj8JFz1vYBIq884iDx6It7fYTRd4dOJAGCJ3AW09_M4NPTsiiXGmVKGrr5Zrc",
+      "news": [
+        {
+          "title": "Veronica Burton dials from long distance",
+          "url": "https://www.wnba.com/watch/video/veronica-burton-dials-from-long-distance",
+          "source": "WNBA"
+        },
+        {
+          "title": "The Valkyries need Veronica Burton to stay aggressive to realize title dreams",
+          "url": "https://highposthoops.com/the-valkyries-need-veronica-burton-stay-aggressive-realize-title-dreams",
+          "source": "High Post Hoops"
+        },
+        {
+          "title": "Veronica Burton knocks down a step-back trey for Golden State",
+          "url": "https://www.espn.com/video/clip/_/id/50268359/veronica-burton-knocks-step-back-trey-golden-state",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "boomer esiason",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Sun, 25 Oct 2026 17:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHzRE9hvdEhwGXV6bswo7vzyElfzgY8ijtIJhLTSZyn4AxCfqKJNKeFpWDV34",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjG9qT6rCySQBrGA3i2cGiUz91a4f3rAp8qhpQJVx7Qu2-fDmCvFdYrcsI8mU",
       "news": [
         {
-          "title": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
-          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-e-recua-158-na-semana",
-          "source": "Agência Brasil"
+          "title": "Boomer Esiason suggests blockbuster NFL trade between Cowboys & Chargers",
+          "url": "https://www.thebiglead.com/boomer-esiason-blockbuster-nfl-trade-cowboys-chargers-dak-herbert/",
+          "source": "The Big Lead"
         },
         {
-          "title": "Eleições agitam a Bolsa, Petrobras dispara e risco nos EUA preocupa; veja as mais lidas da semana",
-          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/eleicoes-agitam-a-bolsa-petrobras-dispara-e-risco-nos-eua-preocupa-veja-as-mais-lidas-da-semana/",
-          "source": "Estadão"
+          "title": "Wild Cowboys Dak Prescott Trade Floated by Ex-NFL MVP",
+          "url": "https://heavy.com/sports/nfl/dallas-cowboys/dak-prescott-trade-floated-by-ex-nfl-mvp/",
+          "source": "Heavy.com"
         },
         {
-          "title": "Ibovespa e dólar hoje: reta final do 2º turno, petróleo e defasagem do diesel",
-          "url": "https://br.investing.com/news/stock-market-news/ibovespa-e-dolar-hoje-reta-final-do-2o-turno-petroleo-e-defasagem-do-diesel-2101664",
-          "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos"
+          "title": "Boomer Esiason Dreams Up A Wild Swap Of Justin Herbert Between Los Angeles Chargers And Dallas Cowboys",
+          "url": "https://sports.ndtv.com/us/nfl/boomer-esiason-dreams-up-a-wild-swap-of-justin-herbert-between-los-angeles-chargers-and-dallas-cowboys-12235485",
+          "source": "NDTV Sports"
         }
       ]
     },
     {
-      "keyword": "querétaro - cruz azul",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6cqclVemi_-V1jnCLQ4IQRcbLFCTWqTWztg_372pA_3xMk3EpdGMVF-jRqjU",
+      "keyword": "pickens",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_fOd3HwBhto113bMvbPkEvhtVR3OLPXkqR_el_fNAA8bqK8kmZreQoIs08pU",
       "news": [
         {
-          "title": "Querétaro vs Cruz Azul: posibles alineaciones y probabilidades",
-          "url": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/17426445/queretaro-vs-cruz-azul-alineaciones-posibles-jornada-14",
-          "source": "ESPN Deportes"
+          "title": "Cowboys' George Pickens brushes off Brian Schottenheimer's critique, says team needs to improve",
+          "url": "https://www.cbssports.com/nfl/news/cowboys-george-pickens-deflects-brian-schottenheimers-critique/",
+          "source": "CBS Sports"
         },
         {
-          "title": "¿Querétaro vs Cruz Azul, cuándo y a qué hora juegan? Alienaciones y dónde ver en vivo",
-          "url": "https://www.lavozarizona.com/story/deportes/futbol/2026/10/24/queretaro-vs-cruz-azul-previa-hora-canal-fecha-apertura-2026-liga-mx/92403086007/",
-          "source": "azcentral.com and The Arizona Republic"
+          "title": "Brian Schottenheimer: George Pickens \"needs to understand he impacts us in the run game\"",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-george-pickens-needs-to-understand-he-impacts-us-in-the-run-game",
+          "source": "NBC Sports"
         },
         {
-          "title": "Lesionados y suspendidos para el partido Querétaro vs Cruz Azul",
-          "url": "https://www.si.com/es-us/lesionados-y-suspendidos-para-el-partido-queretaro-vs-cruz-azul",
-          "source": "Sports Illustrated"
+          "title": "George Pickens' future in Dallas may hinge on Cowboys-Eagles outcome",
+          "url": "https://thelandryhat.com/george-pickens-future-in-dallas-may-hinge-on-cowboys-eagles-outcome",
+          "source": "The Landry Hat"
         }
       ]
     },
     {
-      "keyword": "is taylor swift in seattle for chiefs game",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sun, 25 Oct 2026 17:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuZ_GbtT-CoEZzaTrGqFrmBpegtHQkMRseB07r5nkf3EvGqZkG_Y1u8xn2jRU",
+      "keyword": "brian schottenheimer",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvY6y_OZF2VvlJavj5fAFiz4iz_BLOjjyxjdO9GugensCq9jzHlG5ExXvPug",
       "news": [
         {
-          "title": "Is Taylor Swift at the Chiefs game tonight? Status for Week 7 vs. Seahawks",
-          "url": "https://www.usatoday.com/story/sports/nfl/chiefs/2026/10/25/taylor-swift-chiefs-seahawks/92415297007/",
-          "source": "USA Today"
+          "title": "Pressure mounts on Cowboys coach Brian Schottenheimer. How will his team respond?",
+          "url": "https://www.dallasnews.com/sports/cowboys/article/dallas-cowboys-brian-schottenheimer-jerry-jones-22487374.php",
+          "source": "Dallas News"
         },
         {
-          "title": "Taylor Swift Brought Her Showgirl Style to Chiefs Home Game Against Chargers with a Red Bodysuit",
-          "url": "https://people.com/taylor-swift-brought-showgirl-style-chiefs-home-game-against-chargers-12154783",
-          "source": "People.com"
+          "title": "Cowboys' CeeDee Lamb Reveals How Brian Schottenheimer Is Handling Criticism",
+          "url": "https://sports.yahoo.com/articles/cowboys-ceedee-lamb-reveals-brian-195805174.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Taylor Swift Traveled From L.A. to Travis Kelce’s Chiefs-Chargers Game—and Brought 2 Famous Friends",
-          "url": "https://www.elle.com/culture/celebrities/a74163901/taylor-swift-photos-travis-kelce-chiefs-chargers-home-game-october-2026/",
-          "source": "ELLE"
+          "title": "Cowboys fans render a decision on Brian Schottenheimer’s fate",
+          "url": "https://www.bloggingtheboys.com/dallas-cowboys-discussion/223655/fans-decision-brian-schottenheimers-fate-keep-fire",
+          "source": "Blogging The Boys"
         }
       ]
     }

@@ -1,72 +1,15 @@
 {
   "source": "events",
-  "fetched_at": "2026-10-26T00:34:05+00:00",
+  "fetched_at": "2026-10-27T01:39:23+00:00",
   "ok": true,
   "error": null,
-  "count": 13,
+  "count": 10,
   "items": [
-    {
-      "name": "ILLIT 'BREAK EVEN'",
-      "category": "kpop",
-      "date": "2026-10-26",
-      "days_left": 0,
-      "prep_by": "2026-10-23",
-      "lead_days": 3,
-      "status": "prepare_now",
-      "keywords": [
-        "illit album",
-        "illit photocard"
-      ],
-      "match": [
-        "illit"
-      ],
-      "note": "",
-      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
-      "kind": "once"
-    },
-    {
-      "name": "IVE 'Looks Can Kill'",
-      "category": "kpop",
-      "date": "2026-10-26",
-      "days_left": 0,
-      "prep_by": "2026-10-23",
-      "lead_days": 3,
-      "status": "prepare_now",
-      "keywords": [
-        "ive album",
-        "ive photocard"
-      ],
-      "match": [
-        "ive"
-      ],
-      "note": "",
-      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
-      "kind": "once"
-    },
-    {
-      "name": "RIIZE 정규 2집 선공개",
-      "category": "kpop",
-      "date": "2026-10-26",
-      "days_left": 0,
-      "prep_by": "2026-10-23",
-      "lead_days": 3,
-      "status": "prepare_now",
-      "keywords": [
-        "riize album",
-        "riize photocard"
-      ],
-      "match": [
-        "riize"
-      ],
-      "note": "",
-      "source": "https://www.koreatimes.co.kr/entertainment/k-pop/20261006/ive-illit-riize-collide-as-october-k-pop-comeback-race-heats-up",
-      "kind": "once"
-    },
     {
       "name": "Halloween",
       "category": "season",
       "date": "2026-10-31",
-      "days_left": 5,
+      "days_left": 4,
       "prep_by": "2026-10-10",
       "lead_days": 21,
       "status": "too_late",
@@ -85,7 +28,7 @@
       "name": "TWS 'TO US'",
       "category": "kpop",
       "date": "2026-11-02",
-      "days_left": 7,
+      "days_left": 6,
       "prep_by": "2026-10-30",
       "lead_days": 3,
       "status": "upcoming",
@@ -104,7 +47,7 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -126,7 +69,7 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "upcoming",
@@ -146,7 +89,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 16,
+      "days_left": 15,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "upcoming",
@@ -165,7 +108,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 18,
+      "days_left": 17,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -184,7 +127,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 21,
+      "days_left": 20,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -204,7 +147,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 32,
+      "days_left": 31,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "upcoming",
@@ -222,7 +165,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 35,
+      "days_left": 34,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "upcoming",
@@ -240,7 +183,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 60,
+      "days_left": 59,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -256,5 +199,5 @@
       "kind": "yearly"
     }
   ],
-  "today": "2026-10-26"
+  "today": "2026-10-27"
 }
