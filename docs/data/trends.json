@@ -1,79 +1,55 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-27T01:30:04+00:00",
+  "fetched_at": "2026-10-28T01:25:55+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "warriors vs nuggets",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3RJxLK9banD7hM6blqK4Vyl2ijur_jvwaMG2Ff_X7EmiVlKNz6meNX_3nvg",
+      "keyword": "sal frelick",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE0dKRNvMQD8rweelTQT-mWfSZoRvBqsr3Gx9tbiOp86ToQfPg2Khz5sPVAqI",
       "news": [
         {
-          "title": "Game Preview: Warriors at Nuggets - 10/26/26",
-          "url": "https://warriors.com/news/gameday-preview-20261026",
-          "source": "NBA.com"
+          "title": "Sal Frelick 'Embodies What the Milwaukee Brewers Are' after phenomenal performance in Game 3 of WS",
+          "url": "https://www.foxsports.com/watch-vertical/fmc-vomxsivgg13dzz2r",
+          "source": "FOX Sports"
         },
         {
-          "title": "How to watch Warriors vs Nuggets: NBA, live stream, TV channel",
-          "url": "https://sports.yahoo.com/articles/watch-warriors-vs-nuggets-nba-010000771.html",
-          "source": "Yahoo Sports"
+          "title": "With surprise game-tying blast, Frelick provides Crew's 'favorite swing of the year'",
+          "url": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
+          "source": "MLB.com"
         },
         {
-          "title": "Warriors vs. Nuggets Prediction, Odds and Best NBA Prop Bets for Monday, Oct. 26",
-          "url": "https://www.si.com/betting/warriors-vs-nuggets-prediction-odds-and-best-nba-prop-bets-for-monday-oct-26-2026",
-          "source": "Sports Illustrated"
+          "title": "Sal Frelick’s World Series home run off Ian Seymour was a meeting made in Massachusetts",
+          "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
+          "source": "The Boston Globe"
         }
       ]
     },
     {
-      "keyword": "royal caribbean",
+      "keyword": "cooper pratt",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5ThrhQqYORjGrxDlix8xTeaXGQj-gt1qBuh-d_24YKzYTCQvHYT_SES3cNw",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiXLYGGVg22HFbT7IYdNNQFaFq-o3B4pHKOmGhZ7Rjal21EXiTrfPOrqmbzo",
       "news": [
         {
-          "title": "Watch: Northeast Ohioans share advice after Bahamas cruise re-routed to Canada",
-          "url": "https://fox8.com/news/watch-northeast-ohioans-share-advice-after-bahamas-cruise-re-routed-to-canada/",
-          "source": "FOX 8 News"
+          "title": "What Elder Rasband appreciates about the faithful example of Milwaukee’s Cooper Pratt",
+          "url": "https://www.thechurchnews.com/leaders/2026/10/27/elder-ronald-a-rasband-appreciates-milwaukee-brewers-cooper-pratt-example/",
+          "source": "Church News"
         },
         {
-          "title": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead",
-          "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead",
-          "source": "Fox News"
+          "title": "Cooper Pratt’s Girlfriend, Jansyn Hollis: 5 Fast Facts You Need to Know",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/cooper-pratt-girlfriend-jansyn-hollis-025645352.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Royal Caribbean Reroutes Bermuda Cruise to Canada",
-          "url": "https://www.cruisecritic.com/news/royal-caribbean-bermuda-cruise-rerouted",
-          "source": "Cruise Critic"
-        }
-      ]
-    },
-    {
-      "keyword": "minnesota timberwolves",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiJf6GdMySzlfmm-WZPQJKvZsMLWRXHM_a2bfzLExSWkvR9yigx7SA6BigkUI",
-      "news": [
-        {
-          "title": "LaMelo Ball Drops Confident Quote as Anthony Edwards, Wolves Start Undefeated After Hornets Trade",
-          "url": "https://bleacherreport.com/articles/25520590-lamelo-ball-drops-confident-quote-anthony-edwards-wolves-start-undefeated-after-hornets-trade",
-          "source": "Bleacher Report"
-        },
-        {
-          "title": "Neal: Wolves paid a high price for LaMelo Ball. They expect a lot of time in return.",
-          "url": "https://www.startribune.com/minnesota-timberwolves-toronto-raptors-target-center-lamelo-ball-stats-anthony-edwards-chris-finch/601902946",
-          "source": "Star Tribune"
-        },
-        {
-          "title": "Northwest Notes: Ball, Gobert, Jazz, Trail Blazers",
-          "url": "https://www.hoopsrumors.com/2026/10/northwest-notes-ball-gobert-jazz-trail-blazers.html",
-          "source": "Hoops Rumors"
+          "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
+          "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
+          "source": "The Boston Globe"
         }
       ]
     },
@@ -81,167 +57,191 @@
       "keyword": "kalshi",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnrfzmZeWglIoRznqZnGDqP0LJKBcEunIHzysQ9EYeI8BAqcU6PX5jiZaY_pI",
+      "pub_date": "Tue, 27 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZXasH1wAeVXlsGkX6ydbF1QB4IKzE3I_wmkkjyaEM6Lim4WCGBX6nGvoDNs",
       "news": [
         {
-          "title": "Best Kalshi promo code CBSSPORTS55: Earn $55 bonus for Eagles vs. Cowboys, Monday Night Football predictions",
-          "url": "https://www.cbssports.com/nfl/news/best-kalshi-promo-code-cbssports55-earn-55-bonus-eagles-vs-cowboys-monday-night-football-predictions/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Kalshi Promo Code FOXSPORTS55: Get $55 in Bonuses for Eagles vs. Cowboys on Monday Night Football",
-          "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports55-get-55-bonuses-eagles-vs-cowboys-monday-night-football",
+          "title": "Kalshi Promo Code FOXSPORTS55 Unlocks $55 Bonus for Pistons vs. Knicks, Lakers vs. Trail Blazers",
+          "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports55-unlocks-55-bonus-pistons-vs-knicks-lakers-vs-trail-blazers",
           "source": "FOX Sports"
         },
         {
-          "title": "Kalshi Promo Code AL55: Get a $55 bonus for Monday Night Football and World Series Game 3",
-          "url": "https://www.al.com/prediction-markets/2026/10/kalshi-promo-code-al55-get-a-55-bonus-for-monday-night-football-and-world-series-game-3.html",
-          "source": "AL.com"
+          "title": "Exclusive Kalshi promo code CINCY offers $25 bonus for NFL, World Series and more",
+          "url": "https://www.usatoday.com/story/prediction-markets/2026/10/27/kalshi-promo-code-cincy-october-27/92333465007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "New $55 Kalshi promo code “ROCKY” now live for NBA; Trail Blazers vs. Lakers odds",
+          "url": "https://www.rockytopinsider.com/2026/10/27/kalshi-promo-code-55-bonus-nba-trail-blazers-lakers-odds/",
+          "source": "Rocky Top Insider"
         }
       ]
     },
     {
-      "keyword": "devin booker",
+      "keyword": "daycare",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHTv0orD6og_BLqUjT424x2i0ttixOlQ7y5juYE-VJ7U_8mzhekuKWOhOzj54",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZO0AvP-swGD4zvzwRCFvSMLrMW03YjG2nN8KwwCIlZ8_vye-GXObdKABZ4kg",
       "news": [
         {
-          "title": "Devin Booker will have extreme ups and downs all season (and that is okay)",
-          "url": "https://valleyofthesuns.com/devin-booker-extreme-ups-downs-season",
-          "source": "Valley of the Suns"
+          "title": "Ahead of Election Day, a Colorado Springs daycare center offers free childcare so parents can go vote",
+          "url": "https://www.rmpbs.org/news/education/colorado-springs-free-childcare-oct-29-for-voting",
+          "source": "Rocky Mountain PBS"
         },
         {
-          "title": "Devin Booker Blasts Phoenix Suns Chemistry",
-          "url": "https://sports.yahoo.com/articles/devin-booker-blasts-phoenix-suns-212153808.html",
+          "title": "Childcare for voting",
+          "url": "https://www.kktv.com/video/2026/10/21/childcare-voting/",
+          "source": "KKTV"
+        },
+        {
+          "title": "Free childcare aims to make voting easier for Colorado Springs parents",
+          "url": "https://www.kktv.com/2026/10/21/free-childcare-aims-make-voting-easier-colorado-springs-parents/",
+          "source": "KKTV"
+        }
+      ]
+    },
+    {
+      "keyword": "the mob",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS58RFld2076XnutFFCRKU8-c09QkKOY0uQc862Huo4QKbebBAtHq2o5xsNlVM",
+      "news": [
+        {
+          "title": "Parker Posey on New Reality Competition, ‘Piper No!’ Trend, More",
+          "url": "https://www.today.com/video/parker-posey-talks-the-mob-wild-horse-nine-and-piper-no-272219717826",
+          "source": "TODAY.com"
+        },
+        {
+          "title": "Meet the 12 Celebrities Competing for Up to $250K on Hulu’s New Series ‘The Mob’",
+          "url": "https://people.com/meet-the-celebrity-cast-of-the-mob-12177558",
+          "source": "People.com"
+        },
+        {
+          "title": "What Is ‘The Mob’ on Hulu and Disney+? Cast, Host, & How to Watch",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/mob-hulu-disney-cast-host-174500524.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "sal frelick wife",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF9UCf6OZy_AtUBq756g4Hd5oFDl1Zv0UBCB3ezjLhMTzLNnKo1KQoA1hfeIE",
+      "news": [
+        {
+          "title": "They’re chasing a World Series. Their families are just trying to survive October",
+          "url": "https://www.cnn.com/2026/10/27/sport/baseball-wives-october-playoffs",
+          "source": "CNN"
+        },
+        {
+          "title": "Inside the ‘organized chaos’ behind baseball WAGs’ custom World Series fits - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7718490/2026/10/26/mlb-wags-playoffs-fashion-world-series/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Meet the Wives and Girlfriends Cheering on the Milwaukee Brewers and the Tampa Bay Rays",
+          "url": "https://people.com/meet-the-wives-and-girlfriends-world-series-2026-12193644",
+          "source": "People.com"
+        }
+      ]
+    },
+    {
+      "keyword": "senators vs golden knights",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDgMTQ9uHkIlBD1auqilZSIfHNcp0uHPBM34GEo83lx5PV962KBMtkdvUGK_g",
+      "news": [
+        {
+          "title": "Former 1st-round pick could make Knights debut against Ottawa",
+          "url": "https://www.reviewjournal.com/sports/goldenknights/former-1st-round-pick-could-make-knights-debut-against-ottawa-3905511/",
+          "source": "Las Vegas Review-Journal"
+        },
+        {
+          "title": "In the spirit of Halloween, 4 psychics predict Vegas Golden Knights vs Ottawa Senators",
+          "url": "https://sports.yahoo.com/articles/spirit-halloween-4-psychics-predict-210539575.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "The insane list of NBA legends Booker will lead when he hits 20K",
-          "url": "https://www.azcentral.com/story/sports/nba/suns/2026/10/18/devin-booker-julius-erving-scottie-pippen-isiah-thomas-career-points-phoenix-suns/92211184007/",
-          "source": "azcentral.com and The Arizona Republic"
+          "title": "Senators vs Golden Knights Prediction, Picks & Combo for Tonight’s NHL Game",
+          "url": "https://www.covers.com/nhl/senators-vs-golden-knights-prediction-picks-oct-27-2026",
+          "source": "Covers.com"
         }
       ]
     },
     {
-      "keyword": "zendaya",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 26 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmxyjS6Q416IgK9vYcsVJ5evQUBFnv9Awbrau7SUNlWWV_LZNEq7QsriAZQAQ",
+      "keyword": "kordell stewart",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUwFdKA76IxfEpE6eEwFxwfPtd6yDJGvOO9bpggVgoaSQ66wztEFbxOsLg1X4",
       "news": [
         {
-          "title": "Zendaya goes all-out for nephew's high school football game in Folsom",
-          "url": "https://www.sfgate.com/sf-culture/article/zendaya-high-school-football-22494873.php",
-          "source": "SFGATE"
+          "title": "Kordell Stewart Slash & Burn: What to Know About Documentary on Former Steelers QB",
+          "url": "https://sports.yahoo.com/articles/kordell-stewart-slash-burn-know-222339103.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Zendaya makes surprise appearance at nephew's football game in Northern California",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/zendaya-makes-surprise-appearance-nephews-000513758.html",
-          "source": "Yahoo"
+          "title": "Kordell Stewart Hopes His New HBO Documentary Lands Him in the NFL Hall of Fame",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/kordell-stewart-new-hbo-documentary-1236740115/",
+          "source": "The Hollywood Reporter"
         },
         {
-          "title": "Why was Zendaya in Folsom on Friday night? Here’s who she came to see",
-          "url": "https://www.sacbee.com/community/folsom-news/article317772511.html",
-          "source": "Sacramento Bee"
+          "title": "Porsha Williams’ Ex-Husband Revisits Damaging Rumor in HBO Doc",
+          "url": "https://www.realitytea.com/2026/10/27/porsha-williams-ex-husband-kordell-stewart-hbo-documentary-rumor/",
+          "source": "Reality Tea"
         }
       ]
     },
     {
-      "keyword": "veronica burton",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj8JFz1vYBIq884iDx6It7fYTRd4dOJAGCJ3AW09_M4NPTsiiXGmVKGrr5Zrc",
+      "keyword": "jack hughes",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
       "news": [
         {
-          "title": "Veronica Burton dials from long distance",
-          "url": "https://www.wnba.com/watch/video/veronica-burton-dials-from-long-distance",
-          "source": "WNBA"
+          "title": "Devils at Stars projected lineups",
+          "url": "https://www.nhl.com/news/new-jersey-devils-dallas-stars-game-preview-october-27-2026",
+          "source": "NHL.com"
         },
         {
-          "title": "The Valkyries need Veronica Burton to stay aggressive to realize title dreams",
-          "url": "https://highposthoops.com/the-valkyries-need-veronica-burton-stay-aggressive-realize-title-dreams",
-          "source": "High Post Hoops"
+          "title": "New Jersey Devils vs. Dallas Stars Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Tuesday 10/27 8:00 PM ET",
+          "url": "https://www.sportsline.com/nhl/game-forecast/NHL_20261027_NJ@DAL/",
+          "source": "SportsLine"
         },
         {
-          "title": "Veronica Burton knocks down a step-back trey for Golden State",
-          "url": "https://www.espn.com/video/clip/_/id/50268359/veronica-burton-knocks-step-back-trey-golden-state",
+          "title": "New Jersey Devils vs. Dallas Stars",
+          "url": "https://www.espn.com/watch/player/_/eventCalendarId/401892590",
           "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "boomer esiason",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjG9qT6rCySQBrGA3i2cGiUz91a4f3rAp8qhpQJVx7Qu2-fDmCvFdYrcsI8mU",
+      "keyword": "canucks vs ducks",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
       "news": [
         {
-          "title": "Boomer Esiason suggests blockbuster NFL trade between Cowboys & Chargers",
-          "url": "https://www.thebiglead.com/boomer-esiason-blockbuster-nfl-trade-cowboys-chargers-dak-herbert/",
-          "source": "The Big Lead"
+          "title": "Canucks at Ducks projected lineups",
+          "url": "https://www.nhl.com/news/vancouver-canucks-anaheim-ducks-game-preview-october-27-2026",
+          "source": "NHL.com"
         },
         {
-          "title": "Wild Cowboys Dak Prescott Trade Floated by Ex-NFL MVP",
-          "url": "https://heavy.com/sports/nfl/dallas-cowboys/dak-prescott-trade-floated-by-ex-nfl-mvp/",
-          "source": "Heavy.com"
-        },
-        {
-          "title": "Boomer Esiason Dreams Up A Wild Swap Of Justin Herbert Between Los Angeles Chargers And Dallas Cowboys",
-          "url": "https://sports.ndtv.com/us/nfl/boomer-esiason-dreams-up-a-wild-swap-of-justin-herbert-between-los-angeles-chargers-and-dallas-cowboys-12235485",
-          "source": "NDTV Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "pickens",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_fOd3HwBhto113bMvbPkEvhtVR3OLPXkqR_el_fNAA8bqK8kmZreQoIs08pU",
-      "news": [
-        {
-          "title": "Cowboys' George Pickens brushes off Brian Schottenheimer's critique, says team needs to improve",
-          "url": "https://www.cbssports.com/nfl/news/cowboys-george-pickens-deflects-brian-schottenheimers-critique/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Brian Schottenheimer: George Pickens \"needs to understand he impacts us in the run game\"",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brian-schottenheimer-george-pickens-needs-to-understand-he-impacts-us-in-the-run-game",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "George Pickens' future in Dallas may hinge on Cowboys-Eagles outcome",
-          "url": "https://thelandryhat.com/george-pickens-future-in-dallas-may-hinge-on-cowboys-eagles-outcome",
-          "source": "The Landry Hat"
-        }
-      ]
-    },
-    {
-      "keyword": "brian schottenheimer",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 26 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvY6y_OZF2VvlJavj5fAFiz4iz_BLOjjyxjdO9GugensCq9jzHlG5ExXvPug",
-      "news": [
-        {
-          "title": "Pressure mounts on Cowboys coach Brian Schottenheimer. How will his team respond?",
-          "url": "https://www.dallasnews.com/sports/cowboys/article/dallas-cowboys-brian-schottenheimer-jerry-jones-22487374.php",
-          "source": "Dallas News"
-        },
-        {
-          "title": "Cowboys' CeeDee Lamb Reveals How Brian Schottenheimer Is Handling Criticism",
-          "url": "https://sports.yahoo.com/articles/cowboys-ceedee-lamb-reveals-brian-195805174.html",
+          "title": "Game #12: Ducks vs. Canucks Gameday Preview (10/27/26)",
+          "url": "https://sports.yahoo.com/articles/game-12-ducks-vs-canucks-184543861.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Cowboys fans render a decision on Brian Schottenheimer’s fate",
-          "url": "https://www.bloggingtheboys.com/dallas-cowboys-discussion/223655/fans-decision-brian-schottenheimers-fate-keep-fire",
-          "source": "Blogging The Boys"
+          "title": "Vancouver Canucks vs Anaheim Ducks Prediction, Picks & Odds | 27 Oct 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/vancouver-canucks-vs-anaheim-ducks-prediction-odds-2026-10-27/",
+          "source": "Sportsgambler"
         }
       ]
     }
