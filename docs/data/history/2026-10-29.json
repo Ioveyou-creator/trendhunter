@@ -1,0 +1,110 @@
+{
+ "date": "2026-10-29",
+ "candidates": [
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 65,
+   "rank": 1
+  },
+  {
+   "id": "0771746723",
+   "title": "Pokemon TCG Delta Reign (ME06)",
+   "query": "delta reign booster box",
+   "score": 63,
+   "rank": 2
+  },
+  {
+   "id": "6ed713c50c",
+   "title": "TWS 'TO US'",
+   "query": "tws album",
+   "score": 54,
+   "rank": 3
+  },
+  {
+   "id": "da034b1c48",
+   "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+   "query": "pokemon 30th celebration upc",
+   "score": 53,
+   "rank": 4
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 51,
+   "rank": 5
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 50,
+   "rank": 6
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 48,
+   "rank": 7
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 47,
+   "rank": 8
+  },
+  {
+   "id": "77b2ed6632",
+   "title": "Rhythm Doctor coming to Switch 2, Switch in December",
+   "query": "Rhythm Doctor Switch 2 Switch December",
+   "score": 44,
+   "rank": 9
+  },
+  {
+   "id": "ce44968e5a",
+   "title": "Nike SB Dunks Purple Pigeon. Pulled them out of storage for the first time in years.",
+   "query": "nike Pulled storage time years",
+   "score": 44,
+   "rank": 10
+  },
+  {
+   "id": "8a7de62c82",
+   "title": "Bought my first ever ETB and got amazing Pulls!",
+   "query": "Bought ever ETB amazing Pulls",
+   "score": 44,
+   "rank": 11
+  },
+  {
+   "id": "b838f1136a",
+   "title": "AVATAR LEGENDS: The Fighting Game Launches for the Switch 2 Tomorrow",
+   "query": "Fighting Game Launches Switch 2 Tomorrow",
+   "score": 44,
+   "rank": 12
+  },
+  {
+   "id": "9ce28c35a0",
+   "title": "The Great Villainess: Strategy of Lily coming to PS5, Switch 2 on December 2",
+   "query": "Strategy Lily PS5 Switch 2 December",
+   "score": 44,
+   "rank": 13
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 41,
+   "rank": 14
+  },
+  {
+   "id": "bc7cf47d39",
+   "title": "Halloween",
+   "query": "halloween costume",
+   "score": 30,
+   "rank": 15
+  }
+ ]
+}

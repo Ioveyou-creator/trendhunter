@@ -1,247 +1,237 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-28T01:25:55+00:00",
+  "fetched_at": "2026-10-29T01:50:04+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "sal frelick",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE0dKRNvMQD8rweelTQT-mWfSZoRvBqsr3Gx9tbiOp86ToQfPg2Khz5sPVAqI",
+      "keyword": "miami heat",
+      "traffic": 20000,
+      "traffic_label": "20000+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTROHPRCwWXHe1mpbdAls0lMySna48DX-MC49WnCig3fUpQIwc-2R20EjrfKfw",
       "news": [
         {
-          "title": "Sal Frelick 'Embodies What the Milwaukee Brewers Are' after phenomenal performance in Game 3 of WS",
-          "url": "https://www.foxsports.com/watch-vertical/fmc-vomxsivgg13dzz2r",
+          "title": "Portland Trail Blazers vs Los Angeles Lakers Oct 27, 2026 Box Scores",
+          "url": "https://www.nba.com/game/por-vs-lal-0022600131/box-score",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Brooklyn Nets vs Boston Celtics Oct 27, 2026 Box Scores",
+          "url": "https://www.nba.com/game/bkn-vs-bos-0022600128/box-score",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Portland Trail Blazers vs Los Angeles Lakers Oct 27, 2026 Play-by-Play",
+          "url": "https://www.nba.com/game/por-vs-lal-0022600131/play-by-play",
+          "source": "NBA.com"
+        }
+      ]
+    },
+    {
+      "keyword": "cooper pratt brewers",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHv3QF6SUcR_xIyNyuBMNLFqJjsaLp0ksbig4uGrkcNES2e6scVb98GKMe6tY",
+      "news": [
+        {
+          "title": "Cooper Pratt Hits Single to Center Field, Giving Brewers Early Lead Over Rays",
+          "url": "https://www.foxsports.com/watch/fmc-basycas3elrz8nyc",
           "source": "FOX Sports"
         },
         {
-          "title": "With surprise game-tying blast, Frelick provides Crew's 'favorite swing of the year'",
-          "url": "https://www.mlb.com/news/sal-frelick-game-tying-home-run-2026-world-series-game-2",
+          "title": "Red-hot Pratt sets World Series rookie record with hit in six straight at-bats",
+          "url": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
           "source": "MLB.com"
         },
         {
-          "title": "Sal Frelick’s World Series home run off Ian Seymour was a meeting made in Massachusetts",
-          "url": "https://www.bostonglobe.com/2026/10/25/sports/world-series-sal-frelick-ian-seymour-massachusetts-baseball/",
-          "source": "The Boston Globe"
+          "title": "Cooper Pratt has the game of his life and now he has to forget it",
+          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/cooper-pratt-has-the-game-of-his-life-and-now-he-has-to-forget-it/92458779007/",
+          "source": "Milwaukee Journal Sentinel"
         }
       ]
     },
     {
-      "keyword": "cooper pratt",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiXLYGGVg22HFbT7IYdNNQFaFq-o3B4pHKOmGhZ7Rjal21EXiTrfPOrqmbzo",
+      "keyword": "chandler simpson",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5ToqyWFcdA1N4Ze9OOUnWIejOR400EYGD6aFbUPiiXmoe1kFpPI6unXXG5lA",
       "news": [
         {
-          "title": "What Elder Rasband appreciates about the faithful example of Milwaukee’s Cooper Pratt",
-          "url": "https://www.thechurchnews.com/leaders/2026/10/27/elder-ronald-a-rasband-appreciates-milwaukee-brewers-cooper-pratt-example/",
-          "source": "Church News"
+          "title": "Simpson's speed actually costs him SB -- then enables SPECTACULAR catch",
+          "url": "https://www.mlb.com/news/chandler-simpson-makes-great-running-catch-in-2026-world-series-game-3",
+          "source": "MLB.com"
         },
         {
-          "title": "Cooper Pratt’s Girlfriend, Jansyn Hollis: 5 Fast Facts You Need to Know",
-          "url": "https://www.yahoo.com/entertainment/celebrity/articles/cooper-pratt-girlfriend-jansyn-hollis-025645352.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "The Brewers and Rays don’t buy into air pull. It’s working.",
-          "url": "https://www.bostonglobe.com/2026/10/26/sports/brewers-rays-hitting-driveline/",
-          "source": "The Boston Globe"
-        }
-      ]
-    },
-    {
-      "keyword": "kalshi",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Tue, 27 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZXasH1wAeVXlsGkX6ydbF1QB4IKzE3I_wmkkjyaEM6Lim4WCGBX6nGvoDNs",
-      "news": [
-        {
-          "title": "Kalshi Promo Code FOXSPORTS55 Unlocks $55 Bonus for Pistons vs. Knicks, Lakers vs. Trail Blazers",
-          "url": "https://www.foxsports.com/stories/betting/kalshi-promo-code-foxsports55-unlocks-55-bonus-pistons-vs-knicks-lakers-vs-trail-blazers",
+          "title": "Chandler Simpson’s Double Drives In One Run To Give Rays The Early Lead vs Brewers",
+          "url": "https://www.foxsports.com/watch/fmc-wrifzs83c93ttw6w",
           "source": "FOX Sports"
         },
         {
-          "title": "Exclusive Kalshi promo code CINCY offers $25 bonus for NFL, World Series and more",
-          "url": "https://www.usatoday.com/story/prediction-markets/2026/10/27/kalshi-promo-code-cincy-october-27/92333465007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "New $55 Kalshi promo code “ROCKY” now live for NBA; Trail Blazers vs. Lakers odds",
-          "url": "https://www.rockytopinsider.com/2026/10/27/kalshi-promo-code-55-bonus-nba-trail-blazers-lakers-odds/",
-          "source": "Rocky Top Insider"
+          "title": "On Chandler Simpson’s Catch",
+          "url": "https://blogs.fangraphs.com/on-chandler-simpsons-catch/",
+          "source": "FanGraphs"
         }
       ]
     },
     {
-      "keyword": "daycare",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZO0AvP-swGD4zvzwRCFvSMLrMW03YjG2nN8KwwCIlZ8_vye-GXObdKABZ4kg",
+      "keyword": "mls standings",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQel-Fxt8KfOWhiTzJcefvjGa6saiOPd8SUhqgoy0JvcZeETHpeVR63gHp7HJ8",
       "news": [
         {
-          "title": "Ahead of Election Day, a Colorado Springs daycare center offers free childcare so parents can go vote",
-          "url": "https://www.rmpbs.org/news/education/colorado-springs-free-childcare-oct-29-for-voting",
-          "source": "Rocky Mountain PBS"
+          "title": "MLS Power Rankings: Revs jump eight places as playoffs loom",
+          "url": "https://www.espn.com/soccer/story/_/id/50285261/mls-power-rankings-revs-jump-eight-places-playoffs-loom",
+          "source": "ESPN"
         },
         {
-          "title": "Childcare for voting",
-          "url": "https://www.kktv.com/video/2026/10/21/childcare-voting/",
-          "source": "KKTV"
+          "title": "Power Rankings: New England, Dallas prove contender status",
+          "url": "https://www.mlssoccer.com/news/power-rankings-new-england-dallas-prove-contender-status",
+          "source": "MLSsoccer.com"
         },
         {
-          "title": "Free childcare aims to make voting easier for Colorado Springs parents",
-          "url": "https://www.kktv.com/2026/10/21/free-childcare-aims-make-voting-easier-colorado-springs-parents/",
-          "source": "KKTV"
+          "title": "Supporters’ Shield winner Nashville SC could stand between Lionel Messi’s Inter Miami and a second consecutive",
+          "url": "https://en.as.com/soccer/supporters-shield-winner-nashville-sc-could-stand-between-lionel-messis-inter-miami-and-a-second-consecutive-mls-cup-title-f202610-n/",
+          "source": "Diario AS"
         }
       ]
     },
     {
-      "keyword": "the mob",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS58RFld2076XnutFFCRKU8-c09QkKOY0uQc862Huo4QKbebBAtHq2o5xsNlVM",
+      "keyword": "cleveland cavaliers",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToQKKOZx3YjWJ2_LKxqman3GraA7XsKovbMRDYjlkaETb3T7l-yiAD8uWo9C0",
       "news": [
         {
-          "title": "Parker Posey on New Reality Competition, ‘Piper No!’ Trend, More",
-          "url": "https://www.today.com/video/parker-posey-talks-the-mob-wild-horse-nine-and-piper-no-272219717826",
-          "source": "TODAY.com"
+          "title": "76ers vs. Pacers (Oct 28, 2026) Live Score",
+          "url": "https://www.espn.com/nba/game/_/gameId/401909884/76ers-pacers",
+          "source": "ESPN"
         },
         {
-          "title": "Meet the 12 Celebrities Competing for Up to $250K on Hulu’s New Series ‘The Mob’",
-          "url": "https://people.com/meet-the-celebrity-cast-of-the-mob-12177558",
-          "source": "People.com"
+          "title": "Thunder vs. Mavericks (Oct 28, 2026) Live Score",
+          "url": "https://www.espn.com/nba/game/_/gameId/401909891/thunder-mavericks",
+          "source": "ESPN"
         },
         {
-          "title": "What Is ‘The Mob’ on Hulu and Disney+? Cast, Host, & How to Watch",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/mob-hulu-disney-cast-host-174500524.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "sal frelick wife",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF9UCf6OZy_AtUBq756g4Hd5oFDl1Zv0UBCB3ezjLhMTzLNnKo1KQoA1hfeIE",
-      "news": [
-        {
-          "title": "They’re chasing a World Series. Their families are just trying to survive October",
-          "url": "https://www.cnn.com/2026/10/27/sport/baseball-wives-october-playoffs",
-          "source": "CNN"
-        },
-        {
-          "title": "Inside the ‘organized chaos’ behind baseball WAGs’ custom World Series fits - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7718490/2026/10/26/mlb-wags-playoffs-fashion-world-series/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Meet the Wives and Girlfriends Cheering on the Milwaukee Brewers and the Tampa Bay Rays",
-          "url": "https://people.com/meet-the-wives-and-girlfriends-world-series-2026-12193644",
-          "source": "People.com"
-        }
-      ]
-    },
-    {
-      "keyword": "senators vs golden knights",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDgMTQ9uHkIlBD1auqilZSIfHNcp0uHPBM34GEo83lx5PV962KBMtkdvUGK_g",
-      "news": [
-        {
-          "title": "Former 1st-round pick could make Knights debut against Ottawa",
-          "url": "https://www.reviewjournal.com/sports/goldenknights/former-1st-round-pick-could-make-knights-debut-against-ottawa-3905511/",
-          "source": "Las Vegas Review-Journal"
-        },
-        {
-          "title": "In the spirit of Halloween, 4 psychics predict Vegas Golden Knights vs Ottawa Senators",
-          "url": "https://sports.yahoo.com/articles/spirit-halloween-4-psychics-predict-210539575.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Senators vs Golden Knights Prediction, Picks & Combo for Tonight’s NHL Game",
-          "url": "https://www.covers.com/nhl/senators-vs-golden-knights-prediction-picks-oct-27-2026",
-          "source": "Covers.com"
-        }
-      ]
-    },
-    {
-      "keyword": "kordell stewart",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUwFdKA76IxfEpE6eEwFxwfPtd6yDJGvOO9bpggVgoaSQ66wztEFbxOsLg1X4",
-      "news": [
-        {
-          "title": "Kordell Stewart Slash & Burn: What to Know About Documentary on Former Steelers QB",
-          "url": "https://sports.yahoo.com/articles/kordell-stewart-slash-burn-know-222339103.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Kordell Stewart Hopes His New HBO Documentary Lands Him in the NFL Hall of Fame",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/kordell-stewart-new-hbo-documentary-1236740115/",
-          "source": "The Hollywood Reporter"
-        },
-        {
-          "title": "Porsha Williams’ Ex-Husband Revisits Damaging Rumor in HBO Doc",
-          "url": "https://www.realitytea.com/2026/10/27/porsha-williams-ex-husband-kordell-stewart-hbo-documentary-rumor/",
-          "source": "Reality Tea"
-        }
-      ]
-    },
-    {
-      "keyword": "jack hughes",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
-      "news": [
-        {
-          "title": "Devils at Stars projected lineups",
-          "url": "https://www.nhl.com/news/new-jersey-devils-dallas-stars-game-preview-october-27-2026",
-          "source": "NHL.com"
-        },
-        {
-          "title": "New Jersey Devils vs. Dallas Stars Odds, Betting Lines, Expert picks, Game Projections, DFS Projections and Player Prop Projections - Tuesday 10/27 8:00 PM ET",
-          "url": "https://www.sportsline.com/nhl/game-forecast/NHL_20261027_NJ@DAL/",
-          "source": "SportsLine"
-        },
-        {
-          "title": "New Jersey Devils vs. Dallas Stars",
-          "url": "https://www.espn.com/watch/player/_/eventCalendarId/401892590",
+          "title": "Hornets 110-103 Wizards (Oct 26, 2026) Final Score",
+          "url": "https://www.espn.com/nba/game/_/gameId/401909868/wizards-hornets",
           "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "canucks vs ducks",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Tue, 27 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+      "keyword": "colin jost",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7BHGfg13j0sjUlNGipNXYEQo9K0um7R5GcYAWQy-83WXdJgNeDZu71r1mJQM",
       "news": [
         {
-          "title": "Canucks at Ducks projected lineups",
-          "url": "https://www.nhl.com/news/vancouver-canucks-anaheim-ducks-game-preview-october-27-2026",
-          "source": "NHL.com"
+          "title": "In 2018, a six-bedroom Manhattan penthouse was listed for $27.5 million; seven years later, Scarlett Joha",
+          "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2018-a-six-bedroom-manhattan-penthouse-was-listed-for-27-5-million-seven-years-later-scarlett-johansson-and-colin-jost-bought-the-6000-sq-ft-home-for-13-million-less-than-half-its-original-asking-price/articleshow/135208606.cms",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "keyword": "peyton watson",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCS1G-Ti-sil0tU6p19iZix3LeP6RQAmML2v1GgenCz32CtO6U-eFkUc7M7Wc",
+      "news": [
+        {
+          "title": "The Cavs needed a defensive disruptor — Peyton Watson is proving they got one",
+          "url": "https://www.cleveland.com/cavs/2026/10/the-cavs-needed-a-defensive-disruptor-peyton-watson-is-proving-they-got-one.html",
+          "source": "Cleveland.com"
         },
         {
-          "title": "Game #12: Ducks vs. Canucks Gameday Preview (10/27/26)",
-          "url": "https://sports.yahoo.com/articles/game-12-ducks-vs-canucks-184543861.html",
-          "source": "Yahoo Sports"
+          "title": "Peyton Watson scores 15 points in win Monday",
+          "url": "https://www.fantasypros.com/nba/news/616066/peyton-watson-scores-15-points-win-monday.php",
+          "source": "FantasyPros"
         },
         {
-          "title": "Vancouver Canucks vs Anaheim Ducks Prediction, Picks & Odds | 27 Oct 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/vancouver-canucks-vs-anaheim-ducks-prediction-odds-2026-10-27/",
-          "source": "Sportsgambler"
+          "title": "Cavaliers' Peyton Watson: Swats four shots in win",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/cavaliers-peyton-watson-swats-four-shots-in-win/",
+          "source": "CBS Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "trae young",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXLls23ldhpvbxLhzkmiwjkT-puyibIsburlugNwAgvXzWDpoBobaEsMyirY",
+      "news": [
+        {
+          "title": "Trae Young embraces fresh start with rising Wizards",
+          "url": "https://www.nba.com/news/trae-young-wizards-new-era-2026-27",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Trae Young and Anthony Davis rank among the NBA’s statistical leaders",
+          "url": "https://www.bulletsforever.com/washington-wizards-team-analysis/73672/trae-young-anthony-davis-washington-wizards-nba-statistical-leaders",
+          "source": "Bullets Forever"
+        },
+        {
+          "title": "Trae Young finishes with 22/6/10 line in loss",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-26/trae-young-finishes-with-22-6-10-line-in-loss",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "inter miami vs",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUvrmm2zYvAXOKfKFeQhgo57xv2-HXZ4Ow13M4GkhxF0u3nzWzAI8qTiNb48E",
+      "news": [
+        {
+          "title": "Referee Under Fire for Booking Lionel Messi in Inter Miami vs. Cincinnati",
+          "url": "https://heavy.com/sports/soccer/referee-under-fire-booking-lionel-messi-inter-miami-cincinnati/",
+          "source": "Heavy.com"
+        },
+        {
+          "title": "MLS sprint season to kick off on Feb. 19 in Miami",
+          "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami",
+          "source": "ESPN"
+        },
+        {
+          "title": "Messi vs. Evander: Inter Miami host FC Cincinnati in high-stakes clash",
+          "url": "https://www.mlssoccer.com/news/messi-vs-evander-inter-miami-host-fc-cincinnati-in-high-stakes-clash",
+          "source": "MLSsoccer.com"
+        }
+      ]
+    },
+    {
+      "keyword": "new england revolution",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoavlibv_566ejQSdDmO8K3oY91aDCzEIIImTQcbKxJqZGWbYKoHqZJ89V59g",
+      "news": [
+        {
+          "title": "Revolution’s surge has set up a treat: Lionel Messi is coming to Foxborough on Sunday night with something on the line",
+          "url": "https://www.bostonglobe.com/2026/10/26/sports/mls-revolution-carles-gil-lionel-messi/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "New England Revolution v Inter Miami CF Odds",
+          "url": "https://sportsbook.fanduel.com/soccer/us-mls/new-england-revolution-v-inter-miami-cf-36253047",
+          "source": "FanDuel Sportsbook"
+        },
+        {
+          "title": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds",
+          "url": "https://www.docsports.com/free-picks/soccer/2026/new-england-revolution-vs-inter-miami-cf-prediction-11-1-2026-soccer-pick-tips-and-odds.html",
+          "source": "Doc's Sports"
         }
       ]
     }
