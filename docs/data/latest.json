@@ -1,116 +1,33 @@
 {
-  "generated_at": "2026-10-29T01:59:08+00:00",
+  "generated_at": "2026-10-30T02:03:12+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-29T01:50:04+00:00"
+      "fetched_at": "2026-10-30T01:58:54+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 102,
+      "count": 113,
       "error": null,
-      "fetched_at": "2026-10-29T01:59:08+00:00"
+      "fetched_at": "2026-10-30T02:03:12+00:00"
     },
     "events": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-10-29T01:59:08+00:00"
+      "fetched_at": "2026-10-30T02:03:12+00:00"
     }
   },
   "candidates": [
     {
-      "title": "Singles' Day (11.11)",
-      "query": "singles day sale",
-      "category": "season",
-      "score": 65,
-      "reasons": [
-        "이벤트 D-13 (2026-11-11), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Singles' Day (11.11)",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-11-11",
-        "days_left": 13,
-        "prep_by": "2026-10-28",
-        "status": "prepare_now"
-      },
-      "id": "8fc95d9a75",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale",
-        "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 1,
-        "rank_change": 0,
-        "streak": 15
-      }
-    },
-    {
-      "title": "Pokemon TCG Delta Reign (ME06)",
-      "query": "delta reign booster box",
-      "category": "tcg",
-      "score": 63,
-      "reasons": [
-        "이벤트 D-8 (2026-11-06), 준비 예정",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
-          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
-        },
-        {
-          "source": "reddit",
-          "text": "Looks like PKC is Cancelling Delta Reign Orders",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xi2fd2/looks_like_pkc_is_cancelling_delta_reign_orders/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-06",
-        "days_left": 8,
-        "prep_by": "2026-10-30",
-        "status": "upcoming"
-      },
-      "id": "0771746723",
-      "category_label": "TCG",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box",
-        "naver": "https://search.shopping.naver.com/search/all?query=delta+reign+booster+box"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 4,
-        "rank_change": 2,
-        "streak": 15
-      }
-    },
-    {
       "title": "TWS 'TO US'",
       "query": "tws album",
       "category": "kpop",
-      "score": 54,
+      "score": 65,
       "reasons": [
-        "이벤트 D-4 (2026-11-02), 준비 예정"
+        "이벤트 D-3 (2026-11-02), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -124,9 +41,9 @@
       ],
       "event": {
         "date": "2026-11-02",
-        "days_left": 4,
+        "days_left": 3,
         "prep_by": "2026-10-30",
-        "status": "upcoming"
+        "status": "prepare_now"
       },
       "id": "6ed713c50c",
       "category_label": "K-pop",
@@ -137,8 +54,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 2,
-        "rank_change": -1,
+        "prev_rank": 3,
+        "rank_change": 2,
         "streak": 15
       }
     },
@@ -146,9 +63,9 @@
       "title": "Pokemon 30th Celebration Ultra-Premium Collection",
       "query": "pokemon 30th celebration upc",
       "category": "tcg",
-      "score": 53,
+      "score": 65,
       "reasons": [
-        "이벤트 D-8 (2026-11-06), 준비 예정"
+        "이벤트 D-7 (2026-11-06), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -162,9 +79,9 @@
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 8,
+        "days_left": 7,
         "prep_by": "2026-10-30",
-        "status": "upcoming"
+        "status": "prepare_now"
       },
       "id": "da034b1c48",
       "category_label": "TCG",
@@ -175,18 +92,56 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 3,
+        "prev_rank": 4,
+        "rank_change": 2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Pokemon TCG Delta Reign (ME06)",
+      "query": "delta reign booster box",
+      "category": "tcg",
+      "score": 65,
+      "reasons": [
+        "이벤트 D-7 (2026-11-06), 지금 준비할 때"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
+          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
+        }
+      ],
+      "event": {
+        "date": "2026-11-06",
+        "days_left": 7,
+        "prep_by": "2026-10-30",
+        "status": "prepare_now"
+      },
+      "id": "0771746723",
+      "category_label": "TCG",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=delta+reign+booster+box",
+        "naver": "https://search.shopping.naver.com/search/all?query=delta+reign+booster+box"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 2,
         "rank_change": -1,
         "streak": 15
       }
     },
     {
-      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
-      "query": "ateez golden hour",
-      "category": "kpop",
-      "score": 51,
+      "title": "Singles' Day (11.11)",
+      "query": "singles day sale",
+      "category": "season",
+      "score": 65,
       "reasons": [
-        "이벤트 D-15 (2026-11-13), 준비 예정"
+        "이벤트 D-12 (2026-11-11), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -194,65 +149,27 @@
       "evidence": [
         {
           "source": "events",
-          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+          "text": "Singles' Day (11.11)",
+          "url": ""
         }
       ],
       "event": {
-        "date": "2026-11-13",
-        "days_left": 15,
-        "prep_by": "2026-11-10",
-        "status": "upcoming"
+        "date": "2026-11-11",
+        "days_left": 12,
+        "prep_by": "2026-10-28",
+        "status": "prepare_now"
       },
-      "id": "312a19efa8",
-      "category_label": "K-pop",
+      "id": "8fc95d9a75",
+      "category_label": "시즌",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
-        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale",
+        "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
       },
       "trend": {
-        "status": "same",
-        "prev_rank": 5,
-        "rank_change": 0,
-        "streak": 15
-      }
-    },
-    {
-      "title": "TXT 'PERFECT STORM'",
-      "query": "txt perfect storm",
-      "category": "kpop",
-      "score": 50,
-      "reasons": [
-        "이벤트 D-18 (2026-11-16), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "TXT 'PERFECT STORM'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-16",
-        "days_left": 18,
-        "prep_by": "2026-11-13",
-        "status": "upcoming"
-      },
-      "id": "9f050d512a",
-      "category_label": "K-pop",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
-        "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 6,
-        "rank_change": 0,
+        "status": "down",
+        "prev_rank": 1,
+        "rank_change": -3,
         "streak": 15
       }
     },
@@ -260,9 +177,9 @@
       "title": "Black Friday",
       "query": "black friday deals",
       "category": "season",
-      "score": 48,
+      "score": 65,
       "reasons": [
-        "이벤트 D-29 (2026-11-27), 준비 예정"
+        "이벤트 D-28 (2026-11-27), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -276,9 +193,9 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 29,
+        "days_left": 28,
         "prep_by": "2026-10-30",
-        "status": "upcoming"
+        "status": "prepare_now"
       },
       "id": "d076c6152a",
       "category_label": "시즌",
@@ -290,7 +207,172 @@
       "trend": {
         "status": "same",
         "prev_rank": 7,
+        "rank_change": 2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+      "query": "funko Amazon Exclusive",
+      "category": "collectibles",
+      "score": 55,
+      "reasons": [
+        "r/funkopop hot #8",
+        "상품 신호: 한정판, K-pop 굿즈",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xj2t3i/link_in_image_caption_funko_pop_animation_one/"
+        }
+      ],
+      "id": "8fe194bdd9",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+Amazon+Exclusive&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+Amazon+Exclusive",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+Amazon+Exclusive"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
         "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+      "query": "ateez golden hour",
+      "category": "kpop",
+      "score": 52,
+      "reasons": [
+        "이벤트 D-14 (2026-11-13), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
+          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+        }
+      ],
+      "event": {
+        "date": "2026-11-13",
+        "days_left": 14,
+        "prep_by": "2026-11-10",
+        "status": "upcoming"
+      },
+      "id": "312a19efa8",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
+        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 5,
+        "rank_change": -2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "TXT 'PERFECT STORM'",
+      "query": "txt perfect storm",
+      "category": "kpop",
+      "score": 51,
+      "reasons": [
+        "이벤트 D-17 (2026-11-16), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "TXT 'PERFECT STORM'",
+          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+        }
+      ],
+      "event": {
+        "date": "2026-11-16",
+        "days_left": 17,
+        "prep_by": "2026-11-13",
+        "status": "upcoming"
+      },
+      "id": "9f050d512a",
+      "category_label": "K-pop",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
+        "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 6,
+        "rank_change": -2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Halloween",
+      "query": "halloween costume",
+      "category": "season",
+      "score": 50,
+      "reasons": [
+        "이벤트 D-1 (2026-10-31), 배송 시간 부족",
+        "다른 소스에서 5건 언급"
+      ],
+      "sources": [
+        "events",
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Halloween",
+          "url": ""
+        },
+        {
+          "source": "reddit",
+          "text": "Streetwear Samus finished in time for Halloween",
+          "url": "https://www.reddit.com/r/gaming/comments/1xivwhz/streetwear_samus_finished_in_time_for_halloween/"
+        },
+        {
+          "source": "reddit",
+          "text": "Halloween Week Kicks...Day 4: Vans Sk8-Hi \"Nightmare on Elm Street\"",
+          "url": "https://www.reddit.com/r/Sneakers/comments/1xizght/halloween_week_kicksday_4_vans_sk8hi_nightmare_on/"
+        },
+        {
+          "source": "reddit",
+          "text": "I made a spooky candelabra for Halloween!",
+          "url": "https://www.reddit.com/r/lego/comments/1xijnhw/i_made_a_spooky_candelabra_for_halloween/"
+        }
+      ],
+      "event": {
+        "date": "2026-10-31",
+        "days_left": 1,
+        "prep_by": "2026-10-10",
+        "status": "too_late"
+      },
+      "id": "bc7cf47d39",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume",
+        "naver": "https://search.shopping.naver.com/search/all?query=halloween+costume"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 15,
+        "rank_change": 6,
         "streak": 15
       }
     },
@@ -300,7 +382,7 @@
       "category": "season",
       "score": 47,
       "reasons": [
-        "이벤트 D-32 (2026-11-30), 준비 예정"
+        "이벤트 D-31 (2026-11-30), 준비 예정"
       ],
       "sources": [
         "events"
@@ -314,7 +396,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 32,
+        "days_left": 31,
         "prep_by": "2026-11-02",
         "status": "upcoming"
       },
@@ -328,53 +410,19 @@
       "trend": {
         "status": "same",
         "prev_rank": 8,
-        "rank_change": 0,
+        "rank_change": -2,
         "streak": 15
       }
     },
     {
-      "title": "Rhythm Doctor coming to Switch 2, Switch in December",
-      "query": "Rhythm Doctor Switch 2 Switch December",
-      "category": "gaming",
-      "score": 44,
-      "reasons": [
-        "r/NintendoSwitch hot #4",
-        "상품 신호: 출시",
-        "브랜드/IP: switch 2"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Rhythm Doctor coming to Switch 2, Switch in December",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xhxuhv/rhythm_doctor_coming_to_switch_2_switch_in/"
-        }
-      ],
-      "id": "77b2ed6632",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Rhythm+Doctor+Switch+2+Switch+December&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Rhythm+Doctor+Switch+2+Switch+December",
-        "naver": "https://search.shopping.naver.com/search/all?query=Rhythm+Doctor+Switch+2+Switch+December"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Nike SB Dunks Purple Pigeon. Pulled them out of storage for the first time in years.",
-      "query": "nike Pulled storage time years",
+      "title": "Coming Soon: WWE Pop! Danhausen (Halloween)",
+      "query": "Soon",
       "category": "collectibles",
-      "score": 44,
+      "score": 47,
       "reasons": [
-        "r/Sneakers hot #5",
-        "상품 신호: 구매·개봉",
-        "브랜드/IP: nike"
+        "r/funkopop hot #6",
+        "상품 신호: 출시",
+        "다가오는 이벤트와 연결: Halloween (D-1)"
       ],
       "sources": [
         "reddit"
@@ -382,16 +430,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Nike SB Dunks Purple Pigeon. Pulled them out of storage for the first time in years.",
-          "url": "https://www.reddit.com/r/Sneakers/comments/1xi3tw4/nike_sb_dunks_purple_pigeon_pulled_them_out_of/"
+          "text": "Coming Soon: WWE Pop! Danhausen (Halloween)",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xiurmv/coming_soon_wwe_pop_danhausen_halloween/"
         }
       ],
-      "id": "ce44968e5a",
+      "id": "cd9bd96e12",
       "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nike+Pulled+storage+time+years&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nike+Pulled+storage+time+years",
-        "naver": "https://search.shopping.naver.com/search/all?query=nike+Pulled+storage+time+years"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Soon&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Soon",
+        "naver": "https://search.shopping.naver.com/search/all?query=Soon"
       },
       "trend": {
         "status": "new",
@@ -401,13 +449,14 @@
       }
     },
     {
-      "title": "Bought my first ever ETB and got amazing Pulls!",
-      "query": "Bought ever ETB amazing Pulls",
+      "title": "Dear Funko Community, wishing you a super Halloween week 💚✌️",
+      "query": "Dear Funko Community wishing super Halloween",
       "category": "collectibles",
-      "score": 44,
+      "score": 45,
       "reasons": [
-        "r/PokemonTCG hot #5",
-        "상품 신호: 구매·개봉, TCG·수집"
+        "r/funkopop hot #9",
+        "브랜드/IP: funko",
+        "다가오는 이벤트와 연결: Halloween (D-1)"
       ],
       "sources": [
         "reddit"
@@ -415,16 +464,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Bought my first ever ETB and got amazing Pulls!",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xi4zpa/bought_my_first_ever_etb_and_got_amazing_pulls/"
+          "text": "Dear Funko Community, wishing you a super Halloween week 💚✌️",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xilv39/dear_funko_community_wishing_you_a_super/"
         }
       ],
-      "id": "8a7de62c82",
+      "id": "638ec5e9cc",
       "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Bought+ever+ETB+amazing+Pulls&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Bought+ever+ETB+amazing+Pulls",
-        "naver": "https://search.shopping.naver.com/search/all?query=Bought+ever+ETB+amazing+Pulls"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Dear+Funko+Community+wishing+super+Halloween&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Dear+Funko+Community+wishing+super+Halloween",
+        "naver": "https://search.shopping.naver.com/search/all?query=Dear+Funko+Community+wishing+super+Halloween"
       },
       "trend": {
         "status": "new",
@@ -434,14 +483,14 @@
       }
     },
     {
-      "title": "AVATAR LEGENDS: The Fighting Game Launches for the Switch 2 Tomorrow",
-      "query": "Fighting Game Launches Switch 2 Tomorrow",
+      "title": "What's Happening Nationwide with the Zelda Switch Preorders? (US)",
+      "query": "Happening Nationwide Zelda Switch Preorders",
       "category": "gaming",
       "score": 44,
       "reasons": [
-        "r/NintendoSwitch hot #6",
+        "r/NintendoSwitch hot #3",
         "상품 신호: 출시",
-        "브랜드/IP: switch 2"
+        "브랜드/IP: zelda"
       ],
       "sources": [
         "reddit"
@@ -449,16 +498,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "AVATAR LEGENDS: The Fighting Game Launches for the Switch 2 Tomorrow",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xhqb1u/avatar_legends_the_fighting_game_launches_for_the/"
+          "text": "What's Happening Nationwide with the Zelda Switch Preorders? (US)",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xiszip/whats_happening_nationwide_with_the_zelda_switch/"
         }
       ],
-      "id": "b838f1136a",
+      "id": "9d593acf3b",
       "category_label": "게임",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Fighting+Game+Launches+Switch+2+Tomorrow&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Fighting+Game+Launches+Switch+2+Tomorrow",
-        "naver": "https://search.shopping.naver.com/search/all?query=Fighting+Game+Launches+Switch+2+Tomorrow"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Happening+Nationwide+Zelda+Switch+Preorders&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Happening+Nationwide+Zelda+Switch+Preorders",
+        "naver": "https://search.shopping.naver.com/search/all?query=Happening+Nationwide+Zelda+Switch+Preorders"
       },
       "trend": {
         "status": "new",
@@ -468,14 +517,14 @@
       }
     },
     {
-      "title": "The Great Villainess: Strategy of Lily coming to PS5, Switch 2 on December 2",
-      "query": "Strategy Lily PS5 Switch 2 December",
-      "category": "gaming",
-      "score": 44,
+      "title": "Wanted to share with everyone my Gen 2 Exclusives Art Set ive been working on all year. So far I'm at 50/60 :)",
+      "query": "Wanted share everyone Gen 2 Exclusives",
+      "category": "collectibles",
+      "score": 42,
       "reasons": [
-        "r/NintendoSwitch hot #7",
-        "상품 신호: 출시",
-        "브랜드/IP: switch 2"
+        "r/pkmntcgcollections hot #3",
+        "상품 신호: 한정판",
+        "브랜드/IP: ive"
       ],
       "sources": [
         "reddit"
@@ -483,16 +532,50 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "The Great Villainess: Strategy of Lily coming to PS5, Switch 2 on December 2",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xhxwwa/the_great_villainess_strategy_of_lily_coming_to/"
+          "text": "Wanted to share with everyone my Gen 2 Exclusives Art Set ive been working on all year. So far I'm at 50/60 :)",
+          "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xiq7lr/wanted_to_share_with_everyone_my_gen_2_exclusives/"
         }
       ],
-      "id": "9ce28c35a0",
-      "category_label": "게임",
+      "id": "58ad24410e",
+      "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Strategy+Lily+PS5+Switch+2+December&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Strategy+Lily+PS5+Switch+2+December",
-        "naver": "https://search.shopping.naver.com/search/all?query=Strategy+Lily+PS5+Switch+2+December"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Wanted+share+everyone+Gen+2+Exclusives&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Wanted+share+everyone+Gen+2+Exclusives",
+        "naver": "https://search.shopping.naver.com/search/all?query=Wanted+share+everyone+Gen+2+Exclusives"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "[Link in Image Caption] Funko Return Of The Living Dead Pop! Movies Tarman Vinyl Figure 2026 Hot Topic Scare Fair Exclusive now available at Hot Topic",
+      "query": "funko Movies Tarman Vinyl Figure 2026",
+      "category": "collectibles",
+      "score": 42,
+      "reasons": [
+        "r/funkopop hot #5",
+        "상품 신호: 한정판",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] Funko Return Of The Living Dead Pop! Movies Tarman Vinyl Figure 2026 Hot Topic Scare Fair Exclusive now available at Hot Topic",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xizy6j/link_in_image_caption_funko_return_of_the_living/"
+        }
+      ],
+      "id": "77df2e9ec6",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+Movies+Tarman+Vinyl+Figure+2026&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+Movies+Tarman+Vinyl+Figure+2026",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+Movies+Tarman+Vinyl+Figure+2026"
       },
       "trend": {
         "status": "new",
@@ -507,7 +590,7 @@
       "category": "season",
       "score": 41,
       "reasons": [
-        "이벤트 D-57 (2026-12-25), 준비 예정"
+        "이벤트 D-56 (2026-12-25), 준비 예정"
       ],
       "sources": [
         "events"
@@ -521,7 +604,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 57,
+        "days_left": 56,
         "prep_by": "2026-11-25",
         "status": "upcoming"
       },
@@ -534,54 +617,120 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 16,
-        "rank_change": 2,
-        "streak": 4
+        "prev_rank": 14,
+        "rank_change": -2,
+        "streak": 5
       }
     },
     {
-      "title": "Halloween",
-      "query": "halloween costume",
-      "category": "season",
-      "score": 30,
+      "title": "Pokemon Happy Meal officially releases on Nov. 10th",
+      "query": "Pokemon Happy Meal officially releases Nov",
+      "category": "collectibles",
+      "score": 41,
       "reasons": [
-        "이벤트 D-2 (2026-10-31), 배송 시간 부족",
-        "다른 소스에서 1건 언급"
+        "r/PokemonTCG hot #8",
+        "상품 신호: 출시",
+        "브랜드/IP: pokemon"
       ],
       "sources": [
-        "events",
         "reddit"
       ],
       "evidence": [
         {
-          "source": "events",
-          "text": "Halloween",
+          "source": "reddit",
+          "text": "Pokemon Happy Meal officially releases on Nov. 10th",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xilc2u/pokemon_happy_meal_officially_releases_on_nov_10th/"
+        }
+      ],
+      "id": "91ef278948",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Pokemon+Happy+Meal+officially+releases+Nov&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Pokemon+Happy+Meal+officially+releases+Nov",
+        "naver": "https://search.shopping.naver.com/search/all?query=Pokemon+Happy+Meal+officially+releases+Nov"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Ordered from the funko website and pulled the beast chase!",
+      "query": "Ordered funko website pulled beast chase",
+      "category": "collectibles",
+      "score": 39,
+      "reasons": [
+        "r/funkopop hot #10",
+        "상품 신호: 구매·개봉",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Ordered from the funko website and pulled the beast chase!",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xija38/ordered_from_the_funko_website_and_pulled_the/"
+        }
+      ],
+      "id": "ed1c4f2bac",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Ordered+funko+website+pulled+beast+chase&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Ordered+funko+website+pulled+beast+chase",
+        "naver": "https://search.shopping.naver.com/search/all?query=Ordered+funko+website+pulled+beast+chase"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "darius acuff",
+      "query": "darius acuff",
+      "category": "trend",
+      "score": 37,
+      "reasons": [
+        "미국 검색 급상승 500+",
+        "상품 신호: 구매·개봉"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "darius acuff (500+)",
           "url": ""
         },
         {
-          "source": "reddit",
-          "text": "GIRLSET - Mean Girls (Special Halloween Video)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xi4v81/girlset_mean_girls_special_halloween_video/"
+          "source": "news",
+          "text": "Kings Rookie PG Acuff Shuts Down Potential Workouts",
+          "url": "https://sports.yahoo.com/articles/kings-rookie-pg-acuff-shuts-213209356.html"
+        },
+        {
+          "source": "news",
+          "text": "NBA rookie pulls off wild feat only Wilt Chamberlain had accomplished",
+          "url": "https://larrybrownsports.com/basketball/nba-rookie-darius-acuff-wilt-chamberlain-club/776140"
         }
       ],
-      "event": {
-        "date": "2026-10-31",
-        "days_left": 2,
-        "prep_by": "2026-10-10",
-        "status": "too_late"
-      },
-      "id": "bc7cf47d39",
-      "category_label": "시즌",
+      "id": "6c20485813",
+      "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=halloween+costume",
-        "naver": "https://search.shopping.naver.com/search/all?query=halloween+costume"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=darius+acuff&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=darius+acuff",
+        "naver": "https://search.shopping.naver.com/search/all?query=darius+acuff"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 18,
-        "rank_change": 3,
-        "streak": 15
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     }
   ],
@@ -590,7 +739,7 @@
       "name": "Halloween",
       "category": "season",
       "date": "2026-10-31",
-      "days_left": 2,
+      "days_left": 1,
       "prep_by": "2026-10-10",
       "lead_days": 21,
       "status": "too_late",
@@ -609,10 +758,10 @@
       "name": "TWS 'TO US'",
       "category": "kpop",
       "date": "2026-11-02",
-      "days_left": 4,
+      "days_left": 3,
       "prep_by": "2026-10-30",
       "lead_days": 3,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "tws album",
         "tws photocard"
@@ -628,10 +777,10 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-10-30",
       "lead_days": 7,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "pokemon 30th celebration upc",
         "pokemon 30th anniversary"
@@ -650,10 +799,10 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-10-30",
       "lead_days": 7,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "delta reign booster box",
         "pokemon delta reign"
@@ -670,7 +819,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "prepare_now",
@@ -689,7 +838,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 15,
+      "days_left": 14,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -708,7 +857,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 18,
+      "days_left": 17,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -728,10 +877,10 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 29,
+      "days_left": 28,
       "prep_by": "2026-10-30",
       "lead_days": 28,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "black friday deals"
       ],
@@ -746,7 +895,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 32,
+      "days_left": 31,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "upcoming",
@@ -764,7 +913,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 57,
+      "days_left": 56,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -782,165 +931,128 @@
   ],
   "other_trends": [
     {
-      "keyword": "miami heat",
-      "traffic_label": "20000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=miami+heat&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=miami+heat",
-        "naver": "https://search.shopping.naver.com/search/all?query=miami+heat"
-      }
-    },
-    {
-      "keyword": "cooper pratt brewers",
-      "traffic_label": "10000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cooper+pratt+brewers&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cooper+pratt+brewers",
-        "naver": "https://search.shopping.naver.com/search/all?query=cooper+pratt+brewers"
-      }
-    },
-    {
-      "keyword": "chandler simpson",
-      "traffic_label": "5000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chandler+simpson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chandler+simpson",
-        "naver": "https://search.shopping.naver.com/search/all?query=chandler+simpson"
-      }
-    },
-    {
-      "keyword": "mls standings",
+      "keyword": "max crosby",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mls+standings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mls+standings",
-        "naver": "https://search.shopping.naver.com/search/all?query=mls+standings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=max+crosby&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=max+crosby",
+        "naver": "https://search.shopping.naver.com/search/all?query=max+crosby"
       }
     },
     {
-      "keyword": "cleveland cavaliers",
+      "keyword": "s&p 500",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cleveland+cavaliers&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cleveland+cavaliers",
-        "naver": "https://search.shopping.naver.com/search/all?query=cleveland+cavaliers"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=s%26p+500&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=s%26p+500",
+        "naver": "https://search.shopping.naver.com/search/all?query=s%26p+500"
       }
     },
     {
-      "keyword": "colin jost",
+      "keyword": "penguins",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=colin+jost&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=colin+jost",
-        "naver": "https://search.shopping.naver.com/search/all?query=colin+jost"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=penguins&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=penguins",
+        "naver": "https://search.shopping.naver.com/search/all?query=penguins"
       }
     },
     {
-      "keyword": "peyton watson",
+      "keyword": "submarine",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=peyton+watson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=peyton+watson",
-        "naver": "https://search.shopping.naver.com/search/all?query=peyton+watson"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=submarine&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=submarine",
+        "naver": "https://search.shopping.naver.com/search/all?query=submarine"
       }
     },
     {
-      "keyword": "trae young",
+      "keyword": "aaron wiggins",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=trae+young&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=trae+young",
-        "naver": "https://search.shopping.naver.com/search/all?query=trae+young"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aaron+wiggins&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aaron+wiggins",
+        "naver": "https://search.shopping.naver.com/search/all?query=aaron+wiggins"
       }
     },
     {
-      "keyword": "inter miami vs",
+      "keyword": "ty'ron hopper",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=inter+miami+vs&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=inter+miami+vs",
-        "naver": "https://search.shopping.naver.com/search/all?query=inter+miami+vs"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ty%27ron+hopper&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ty%27ron+hopper",
+        "naver": "https://search.shopping.naver.com/search/all?query=ty%27ron+hopper"
       }
     },
     {
-      "keyword": "new england revolution",
+      "keyword": "cable tv",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cable+tv&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cable+tv",
+        "naver": "https://search.shopping.naver.com/search/all?query=cable+tv"
+      }
+    },
+    {
+      "keyword": "jeremiah fears",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jeremiah+fears&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jeremiah+fears",
+        "naver": "https://search.shopping.naver.com/search/all?query=jeremiah+fears"
+      }
+    },
+    {
+      "keyword": "houston comets",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=new+england+revolution&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=new+england+revolution",
-        "naver": "https://search.shopping.naver.com/search/all?query=new+england+revolution"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=houston+comets&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=houston+comets",
+        "naver": "https://search.shopping.naver.com/search/all?query=houston+comets"
       }
     }
   ],
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "dropped": [
     {
-      "id": "1223438759",
-      "title": "Pulled from the same booster bundle.",
-      "query": "Pulled same booster bundle",
-      "score": 45,
+      "id": "77b2ed6632",
+      "title": "Rhythm Doctor coming to Switch 2, Switch in December",
+      "query": "Rhythm Doctor Switch 2 Switch December",
+      "score": 44,
       "rank": 9
     },
     {
-      "id": "98f079f1bd",
-      "title": "3-card pokemon packs for halloween :D each pack has a holo or reverse holo, with a few scattered ex/v cards lol",
-      "query": "3-card pokemon packs halloween D each",
+      "id": "ce44968e5a",
+      "title": "Nike SB Dunks Purple Pigeon. Pulled them out of storage for the first time in years.",
+      "query": "nike Pulled storage time years",
       "score": 44,
       "rank": 10
     },
     {
-      "id": "aaa3e38f14",
-      "title": "ILLIT Wonhee with IU - You're Under Arrest (Dance Challenge) (261027)",
-      "query": "ILLIT Wonhee IU",
+      "id": "8a7de62c82",
+      "title": "Bought my first ever ETB and got amazing Pulls!",
+      "query": "Bought ever ETB amazing Pulls",
       "score": 44,
       "rank": 11
     },
     {
-      "id": "69779fbca5",
-      "title": "ILLIT - ILLIT on Moka's Recovery: \"Please Wait Until She Comes Back\" @ K-POPIT (261027)",
-      "query": "ILLIT",
+      "id": "b838f1136a",
+      "title": "AVATAR LEGENDS: The Fighting Game Launches for the Switch 2 Tomorrow",
+      "query": "Fighting Game Launches Switch 2 Tomorrow",
       "score": 44,
       "rank": 12
     },
     {
-      "id": "e5d788abb3",
-      "title": "cooper pratt",
-      "query": "cooper pratt",
-      "score": 42,
+      "id": "9ce28c35a0",
+      "title": "The Great Villainess: Strategy of Lily coming to PS5, Switch 2 on December 2",
+      "query": "Strategy Lily PS5 Switch 2 December",
+      "score": 44,
       "rank": 13
-    },
-    {
-      "id": "d7825a2784",
-      "title": "kalshi",
-      "query": "kalshi",
-      "score": 42,
-      "rank": 14
-    },
-    {
-      "id": "ead109efe3",
-      "title": "Cult of the Lamb – Nintendo Switch 2 Edition – Launch",
-      "query": "nintendo Launch",
-      "score": 41,
-      "rank": 15
-    },
-    {
-      "id": "10e2578221",
-      "title": "[Link in Image Caption] Funko Pop! Marvel: Spider-Man ATSV: Spider-Man (Translucent) #1223 (SE) now available at Chalice Collectibles",
-      "query": "funko Spider-Man 1223 now available Chalice",
-      "score": 40,
-      "rank": 17
-    },
-    {
-      "id": "70570f87cf",
-      "title": "All 103 LEGO video games released for Nintendo consoles 1999-2026.",
-      "query": "103 LEGO video games released Nintendo",
-      "score": 37,
-      "rank": 19
     }
   ],
   "history": {
-    "date": "2026-10-29",
-    "previous_date": "2026-10-28",
-    "new_count": 5
+    "date": "2026-10-30",
+    "previous_date": "2026-10-29",
+    "new_count": 9
   }
 }

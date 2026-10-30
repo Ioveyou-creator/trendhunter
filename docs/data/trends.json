@@ -1,237 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-29T01:50:04+00:00",
+  "fetched_at": "2026-10-30T01:58:54+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "miami heat",
-      "traffic": 20000,
-      "traffic_label": "20000+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTROHPRCwWXHe1mpbdAls0lMySna48DX-MC49WnCig3fUpQIwc-2R20EjrfKfw",
-      "news": [
-        {
-          "title": "Portland Trail Blazers vs Los Angeles Lakers Oct 27, 2026 Box Scores",
-          "url": "https://www.nba.com/game/por-vs-lal-0022600131/box-score",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Brooklyn Nets vs Boston Celtics Oct 27, 2026 Box Scores",
-          "url": "https://www.nba.com/game/bkn-vs-bos-0022600128/box-score",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Portland Trail Blazers vs Los Angeles Lakers Oct 27, 2026 Play-by-Play",
-          "url": "https://www.nba.com/game/por-vs-lal-0022600131/play-by-play",
-          "source": "NBA.com"
-        }
-      ]
-    },
-    {
-      "keyword": "cooper pratt brewers",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHv3QF6SUcR_xIyNyuBMNLFqJjsaLp0ksbig4uGrkcNES2e6scVb98GKMe6tY",
-      "news": [
-        {
-          "title": "Cooper Pratt Hits Single to Center Field, Giving Brewers Early Lead Over Rays",
-          "url": "https://www.foxsports.com/watch/fmc-basycas3elrz8nyc",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Red-hot Pratt sets World Series rookie record with hit in six straight at-bats",
-          "url": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Cooper Pratt has the game of his life and now he has to forget it",
-          "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/28/cooper-pratt-has-the-game-of-his-life-and-now-he-has-to-forget-it/92458779007/",
-          "source": "Milwaukee Journal Sentinel"
-        }
-      ]
-    },
-    {
-      "keyword": "chandler simpson",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5ToqyWFcdA1N4Ze9OOUnWIejOR400EYGD6aFbUPiiXmoe1kFpPI6unXXG5lA",
-      "news": [
-        {
-          "title": "Simpson's speed actually costs him SB -- then enables SPECTACULAR catch",
-          "url": "https://www.mlb.com/news/chandler-simpson-makes-great-running-catch-in-2026-world-series-game-3",
-          "source": "MLB.com"
-        },
-        {
-          "title": "Chandler Simpson’s Double Drives In One Run To Give Rays The Early Lead vs Brewers",
-          "url": "https://www.foxsports.com/watch/fmc-wrifzs83c93ttw6w",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "On Chandler Simpson’s Catch",
-          "url": "https://blogs.fangraphs.com/on-chandler-simpsons-catch/",
-          "source": "FanGraphs"
-        }
-      ]
-    },
-    {
-      "keyword": "mls standings",
+      "keyword": "max crosby",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQel-Fxt8KfOWhiTzJcefvjGa6saiOPd8SUhqgoy0JvcZeETHpeVR63gHp7HJ8",
+      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Gv17JJtUeJd1cwEGZZYxg80_Hct01snXfIaMbj_ops8mXI24noqXiiQP4oQ",
       "news": [
         {
-          "title": "MLS Power Rankings: Revs jump eight places as playoffs loom",
-          "url": "https://www.espn.com/soccer/story/_/id/50285261/mls-power-rankings-revs-jump-eight-places-playoffs-loom",
-          "source": "ESPN"
+          "title": "Anonymous GM Drops Truth Bomb on Raiders’ Maxx Crosby Trade Rumors",
+          "url": "https://sports.yahoo.com/articles/anonymous-gm-drops-truth-bomb-174330123.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Power Rankings: New England, Dallas prove contender status",
-          "url": "https://www.mlssoccer.com/news/power-rankings-new-england-dallas-prove-contender-status",
-          "source": "MLSsoccer.com"
+          "title": "NFL Insider Jason La Canfora: Maxx Crosby Trade Price Revealed as Raiders Face Deadline Dilemma",
+          "url": "https://www.casino.org/news/maxx-crosby-raiders-trade-price-nfl-deadline/",
+          "source": "Casino.org"
         },
         {
-          "title": "Supporters’ Shield winner Nashville SC could stand between Lionel Messi’s Inter Miami and a second consecutive",
-          "url": "https://en.as.com/soccer/supporters-shield-winner-nashville-sc-could-stand-between-lionel-messis-inter-miami-and-a-second-consecutive-mls-cup-title-f202610-n/",
-          "source": "Diario AS"
+          "title": "The 49ers Could Trade for Maxx Crosby if the Raiders Keep Losing",
+          "url": "https://www.si.com/nfl/49ers/onsi/49ers-could-trade-maxx-crosby-raiders-keep-losing",
+          "source": "Sports Illustrated"
         }
       ]
     },
     {
-      "keyword": "cleveland cavaliers",
+      "keyword": "s&p 500",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToQKKOZx3YjWJ2_LKxqman3GraA7XsKovbMRDYjlkaETb3T7l-yiAD8uWo9C0",
+      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqKGyeV_mnTnmq5atUBtnHJl62zMuWnsDoWJ7wOdhs-e6Q7goZ2dMvokrPU",
       "news": [
         {
-          "title": "76ers vs. Pacers (Oct 28, 2026) Live Score",
-          "url": "https://www.espn.com/nba/game/_/gameId/401909884/76ers-pacers",
-          "source": "ESPN"
+          "title": "Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Thunder vs. Mavericks (Oct 28, 2026) Live Score",
-          "url": "https://www.espn.com/nba/game/_/gameId/401909891/thunder-mavericks",
-          "source": "ESPN"
+          "title": "Stock Market News, Oct. 27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026",
+          "source": "WSJ"
         },
         {
-          "title": "Hornets 110-103 Wizards (Oct 26, 2026) Final Score",
-          "url": "https://www.espn.com/nba/game/_/gameId/401909868/wizards-hornets",
-          "source": "ESPN"
+          "title": "Wall Street ends higher on revived AI momentum",
+          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/",
+          "source": "Reuters"
         }
       ]
     },
     {
-      "keyword": "colin jost",
+      "keyword": "penguins",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7BHGfg13j0sjUlNGipNXYEQo9K0um7R5GcYAWQy-83WXdJgNeDZu71r1mJQM",
+      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVCB4Ec-eOb1bMc2iMK2AssvDvuMDIdUfbGHdby20Rz2JdhjOuIFS7f7c7_s",
       "news": [
         {
-          "title": "In 2018, a six-bedroom Manhattan penthouse was listed for $27.5 million; seven years later, Scarlett Joha",
-          "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2018-a-six-bedroom-manhattan-penthouse-was-listed-for-27-5-million-seven-years-later-scarlett-johansson-and-colin-jost-bought-the-6000-sq-ft-home-for-13-million-less-than-half-its-original-asking-price/articleshow/135208606.cms",
-          "source": "The Times of India"
+          "title": "Where Is Sidney Crosby on NHL's All-Time Points List? Penguins Star Keeps Moving Up Leaderboard",
+          "url": "https://sports.yahoo.com/articles/where-sidney-crosby-nhls-time-223750331.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "This Week in the NHL: Crosby to pass another legend on all-time scoring list?",
+          "url": "https://www.dailyfaceoff.com/news/this-week-in-nhl-crosby-pass-dionne-points-karlsson-chelios-defenseman-record-hockey-halloween",
+          "source": "Daily Faceoff"
+        },
+        {
+          "title": "Where Is Sidney Crosby on NHL's All-Time Points List? Penguins Star Keeps Moving Up Leaderboard",
+          "url": "https://sportsnetpittsburgh.com/pittsburgh-penguins/news/penguins-sidney-crosby-nhl-all-time-points-leaderboard/c1253b06cf7fb75ab066e8a9",
+          "source": "SportsNet Pittsburgh"
         }
       ]
     },
     {
-      "keyword": "peyton watson",
+      "keyword": "submarine",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCS1G-Ti-sil0tU6p19iZix3LeP6RQAmML2v1GgenCz32CtO6U-eFkUc7M7Wc",
+      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ5iKK75i5y3gCk2cnhnk6s4df4qyydaJfo2cgo0ZoHXpuXs8z4dviEgDeAk4",
       "news": [
         {
-          "title": "The Cavs needed a defensive disruptor — Peyton Watson is proving they got one",
-          "url": "https://www.cleveland.com/cavs/2026/10/the-cavs-needed-a-defensive-disruptor-peyton-watson-is-proving-they-got-one.html",
-          "source": "Cleveland.com"
+          "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
+          "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
+          "source": "Naval News"
         },
         {
-          "title": "Peyton Watson scores 15 points in win Monday",
-          "url": "https://www.fantasypros.com/nba/news/616066/peyton-watson-scores-15-points-win-monday.php",
-          "source": "FantasyPros"
+          "title": "Chinese Defense Ministry responds to media report on China's third-generation nuclear submarine’s missile test",
+          "url": "https://www.globaltimes.cn/page/202610/1373245.shtml",
+          "source": "Global Times"
         },
         {
-          "title": "Cavaliers' Peyton Watson: Swats four shots in win",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/cavaliers-peyton-watson-swats-four-shots-in-win/",
-          "source": "CBS Sports"
+          "title": "China Tests Trimaran Submarine Designed to Carry Missiles",
+          "url": "https://militarnyi.com/en/news/china-tests-trimaran-submarine-designed-to-carry-missiles/",
+          "source": "Мілітарний"
         }
       ]
     },
     {
-      "keyword": "trae young",
+      "keyword": "aaron wiggins",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXLls23ldhpvbxLhzkmiwjkT-puyibIsburlugNwAgvXzWDpoBobaEsMyirY",
+      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ5Tgn-gsjdkPMn2cWlJ4OBpVWXzQ0uSQ-M5yBtW1IWiKTrXXeJhw8QX6bG8",
       "news": [
         {
-          "title": "Trae Young embraces fresh start with rising Wizards",
-          "url": "https://www.nba.com/news/trae-young-wizards-new-era-2026-27",
-          "source": "NBA.com"
+          "title": "Aaron Wiggins' early-season eruption teaching Hawks something Thunder always knew",
+          "url": "https://thunderousintentions.com/okc-thunder-aaron-wiggins-eruption-teaching-hawks-something-always-knew",
+          "source": "Thunderous Intentions"
         },
         {
-          "title": "Trae Young and Anthony Davis rank among the NBA’s statistical leaders",
-          "url": "https://www.bulletsforever.com/washington-wizards-team-analysis/73672/trae-young-anthony-davis-washington-wizards-nba-statistical-leaders",
-          "source": "Bullets Forever"
+          "title": "Quin Snyder has already wisely accepted Aaron Wiggins into his circle of trust",
+          "url": "https://soaringdownsouth.com/quin-snyder-has-already-wisely-accepted-aaron-wiggins-into-his-circle-of-trust",
+          "source": "Soaring Down South"
         },
         {
-          "title": "Trae Young finishes with 22/6/10 line in loss",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-26/trae-young-finishes-with-22-6-10-line-in-loss",
+          "title": "Aaron Wiggins’ Expanded Role Makes His Points Prop Severely Undervalued",
+          "url": "https://sports.yahoo.com/videos/aaron-wiggins-expanded-role-makes-153220933.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "ty'ron hopper",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF3kW6Ur4YcJuLZpFXhzatGxlcJstfqiG0m6YVIJCHq7PCukuPAWG4c5f8adE",
+      "news": [
+        {
+          "title": "Sources: Packers LB Zaire Franklin has hairline fracture in leg",
+          "url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
+          "source": "ESPN"
+        },
+        {
+          "title": "Ty'Ron Hopper Must Turn Zaire Franklin's Fracture Into His Own Break",
+          "url": "https://cheeseheadtv.com/blog/tyron-hopper-must-turn-zaire-franklins-fracture-into-his-own-break-210",
+          "source": "Cheesehead TV"
+        },
+        {
+          "title": "Packers LB Zaire Franklin won’t play Thursday night",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-lb-zaire-franklin-wont-play-thursday-night",
           "source": "NBC Sports"
         }
       ]
     },
     {
-      "keyword": "inter miami vs",
+      "keyword": "cable tv",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Wed, 28 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUvrmm2zYvAXOKfKFeQhgo57xv2-HXZ4Ow13M4GkhxF0u3nzWzAI8qTiNb48E",
+      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6_-8GEJ0MmTZ6_pZVgD-dYqbxK0Q72n_BJF7k82EnKr81ROAdI14l7fUcFjY",
       "news": [
         {
-          "title": "Referee Under Fire for Booking Lionel Messi in Inter Miami vs. Cincinnati",
-          "url": "https://heavy.com/sports/soccer/referee-under-fire-booking-lionel-messi-inter-miami-cincinnati/",
-          "source": "Heavy.com"
+          "title": "Exclusive | Optimum Communications Prepares for Bankruptcy to Implement Deal",
+          "url": "https://www.wsj.com/pro/bankruptcy/optimum-communications-prepares-for-bankruptcy-to-implement-deal-fb2d868f",
+          "source": "WSJ"
         },
         {
-          "title": "MLS sprint season to kick off on Feb. 19 in Miami",
-          "url": "https://www.espn.com/soccer/story/_/id/50311129/mls-sprint-season-kick-feb-19-miami",
-          "source": "ESPN"
+          "title": "The End of a Major Cable TV Provider, Roku’s Big Update, White House Blocking Netflix, & More – The Top Cord Cutting Stories From The Past Week",
+          "url": "https://cordcuttersnews.com/the-end-of-a-major-cable-tv-provider-rokus-big-update-white-house-blocking-netflix-more-the-top-cord-cutting-stories-from-the-past-week/",
+          "source": "| Cord Cutters News"
         },
         {
-          "title": "Messi vs. Evander: Inter Miami host FC Cincinnati in high-stakes clash",
-          "url": "https://www.mlssoccer.com/news/messi-vs-evander-inter-miami-host-fc-cincinnati-in-high-stakes-clash",
-          "source": "MLSsoccer.com"
+          "title": "Debt-Plagued ISP Optimum Close to Handing the Keys to Lenders, Resolving Litigation",
+          "url": "https://broadbandbreakfast.com/debt-plagued-isp-optimum-close-to-handing-the-keys-to-lenders-resolving-litigation/",
+          "source": "Broadband Breakfast"
         }
       ]
     },
     {
-      "keyword": "new england revolution",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 28 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoavlibv_566ejQSdDmO8K3oY91aDCzEIIImTQcbKxJqZGWbYKoHqZJ89V59g",
+      "keyword": "jeremiah fears",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLrQB_A1N-cteVKlWsQbNL9U9Yw7Vl6wX4WT86U6ci6HmnlxqAV5Ie-8xv7q8",
       "news": [
         {
-          "title": "Revolution’s surge has set up a treat: Lionel Messi is coming to Foxborough on Sunday night with something on the line",
-          "url": "https://www.bostonglobe.com/2026/10/26/sports/mls-revolution-carles-gil-lionel-messi/",
-          "source": "The Boston Globe"
+          "title": "New Orleans Pelicans Second-Year Star Jeremiah Fears STRUGGLING, Derik Queen PLEASANTLY SURPRISING",
+          "url": "https://www.kvue.com/video/sports/locked-on/lo-new-orleans/locked-on-pelicans-hit/new-orleans-pelicans-second-year-star-jeremiah-fears-struggling-derik-queen-pleasantly-surprising/535-108b7f7d-6486-45d8-adcb-f08912e6d79a",
+          "source": "KVUE"
         },
         {
-          "title": "New England Revolution v Inter Miami CF Odds",
-          "url": "https://sportsbook.fanduel.com/soccer/us-mls/new-england-revolution-v-inter-miami-cf-36253047",
-          "source": "FanDuel Sportsbook"
+          "title": "Jeremiah Fears News: Poor shooting display Wednesday",
+          "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-poor-shooting-display-wednesday-536647",
+          "source": "RotoWire"
         },
         {
-          "title": "New England Revolution vs Inter Miami CF Prediction, 11/1/2026 Soccer Pick, Tips and Odds",
-          "url": "https://www.docsports.com/free-picks/soccer/2026/new-england-revolution-vs-inter-miami-cf-prediction-11-1-2026-soccer-pick-tips-and-odds.html",
-          "source": "Doc's Sports"
+          "title": "Jeremiah Fears struggles in season opener, but Dejounte Murray knows level-up secret",
+          "url": "https://sports.yahoo.com/articles/jeremiah-fears-struggles-season-opener-205548661.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "darius acuff",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO6_mnYg-sJYYJB0wl1pHHhIzjTUIL70o9IkdUF-jKPf0LHng1uAdMIx78e-U",
+      "news": [
+        {
+          "title": "Kings Rookie PG Acuff Shuts Down Potential Workouts",
+          "url": "https://sports.yahoo.com/articles/kings-rookie-pg-acuff-shuts-213209356.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "NBA rookie pulls off wild feat only Wilt Chamberlain had accomplished",
+          "url": "https://larrybrownsports.com/basketball/nba-rookie-darius-acuff-wilt-chamberlain-club/776140",
+          "source": "Larry Brown Sports"
+        },
+        {
+          "title": "\"Come on, man\" - Tim Hardaway reacts to Kings rookie Darius Acuff Jr. firing away at a historic rate",
+          "url": "https://www.basketballnetwork.net/latest-news/tim-hardaway-reacts-to-kings-rookie-darius-acuff-jr-firing-away-at-a-historic-rate",
+          "source": "Basketball Network"
+        }
+      ]
+    },
+    {
+      "keyword": "houston comets",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 29 Oct 2026 18:30:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9VvVOzpMcGwDDcsEfl5vD1_PPK02_YaLDDSupg7a0D2-Z-YGoP-3JGGO7srQ",
+      "news": [
+        {
+          "title": "Houston Comets to unveil new look and logo Thursday | How to watch live",
+          "url": "https://www.khou.com/article/sports/wnba/comets/houston-comets-to-unveil-new-look-and-logo-thursday-how-to-watch-live/285-7432c8c3-8352-4841-a9dd-9634bc438383",
+          "source": "KHOU"
+        },
+        {
+          "title": "Houston Comets Tease New Uniform Reveal in Video Ahead of WNBA Return for 2027 Season",
+          "url": "https://bleacherreport.com/articles/25522360-houston-comets-tease-new-uniform-reveal-video-ahead-wnba-return-2027-season",
+          "source": "Bleacher Report"
+        },
+        {
+          "title": "Houston Comets' new logos leak, and boy howdy are they cool looking",
+          "url": "https://www.chron.com/culture/article/houston-comets-logos-leak-wnba-22500915.php",
+          "source": "Chron"
         }
       ]
     }
