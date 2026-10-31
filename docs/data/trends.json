@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-30T01:58:54+00:00",
+  "fetched_at": "2026-10-31T01:37:16+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "max crosby",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Gv17JJtUeJd1cwEGZZYxg80_Hct01snXfIaMbj_ops8mXI24noqXiiQP4oQ",
+      "keyword": "lakers vs warriors",
+      "traffic": 20000,
+      "traffic_label": "20000+",
+      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DPN5wVHYOCnpwM8fJacLuHp3O2eNgR6MQPz7XWyW19ZXpDvDoSiYC-qjeUs",
       "news": [
         {
-          "title": "Anonymous GM Drops Truth Bomb on Raiders’ Maxx Crosby Trade Rumors",
-          "url": "https://sports.yahoo.com/articles/anonymous-gm-drops-truth-bomb-174330123.html",
+          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
+          "url": "https://sports.yahoo.com/articles/lakers-final-decision-ziaire-williams-004401741.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "NFL Insider Jason La Canfora: Maxx Crosby Trade Price Revealed as Raiders Face Deadline Dilemma",
-          "url": "https://www.casino.org/news/maxx-crosby-raiders-trade-price-nfl-deadline/",
-          "source": "Casino.org"
+          "title": "Luka Doncic brings extra motivation to Lakers vs Warriors NBA Cup clash on ESPN tonight",
+          "url": "https://www.foxnews.com/outkick/luka-doncic-brings-extra-motivation-lakers-vs-warriors-nba-cup-clash-espn-tonight",
+          "source": "Fox News"
         },
         {
-          "title": "The 49ers Could Trade for Maxx Crosby if the Raiders Keep Losing",
-          "url": "https://www.si.com/nfl/49ers/onsi/49ers-could-trade-maxx-crosby-raiders-keep-losing",
+          "title": "Warriors vs. Lakers injury report: Luka Dončić will play, Gui Santos doubtful",
+          "url": "https://www.goldenstateofmind.com/warriors-injury-report/113068/warriors-lakers-injury-report-luka-doncic-gui-santos",
+          "source": "Golden State Of Mind"
+        }
+      ]
+    },
+    {
+      "keyword": "nuggets vs suns",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiPpJJVdJp0RVdedn53jtJ7-9vbtBXJnuX5rIt3a4YE2cUJxygRdHybXEqLhE",
+      "news": [
+        {
+          "title": "How to watch Nuggets vs Suns: NBA, live stream, TV channel",
+          "url": "https://sports.yahoo.com/articles/watch-nuggets-vs-suns-nba-010000216.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "3 Predictions for the Nuggets in NBA Cup Opener vs. Suns",
+          "url": "https://www.si.com/nba/nuggets/onsi/3-predictions-for-the-nuggets-in-nba-cup-opener-vs-suns",
           "source": "Sports Illustrated"
+        },
+        {
+          "title": "Denver Nuggets at Phoenix Suns: Game Preview and Best Bets",
+          "url": "https://milehighsports.com/denver-nuggets-at-phoenix-suns-game-preview-and-best-bets/",
+          "source": "Mile High Sports"
         }
       ]
     },
     {
-      "keyword": "s&p 500",
+      "keyword": "chet holmgren",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpqKGyeV_mnTnmq5atUBtnHJl62zMuWnsDoWJ7wOdhs-e6Q7goZ2dMvokrPU",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Eq2RLMI015aY99OdlbpL87_qw4W9PLYjqQ0XnMVbdnoEm0TLGFXZJrNbIvU",
       "news": [
         {
-          "title": "Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-big-tech-earnings-130508769.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stock Market News, Oct. 27, 2026: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
-          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026",
-          "source": "WSJ"
-        },
-        {
-          "title": "Wall Street ends higher on revived AI momentum",
-          "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/",
-          "source": "Reuters"
-        }
-      ]
-    },
-    {
-      "keyword": "penguins",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQVCB4Ec-eOb1bMc2iMK2AssvDvuMDIdUfbGHdby20Rz2JdhjOuIFS7f7c7_s",
-      "news": [
-        {
-          "title": "Where Is Sidney Crosby on NHL's All-Time Points List? Penguins Star Keeps Moving Up Leaderboard",
-          "url": "https://sports.yahoo.com/articles/where-sidney-crosby-nhls-time-223750331.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "This Week in the NHL: Crosby to pass another legend on all-time scoring list?",
-          "url": "https://www.dailyfaceoff.com/news/this-week-in-nhl-crosby-pass-dionne-points-karlsson-chelios-defenseman-record-hockey-halloween",
-          "source": "Daily Faceoff"
-        },
-        {
-          "title": "Where Is Sidney Crosby on NHL's All-Time Points List? Penguins Star Keeps Moving Up Leaderboard",
-          "url": "https://sportsnetpittsburgh.com/pittsburgh-penguins/news/penguins-sidney-crosby-nhl-all-time-points-leaderboard/c1253b06cf7fb75ab066e8a9",
-          "source": "SportsNet Pittsburgh"
-        }
-      ]
-    },
-    {
-      "keyword": "submarine",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJ5iKK75i5y3gCk2cnhnk6s4df4qyydaJfo2cgo0ZoHXpuXs8z4dviEgDeAk4",
-      "news": [
-        {
-          "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
-          "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
-          "source": "Naval News"
-        },
-        {
-          "title": "Chinese Defense Ministry responds to media report on China's third-generation nuclear submarine’s missile test",
-          "url": "https://www.globaltimes.cn/page/202610/1373245.shtml",
-          "source": "Global Times"
-        },
-        {
-          "title": "China Tests Trimaran Submarine Designed to Carry Missiles",
-          "url": "https://militarnyi.com/en/news/china-tests-trimaran-submarine-designed-to-carry-missiles/",
-          "source": "Мілітарний"
-        }
-      ]
-    },
-    {
-      "keyword": "aaron wiggins",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZ5Tgn-gsjdkPMn2cWlJ4OBpVWXzQ0uSQ-M5yBtW1IWiKTrXXeJhw8QX6bG8",
-      "news": [
-        {
-          "title": "Aaron Wiggins' early-season eruption teaching Hawks something Thunder always knew",
-          "url": "https://thunderousintentions.com/okc-thunder-aaron-wiggins-eruption-teaching-hawks-something-always-knew",
-          "source": "Thunderous Intentions"
-        },
-        {
-          "title": "Quin Snyder has already wisely accepted Aaron Wiggins into his circle of trust",
-          "url": "https://soaringdownsouth.com/quin-snyder-has-already-wisely-accepted-aaron-wiggins-into-his-circle-of-trust",
-          "source": "Soaring Down South"
-        },
-        {
-          "title": "Aaron Wiggins’ Expanded Role Makes His Points Prop Severely Undervalued",
-          "url": "https://sports.yahoo.com/videos/aaron-wiggins-expanded-role-makes-153220933.html",
-          "source": "Yahoo Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "ty'ron hopper",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 29 Oct 2026 18:40:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF3kW6Ur4YcJuLZpFXhzatGxlcJstfqiG0m6YVIJCHq7PCukuPAWG4c5f8adE",
-      "news": [
-        {
-          "title": "Sources: Packers LB Zaire Franklin has hairline fracture in leg",
-          "url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
+          "title": "Thunder's Chet Holmgren out 8-10 weeks due to small patellar tendon tear",
+          "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee",
           "source": "ESPN"
         },
         {
-          "title": "Ty'Ron Hopper Must Turn Zaire Franklin's Fracture Into His Own Break",
-          "url": "https://cheeseheadtv.com/blog/tyron-hopper-must-turn-zaire-franklins-fracture-into-his-own-break-210",
-          "source": "Cheesehead TV"
+          "title": "Thunder Medical Update",
+          "url": "https://www.nba.com/thunder/news/medical-update-261030",
+          "source": "NBA.com"
         },
         {
-          "title": "Packers LB Zaire Franklin won’t play Thursday night",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/packers-lb-zaire-franklin-wont-play-thursday-night",
-          "source": "NBC Sports"
+          "title": "Chet Holmgren out at least 2 months with knee injury and Cason Wallace has shoulder surgery",
+          "url": "https://www.10tv.com/article/syndication/associatedpress/chet-holmgren-out-at-least-2-months-with-knee-injury-and-cason-wallace-has-shoulder-surgery/616-c7d4651b-3e1e-410f-9966-2d7fef974710",
+          "source": "10TV"
         }
       ]
     },
     {
-      "keyword": "cable tv",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6_-8GEJ0MmTZ6_pZVgD-dYqbxK0Q72n_BJF7k82EnKr81ROAdI14l7fUcFjY",
+      "keyword": "tara grinstead",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB63rby98stPN_a74bqFBGQ88do6Cm3XED2Pptjwf7t562Kp_X8G-prc2S-9Y",
       "news": [
         {
-          "title": "Exclusive | Optimum Communications Prepares for Bankruptcy to Implement Deal",
-          "url": "https://www.wsj.com/pro/bankruptcy/optimum-communications-prepares-for-bankruptcy-to-implement-deal-fb2d868f",
-          "source": "WSJ"
+          "title": "‘Dateline - the disappearance of Tara Grinstead’: Where to watch (for free) in case you missed it",
+          "url": "https://www.nj.com/tv/2026/10/dateline-the-disappearance-of-tara-grinstead-where-to-watch-for-free-in-case-you-missed-it.html",
+          "source": "NJ.com"
         },
         {
-          "title": "The End of a Major Cable TV Provider, Roku’s Big Update, White House Blocking Netflix, & More – The Top Cord Cutting Stories From The Past Week",
-          "url": "https://cordcuttersnews.com/the-end-of-a-major-cable-tv-provider-rokus-big-update-white-house-blocking-netflix-more-the-top-cord-cutting-stories-from-the-past-week/",
-          "source": "| Cord Cutters News"
+          "title": "Dateline NBC to review Tara Grinstead case",
+          "url": "https://tiftongazette.com/2026/10/30/dateline-nbc-to-review-tara-grinstead-case/",
+          "source": "Tifton Gazette"
         },
         {
-          "title": "Debt-Plagued ISP Optimum Close to Handing the Keys to Lenders, Resolving Litigation",
-          "url": "https://broadbandbreakfast.com/debt-plagued-isp-optimum-close-to-handing-the-keys-to-lenders-resolving-litigation/",
-          "source": "Broadband Breakfast"
+          "title": "Who killed Tara Grinstead? 'Dateline' covers GA case on new episode",
+          "url": "https://www.savannahnow.com/story/entertainment/television/2026/10/30/dateline-features-georgia-teacher-tara-grinstead-murder-how-to-watch/92511487007/",
+          "source": "Savannah Morning News"
         }
       ]
     },
     {
-      "keyword": "jeremiah fears",
+      "keyword": "faith hedgepeth",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLrQB_A1N-cteVKlWsQbNL9U9Yw7Vl6wX4WT86U6ci6HmnlxqAV5Ie-8xv7q8",
+      "pub_date": "Fri, 30 Oct 2026 18:20:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDtaQXagyfVgiWAF5CV8HJNZNSXQGt4FzQBNvNxIosB5Thsm1nbxCcBHwy6sU",
       "news": [
         {
-          "title": "New Orleans Pelicans Second-Year Star Jeremiah Fears STRUGGLING, Derik Queen PLEASANTLY SURPRISING",
-          "url": "https://www.kvue.com/video/sports/locked-on/lo-new-orleans/locked-on-pelicans-hit/new-orleans-pelicans-second-year-star-jeremiah-fears-struggling-derik-queen-pleasantly-surprising/535-108b7f7d-6486-45d8-adcb-f08912e6d79a",
-          "source": "KVUE"
+          "title": "Inside the hunt for killer of University of North Carolina student found beaten, bloodied",
+          "url": "https://abcnews.com/US/inside-hunt-killer-university-north-carolina-student-found/story?id=137647820",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "Jeremiah Fears News: Poor shooting display Wednesday",
-          "url": "https://www.rotowire.com/basketball/headlines/jeremiah-fears-news-poor-shooting-display-wednesday-536647",
+          "title": "Miguel Salguero Olivares files appeal after first-degree murder conviction in the 2012 Faith Hedgepeth death",
+          "url": "https://abc7ny.com/post/miguel-salguero-olivares-files-appeal-conviction-2012-faith-hedgepeth-murder-case/20001194/",
+          "source": "ABC7 New York"
+        },
+        {
+          "title": "‘Think outside the box’ SBI investigators detail lessons learned in Hedgepeth investigation",
+          "url": "https://www.wral.com/news/local/sbi-agents-speak-about-hedgepeth-investigation-october-2026/",
+          "source": "WRAL"
+        }
+      ]
+    },
+    {
+      "keyword": "nate silver",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT62PL20HTb1QdtzSdOdBFI53BKtUvORKIfLeSooqt-eC-Z7G8mNl7XIre45W4",
+      "news": [
+        {
+          "title": "Latest Polls In 2026 Midterms: Democrat Adam Hamilton Ahead In Kansas Senate Race In 2 Polls",
+          "url": "https://www.forbes.com/sites/saradorn/2026/10/30/latest-polls-in-2026-midterms-democrat-adam-hamilton-ahead-in-kansas-senate-race-in-2-polls/",
+          "source": "Forbes"
+        },
+        {
+          "title": "We polled Kansas. Democrats wanted to talk. Republicans, not so much.",
+          "url": "https://www.washingtonpost.com/politics/2026/10/30/we-polled-kansas-democrats-wanted-talk-republicans-not-so-much/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "October 2026 Kansas Poll: Hamilton Maintains Edge over Marshall in Toss-up Election",
+          "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/",
+          "source": "- Emerson Polling"
+        }
+      ]
+    },
+    {
+      "keyword": "rj barrett",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT65redKuRPhOorz1HdNvYtokdy0id44OscG6xETKVyx0RaZXi2HGDD-mkre0I",
+      "news": [
+        {
+          "title": "'Winning player': RJ Barrett continuing growth in Raptors' new-look offence",
+          "url": "https://www.sportsnet.ca/nba/article/winning-player-rj-barrett-continuing-growth-in-raptors-new-look-offence/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "\"It's a dog fight, especially our division. I was …",
+          "url": "https://sports.yahoo.com/articles/dog-fight-especially-division-175649955.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "“We know what the fans are gonna be like… today's …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/21/we-know-what-the-fans-are-gonna-be-like-todays/92364371007/",
+          "source": "HoopsHype"
+        }
+      ]
+    },
+    {
+      "keyword": "naji marshall",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_Ykue_ltNAJ_pl2mnh-o4tMmsyFdJZiC8wq2wjjVtEvigzlfzjkEWeQL1OM",
+      "news": [
+        {
+          "title": "Naji Marshall News: Good to go Friday",
+          "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842",
           "source": "RotoWire"
         },
         {
-          "title": "Jeremiah Fears struggles in season opener, but Dejounte Murray knows level-up secret",
-          "url": "https://sports.yahoo.com/articles/jeremiah-fears-struggles-season-opener-205548661.html",
-          "source": "Yahoo Sports"
+          "title": "Naji Marshall (illness) upgraded to probable Fri.",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/naji-marshall-illness-upgraded-to-probable-fri",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Naji Marshall (illness) ruled out Monday",
+          "url": "https://www.fantasypros.com/nba/news/615984/naji-marshall-illness-ruled-out-monday.php",
+          "source": "FantasyPros"
         }
       ]
     },
     {
-      "keyword": "darius acuff",
+      "keyword": "houston rockets vs dallas mavericks match player stats",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Thu, 29 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRO6_mnYg-sJYYJB0wl1pHHhIzjTUIL70o9IkdUF-jKPf0LHng1uAdMIx78e-U",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MlH0C8kEpl7wjPKCX8alq1s3_plQierG1YkOQbg33_Jr3tFiCIGnb9uA2dQ",
       "news": [
         {
-          "title": "Kings Rookie PG Acuff Shuts Down Potential Workouts",
-          "url": "https://sports.yahoo.com/articles/kings-rookie-pg-acuff-shuts-213209356.html",
-          "source": "Yahoo Sports"
+          "title": "NBA players celebrate Halloween with costumes, tricks and treats",
+          "url": "https://www.nba.com/news/nba-halloween-costumes-2026",
+          "source": "NBA.com"
         },
         {
-          "title": "NBA rookie pulls off wild feat only Wilt Chamberlain had accomplished",
-          "url": "https://larrybrownsports.com/basketball/nba-rookie-darius-acuff-wilt-chamberlain-club/776140",
-          "source": "Larry Brown Sports"
+          "title": "Los Angeles Lakers vs Golden State Warriors Oct 30, 2026 Box Scores",
+          "url": "https://www.nba.com/game/0022600023/box-score",
+          "source": "NBA.com"
         },
         {
-          "title": "\"Come on, man\" - Tim Hardaway reacts to Kings rookie Darius Acuff Jr. firing away at a historic rate",
-          "url": "https://www.basketballnetwork.net/latest-news/tim-hardaway-reacts-to-kings-rookie-darius-acuff-jr-firing-away-at-a-historic-rate",
-          "source": "Basketball Network"
+          "title": "Sacramento Kings vs New Orleans Pelicans Oct 29, 2026 Box Scores",
+          "url": "https://www.nba.com/game/sac-vs-nop-0022600145/box-score",
+          "source": "NBA.com"
         }
       ]
     },
     {
-      "keyword": "houston comets",
+      "keyword": "winona ryder",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Thu, 29 Oct 2026 18:30:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9VvVOzpMcGwDDcsEfl5vD1_PPK02_YaLDDSupg7a0D2-Z-YGoP-3JGGO7srQ",
+      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4e5mTy8c9ylPtwUs_kkd0dNkDyEZU-Xf-hTnF30LnYV2P5T-85rjtx7_Jq58",
       "news": [
         {
-          "title": "Houston Comets to unveil new look and logo Thursday | How to watch live",
-          "url": "https://www.khou.com/article/sports/wnba/comets/houston-comets-to-unveil-new-look-and-logo-thursday-how-to-watch-live/285-7432c8c3-8352-4841-a9dd-9634bc438383",
-          "source": "KHOU"
+          "title": "10 Winona Ryder Movies Every ‘90s Kid Is Due for a Rewatch On",
+          "url": "https://www.mentalfloss.com/entertainment/movies/best-winona-ryder-90s-movies",
+          "source": "Mental Floss"
         },
         {
-          "title": "Houston Comets Tease New Uniform Reveal in Video Ahead of WNBA Return for 2027 Season",
-          "url": "https://bleacherreport.com/articles/25522360-houston-comets-tease-new-uniform-reveal-video-ahead-wnba-return-2027-season",
-          "source": "Bleacher Report"
+          "title": "​⁠7 Winona Ryder Movies Before Stranger Things That Prove She Ruled 90s​",
+          "url": "https://www.zoomtventertainment.com/photos/7-winona-ryder-movies-before-stranger-things-that-prove-she-ruled-90s-photo-gallery-156426828",
+          "source": "Zoom TV | Entertainment"
         },
         {
-          "title": "Houston Comets' new logos leak, and boy howdy are they cool looking",
-          "url": "https://www.chron.com/culture/article/houston-comets-logos-leak-wnba-22500915.php",
-          "source": "Chron"
+          "title": "The Moody English Rock Band That Helped Inspire Lydia Deetz in 'Beetlejuice'",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/moody-english-rock-band-helped-210006423.html",
+          "source": "Yahoo"
         }
       ]
     }

@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-31",
+ "candidates": [
+  {
+   "id": "f1af5cf0f0",
+   "title": "TXT (TOMORROW X TOGETHER) - PPULBATU with TOMORROW X TOGETHER STAR Series x POP MART (Merchandise Preview)",
+   "query": "txt PPULBATU TOMORROW X TOGETHER STAR",
+   "score": 78,
+   "rank": 1
+  },
+  {
+   "id": "6ed713c50c",
+   "title": "TWS 'TO US'",
+   "query": "tws album",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "da034b1c48",
+   "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+   "query": "pokemon 30th celebration upc",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "0771746723",
+   "title": "Pokemon TCG Delta Reign (ME06)",
+   "query": "delta reign booster box",
+   "score": 65,
+   "rank": 4
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 65,
+   "rank": 5
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 65,
+   "rank": 6
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 61,
+   "rank": 7
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 52,
+   "rank": 8
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 48,
+   "rank": 9
+  },
+  {
+   "id": "98bd00ce7e",
+   "title": "TWICE NAYEON - Nayeon Bunny's Farm 2026 @ IM NAYEON (261029) [ENG SUB]",
+   "query": "TWICE NAYEON",
+   "score": 44,
+   "rank": 10
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 41,
+   "rank": 11
+  },
+  {
+   "id": "bc7cf47d39",
+   "title": "Halloween",
+   "query": "halloween costume",
+   "score": 40,
+   "rank": 12
+  }
+ ]
+}
