@@ -3,6 +3,8 @@
 > eBay 해외 판매자를 위한 "오늘 터질 상품" 자동 발굴 대시보드
 > 바이브 코딩 과제 리뷰 문서
 
+> 🚧 **2차 과제(v2) 진행 중:** eBay 검색 최적화(SEO) 방향으로 발전시키고 있습니다. 계획은 [PRD.md](PRD.md)와 [TODO.md](TODO.md)를, 아래 내용은 1차 과제(v1) 리뷰입니다.
+
 - **대시보드:** https://ioveyou-creator.github.io/trendhunter/
 - **개발 기록:** [DEVLOG.md](DEVLOG.md) · **요구사항:** [PRD.md](PRD.md) · **작업 목록:** [TODO.md](TODO.md)
 
