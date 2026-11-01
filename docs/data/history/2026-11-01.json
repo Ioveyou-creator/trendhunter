@@ -1,0 +1,103 @@
+{
+ "date": "2026-11-01",
+ "candidates": [
+  {
+   "id": "6ed713c50c",
+   "title": "TWS 'TO US'",
+   "query": "tws album",
+   "score": 65,
+   "rank": 1
+  },
+  {
+   "id": "da034b1c48",
+   "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+   "query": "pokemon 30th celebration upc",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "0771746723",
+   "title": "Pokemon TCG Delta Reign (ME06)",
+   "query": "delta reign booster box",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 65,
+   "rank": 4
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 65,
+   "rank": 5
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 52,
+   "rank": 6
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 51,
+   "rank": 7
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 48,
+   "rank": 8
+  },
+  {
+   "id": "21d138aa45",
+   "title": "ban vs ind",
+   "query": "ban vs ind",
+   "score": 45,
+   "rank": 9
+  },
+  {
+   "id": "78588665a3",
+   "title": "TWICE Momo - Vogue Japan x Miu Miu (December 2026 Issue Pictorial Preview)",
+   "query": "twice Vogue Japan x Miu Miu",
+   "score": 45,
+   "rank": 10
+  },
+  {
+   "id": "2479acb6ab",
+   "title": "TWICE Mina - ELLE JAPAN x Chaumet (December 2026 Issue Pictorial Preview)",
+   "query": "twice ELLE JAPAN x Chaumet",
+   "score": 45,
+   "rank": 11
+  },
+  {
+   "id": "46b6bb1eda",
+   "title": "TWICE Sana - GQ Korea x Calvin Klein (December 2026 Digital Issue Cover & Pictorial)",
+   "query": "twice GQ Korea x Calvin Klein",
+   "score": 44,
+   "rank": 12
+  },
+  {
+   "id": "69779fbca5",
+   "title": "ILLIT - Episode 78-2: Korea’s Leading Women CEO Conference Part 2 @ IDOL 1N2D (261031) [ENG SUB]",
+   "query": "ILLIT",
+   "score": 44,
+   "rank": 13
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 42,
+   "rank": 14
+  }
+ ]
+}

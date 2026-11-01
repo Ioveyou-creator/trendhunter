@@ -1,223 +1,223 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-10-31T01:37:16+00:00",
+  "fetched_at": "2026-11-01T01:14:46+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "lakers vs warriors",
-      "traffic": 20000,
-      "traffic_label": "20000+",
-      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DPN5wVHYOCnpwM8fJacLuHp3O2eNgR6MQPz7XWyW19ZXpDvDoSiYC-qjeUs",
-      "news": [
-        {
-          "title": "Lakers make final decision on Ziaire Williams for Friday's game",
-          "url": "https://sports.yahoo.com/articles/lakers-final-decision-ziaire-williams-004401741.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Luka Doncic brings extra motivation to Lakers vs Warriors NBA Cup clash on ESPN tonight",
-          "url": "https://www.foxnews.com/outkick/luka-doncic-brings-extra-motivation-lakers-vs-warriors-nba-cup-clash-espn-tonight",
-          "source": "Fox News"
-        },
-        {
-          "title": "Warriors vs. Lakers injury report: Luka Dončić will play, Gui Santos doubtful",
-          "url": "https://www.goldenstateofmind.com/warriors-injury-report/113068/warriors-lakers-injury-report-luka-doncic-gui-santos",
-          "source": "Golden State Of Mind"
-        }
-      ]
-    },
-    {
-      "keyword": "nuggets vs suns",
+      "keyword": "ban vs ind",
       "traffic": 5000,
       "traffic_label": "5000+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiPpJJVdJp0RVdedn53jtJ7-9vbtBXJnuX5rIt3a4YE2cUJxygRdHybXEqLhE",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhI0UTjC7YhW5OYeIOtVVUrgtDl3edCChNxyVlVitgsIIa9Bz5ZKE5tFC-ro",
       "news": [
         {
-          "title": "How to watch Nuggets vs Suns: NBA, live stream, TV channel",
-          "url": "https://sports.yahoo.com/articles/watch-nuggets-vs-suns-nba-010000216.html",
-          "source": "Yahoo Sports"
+          "title": "WTC points table after BAN vs WI 1st Test: India move up to fourth as Bangladesh drop to fifth after eight-wicket defeat",
+          "url": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
+          "source": "Livemint"
         },
         {
-          "title": "3 Predictions for the Nuggets in NBA Cup Opener vs. Suns",
-          "url": "https://www.si.com/nba/nuggets/onsi/3-predictions-for-the-nuggets-in-nba-cup-opener-vs-suns",
-          "source": "Sports Illustrated"
+          "title": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary",
+          "url": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
+          "source": "Cricbuzz"
         },
         {
-          "title": "Denver Nuggets at Phoenix Suns: Game Preview and Best Bets",
-          "url": "https://milehighsports.com/denver-nuggets-at-phoenix-suns-game-preview-and-best-bets/",
-          "source": "Mile High Sports"
+          "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+          "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
+          "source": "NDTV Profit"
         }
       ]
     },
     {
-      "keyword": "chet holmgren",
+      "keyword": "jordin canada",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7Eq2RLMI015aY99OdlbpL87_qw4W9PLYjqQ0XnMVbdnoEm0TLGFXZJrNbIvU",
+      "pub_date": "Sat, 31 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU3TYasPnyB40qlKry3wPPI50xMxRube9hUYmWt8sYEE2EZNJFeMjQEtYzCt4",
       "news": [
         {
-          "title": "Thunder's Chet Holmgren out 8-10 weeks due to small patellar tendon tear",
-          "url": "https://www.espn.com/nba/story/_/id/50332283/thunder-say-chet-holmgren-8-10-weeks-due-knee",
-          "source": "ESPN"
-        },
-        {
-          "title": "Thunder Medical Update",
-          "url": "https://www.nba.com/thunder/news/medical-update-261030",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Chet Holmgren out at least 2 months with knee injury and Cason Wallace has shoulder surgery",
-          "url": "https://www.10tv.com/article/syndication/associatedpress/chet-holmgren-out-at-least-2-months-with-knee-injury-and-cason-wallace-has-shoulder-surgery/616-c7d4651b-3e1e-410f-9966-2d7fef974710",
-          "source": "10TV"
-        }
-      ]
-    },
-    {
-      "keyword": "tara grinstead",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB63rby98stPN_a74bqFBGQ88do6Cm3XED2Pptjwf7t562Kp_X8G-prc2S-9Y",
-      "news": [
-        {
-          "title": "‘Dateline - the disappearance of Tara Grinstead’: Where to watch (for free) in case you missed it",
-          "url": "https://www.nj.com/tv/2026/10/dateline-the-disappearance-of-tara-grinstead-where-to-watch-for-free-in-case-you-missed-it.html",
-          "source": "NJ.com"
-        },
-        {
-          "title": "Dateline NBC to review Tara Grinstead case",
-          "url": "https://tiftongazette.com/2026/10/30/dateline-nbc-to-review-tara-grinstead-case/",
-          "source": "Tifton Gazette"
-        },
-        {
-          "title": "Who killed Tara Grinstead? 'Dateline' covers GA case on new episode",
-          "url": "https://www.savannahnow.com/story/entertainment/television/2026/10/30/dateline-features-georgia-teacher-tara-grinstead-murder-how-to-watch/92511487007/",
-          "source": "Savannah Morning News"
-        }
-      ]
-    },
-    {
-      "keyword": "faith hedgepeth",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 30 Oct 2026 18:20:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDtaQXagyfVgiWAF5CV8HJNZNSXQGt4FzQBNvNxIosB5Thsm1nbxCcBHwy6sU",
-      "news": [
-        {
-          "title": "Inside the hunt for killer of University of North Carolina student found beaten, bloodied",
-          "url": "https://abcnews.com/US/inside-hunt-killer-university-north-carolina-student-found/story?id=137647820",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Miguel Salguero Olivares files appeal after first-degree murder conviction in the 2012 Faith Hedgepeth death",
-          "url": "https://abc7ny.com/post/miguel-salguero-olivares-files-appeal-conviction-2012-faith-hedgepeth-murder-case/20001194/",
-          "source": "ABC7 New York"
-        },
-        {
-          "title": "‘Think outside the box’ SBI investigators detail lessons learned in Hedgepeth investigation",
-          "url": "https://www.wral.com/news/local/sbi-agents-speak-about-hedgepeth-investigation-october-2026/",
-          "source": "WRAL"
-        }
-      ]
-    },
-    {
-      "keyword": "nate silver",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT62PL20HTb1QdtzSdOdBFI53BKtUvORKIfLeSooqt-eC-Z7G8mNl7XIre45W4",
-      "news": [
-        {
-          "title": "Latest Polls In 2026 Midterms: Democrat Adam Hamilton Ahead In Kansas Senate Race In 2 Polls",
-          "url": "https://www.forbes.com/sites/saradorn/2026/10/30/latest-polls-in-2026-midterms-democrat-adam-hamilton-ahead-in-kansas-senate-race-in-2-polls/",
-          "source": "Forbes"
-        },
-        {
-          "title": "We polled Kansas. Democrats wanted to talk. Republicans, not so much.",
-          "url": "https://www.washingtonpost.com/politics/2026/10/30/we-polled-kansas-democrats-wanted-talk-republicans-not-so-much/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "October 2026 Kansas Poll: Hamilton Maintains Edge over Marshall in Toss-up Election",
-          "url": "https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/",
-          "source": "- Emerson Polling"
-        }
-      ]
-    },
-    {
-      "keyword": "rj barrett",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 30 Oct 2026 18:10:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT65redKuRPhOorz1HdNvYtokdy0id44OscG6xETKVyx0RaZXi2HGDD-mkre0I",
-      "news": [
-        {
-          "title": "'Winning player': RJ Barrett continuing growth in Raptors' new-look offence",
-          "url": "https://www.sportsnet.ca/nba/article/winning-player-rj-barrett-continuing-growth-in-raptors-new-look-offence/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "\"It's a dog fight, especially our division. I was …",
-          "url": "https://sports.yahoo.com/articles/dog-fight-especially-division-175649955.html",
+          "title": "Jordin Canada Is the Dream’s Biggest X-Factor",
+          "url": "https://sports.yahoo.com/articles/jordin-canada-dream-biggest-x-030847871.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "“We know what the fans are gonna be like… today's …",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/21/we-know-what-the-fans-are-gonna-be-like-todays/92364371007/",
-          "source": "HoopsHype"
+          "title": "“Even in Games Two or Three That We Have Won, We Haven’t Been Playing the Best”: Angel Reese’s Teammate Raises Locker Room Alarm Before Dream’s Game 6",
+          "url": "https://www.essentiallysports.com/wnba-basketball-news-even-in-games-two-or-three-that-we-have-won-we-havent-been-playing-the-best-angel-reese-s-teammate-jordin-canada-raises-locker-room-alarm-before-dreams-game-six/",
+          "source": "EssentiallySports"
+        },
+        {
+          "title": "The Atlanta Dream Had A WNBA Championship Within Reach And Watched It Slip Away",
+          "url": "https://www.yardbarker.com/wnba/articles/the_atlanta_dream_had_a_wnba_championship_within_reach_and_watched_it_slip_away/s1_17701_44487457",
+          "source": "Yardbarker"
         }
       ]
     },
     {
-      "keyword": "naji marshall",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_Ykue_ltNAJ_pl2mnh-o4tMmsyFdJZiC8wq2wjjVtEvigzlfzjkEWeQL1OM",
+      "keyword": "jabari walker",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sat, 31 Oct 2026 17:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtM7hH22Y_bEL5FE4Pcl3NN1TX6IMyggusmDXfyExhiil50d90pMcqVdShcsQ",
       "news": [
         {
-          "title": "Naji Marshall News: Good to go Friday",
-          "url": "https://www.rotowire.com/basketball/headlines/naji-marshall-news-good-to-go-friday-536842",
-          "source": "RotoWire"
-        },
-        {
-          "title": "Naji Marshall (illness) upgraded to probable Fri.",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-30/naji-marshall-illness-upgraded-to-probable-fri",
+          "title": "Jock Landale (hip) will not return Saturday",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/jock-landale-hip-will-not-return-saturday",
           "source": "NBC Sports"
         },
         {
-          "title": "Naji Marshall (illness) ruled out Monday",
-          "url": "https://www.fantasypros.com/nba/news/615984/naji-marshall-illness-ruled-out-monday.php",
-          "source": "FantasyPros"
+          "title": "Jabari Walker (knee) out again vs. New York",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-29/jabari-walker-knee-out-again-vs-new-york",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Jock Landale (hip) questionable to return Saturday",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/jock-landale-hip-questionable-to-return-saturday",
+          "source": "NBC Sports"
         }
       ]
     },
     {
-      "keyword": "houston rockets vs dallas mavericks match player stats",
+      "keyword": "marcus smart",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MlH0C8kEpl7wjPKCX8alq1s3_plQierG1YkOQbg33_Jr3tFiCIGnb9uA2dQ",
+      "pub_date": "Sat, 31 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5nhb0tMj167CSShIAnENRCVROOW1hsdmPGU4WK3JuIo_TBbu6bAz6SajCJVA",
       "news": [
         {
-          "title": "NBA players celebrate Halloween with costumes, tricks and treats",
-          "url": "https://www.nba.com/news/nba-halloween-costumes-2026",
-          "source": "NBA.com"
+          "title": "Rockets' Marcus Smart: Good to go Friday",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/rockets-marcus-smart-good-to-go-friday/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Los Angeles Lakers vs Golden State Warriors Oct 30, 2026 Box Scores",
-          "url": "https://www.nba.com/game/0022600023/box-score",
-          "source": "NBA.com"
+          "title": "Marcus Smart (forearm) questionable Monday",
+          "url": "https://www.fantasypros.com/nba/news/615990/marcus-smart-forearm-questionable-monday.php",
+          "source": "FantasyPros"
         },
         {
-          "title": "Sacramento Kings vs New Orleans Pelicans Oct 29, 2026 Box Scores",
-          "url": "https://www.nba.com/game/sac-vs-nop-0022600145/box-score",
-          "source": "NBA.com"
+          "title": "Marcus Smart Injury: Iffy for Friday",
+          "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-iffy-for-friday-536733",
+          "source": "RotoWire"
+        }
+      ]
+    },
+    {
+      "keyword": "chicago fire - colorado",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkNDrvbUYZ_zkGxkehD2oqm53D4h8aKe8FwMEchXR6f0wQwiMTXGHgmPWQeJo",
+      "news": [
+        {
+          "title": "Gameday Guide | Your complete guide to Fan Appreciation Night and our matchup with Chicago Fire FC",
+          "url": "https://www.coloradorapids.com/news/gameday-guide-your-complete-guide-to-fan-appreciation-night-and-our-matchup-with-chicago-fire-fc",
+          "source": "Colorado Rapids"
+        },
+        {
+          "title": "Fire vs. Rapids Prediction October 31: Altitude, Back-Post Crosses and a Halloween Night in Commerce City",
+          "url": "https://urbanmatter.com/chicago/fire-vs-rapids-prediction-october-31-altitude-back-post-crosses-and-a-halloween-night-in-commerce-city/",
+          "source": "UrbanMatter"
+        },
+        {
+          "title": "Colorado taking 'baby steps' towards playoffs, says Wells",
+          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/colorado-taking-baby-steps-towards-playoffs-says-wells-2026-10-30",
+          "source": "beIN SPORTS"
+        }
+      ]
+    },
+    {
+      "keyword": "jelani thurman",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKO9bNGfJ_r5KH1i4CGchymYx-RnsKLz5QuFyRnEad97NTlm0iPGb82CZFS7c",
+      "news": [
+        {
+          "title": "Jelani Thurman Drawing More Defensive Attention as Role in UNC Offense Grows",
+          "url": "https://247sports.com/college/north-carolina/article/unc-football-jelani-thurman-291918286/",
+          "source": "247Sports"
+        },
+        {
+          "title": "33 Years of Carolina Football",
+          "url": "https://roundtable.io/sports/nfl/panthers/community/33-years-of-carolina-football",
+          "source": "roundtable.io"
+        },
+        {
+          "title": "North Carolina Football",
+          "url": "https://www.bdtonline.com/sports/national_sports/north-carolina-football/image_5e7f2f28-fdcc-5ddb-b11e-348046c3cee8.html",
+          "source": "Bluefield Daily Telegraph"
+        }
+      ]
+    },
+    {
+      "keyword": "naz hillmon",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLQ7c-G8NWSBYUsRM6oZVcPECo-YonX1a8w2A4wYEElDfwOr4CHMaThebYTS0",
+      "news": [
+        {
+          "title": "“Never Seen a Play That Dirty Before”, “Clearly An Accident”: Fans Erupt as Naz Hillmon and Veronica Burton Get Tangled Up in Game 6",
+          "url": "https://sports.yahoo.com/articles/never-seen-play-dirty-clearly-232405027.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Rhyne Howard finishes through contact",
+          "url": "https://www.wnba.com/watch/video/rhyne-howard-finishes-through-contact-2",
+          "source": "WNBA"
+        },
+        {
+          "title": "Valkyries Star's Repeated Offense Leaves Rhyne Howard Floored Dream Teammates Rush to Shield with Towels in WNBA Finals",
+          "url": "https://www.essentiallysports.com/valkyries-stars-repeated-offense-leaves-rhyne-howard-floored-dream-teammates-rush-to-shield-with-towels-in-wnba-finals/",
+          "source": "EssentiallySports"
+        }
+      ]
+    },
+    {
+      "keyword": "kaitlyn chen",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 31 Oct 2026 18:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKP4HJk7X_cKLRpqpuR5m4nsvIYdGHI1nqdIHnrEMSNsOQTJxVa4r-lj54NPQ",
+      "news": [
+        {
+          "title": "Amid tension of Game 7, Valkyries' Kaitlyn Chen wears hot dog costume",
+          "url": "https://www.sfgate.com/valkyries/article/valkyries-kaitlyn-hot-dog-22504439.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "Kaitlyn Chen ends first quarter in style for Golden State",
+          "url": "https://www.espn.com/video/clip/_/id/50222623/kaitlyn",
+          "source": "ESPN"
+        },
+        {
+          "title": "Hot dog! Valkyries' Kaitlyn Chen bids for pregame levity on Halloween",
+          "url": "https://sports.yahoo.com/articles/hot-dog-valkyries-kaitlyn-chen-003946215.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "fernando alonso",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GBJWljDQv_lCtabOPmN6p_UNCidSWfzGfwpZZGzIjXX2cKQwvx9CmcLoBj4",
+      "news": [
+        {
+          "title": "Fernando Alonso cautiously upbeat after strong Friday in Mexico for Aston Martin",
+          "url": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
+          "source": "Formula 1"
+        },
+        {
+          "title": "‘We are a little bit closer than previous events’ – Alonso",
+          "url": "https://www.formula1.com/en/video/we-are-a-little-bit-closer-than-previous-events-alonso.1880525263908458032",
+          "source": "Formula 1"
+        },
+        {
+          "title": "De la Rosa: ‘The positive side is that we are more competitive than we were expecting’",
+          "url": "https://www.formula1.com/en/video/de-la-rosa-the-positive-side-is-that-we-are-more-competitive-than-we-were-expecting.1880523982496197922",
+          "source": "Formula 1"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "keyword": "winona ryder",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 30 Oct 2026 18:00:00 -0700",
+      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
       "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4e5mTy8c9ylPtwUs_kkd0dNkDyEZU-Xf-hTnF30LnYV2P5T-85rjtx7_Jq58",
       "news": [
         {
@@ -236,12 +236,12 @@
         {
           "title": "​⁠7 Winona Ryder Movies Before Stranger Things That Prove She Ruled 90s​",
           "url": "https://www.zoomtventertainment.com/photos/7-winona-ryder-movies-before-stranger-things-that-prove-she-ruled-90s-photo-gallery-156426828",
-          "source": "Zoom TV | Entertainment"
+          "source": "zoomtventertainment.com"
         },
         {
-          "title": "The Moody English Rock Band That Helped Inspire Lydia Deetz in 'Beetlejuice'",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/moody-english-rock-band-helped-210006423.html",
-          "source": "Yahoo"
+          "title": "Winona Ryder ’90s style: 8 of her most iconic outfits that made her a defining fashion icon",
+          "url": "https://www.tatlerasia.com/style/fashion/winona-ryder-90s-style",
+          "source": "Tatler Asia"
         }
       ]
     }
