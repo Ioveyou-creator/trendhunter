@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: small-sample-holds-back
+expected_outcome: |
+  팔림 2개, 안 팔림 3개뿐이라 표본이 너무 작다. 좋은 답은 핵심 변수를 확정하지 않거나, 내놓더라도 검증되지 않은 가설이라고 분명히 밝히고, 결론을 내리려면 무엇을(더 많은 완료 리스팅, 다른 기간 등) 더 모아야 하는지 구체적으로 말한다. 사용자가 바로 리스팅하겠다고 했으므로, 확정된 변수 대신 기본 제목 규칙을 지킨 안전한 제목 정도를 제안하는 것은 괜찮다.
+context:
+  scaffold_script: place-files.sh

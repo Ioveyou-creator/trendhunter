@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: kpop-photocard-keyword
+expected_outcome: |
+  팔림 10개, 안 팔림 10개를 정확히 집계한다. 가격과 배송 조건은 두 그룹에 고르게 섞여 있고, 제목에 photocard(포토카드)를 명시했는지가 판매를 가른다(포함 시 판매율 약 80%, 미포함 약 20%). 보고서는 SKILL.md의 형식을 따르며, 핵심 변수로 포토카드 명시 하나를 고르고 근거 수치를 제시하며, 80자 이하이고 photocard가 앞쪽에 들어간 제목을 제안한다.
+context:
+  scaffold_script: place-files.sh
