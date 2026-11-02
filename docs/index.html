@@ -259,7 +259,7 @@
       <div>
         <h1>TrendHunter</h1>
         <p class="lede">오늘 eBay에서 터질 만한 후보입니다. 판매완료 내역으로 확인하고, 국내에서 구할 수 있는지 바로 찾아보세요.</p>
-        <p class="lede"><a href="analyzer.html">답안지 분석기</a>: 같은 상품의 팔린 리스팅과 안 팔린 리스팅을 붙여넣어 무엇이 판매를 갈랐는지 비교해 보세요.</p>
+        <p class="lede">도구: <a href="opportunity.html">키워드 기회 점수</a>(들어갈 틈이 있나) · <a href="analyzer.html">답안지 분석기</a>(무엇이 판매를 갈랐나)</p>
       </div>
       <div class="postmark" id="postmark" aria-label="기준 날짜">
         <span class="pm-year">----</span><span class="pm-day">--.--</span><span class="pm-zone">KST</span>
@@ -496,7 +496,8 @@
         el("div", { class: "actions" },
           el("a", { class: "primary", href: links.ebay_sold, target: "_blank", rel: "noopener noreferrer", text: "eBay 판매완료" }),
           el("a", { href: links.ebay_active, target: "_blank", rel: "noopener noreferrer", text: "eBay 판매중" }),
-          el("a", { href: links.naver, target: "_blank", rel: "noopener noreferrer", text: "네이버쇼핑" })
+          el("a", { href: links.naver, target: "_blank", rel: "noopener noreferrer", text: "네이버쇼핑" }),
+          el("a", { href: "opportunity.html?q=" + encodeURIComponent(c.query || c.title), text: "기회 점수" })
         ),
         el("details", { class: "why" }, el("summary", { text: "점수 근거 보기" }), reasons, evidence)
       ));

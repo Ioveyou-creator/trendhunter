@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 입력한 숫자와 키워드는 외부로 보내지 않는다: 같은 사이트 외 접속 차단 -->
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; connect-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; form-action 'none'; base-uri 'none'">
+<title>키워드 기회 점수 · TrendHunter</title>
+<meta name="description" content="eBay 판매완료 수와 판매중 수로 상품 키워드에 들어갈 틈이 있는지 비교하는 도구">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tool.css">
+</head>
+<body>
+<div class="airmail" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <nav class="nav-tools" aria-label="도구">
+      <a href="./">대시보드</a>
+      <a href="opportunity.html" aria-current="page">기회 점수</a>
+      <a href="analyzer.html">답안지 분석기</a>
+    </nav>
+    <h1>키워드 기회 점수</h1>
+    <p class="lede">이 상품에 지금 들어갈 틈이 있는지, eBay 검색 결과 숫자 두 개로 비교합니다.</p>
+  </header>
+
+  <section class="panel">
+    <details class="howto">
+      <summary>숫자는 어디서 보나요?</summary>
+      <ol>
+        <li>키워드를 추가하면 버튼 두 개가 생깁니다. <b>판매완료 결과 보기</b>를 누르고, 화면에 나오는 <b>"결과 N개"</b> 숫자를 판매완료 칸에 적습니다. eBay는 대략 최근 90일의 판매 기록을 보여줍니다.</li>
+        <li><b>판매중 결과 보기</b>를 누르고, 같은 방식으로 판매중 칸에 적습니다.</li>
+        <li>"3,600,000개 이상", "1.2K"처럼 화면에 보이는 대로 적어도 됩니다.</li>
+        <li>재고 없이 팔려면 팔린 뒤 국내에서 바로 구할 수 있어야 합니다. <b>네이버쇼핑</b>에서 확인하고 체크하세요.</li>
+      </ol>
+    </details>
+  </section>
+
+  <section class="panel" aria-labelledby="add-h">
+    <h2 id="add-h">키워드 추가</h2>
+    <form class="add-row" id="add-form">
+      <input type="text" id="kw-input" placeholder="예: pokemon delta reign booster box" autocomplete="off" aria-label="키워드">
+      <button type="submit" class="primary">추가</button>
+    </form>
+    <p class="privacy">입력한 내용은 이 브라우저에만 저장되고 어디로도 전송되지 않습니다.</p>
+  </section>
+
+  <section class="panel" id="rank-sec" aria-labelledby="rank-h" hidden>
+    <h2 id="rank-h">비교</h2>
+    <p class="section-note">판매완료 ÷ 판매중 비율이 높은 순서입니다.</p>
+    <p class="scroll-hint">표를 옆으로 밀어서 보세요 →</p>
+    <div class="table-scroll"><table class="rank-table" id="rank-table"></table></div>
+  </section>
+
+  <section class="panel" aria-labelledby="list-h">
+    <h2 id="list-h">키워드</h2>
+    <ul class="kw-list" id="kw-list"></ul>
+    <p class="section-note" id="empty-note">아직 키워드가 없습니다. 위에서 추가하거나, 대시보드 후보 카드의 "기회 점수" 버튼으로 넘어오세요.</p>
+  </section>
+
+  <section class="panel">
+    <h2>이 기준에 대해</h2>
+    <p class="section-note" style="margin:0">
+      등급 기준(100% 이상, 50% 이상, 20% 이상)은 리셀러들이 흔히 쓰는 대략적인 값입니다. 실제 판매 결과로 검증한 기준이 아니며,
+      카테고리마다 적정 수준이 다릅니다. 판매완료 수는 eBay가 보여주는 기간 동안의 숫자라 계절이나 일시적인 붐에 따라 크게 달라질 수 있습니다.
+      결정 전에 <a href="analyzer.html">답안지 분석기</a>로 팔린 리스팅과 안 팔린 리스팅의 차이도 함께 확인하세요.
+    </p>
+  </section>
+
+  <footer>TrendHunter v2</footer>
+</div>
+<script src="js/opportunity.js"></script>
+<script src="js/opportunity-page.js"></script>
+</body>
+</html>

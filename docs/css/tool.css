@@ -1,0 +1,119 @@
+/* TrendHunter 도구 페이지 공통 스타일 (답안지 분석기, 기회 점수). 15단계 UI 개편 때 대시보드와 합칠 예정 */
+:root {
+  --paper: #f2f4f6; --sheet: #ffffff; --ink: #17233b; --muted: #5d6b80; --line: #dde3ea;
+  --mail-red: #c8102e; --mail-blue: #1f3f9a; --up: #0b7a55; --down: #a3412b;
+  --chip: #e9edf2; --warn-bg: #fff4e0; --warn-ink: #7a4a00; --focus: #1f3f9a; --on-primary: #ffffff;
+  --radius-s: 4px; --radius-m: 10px;
+  --font: "IBM Plex Sans KR", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1522; --sheet: #161e2e; --ink: #e6ebf3; --muted: #9aa7ba; --line: #273247;
+    --mail-red: #f0566b; --mail-blue: #7d9cf0; --up: #4cc79a; --down: #f08a6f;
+    --chip: #212b3d; --warn-bg: #3a2a10; --warn-ink: #f3c97a; --focus: #7d9cf0; --on-primary: #0f1522;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1522; --sheet: #161e2e; --ink: #e6ebf3; --muted: #9aa7ba; --line: #273247;
+  --mail-red: #f0566b; --mail-blue: #7d9cf0; --up: #4cc79a; --down: #f08a6f;
+  --chip: #212b3d; --warn-bg: #3a2a10; --warn-ink: #f3c97a; --focus: #7d9cf0; --on-primary: #0f1522;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.55; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.airmail { height: 10px; background: repeating-linear-gradient(-45deg,
+  var(--mail-red) 0 18px, transparent 18px 26px, var(--mail-blue) 26px 44px, transparent 44px 52px); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+@media (max-width: 600px) { .wrap { padding: 0 16px; } }
+
+header { padding: 24px 0 8px; }
+.crumb { font-size: 14px; color: var(--muted); }
+.crumb a { color: var(--muted); }
+h1 { margin: 6px 0 0; font-size: 28px; line-height: 1.2; }
+.lede { margin: 6px 0 0; color: var(--muted); max-width: 60ch; }
+h2 { font-size: 18px; margin: 0 0 10px; }
+
+.panel { background: var(--sheet); border: 1px solid var(--line); border-radius: var(--radius-m); padding: 18px; margin: 16px 0; }
+details.howto summary { cursor: pointer; font-weight: 600; }
+details.howto ol { margin: 10px 0 0; padding-left: 20px; }
+details.howto li { margin: 6px 0; }
+code { background: var(--chip); padding: 1px 6px; border-radius: 3px; font-size: 0.92em; overflow-wrap: anywhere; }
+
+label.field { display: block; font-size: 14px; font-weight: 600; margin: 0 0 6px; }
+input[type="text"], textarea {
+  width: 100%; font: inherit; font-size: 15px; color: var(--ink); background: var(--paper);
+  border: 1px solid var(--line); border-radius: var(--radius-s); padding: 10px 12px;
+}
+textarea { min-height: 200px; resize: vertical; font-size: 14px; line-height: 1.45; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+button, .file-btn {
+  font: inherit; font-size: 14px; font-weight: 500; padding: 8px 14px; border-radius: var(--radius-s);
+  border: 1px solid var(--line); background: var(--paper); color: var(--ink); cursor: pointer;
+}
+button.primary { background: var(--mail-blue); border-color: var(--mail-blue); color: var(--on-primary); }
+.file-btn input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.privacy { font-size: 13px; color: var(--muted); margin: 10px 0 0; }
+
+.notice { border-radius: var(--radius-s); padding: 10px 12px; margin: 8px 0; font-size: 14px; }
+.notice.warn { background: var(--warn-bg); color: var(--warn-ink); }
+.notice.err { background: var(--sheet); border: 1px solid var(--mail-red); border-left-width: 4px; }
+
+.summary { font-size: 17px; margin: 0 0 6px; }
+.summary b { font-variant-numeric: tabular-nums; }
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+/* 좁은 화면에서는 칸이 찌그러지지 않게 표에 최소 너비를 주고, 표만 옆으로 밀어서 본다 */
+#feat-table, #kw-table { min-width: 560px; }
+#list-table { min-width: 760px; }
+#list-table td:nth-child(4) { min-width: 140px; }
+.scroll-hint { display: none; font-size: 12px; color: var(--muted); margin: 0 0 6px; }
+@media (max-width: 600px) { .scroll-hint { display: block; } .panel { padding: 14px; } }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-top: 1px solid var(--line); vertical-align: top; }
+th { font-size: 13px; color: var(--muted); font-weight: 600; border-top: 0; }
+td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.gap-pos { color: var(--up); font-weight: 600; }
+.gap-neg { color: var(--down); font-weight: 600; }
+.tag { display: inline-block; font-size: 12px; padding: 0 6px; border-radius: var(--radius-s); background: var(--chip); color: var(--muted); margin-left: 6px; white-space: nowrap; }
+.tag.small { background: var(--warn-bg); color: var(--warn-ink); }
+.bar { display: inline-block; height: 6px; border-radius: 3px; background: var(--mail-blue); vertical-align: middle; margin-right: 6px; }
+.bar.off { background: var(--muted); opacity: .45; }
+.st-sold { color: var(--up); font-weight: 600; white-space: nowrap; }
+.st-unsold { color: var(--down); white-space: nowrap; }
+
+.criteria { margin: 0; padding-left: 20px; }
+.criteria li { margin: 4px 0; }
+.section-note { color: var(--muted); font-size: 13px; margin: -4px 0 10px; }
+footer { color: var(--muted); font-size: 13px; padding: 16px 0 40px; }
+[hidden] { display: none !important; }
+
+/* ---------- 기회 점수 페이지 ---------- */
+.nav-tools { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 14px; margin-top: 4px; }
+.nav-tools a[aria-current="page"] { font-weight: 700; text-decoration: none; }
+.add-row { display: flex; gap: 8px; }
+.add-row input { flex: 1; min-width: 0; }
+.kw-list { list-style: none; margin: 0; padding: 0; }
+.kw { border-top: 1px solid var(--line); padding: 16px 0; }
+.kw:first-child { border-top: 0; padding-top: 4px; }
+.kw-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.kw-name { font-size: 17px; font-weight: 700; margin: 0; overflow-wrap: anywhere; }
+.kw-remove { font-size: 13px; padding: 4px 10px; }
+.kw-links { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0; }
+.kw-links a { font-size: 13px; text-decoration: none; padding: 5px 10px; border: 1px solid var(--line); border-radius: var(--radius-s); background: var(--paper); }
+.kw-links a:hover { border-color: var(--ink); }
+.kw-inputs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.kw-inputs label { font-size: 13px; color: var(--muted); display: block; margin-bottom: 4px; }
+.kw-inputs input { width: 100%; }
+.verdict { margin-top: 12px; padding: 10px 12px; border-radius: var(--radius-s); background: var(--paper); font-size: 14px; }
+.verdict b { font-size: 16px; }
+.verdict .ratio { font-variant-numeric: tabular-nums; }
+.band-hot b, .band-good b { color: var(--up); }
+.band-fair b { color: var(--warn-ink); }
+.band-crowded b { color: var(--down); }
+.sourcing { display: flex; align-items: center; gap: 8px; font-size: 14px; margin-top: 10px; }
+.rank-table td:first-child { font-weight: 600; }
+/* 모바일: 비교표는 최소 너비를 주고 옆으로 밀어서 보기, 버튼 글자는 줄바꿈하지 않기 */
+#rank-table { min-width: 600px; }
+#rank-table td, #rank-table th { white-space: nowrap; }
+#rank-table td:first-child { white-space: normal; min-width: 160px; }
+.kw-remove { flex: none; white-space: nowrap; }
