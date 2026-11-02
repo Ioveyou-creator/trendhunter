@@ -1,0 +1,129 @@
+/* 대시보드 전용 스타일 (공통 토큰과 기본 요소는 tool.css)
+ * 15단계 개편 목표: 모바일 첫 화면에 후보 5개 이상, 새로 뜬 후보가 위로, 이벤트는 따로.
+ * 참고: Exploding Topics의 "핵심 숫자 2개 + 짧은 목록 + 필터 한 줄" 구성 */
+
+:root { --stamp: "Black Han Sans", "IBM Plex Sans KR", sans-serif; --new-bg: #fde8eb; --row-hover: #f7f9fb; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --new-bg: #3b1a22; --row-hover: #1b2436; } }
+:root[data-theme="dark"] { --new-bg: #3b1a22; --row-hover: #1b2436; }
+
+/* ---------- 머리: 작게 ---------- */
+.dash-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 18px 0 6px; }
+.dash-head h1 { margin: 2px 0 0; font-size: 26px; }
+.dash-head .lede { margin: 2px 0 0; font-size: 14px; }
+.postmark {
+  flex: none; width: 76px; height: 76px; border: 2px solid var(--mail-red); border-radius: 50%;
+  display: grid; place-content: center; text-align: center; color: var(--mail-red); transform: rotate(-8deg); position: relative;
+}
+.postmark::before { content: ""; position: absolute; inset: 5px; border: 1px solid var(--mail-red); border-radius: 50%; opacity: .5; }
+.pm-year { font-size: 10px; font-weight: 600; letter-spacing: .06em; }
+.pm-day { font-family: var(--stamp); font-size: 21px; line-height: 1.05; }
+.pm-zone { font-size: 9px; font-weight: 600; letter-spacing: .08em; }
+.status-line { min-height: 20px; display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--muted); margin: 4px 0 0; }
+.status-line .src { display: inline-flex; align-items: center; gap: 5px; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: var(--up); }
+.dot.fail { background: var(--mail-red); }
+.status-line strong { color: var(--ink); font-weight: 600; }
+@media (max-width: 600px) {
+  .dash-head { padding-top: 12px; }
+  .dash-head h1 { font-size: 21px; }
+  .dash-head .lede { display: none; }
+  .status-line { min-height: 40px; } /* 두 줄로 접히는 자리 미리 확보 (레이아웃 밀림 방지) */
+  .postmark { width: 58px; height: 58px; }
+  .pm-day { font-size: 16px; }
+  .pm-year, .pm-zone { font-size: 8px; }
+}
+
+/* ---------- 탭 ---------- */
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin: 12px 0 0; overflow-x: auto; }
+.tabs button {
+  border: 0; border-bottom: 3px solid transparent; border-radius: 0; background: none; color: var(--muted);
+  padding: 10px 12px 9px; font-size: 15px; font-weight: 600; white-space: nowrap; cursor: pointer;
+}
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--mail-blue); }
+.tabs .count { font-weight: 400; font-size: 13px; margin-left: 4px; }
+.tab-panel { padding-top: 10px; }
+
+/* 필터 한 줄 */
+.filter-row { display: flex; gap: 6px; overflow-x: auto; padding: 2px 0 10px; scrollbar-width: none; }
+.filter-row::-webkit-scrollbar { display: none; }
+.filter-row button { border-radius: 999px; padding: 5px 12px; font-size: 13px; white-space: nowrap; background: var(--sheet); }
+.filter-row button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+/* 지금 준비할 이벤트: 새로 뜬 후보 탭 위 한 줄 알림 (모바일은 한 줄로 자름) */
+.now-strip { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 13px; margin: 0 0 10px; padding: 8px 12px; background: var(--sheet); border: 1px solid var(--line); border-left: 3px solid var(--mail-red); border-radius: var(--radius-s); }
+.now-strip b { color: var(--mail-red); }
+.now-strip button { padding: 2px 8px; font-size: 12px; }
+
+/* ---------- 후보 행 ---------- */
+.rows { list-style: none; margin: 0; padding: 0; background: var(--sheet); border: 1px solid var(--line); border-radius: var(--radius-m); }
+.rows > li { border-top: 1px solid var(--line); }
+.rows > li:first-child { border-top: 0; }
+.row-d { display: block; }
+.row-d > summary { box-sizing: border-box; width: 100%; list-style: none; cursor: pointer; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 10px 14px; }
+.row-d > summary::-webkit-details-marker { display: none; }
+.row-d > summary:hover { background: var(--row-hover); }
+.row-d[open] > summary { background: var(--row-hover); }
+.r-title { margin: 0; font-size: 15px; font-weight: 600; line-height: 1.35; overflow-wrap: anywhere;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.row-d[open] .r-title { -webkit-line-clamp: unset; }
+.r-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; font-size: 12px; color: var(--muted); grid-column: 1; }
+.r-score { grid-row: 1 / 3; grid-column: 2; text-align: right; align-self: center; }
+.r-score b { display: block; font-size: 20px; line-height: 1; font-variant-numeric: tabular-nums; }
+.r-score span { font-size: 11px; color: var(--muted); }
+.badge-new { background: var(--new-bg); color: var(--mail-red); font-weight: 700; padding: 0 6px; border-radius: var(--radius-s); font-size: 11px; margin-right: 6px; vertical-align: 1px; }
+.mv-up { color: var(--up); font-weight: 700; margin-right: 6px; font-size: 12px; }
+.mv-down { color: var(--down); font-weight: 600; margin-right: 6px; font-size: 12px; }
+.spark { display: inline-flex; align-items: center; gap: 4px; }
+.spark svg { display: block; overflow: visible; }
+
+.row-body { padding: 4px 14px 14px; font-size: 14px; }
+.row-body .actions { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0 10px; }
+.row-body .actions a { font-size: 13px; text-decoration: none; padding: 6px 12px; border-radius: var(--radius-s); border: 1px solid var(--line); background: var(--paper); }
+.row-body .actions a.primary { background: var(--mail-blue); border-color: var(--mail-blue); color: var(--on-primary); }
+.row-body ul { margin: 4px 0 0; padding-left: 18px; }
+.row-body .ev-list { list-style: none; padding: 0; color: var(--muted); font-size: 13px; }
+.row-body .ev-list li { margin: 3px 0; overflow-wrap: anywhere; }
+.row-body .src-name { color: var(--ink); font-weight: 500; margin-right: 6px; }
+.query-line { color: var(--muted); font-size: 13px; margin: 0; }
+.query-line b { color: var(--ink); font-weight: 500; }
+
+/* 이벤트 행: 날짜를 앞에 */
+.ev-when { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--ink); }
+.ev-now .ev-when { color: var(--mail-red); }
+.ev-state { font-size: 12px; color: var(--muted); }
+
+.empty { padding: 28px 16px; text-align: center; color: var(--muted); }
+.side-note { font-size: 13px; color: var(--muted); margin: 10px 2px 0; }
+.notice { background: var(--sheet); border: 1px solid var(--line); border-left: 4px solid var(--mail-red); border-radius: var(--radius-s); padding: 12px 14px; margin: 12px 0; font-size: 14px; }
+
+/* 넓은 화면: 왼쪽 후보, 오른쪽 이벤트 미리보기 */
+.dash-grid { display: block; }
+@media (min-width: 1000px) {
+  .dash-grid { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 24px; align-items: start; }
+  .dash-aside { position: sticky; top: 12px; }
+}
+.dash-aside h2 { font-size: 15px; margin: 14px 0 8px; }
+.dash-aside .mini { list-style: none; margin: 0; padding: 0; font-size: 13px; }
+.dash-aside .mini li { padding: 6px 0; border-top: 1px solid var(--line); display: flex; gap: 8px; }
+.dash-aside .mini li:first-child { border-top: 0; }
+@media (max-width: 999px) { .dash-aside { display: none; } }
+
+/* 기타 급상승: 펼칠 내용이 없는 단순 행 */
+.row-plain { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 10px 14px; }
+.row-plain .r-title { font-size: 14px; -webkit-line-clamp: 1; }
+.dash-aside .ev-now .ev-when { color: var(--mail-red); }
+.dash-aside .ev-when { min-width: 3.2em; }
+
+@media (max-width: 600px) {
+  .now-strip { flex-wrap: nowrap; padding: 6px 10px; }
+  .now-strip > span { min-width: 0; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .now-strip b, .now-strip button { flex: none; }
+  .row-d > summary { padding: 9px 12px; }
+  .tabs button { padding: 9px 10px 8px; font-size: 14px; }
+}
+
+/* 데이터가 오기 전에는 목록 영역을 그리지 않는다.
+ * 빈 틀을 먼저 그리면 데이터가 들어올 때 아래쪽이 크게 밀려 (Lighthouse CLS 0.7) 읽던 자리를 잃는다. */
+.loading .tabs, .loading .dash-grid, .loading footer { display: none; }
+/* 추이 그래프(높이 20px)가 나중에 붙어도 행 높이가 변하지 않게 */
+.r-meta { min-height: 20px; }
