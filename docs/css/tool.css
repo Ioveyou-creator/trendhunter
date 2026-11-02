@@ -117,3 +117,29 @@ footer { color: var(--muted); font-size: 13px; padding: 16px 0 40px; }
 #rank-table td, #rank-table th { white-space: nowrap; }
 #rank-table td:first-child { white-space: normal; min-width: 160px; }
 .kw-remove { flex: none; white-space: nowrap; }
+
+/* ---------- 제목 빌더 ---------- */
+.preview-panel { position: sticky; top: 0; z-index: 2; box-shadow: 0 1px 0 var(--line); }
+@media (max-width: 600px) { .preview-panel { position: static; } }
+.title-out { display: block; font-size: 18px; font-weight: 600; line-height: 1.45; padding: 10px 12px; background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius-s); overflow-wrap: anywhere; min-height: 48px; }
+.title-out.empty { color: var(--muted); font-weight: 400; font-size: 15px; }
+.len-bar { height: 4px; background: var(--chip); border-radius: 2px; margin-top: 8px; overflow: hidden; }
+.len-bar i { display: block; height: 100%; width: 0; background: var(--mail-blue); transition: width .15s; }
+.len-bar i.over { background: var(--mail-red); }
+@media (prefers-reduced-motion: reduce) { .len-bar i { transition: none; } }
+.checks { list-style: none; margin: 10px 0 0; padding: 0; font-size: 14px; }
+.checks li { display: flex; gap: 8px; padding: 3px 0; }
+.chk-mark { flex: none; width: 18px; text-align: center; font-weight: 700; }
+.chk-ok .chk-mark { color: var(--up); }
+.chk-warn .chk-mark { color: var(--warn-ink); }
+.chk-error { color: var(--mail-red); }
+.fields { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 600px) { .fields { grid-template-columns: 1fr; } }
+.fld input { width: 100%; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+.chip { border-radius: 999px; padding: 6px 12px; }
+.chip-meta { color: var(--muted); font-size: 12px; }
+.pre-list { list-style: none; margin: 0; padding: 0; }
+.pre-list li { padding: 10px 0; border-top: 1px solid var(--line); }
+.pre-list li:first-child { border-top: 0; }
+.pre-list label { cursor: pointer; }

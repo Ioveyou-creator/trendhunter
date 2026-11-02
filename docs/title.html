@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; connect-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; form-action 'none'; base-uri 'none'">
+<title>리스팅 제목 빌더 · TrendHunter</title>
+<meta name="description" content="eBay 80자 제한 안에서 검색에 잘 걸리는 리스팅 제목을 만들고, 팔린 리스팅에 자주 나온 빠진 키워드를 알려주는 도구">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tool.css">
+</head>
+<body>
+<div class="airmail" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <nav class="nav-tools" aria-label="도구">
+      <a href="./">대시보드</a>
+      <a href="opportunity.html">기회 점수</a>
+      <a href="analyzer.html">답안지 분석기</a>
+      <a href="title.html" aria-current="page">제목 빌더</a>
+    </nav>
+    <h1>리스팅 제목 빌더</h1>
+    <p class="lede">칸을 채우면 중요한 순서대로 80자 안에 배치합니다. 답안지를 넣으면 팔린 리스팅에 자주 나왔는데 빠진 단어도 알려줍니다.</p>
+  </header>
+
+  <!-- 미리보기를 맨 위에: 칸을 고칠 때마다 결과가 바로 보이도록 -->
+  <section class="panel preview-panel" aria-labelledby="pv-h">
+    <h2 id="pv-h">제목</h2>
+    <output class="title-out" id="title-out" aria-live="polite">칸을 채우면 여기에 제목이 만들어집니다.</output>
+    <div class="len-bar" aria-hidden="true"><i id="len-fill"></i></div>
+    <div class="row" style="margin-top:8px">
+      <button type="button" class="primary" id="copy">제목 복사</button>
+      <span id="copy-msg" class="privacy" aria-live="polite"></span>
+    </div>
+    <p class="section-note" id="dropped" hidden></p>
+    <ul class="checks" id="checks"></ul>
+  </section>
+
+  <section class="panel" aria-labelledby="in-h">
+    <h2 id="in-h">상품 정보</h2>
+    <p class="section-note">앞 칸일수록 제목 앞쪽에 옵니다. 80자를 넘으면 아래 칸부터 빠집니다. 실제 상품에 없는 특징은 넣지 마세요.</p>
+    <div class="fields" id="fields"></div>
+    <label class="field" for="extra" style="margin-top:12px">추가 키워드 (쉼표로 구분)</label>
+    <input type="text" id="extra" autocomplete="off" placeholder="예: POB, Official">
+  </section>
+
+  <section class="panel" aria-labelledby="sug-h">
+    <h2 id="sug-h">빠진 키워드</h2>
+    <details class="howto" id="sheet-box">
+      <summary>답안지에서 키워드 가져오기</summary>
+      <p class="section-note" style="margin-top:8px">같은 상품의 eBay 완료 리스팅을 붙여넣으세요 (답안지 분석기와 같은 형식). 팔린 리스팅에 2번 이상 나오고, 들어간 쪽이 더 잘 팔린 단어만 제안합니다.</p>
+      <textarea id="sheet" spellcheck="false" style="min-height:140px" placeholder="판매됨 2026년 11월 2일&#10;제목...&#10;₩2,521"></textarea>
+      <div class="row"><button type="button" id="sheet-run">키워드 찾기</button><button type="button" id="sheet-sample">가상 예시</button></div>
+      <p class="privacy" id="sheet-msg"></p>
+    </details>
+    <div class="chips" id="chips"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="pre-h">
+    <h2 id="pre-h">리스팅 전 점검</h2>
+    <p class="section-note">제목 밖에서 판매에 영향을 줄 수 있는 것들입니다. 아래 두 가지는 <a href="https://github.com/Ioveyou-creator/trendhunter/blob/main/analysis/2026-11-02-pokemon-broad-search.md" target="_blank" rel="noopener noreferrer">실제 데이터 분석</a>에서 나온 <b>가설</b>이고, 아직 같은 상품 데이터로 확인하지 않았습니다.</p>
+    <ul class="pre-list">
+      <li><label><input type="checkbox" class="pre"> <b>판매 형식</b> <span class="tag small">가설</span><br>
+        <span class="section-note">경매보다 고정가(+가격 제안)로 올린 리스팅이 더 많이 팔렸습니다 (13/16 vs 3/8). 특별한 이유가 없다면 고정가를 먼저 고려하세요.</span></label></li>
+      <li><label><input type="checkbox" class="pre"> <b>발송지와 배송 기간</b> <span class="tag small">가설</span><br>
+        <span class="section-note">미국 밖에서 발송하는 리스팅이 덜 팔렸습니다 (1/6 vs 15/18). 한국 발송이라면 예상 배송 기간과 배송 방법을 명확히 적고, 총액(가격+배송)을 경쟁 리스팅과 비교하세요.</span></label></li>
+      <li><label><input type="checkbox" class="pre"> <b>상품 정보(Item specifics)</b><br>
+        <span class="section-note">브랜드, 상태, 언어 등은 eBay 검색 필터에 쓰입니다. 제목에 넣은 내용과 같게 채우세요.</span></label></li>
+      <li><label><input type="checkbox" class="pre"> <b>국내 소싱</b><br>
+        <span class="section-note">재고 없이 판매한다면, 팔린 뒤 바로 구할 수 있는지 다시 확인하세요.</span></label></li>
+    </ul>
+  </section>
+
+  <footer>TrendHunter v2 · 제목 규칙: <code>skills/ebay-seo-lens/references/ebay-title-rules.md</code></footer>
+</div>
+<script src="js/listing-parser.js"></script>
+<script src="js/title-builder.js"></script>
+<script src="js/title-page.js"></script>
+</body>
+</html>
