@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 이 페이지는 외부 서버에 데이터를 보낼 수 없다: 접속은 같은 사이트(예시 파일)만 허용 -->
+<meta http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; connect-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; form-action 'none'; base-uri 'none'">
+<title>답안지 분석기 · TrendHunter</title>
+<meta name="description" content="eBay 완료 리스팅을 붙여넣으면 팔린 것과 안 팔린 것을 비교해 판매를 가르는 요인 후보를 보여주는 도구">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f2f4f6; --sheet: #ffffff; --ink: #17233b; --muted: #5d6b80; --line: #dde3ea;
+    --mail-red: #c8102e; --mail-blue: #1f3f9a; --up: #0b7a55; --down: #a3412b;
+    --chip: #e9edf2; --warn-bg: #fff4e0; --warn-ink: #7a4a00; --focus: #1f3f9a; --on-primary: #ffffff;
+    --radius-s: 4px; --radius-m: 10px;
+    --font: "IBM Plex Sans KR", system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #0f1522; --sheet: #161e2e; --ink: #e6ebf3; --muted: #9aa7ba; --line: #273247;
+      --mail-red: #f0566b; --mail-blue: #7d9cf0; --up: #4cc79a; --down: #f08a6f;
+      --chip: #212b3d; --warn-bg: #3a2a10; --warn-ink: #f3c97a; --focus: #7d9cf0; --on-primary: #0f1522;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0f1522; --sheet: #161e2e; --ink: #e6ebf3; --muted: #9aa7ba; --line: #273247;
+    --mail-red: #f0566b; --mail-blue: #7d9cf0; --up: #4cc79a; --down: #f08a6f;
+    --chip: #212b3d; --warn-bg: #3a2a10; --warn-ink: #f3c97a; --focus: #7d9cf0; --on-primary: #0f1522;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.55; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .airmail { height: 10px; background: repeating-linear-gradient(-45deg,
+    var(--mail-red) 0 18px, transparent 18px 26px, var(--mail-blue) 26px 44px, transparent 44px 52px); }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+  @media (max-width: 600px) { .wrap { padding: 0 16px; } }
+
+  header { padding: 24px 0 8px; }
+  .crumb { font-size: 14px; color: var(--muted); }
+  .crumb a { color: var(--muted); }
+  h1 { margin: 6px 0 0; font-size: 28px; line-height: 1.2; }
+  .lede { margin: 6px 0 0; color: var(--muted); max-width: 60ch; }
+  h2 { font-size: 18px; margin: 0 0 10px; }
+
+  .panel { background: var(--sheet); border: 1px solid var(--line); border-radius: var(--radius-m); padding: 18px; margin: 16px 0; }
+  details.howto summary { cursor: pointer; font-weight: 600; }
+  details.howto ol { margin: 10px 0 0; padding-left: 20px; }
+  details.howto li { margin: 6px 0; }
+  code { background: var(--chip); padding: 1px 6px; border-radius: 3px; font-size: 0.92em; overflow-wrap: anywhere; }
+
+  label.field { display: block; font-size: 14px; font-weight: 600; margin: 0 0 6px; }
+  input[type="text"], textarea {
+    width: 100%; font: inherit; font-size: 15px; color: var(--ink); background: var(--paper);
+    border: 1px solid var(--line); border-radius: var(--radius-s); padding: 10px 12px;
+  }
+  textarea { min-height: 200px; resize: vertical; font-size: 14px; line-height: 1.45; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+  button, .file-btn {
+    font: inherit; font-size: 14px; font-weight: 500; padding: 8px 14px; border-radius: var(--radius-s);
+    border: 1px solid var(--line); background: var(--paper); color: var(--ink); cursor: pointer;
+  }
+  button.primary { background: var(--mail-blue); border-color: var(--mail-blue); color: var(--on-primary); }
+  .file-btn input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+  .privacy { font-size: 13px; color: var(--muted); margin: 10px 0 0; }
+
+  .notice { border-radius: var(--radius-s); padding: 10px 12px; margin: 8px 0; font-size: 14px; }
+  .notice.warn { background: var(--warn-bg); color: var(--warn-ink); }
+  .notice.err { background: var(--sheet); border: 1px solid var(--mail-red); border-left-width: 4px; }
+
+  .summary { font-size: 17px; margin: 0 0 6px; }
+  .summary b { font-variant-numeric: tabular-nums; }
+  .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  /* 좁은 화면에서는 칸이 찌그러지지 않게 표에 최소 너비를 주고, 표만 옆으로 밀어서 본다 */
+  #feat-table, #kw-table { min-width: 560px; }
+  #list-table { min-width: 760px; }
+  #list-table td:nth-child(4) { min-width: 140px; }
+  .scroll-hint { display: none; font-size: 12px; color: var(--muted); margin: 0 0 6px; }
+  @media (max-width: 600px) { .scroll-hint { display: block; } .panel { padding: 14px; } }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; }
+  th, td { text-align: left; padding: 8px 10px; border-top: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 13px; color: var(--muted); font-weight: 600; border-top: 0; }
+  td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .gap-pos { color: var(--up); font-weight: 600; }
+  .gap-neg { color: var(--down); font-weight: 600; }
+  .tag { display: inline-block; font-size: 12px; padding: 0 6px; border-radius: var(--radius-s); background: var(--chip); color: var(--muted); margin-left: 6px; white-space: nowrap; }
+  .tag.small { background: var(--warn-bg); color: var(--warn-ink); }
+  .bar { display: inline-block; height: 6px; border-radius: 3px; background: var(--mail-blue); vertical-align: middle; margin-right: 6px; }
+  .bar.off { background: var(--muted); opacity: .45; }
+  .st-sold { color: var(--up); font-weight: 600; white-space: nowrap; }
+  .st-unsold { color: var(--down); white-space: nowrap; }
+
+  .criteria { margin: 0; padding-left: 20px; }
+  .criteria li { margin: 4px 0; }
+  .section-note { color: var(--muted); font-size: 13px; margin: -4px 0 10px; }
+  footer { color: var(--muted); font-size: 13px; padding: 16px 0 40px; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="airmail" aria-hidden="true"></div>
+<div class="wrap">
+  <header>
+    <div class="crumb"><a href="./">TrendHunter 대시보드</a> / 답안지 분석기</div>
+    <h1>답안지 분석기</h1>
+    <p class="lede">같은 상품의 eBay 완료 리스팅을 붙여넣으면, 팔린 것과 안 팔린 것이 어디서 갈렸는지 숫자로 비교합니다.</p>
+  </header>
+
+  <section class="panel">
+    <details class="howto">
+      <summary>데이터는 어떻게 가져오나요?</summary>
+      <ol>
+        <li><b>PC 브라우저:</b> eBay에서 상품을 검색하고 필터에서 <b>Completed items(완료된 리스팅)</b>만 켭니다. Sold items는 켜지 마세요. 팔린 것과 안 팔린 것이 함께 나와야 비교할 수 있습니다.<br>
+          주소로 바로 가기: <code>https://www.ebay.com/sch/i.html?_nkw=검색어&amp;LH_Complete=1</code></li>
+        <li>결과 화면에서 <b>전체 선택(Ctrl+A) → 복사(Ctrl+C)</b> 후 아래 칸에 붙여넣습니다. 영어 화면과 한국어 화면 모두 읽습니다.</li>
+        <li><b>모바일 앱:</b> 앱에서는 결과 화면 전체를 복사할 수 없습니다. 스크린샷을 AI(<code>ebay-seo-lens</code> 스킬)에게 주고 CSV로 바꿔 달라고 한 뒤, 그 CSV를 붙여넣으세요.</li>
+        <li><b>CSV 형식:</b> 첫 줄에 <code>title,price,shipping,status</code>. status는 <code>sold</code>/<code>unsold</code> 또는 <code>판매됨</code>/<code>종료됨</code>.</li>
+      </ol>
+    </details>
+  </section>
+
+  <section class="panel" aria-labelledby="input-h">
+    <h2 id="input-h">답안지 넣기</h2>
+    <label class="field" for="product">상품 / 검색어 (보고서 제목에만 쓰임, 선택)</label>
+    <input type="text" id="product" placeholder="예: pokemon delta reign booster box" autocomplete="off">
+    <label class="field" for="raw" style="margin-top:12px">eBay 완료 리스팅 붙여넣기 또는 CSV</label>
+    <textarea id="raw" spellcheck="false" placeholder="판매됨 2026년 11월 2일&#10;Pokemon ... 제목&#10;₩2,521&#10;+배송비 ₩18,502&#10;..."></textarea>
+    <div class="row">
+      <button type="button" class="primary" id="run">분석하기</button>
+      <label class="file-btn">파일 열기 (.txt, .csv)<input type="file" id="file" accept=".txt,.csv,text/plain,text/csv"></label>
+      <button type="button" id="sample-real">실제 예시 (포켓몬, 한국어 화면)</button>
+      <button type="button" id="sample-synth">가상 예시 (정답 있음)</button>
+      <button type="button" id="clear">지우기</button>
+    </div>
+    <p class="privacy">붙여넣은 내용은 이 브라우저 안에서만 계산됩니다. 이 페이지는 외부 서버에 접속할 수 없도록 설정되어 있어 어디로도 전송되지 않습니다.</p>
+  </section>
+
+  <div id="errors" aria-live="polite"></div>
+
+  <div id="results" hidden>
+    <section class="panel" aria-labelledby="sum-h">
+      <h2 id="sum-h">답안지 요약</h2>
+      <p class="summary" id="summary"></p>
+      <div id="warnings"></div>
+      <div class="table-scroll"><table id="price-table"></table></div>
+      <div class="row"><button type="button" id="copy">결과를 AI용 텍스트로 복사</button><span id="copy-msg" class="privacy" aria-live="polite"></span></div>
+    </section>
+
+    <section class="panel" aria-labelledby="pick-h">
+      <h2 id="pick-h">핵심 변수 고르기</h2>
+      <p class="section-note">아래 표는 차이가 큰 순서일 뿐입니다. 숫자가 가장 큰 것을 그대로 고르지 말고, 네 가지를 모두 통과하는 하나를 고르세요.</p>
+      <ol class="criteria">
+        <li><b>표본이 받쳐 주는가:</b> <span class="tag small">표본 작음</span> 표시가 붙은 행은 우연일 수 있습니다.</li>
+        <li><b>다른 요인으로 설명되지 않는가:</b> 예를 들어 무료 배송이 잘 팔려도, 그 리스팅들이 전부 더 싸다면 진짜 원인은 총액일 수 있습니다.</li>
+        <li><b>판매자가 바꿀 수 있는가:</b> 입찰 수나 "베스트 오퍼 수락됨"은 팔린 <i>결과</i>라서 비교하지 않습니다.</li>
+        <li><b>구체적인가:</b> "제목 앞쪽에 NM을 넣는다"처럼 다음 리스팅에서 그대로 할 수 있어야 합니다.</li>
+      </ol>
+    </section>
+
+    <section class="panel" aria-labelledby="feat-h">
+      <h2 id="feat-h">리스팅 조건별 판매율</h2>
+      <p class="scroll-hint">표를 옆으로 밀어서 보세요 →</p>
+      <div class="table-scroll"><table id="feat-table"></table></div>
+    </section>
+
+    <section class="panel" aria-labelledby="kw-h">
+      <h2 id="kw-h">제목 키워드별 판매율</h2>
+      <p class="section-note" id="kw-note"></p>
+      <p class="scroll-hint">표를 옆으로 밀어서 보세요 →</p>
+      <div class="table-scroll"><table id="kw-table"></table></div>
+    </section>
+
+    <section class="panel" aria-labelledby="list-h">
+      <h2 id="list-h">인식한 리스팅</h2>
+      <p class="section-note">파서가 이렇게 읽었습니다. 원본과 다르면 아래 "인식하지 못한 줄"과 함께 확인하세요.</p>
+      <p class="scroll-hint">표를 옆으로 밀어서 보세요 →</p>
+      <div class="table-scroll"><table id="list-table"></table></div>
+    </section>
+
+    <section class="panel" id="unparsed-sec" aria-labelledby="unp-h" hidden>
+      <h2 id="unp-h">인식하지 못한 줄</h2>
+      <p class="section-note">eBay 화면 형식이 바뀌었거나 예상하지 못한 줄입니다. 분석에서는 빠졌습니다.</p>
+      <ul id="unparsed"></ul>
+    </section>
+  </div>
+
+  <footer>TrendHunter v2 · 같은 규칙을 쓰는 파이썬 버전: <code>skills/ebay-seo-lens/scripts/analyze_listings.py</code></footer>
+</div>
+<script src="js/listing-parser.js"></script>
+<script src="js/analyzer.js"></script>
+</body>
+</html>

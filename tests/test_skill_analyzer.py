@@ -78,5 +78,44 @@ class TestNoListings(unittest.TestCase):
         self.assertEqual(listings, [])
 
 
+class TestRealKoreanMobile(unittest.TestCase):
+    """2026-11-02 실제 eBay 한국어 모바일 화면을 옮겨 적은 데이터.
+
+    가상 데이터로만 만든 첫 파서는 이 형식을 한 줄도 읽지 못했다. 다시 그렇게 되지 않도록 고정한다.
+    """
+
+    def setUp(self):
+        path = ROOT / "tests" / "fixtures" / "real" / "pokemon_mobile_kr_2026-11-02.txt"
+        self.listings, self.unparsed, self.fmt = al.parse(path.read_text(encoding="utf-8"), path.name)
+        self.result = al.analyze(self.listings)
+        # 제목 앞 N글자로 찾으면 이모지 때문에 위치가 밀려서, 제목에 들어 있는 단어로 찾는다
+        self.find = lambda word: next(l for l in self.listings if word in l["title"])
+
+    def test_counts_and_currency(self):
+        self.assertEqual(self.result["counts"]["total"], 24)
+        self.assertEqual((self.result["counts"]["sold"], self.result["counts"]["unsold"]), (16, 8))
+        self.assertEqual(self.result["currency"], "KRW")
+        self.assertEqual(self.unparsed, [])
+
+    def test_discount_price_takes_current_price(self):
+        # "₩2,521 · ₩2,655" → 앞의 할인된 가격
+        self.assertEqual(self.find("Barraskewda")["price"], 2521.0)
+
+    def test_shipping_variants(self):
+        self.assertEqual(self.find("Gwynn")["shipping"], 30695.0)   # +배송비 ₩30,695
+        self.assertEqual(self.find("SNORLAX")["shipping"], 0.0)       # 무료 국제 배송
+        self.assertEqual(self.find("SNORLAX")["location"], "네덜란드")  # 출발지 네덜란드
+
+    def test_auction_and_offer(self):
+        gwynn = self.find("Gwynn")
+        self.assertTrue(gwynn["auction"])
+        self.assertEqual(gwynn["bids"], 0)
+        houndoom = self.find("HOUNDOOM")
+        self.assertTrue(houndoom["offer_accepted"])  # 베스트 오퍼 수락됨: 팔린 결과
+
+    def test_missing_price_reported(self):
+        self.assertEqual(self.result["missing_price"], 1)
+
+
 if __name__ == "__main__":
     unittest.main()
