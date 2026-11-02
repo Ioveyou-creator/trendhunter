@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-01T01:14:46+00:00",
+  "fetched_at": "2026-11-02T01:32:14+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "ban vs ind",
+      "keyword": "raptors vs lakers",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9U3CvyqkVhlZ1CWsQ80-IAdgyvdW35a3SJRqRM6za0vnSkAM9HcNXz_vgivE",
+      "news": [
+        {
+          "title": "4 Biggest Storylines: Raptors vs. Lakers",
+          "url": "https://sports.yahoo.com/articles/4-biggest-storylines-raptors-vs-110006613.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Lakers vs. Raptors Preview: Bounce back game",
+          "url": "https://www.silverscreenandroll.com/lakers-game-previews/128215/lakers-vs-raptors-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-scottie-barnes",
+          "source": "Silver Screen and Roll"
+        },
+        {
+          "title": "Raptors vs. Lakers Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 1",
+          "url": "https://www.si.com/betting/raptors-vs-lakers-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-1-2026",
+          "source": "Sports Illustrated"
+        }
+      ]
+    },
+    {
+      "keyword": "travis kelce",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbo2PH_rrHSVsyanKqIcFD9027k0wiKBbMF6IWWUD3330tqOXpBucsBQUDN90",
+      "news": [
+        {
+          "title": "Why Taylor Swift Hasn’t Been Seen at Travis Kelce’s Chiefs-Seahawks Game in Seattle",
+          "url": "https://www.elle.com/culture/celebrities/a74241747/taylor-swift-travis-kelce-chiefs-seahawks-game-attendance-explained-october-2026/",
+          "source": "ELLE"
+        },
+        {
+          "title": "Taylor Swift Makes Rare ‘Husband’ Comment Before Chiefs-Broncos Game",
+          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/taylor-swift-travis-kelce-husband-comment-before-broncos-game/",
+          "source": "Heavy.com"
+        },
+        {
+          "title": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts",
+          "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
+          "source": "ESPN"
+        }
+      ]
+    },
+    {
+      "keyword": "saquon barkley",
       "traffic": 5000,
       "traffic_label": "5000+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhI0UTjC7YhW5OYeIOtVVUrgtDl3edCChNxyVlVitgsIIa9Bz5ZKE5tFC-ro",
+      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoBV-IwJ636sXrB4LMp80CDEOQzylGG-XL3esk1c-B3Ql_sYjCX_k9G9i7aNA",
       "news": [
         {
-          "title": "WTC points table after BAN vs WI 1st Test: India move up to fourth as Bangladesh drop to fifth after eight-wicket defeat",
-          "url": "https://www.livemint.com/sports/cricket-news/wtc-points-table-after-ban-vs-wi-1st-test-india-move-up-to-fourth-as-bangladesh-drop-to-fifth-after-eight-wicket-defeat-11793452888042.html",
-          "source": "Livemint"
-        },
-        {
-          "title": "BAN vs IND, 11th/12th Bowl, Play-off, Hong Kong Sixes 2026 - Commentary",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/175190/ban-vs-ind-11th12th-bowl-play-off-hong-kong-sixes-2026",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
-          "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
-          "source": "NDTV Profit"
-        }
-      ]
-    },
-    {
-      "keyword": "jordin canada",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sat, 31 Oct 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU3TYasPnyB40qlKry3wPPI50xMxRube9hUYmWt8sYEE2EZNJFeMjQEtYzCt4",
-      "news": [
-        {
-          "title": "Jordin Canada Is the Dream’s Biggest X-Factor",
-          "url": "https://sports.yahoo.com/articles/jordin-canada-dream-biggest-x-030847871.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "“Even in Games Two or Three That We Have Won, We Haven’t Been Playing the Best”: Angel Reese’s Teammate Raises Locker Room Alarm Before Dream’s Game 6",
-          "url": "https://www.essentiallysports.com/wnba-basketball-news-even-in-games-two-or-three-that-we-have-won-we-havent-been-playing-the-best-angel-reese-s-teammate-jordin-canada-raises-locker-room-alarm-before-dreams-game-six/",
-          "source": "EssentiallySports"
-        },
-        {
-          "title": "The Atlanta Dream Had A WNBA Championship Within Reach And Watched It Slip Away",
-          "url": "https://www.yardbarker.com/wnba/articles/the_atlanta_dream_had_a_wnba_championship_within_reach_and_watched_it_slip_away/s1_17701_44487457",
-          "source": "Yardbarker"
-        }
-      ]
-    },
-    {
-      "keyword": "jabari walker",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sat, 31 Oct 2026 17:40:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtM7hH22Y_bEL5FE4Pcl3NN1TX6IMyggusmDXfyExhiil50d90pMcqVdShcsQ",
-      "news": [
-        {
-          "title": "Jock Landale (hip) will not return Saturday",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/jock-landale-hip-will-not-return-saturday",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Jabari Walker (knee) out again vs. New York",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-29/jabari-walker-knee-out-again-vs-new-york",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Jock Landale (hip) questionable to return Saturday",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-31/jock-landale-hip-questionable-to-return-saturday",
-          "source": "NBC Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "marcus smart",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 31 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5nhb0tMj167CSShIAnENRCVROOW1hsdmPGU4WK3JuIo_TBbu6bAz6SajCJVA",
-      "news": [
-        {
-          "title": "Rockets' Marcus Smart: Good to go Friday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/rockets-marcus-smart-good-to-go-friday/",
-          "source": "CBS Sports"
-        },
-        {
-          "title": "Marcus Smart (forearm) questionable Monday",
-          "url": "https://www.fantasypros.com/nba/news/615990/marcus-smart-forearm-questionable-monday.php",
-          "source": "FantasyPros"
-        },
-        {
-          "title": "Marcus Smart Injury: Iffy for Friday",
-          "url": "https://www.rotowire.com/basketball/headlines/marcus-smart-injury-iffy-for-friday-536733",
-          "source": "RotoWire"
-        }
-      ]
-    },
-    {
-      "keyword": "chicago fire - colorado",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkNDrvbUYZ_zkGxkehD2oqm53D4h8aKe8FwMEchXR6f0wQwiMTXGHgmPWQeJo",
-      "news": [
-        {
-          "title": "Gameday Guide | Your complete guide to Fan Appreciation Night and our matchup with Chicago Fire FC",
-          "url": "https://www.coloradorapids.com/news/gameday-guide-your-complete-guide-to-fan-appreciation-night-and-our-matchup-with-chicago-fire-fc",
-          "source": "Colorado Rapids"
-        },
-        {
-          "title": "Fire vs. Rapids Prediction October 31: Altitude, Back-Post Crosses and a Halloween Night in Commerce City",
-          "url": "https://urbanmatter.com/chicago/fire-vs-rapids-prediction-october-31-altitude-back-post-crosses-and-a-halloween-night-in-commerce-city/",
-          "source": "UrbanMatter"
-        },
-        {
-          "title": "Colorado taking 'baby steps' towards playoffs, says Wells",
-          "url": "https://www.beinsports.com/en-us/soccer/mls/articles/colorado-taking-baby-steps-towards-playoffs-says-wells-2026-10-30",
-          "source": "beIN SPORTS"
-        }
-      ]
-    },
-    {
-      "keyword": "jelani thurman",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKO9bNGfJ_r5KH1i4CGchymYx-RnsKLz5QuFyRnEad97NTlm0iPGb82CZFS7c",
-      "news": [
-        {
-          "title": "Jelani Thurman Drawing More Defensive Attention as Role in UNC Offense Grows",
-          "url": "https://247sports.com/college/north-carolina/article/unc-football-jelani-thurman-291918286/",
-          "source": "247Sports"
-        },
-        {
-          "title": "33 Years of Carolina Football",
-          "url": "https://roundtable.io/sports/nfl/panthers/community/33-years-of-carolina-football",
-          "source": "roundtable.io"
-        },
-        {
-          "title": "North Carolina Football",
-          "url": "https://www.bdtonline.com/sports/national_sports/north-carolina-football/image_5e7f2f28-fdcc-5ddb-b11e-348046c3cee8.html",
-          "source": "Bluefield Daily Telegraph"
-        }
-      ]
-    },
-    {
-      "keyword": "naz hillmon",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLQ7c-G8NWSBYUsRM6oZVcPECo-YonX1a8w2A4wYEElDfwOr4CHMaThebYTS0",
-      "news": [
-        {
-          "title": "“Never Seen a Play That Dirty Before”, “Clearly An Accident”: Fans Erupt as Naz Hillmon and Veronica Burton Get Tangled Up in Game 6",
-          "url": "https://sports.yahoo.com/articles/never-seen-play-dirty-clearly-232405027.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Rhyne Howard finishes through contact",
-          "url": "https://www.wnba.com/watch/video/rhyne-howard-finishes-through-contact-2",
-          "source": "WNBA"
-        },
-        {
-          "title": "Valkyries Star's Repeated Offense Leaves Rhyne Howard Floored Dream Teammates Rush to Shield with Towels in WNBA Finals",
-          "url": "https://www.essentiallysports.com/valkyries-stars-repeated-offense-leaves-rhyne-howard-floored-dream-teammates-rush-to-shield-with-towels-in-wnba-finals/",
-          "source": "EssentiallySports"
-        }
-      ]
-    },
-    {
-      "keyword": "kaitlyn chen",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sat, 31 Oct 2026 18:00:00 -0700",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKP4HJk7X_cKLRpqpuR5m4nsvIYdGHI1nqdIHnrEMSNsOQTJxVa4r-lj54NPQ",
-      "news": [
-        {
-          "title": "Amid tension of Game 7, Valkyries' Kaitlyn Chen wears hot dog costume",
-          "url": "https://www.sfgate.com/valkyries/article/valkyries-kaitlyn-hot-dog-22504439.php",
-          "source": "SFGATE"
-        },
-        {
-          "title": "Kaitlyn Chen ends first quarter in style for Golden State",
-          "url": "https://www.espn.com/video/clip/_/id/50222623/kaitlyn",
+          "title": "Sources: Saquon Barkley won't be traded by deadline despite Eagles' struggles",
+          "url": "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley",
           "source": "ESPN"
         },
         {
-          "title": "Hot dog! Valkyries' Kaitlyn Chen bids for pregame levity on Halloween",
-          "url": "https://sports.yahoo.com/articles/hot-dog-valkyries-kaitlyn-chen-003946215.html",
+          "title": "Saquon Barkley reportedly won't be traded after rough start by Eagles",
+          "url": "https://sports.yahoo.com/nfl/article/saquon-barkley-reportedly-wont-be-traded-after-rough-start-by-eagles-143812667.html",
           "source": "Yahoo Sports"
+        },
+        {
+          "title": "Saquon Barkley’s NFL trade deadline fate revealed as Eagles spiral",
+          "url": "https://nypost.com/2026/11/01/sports/saquon-barkleys-nfl-trade-deadline-fate-revealed-as-eagles-spiral/",
+          "source": "New York Post"
         }
       ]
     },
     {
-      "keyword": "fernando alonso",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GBJWljDQv_lCtabOPmN6p_UNCidSWfzGfwpZZGzIjXX2cKQwvx9CmcLoBj4",
+      "keyword": "minnesota vs lafc",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sun, 1 Nov 2026 16:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToi86HfqMW29ocBvttCKs16PKg56iVuYzs54befXaQeZEleMI5pd-Krqg9G28",
       "news": [
         {
-          "title": "Fernando Alonso cautiously upbeat after strong Friday in Mexico for Aston Martin",
-          "url": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
-          "source": "Formula 1"
+          "title": "Match Preview LAFC: Los Angeles face must-win in fight for home field",
+          "url": "https://angelsonparade.com/lafc-minnesota-united-match-preview-mls-33-2026/",
+          "source": "Angels on Parade"
         },
         {
-          "title": "‘We are a little bit closer than previous events’ – Alonso",
-          "url": "https://www.formula1.com/en/video/we-are-a-little-bit-closer-than-previous-events-alonso.1880525263908458032",
-          "source": "Formula 1"
+          "title": "Los Angeles FC hosts Minnesota United in conference play",
+          "url": "https://www.foxsports.com/articles/soccer/los-angeles-fc-hosts-minnesota-united-in-conference-play",
+          "source": "FOX Sports"
         },
         {
-          "title": "De la Rosa: ‘The positive side is that we are more competitive than we were expecting’",
-          "url": "https://www.formula1.com/en/video/de-la-rosa-the-positive-side-is-that-we-are-more-competitive-than-we-were-expecting.1880523982496197922",
-          "source": "Formula 1"
+          "title": "Player Status Report | LAFC vs. Minnesota United - 2026 MLS Season",
+          "url": "https://www.lafc.com/news/player-status-report-lafc-vs-minnesota-united-2026-mls-season-november-1",
+          "source": "Los Angeles Football Club"
         }
       ]
     },
     {
-      "keyword": "winona ryder",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sat, 31 Oct 2026 17:50:00 -0700",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4e5mTy8c9ylPtwUs_kkd0dNkDyEZU-Xf-hTnF30LnYV2P5T-85rjtx7_Jq58",
+      "keyword": "robin williams",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtGtlqqCHRXzeTjS6eE3y1NRdDjF2c23HNWRwRCSte2COKN-0c8pR7zNt_v_M",
       "news": [
         {
-          "title": "10 Winona Ryder Movies Every ‘90s Kid Is Due for a Rewatch On",
-          "url": "https://www.mentalfloss.com/entertainment/movies/best-winona-ryder-90s-movies",
-          "source": "Mental Floss"
+          "title": "Judi Dench Says Robin Williams Was ‘Gently Supportive’ During Her Late Husband’s Cancer Battle: ‘I’ve Often Thought About’ His ‘Sensitivity and Understanding’",
+          "url": "https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832/",
+          "source": "Variety"
         },
         {
-          "title": "​⁠7 Winona Ryder Movies Before Stranger Things That Prove She Ruled 90s​",
-          "url": "https://www.zoomtventertainment.com/photos/7-winona-ryder-movies-before-stranger-things-that-prove-she-ruled-90s-photo-gallery-156426828",
-          "source": "zoomtventertainment.com"
+          "title": "Judi Dench recalls Robin Williams’ ‘sensitivity and understanding’ during late husband’s battle with cancer",
+          "url": "https://ew.com/judi-dench-robin-williams-support-husband-cancer-battle-12205666",
+          "source": "Entertainment Weekly"
         },
         {
-          "title": "Winona Ryder ’90s style: 8 of her most iconic outfits that made her a defining fashion icon",
-          "url": "https://www.tatlerasia.com/style/fashion/winona-ryder-90s-style",
-          "source": "Tatler Asia"
+          "title": "Judi Dench Details Love Story with Late Husband Michael: ‘Even Now I Imagine He’s Going to Walk In’ (Exclusive)",
+          "url": "https://people.com/judi-dench-details-love-story-with-late-husband-michael-exclusive-12200239",
+          "source": "People.com"
+        }
+      ]
+    },
+    {
+      "keyword": "emilie ullerup",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIF2Qkye88x7YqIlxtDaKW_y9QXZXWOFK5kuacugyHKtGeF8q4DUeakmQh0z4",
+      "news": [
+        {
+          "title": "‘A Danish Christmas’ Cast, Plot Filming Locations & How to Watch the Newest Hallmark Holiday Movie",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/danish-christmas-cast-plot-filming-150000161.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Beloved Hallmark Star Emilie Ullerup Cast Her Own Family in ‘A Danish Christmas’ Movie",
+          "url": "https://parade.com/news/beloved-hallmark-star-emilie-ullerup-cast-her-own-family-in-a-danish-christmas-movie",
+          "source": "Parade Magazine"
+        },
+        {
+          "title": "Countdown To Christmas Preview Guide: A Danish Christmas",
+          "url": "https://fangirlish.com/2026/11/01/792192/",
+          "source": "Fangirlish"
+        }
+      ]
+    },
+    {
+      "keyword": "elijah mitchell",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLomiYTb3faXtPs6gwu_EClhvynZIHQkpYPq4hGNbTFBOR1V4heuQ6bR9d0XY",
+      "news": [
+        {
+          "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
+          "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
+          "source": "Philadelphia Eagles"
+        },
+        {
+          "title": "Eagles elevate 2 players for Sunday Night Football vs. Commanders",
+          "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-elevate-2-players-for-sunday-night-football-vs-commanders/763167/",
+          "source": "NBC Sports Philadelphia"
+        },
+        {
+          "title": "Eagles roster news: 2 moves announced ahead of Commanders game",
+          "url": "https://www.bleedinggreennation.com/news/188850/eagles-roster-news-2-moves-announced-ahead-of-commanders-game",
+          "source": "Bleeding Green Nation"
+        }
+      ]
+    },
+    {
+      "keyword": "broncos schedule 2026",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnFAXBFIDuKk2EaAlr8jeYOTBgUxCZWvhDqI3P844zZn_5HzgaeyGn8eoxzis",
+      "news": [
+        {
+          "title": "Denver Broncos schedule: Dates, times and TV info for every game",
+          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/01/denver-broncos-schedule-dates-times-and-tv-channel/92518575007/",
+          "source": "Broncos Wire"
+        },
+        {
+          "title": "Predicting the Broncos' 10 remaining games and final record",
+          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/10/31/denver-broncos-predicting-10-remaining-games-final-record/92496080007/",
+          "source": "Broncos Wire"
+        },
+        {
+          "title": "Broncos 2026 NFL power rankings tracker: How national experts rank Denver entering Week 8",
+          "url": "https://www.denverpost.com/2026/10/27/broncos-2026-nfl-power-rankings-week-8/",
+          "source": "The Denver Post"
+        }
+      ]
+    },
+    {
+      "keyword": "chig okonkwo",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBllZCxCKIFb5X1ttXC13jpshNBZenp1TFH4_B9WScOkd6YXtO1opDyb-K2GE",
+      "news": [
+        {
+          "title": "Week 8 Fantasy Football TE Rankings from Justin Boone",
+          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-te-rankings-justin-boone-tight-end-155750053.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 8",
+          "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-8",
+          "source": "NFL.com"
+        },
+        {
+          "title": "Next week’s waiver wire: Chig Okonkwo and more players to add before the Week 9 rush",
+          "url": "https://www.nytimes.com/athletic/7736851/2026/10/30/fantasy-football-next-week-waiver-wire-adds-chig-okonkwo/",
+          "source": "The New York Times"
+        }
+      ]
+    },
+    {
+      "keyword": "where to watch cruz azul vs club león",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOWcMD6l17ZV4guA1JuyCfK4nvCxe-p87nFLHzaJ8fbCV39Epap4Qut77gNw",
+      "news": [
+        {
+          "title": "Watch Cruz Azul vs. Leon live today: Who is broadcasting the match on TV and via live stream?",
+          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-cruz-azul-v-leon/blt66394a9a45ed2dbd",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Cruz Azul vs León LIVE, Score Updates in Liga MX Match (0-0)",
+          "url": "https://www.vavel.com/en-us/soccer/2026/11/01/1277549-cruz-azul-vs-leon-live-score-liga-mx.html",
+          "source": "VAVEL.com"
+        },
+        {
+          "title": "Liga MX Picks: Red Hot Cruz Azul After Another Win Over Club Leon",
+          "url": "https://www.vegasodds.com/predictions/soccer/liga-mx-picks-cruz-azul-vs-club-leon-nov-1/",
+          "source": "VegasOdds.com"
         }
       ]
     }
