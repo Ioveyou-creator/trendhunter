@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-02T01:32:14+00:00",
+  "fetched_at": "2026-11-03T03:28:58+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "raptors vs lakers",
+      "keyword": "who got eliminated on dancing with the stars",
       "traffic": 10000,
       "traffic_label": "10000+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9U3CvyqkVhlZ1CWsQ80-IAdgyvdW35a3SJRqRM6za0vnSkAM9HcNXz_vgivE",
+      "pub_date": "Mon, 2 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFiU4bZYgiIVt9BGMrp9xbJ8uNuyafeJf40LqoYUYVYEv9eFr6OXDeKDdlvUM",
       "news": [
         {
-          "title": "4 Biggest Storylines: Raptors vs. Lakers",
-          "url": "https://sports.yahoo.com/articles/4-biggest-storylines-raptors-vs-110006613.html",
-          "source": "Yahoo Sports"
+          "title": "‘Dancing With the Stars’ Season 35 Week 8 Live Recap: Dances, Scores and Elimination",
+          "url": "https://lifestyle.si.com/celebrities/dancing-with-the-stars-season-35-week-8-recap-who-was-eliminated",
+          "source": "Sports Illustrated Lifestyle"
         },
         {
-          "title": "Lakers vs. Raptors Preview: Bounce back game",
-          "url": "https://www.silverscreenandroll.com/lakers-game-previews/128215/lakers-vs-raptors-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-scottie-barnes",
-          "source": "Silver Screen and Roll"
+          "title": "Who went home on 'Dancing with the Stars' tonight? Who was eliminated?",
+          "url": "https://www.northjersey.com/story/news/2026/11/02/who-went-home-dwts-tonight-who-voted-off-eliminated-disney-night-scores/92567803007/",
+          "source": "Bergen Record"
         },
         {
-          "title": "Raptors vs. Lakers Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 1",
-          "url": "https://www.si.com/betting/raptors-vs-lakers-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-1-2026",
-          "source": "Sports Illustrated"
+          "title": "Tyler Cameron reflects on 'Dancing with the Stars' elimination, why he walked off-camera",
+          "url": "https://abcnews.com/GMA/Culture/tyler-cameron-reflects-dancing-stars-elimination-stormed-off/story?id=137646445",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ]
     },
     {
-      "keyword": "travis kelce",
-      "traffic": 10000,
-      "traffic_label": "10000+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbo2PH_rrHSVsyanKqIcFD9027k0wiKBbMF6IWWUD3330tqOXpBucsBQUDN90",
-      "news": [
-        {
-          "title": "Why Taylor Swift Hasn’t Been Seen at Travis Kelce’s Chiefs-Seahawks Game in Seattle",
-          "url": "https://www.elle.com/culture/celebrities/a74241747/taylor-swift-travis-kelce-chiefs-seahawks-game-attendance-explained-october-2026/",
-          "source": "ELLE"
-        },
-        {
-          "title": "Taylor Swift Makes Rare ‘Husband’ Comment Before Chiefs-Broncos Game",
-          "url": "https://heavy.com/sports/nfl/kansas-city-chiefs/taylor-swift-travis-kelce-husband-comment-before-broncos-game/",
-          "source": "Heavy.com"
-        },
-        {
-          "title": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts",
-          "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "saquon barkley",
+      "keyword": "hunger games sunrise on the reaping",
       "traffic": 5000,
       "traffic_label": "5000+",
-      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoBV-IwJ636sXrB4LMp80CDEOQzylGG-XL3esk1c-B3Ql_sYjCX_k9G9i7aNA",
+      "pub_date": "Mon, 2 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCu0etwnG_5qkXDO6x_fBxqRa16_A3Vdx2jABZTDGEfB64duqE5dMeyHH6U_o",
       "news": [
         {
-          "title": "Sources: Saquon Barkley won't be traded by deadline despite Eagles' struggles",
-          "url": "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley",
-          "source": "ESPN"
+          "title": "Mckenna Grace Is the Girl on Fire at ‘The Hunger Games’ Berlin Premiere",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/mckenna-grace-girl-fire-hunger-201511848.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Saquon Barkley reportedly won't be traded after rough start by Eagles",
-          "url": "https://sports.yahoo.com/nfl/article/saquon-barkley-reportedly-wont-be-traded-after-rough-start-by-eagles-143812667.html",
-          "source": "Yahoo Sports"
+          "title": "McKenna Grace Channels Jennifer Lawrence & 'Hunger Games' Past During 'Sunrise On The Reaping' Press Tour",
+          "url": "https://deadline.com/gallery/hunger-games-mckenna-grace-jennifer-lawrence-photos/",
+          "source": "Deadline"
         },
         {
-          "title": "Saquon Barkley’s NFL trade deadline fate revealed as Eagles spiral",
-          "url": "https://nypost.com/2026/11/01/sports/saquon-barkleys-nfl-trade-deadline-fate-revealed-as-eagles-spiral/",
-          "source": "New York Post"
-        }
-      ]
-    },
-    {
-      "keyword": "minnesota vs lafc",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 1 Nov 2026 16:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToi86HfqMW29ocBvttCKs16PKg56iVuYzs54befXaQeZEleMI5pd-Krqg9G28",
-      "news": [
-        {
-          "title": "Match Preview LAFC: Los Angeles face must-win in fight for home field",
-          "url": "https://angelsonparade.com/lafc-minnesota-united-match-preview-mls-33-2026/",
-          "source": "Angels on Parade"
-        },
-        {
-          "title": "Los Angeles FC hosts Minnesota United in conference play",
-          "url": "https://www.foxsports.com/articles/soccer/los-angeles-fc-hosts-minnesota-united-in-conference-play",
-          "source": "FOX Sports"
-        },
-        {
-          "title": "Player Status Report | LAFC vs. Minnesota United - 2026 MLS Season",
-          "url": "https://www.lafc.com/news/player-status-report-lafc-vs-minnesota-united-2026-mls-season-november-1",
-          "source": "Los Angeles Football Club"
-        }
-      ]
-    },
-    {
-      "keyword": "robin williams",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtGtlqqCHRXzeTjS6eE3y1NRdDjF2c23HNWRwRCSte2COKN-0c8pR7zNt_v_M",
-      "news": [
-        {
-          "title": "Judi Dench Says Robin Williams Was ‘Gently Supportive’ During Her Late Husband’s Cancer Battle: ‘I’ve Often Thought About’ His ‘Sensitivity and Understanding’",
-          "url": "https://variety.com/2026/film/news/judi-dench-robin-williams-husband-cancer-battle-1236936832/",
-          "source": "Variety"
-        },
-        {
-          "title": "Judi Dench recalls Robin Williams’ ‘sensitivity and understanding’ during late husband’s battle with cancer",
-          "url": "https://ew.com/judi-dench-robin-williams-support-husband-cancer-battle-12205666",
-          "source": "Entertainment Weekly"
-        },
-        {
-          "title": "Judi Dench Details Love Story with Late Husband Michael: ‘Even Now I Imagine He’s Going to Walk In’ (Exclusive)",
-          "url": "https://people.com/judi-dench-details-love-story-with-late-husband-michael-exclusive-12200239",
+          "title": "See 7 Side-by-Side Photos of Mckenna Grace Paying Tribute to The Hunger Games on the Sunrise on the Reaping Press Tour",
+          "url": "https://people.com/mckenna-grace-hunger-games-press-tour-looks-12198907",
           "source": "People.com"
         }
       ]
     },
     {
-      "keyword": "emilie ullerup",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIF2Qkye88x7YqIlxtDaKW_y9QXZXWOFK5kuacugyHKtGeF8q4DUeakmQh0z4",
+      "keyword": "savannah chrisley husband",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 2 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdQfrTH_TZs6c8CMzkqc2r4nC08Uthw23EzKtgAaeIvrIj1zkciamOBEy1ngQ",
       "news": [
         {
-          "title": "‘A Danish Christmas’ Cast, Plot Filming Locations & How to Watch the Newest Hallmark Holiday Movie",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/danish-christmas-cast-plot-filming-150000161.html",
+          "title": "Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)",
+          "url": "https://people.com/savannah-chrisley-and-jason-galanis-are-married-exclusive-12201371",
+          "source": "People.com"
+        },
+        {
+          "title": "Pregnant Savannah Chrisley Confirms Private Cayman Islands Wedding With Husband Jason Galanis",
+          "url": "https://www.eonline.com/news/1437714/pregnant-savannah-chrisley-confirms-wedding-with-husband-jason-galanis",
+          "source": "E! News"
+        },
+        {
+          "title": "Savannah Chrisley Bought $2.2M Nashville Home, Lives There With Fiancé Jason Galanis",
+          "url": "https://www.tmz.com/2026/10/28/savannah-chrisley-buys-nashville-home/",
+          "source": "TMZ"
+        }
+      ]
+    },
+    {
+      "keyword": "hunger games",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 2 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1WdfW2r3UZZVoLHsxTprBDGb0elGzaMsdefGLOwcX92-yB1K_SP4hej9zPc",
+      "news": [
+        {
+          "title": "‘The Hunger Games: Sunrise on the Reaping (The Album)’ to Feature Ella Langley, Tyler Childers, Stevie Nicks & More: ‘Great Artists & Great Music’",
+          "url": "https://www.billboard.com/music/music-news/the-hunger-games-sunrise-on-the-reaping-album-ella-langley-1236371836/",
+          "source": "Billboard"
+        },
+        {
+          "title": "'Hunger Games' Album Includes Songs by Jennifer Lawrence, Ella Langley",
+          "url": "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/",
+          "source": "Variety"
+        },
+        {
+          "title": "McKenna Grace's New Song 'Half Alive' Moves Co-Star to Tears in Hunger Games Soundtrack",
+          "url": "https://www.yahoo.com/entertainment/music/articles/mckenna-graces-song-half-alive-164418285.html",
           "source": "Yahoo"
-        },
-        {
-          "title": "Beloved Hallmark Star Emilie Ullerup Cast Her Own Family in ‘A Danish Christmas’ Movie",
-          "url": "https://parade.com/news/beloved-hallmark-star-emilie-ullerup-cast-her-own-family-in-a-danish-christmas-movie",
-          "source": "Parade Magazine"
-        },
-        {
-          "title": "Countdown To Christmas Preview Guide: A Danish Christmas",
-          "url": "https://fangirlish.com/2026/11/01/792192/",
-          "source": "Fangirlish"
         }
       ]
     },
     {
-      "keyword": "elijah mitchell",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLomiYTb3faXtPs6gwu_EClhvynZIHQkpYPq4hGNbTFBOR1V4heuQ6bR9d0XY",
+      "keyword": "new hunger games movie",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 2 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPL0t5hubf1Tm-r6UDomoVZ6uktn-TScm0FqHRQR6KHwhCsMD_QVPDiFMvqEw",
       "news": [
         {
-          "title": "Eagles elevate Elijah Mitchell, Mason Reiger for Commanders game",
-          "url": "https://www.philadelphiaeagles.com/news/eagles-elevate-elijah-mitchell-mason-reiger-for-commanders-game",
-          "source": "Philadelphia Eagles"
+          "title": "The New Hunger Games Movie Is Getting a 3D Release — Plus a New Way to Watch at Home",
+          "url": "https://people.com/the-new-hunger-games-movie-getting-a-3d-release-plus-new-way-to-watch-at-home-12208171",
+          "source": "People.com"
         },
         {
-          "title": "Eagles elevate 2 players for Sunday Night Football vs. Commanders",
-          "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-elevate-2-players-for-sunday-night-football-vs-commanders/763167/",
-          "source": "NBC Sports Philadelphia"
+          "title": "Lionsgate Inks Deal With Meta to Bring New ‘Hunger Games’ Movie to VR Glasses",
+          "url": "https://www.hollywoodreporter.com/business/digital/hunger-games-sunrise-on-the-reaping-1236745888/",
+          "source": "The Hollywood Reporter"
         },
         {
-          "title": "Eagles roster news: 2 moves announced ahead of Commanders game",
-          "url": "https://www.bleedinggreennation.com/news/188850/eagles-roster-news-2-moves-announced-ahead-of-commanders-game",
-          "source": "Bleeding Green Nation"
+          "title": "'Hunger Games: Sunrise On The Reaping' To Play On Meta VR Glasses",
+          "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-meta-vr-glasses-1237211422/",
+          "source": "Deadline"
         }
       ]
     },
     {
-      "keyword": "broncos schedule 2026",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnFAXBFIDuKk2EaAlr8jeYOTBgUxCZWvhDqI3P844zZn_5HzgaeyGn8eoxzis",
+      "keyword": "oklahoma basketball",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 2 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRVSMmw70ytupKuNH_grkDBeRuCqdwSzPl1we8htn2ZIqt6B163G92At_1Pwc",
       "news": [
         {
-          "title": "Denver Broncos schedule: Dates, times and TV info for every game",
-          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/01/denver-broncos-schedule-dates-times-and-tv-channel/92518575007/",
-          "source": "Broncos Wire"
+          "title": "Projecting Oklahoma’s basketball rotation ahead of the season opener",
+          "url": "https://247sports.com/college/oklahoma/article/oklahoma-basketball-rotation-projection-season-opener-292079182/",
+          "source": "247Sports"
         },
         {
-          "title": "Predicting the Broncos' 10 remaining games and final record",
-          "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/10/31/denver-broncos-predicting-10-remaining-games-final-record/92496080007/",
-          "source": "Broncos Wire"
+          "title": "Porter Moser’s ‘best team on paper’ ready to turn around his tenure with OU basketball",
+          "url": "https://www.mcalesternews.com/oklahoma/porter-moser-s-best-team-on-paper-ready-to-turn-around-his-tenure-with-ou/article_75873add-e90d-56a3-85e0-83a9000d90ff.html",
+          "source": "McAlester News-Capital"
         },
         {
-          "title": "Broncos 2026 NFL power rankings tracker: How national experts rank Denver entering Week 8",
-          "url": "https://www.denverpost.com/2026/10/27/broncos-2026-nfl-power-rankings-week-8/",
-          "source": "The Denver Post"
+          "title": "Oklahoma Sooners open season at home against the East Texas A&M Lions",
+          "url": "https://krmg.com/2026/11/02/oklahoma-sooners-open-season-at-home-against-the-east-texas-am-lions/",
+          "source": "KRMG"
         }
       ]
     },
     {
-      "keyword": "chig okonkwo",
+      "keyword": "landry shamet",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Sun, 1 Nov 2026 17:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBllZCxCKIFb5X1ttXC13jpshNBZenp1TFH4_B9WScOkd6YXtO1opDyb-K2GE",
+      "pub_date": "Mon, 2 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOcfZToqOQV2h2xFS8ESqo2g8QysKkjUjizXlkY22TSf6qdGkA5ST8R3GPvXU",
       "news": [
         {
-          "title": "Week 8 Fantasy Football TE Rankings from Justin Boone",
-          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-te-rankings-justin-boone-tight-end-155750053.html",
+          "title": "Julius Randle posts 21/11/2/1 line vs. Knicks",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/julius-randle-posts-21-11-2-1-line-vs-knicks",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Karl-Anthony Towns grabs 16 rebounds vs. Brooklyn",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/karl-anthony-towns-grabs-16-rebounds-vs-brooklyn",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Landry Shamet drops in game-high 22 points Monday",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/landry-shamet-drops-in-game-high-22-points-monday",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "aclu",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 2 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxFuRIzXnympJd-8C2xEYc5DR4DGvVG6padvN30fw9Agu6ruxkejh_V6mt8iI",
+      "news": [
+        {
+          "title": "Top Jewish lawyers quit Indiana ACLU amid controversy over new director",
+          "url": "https://forward.com/news/859769/indiana-aclu-nikkita-oliver-ken-falk-free-speech/",
+          "source": "The Forward"
+        },
+        {
+          "title": "ACLU of Indiana Delays Nikkita Oliver's Start Date",
+          "url": "https://pro.stateaffairs.com/in/around-the-state/external-review-aclu-indiana",
+          "source": "State Affairs Pro"
+        },
+        {
+          "title": "Kennedy Commentary: Indiana’s ACLU Collapse",
+          "url": "https://indianacitizen.org/kennedy-commentary-indianas-aclu-collapse/",
+          "source": "the indiana citizen"
+        }
+      ]
+    },
+    {
+      "keyword": "malik monk",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 2 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX8Ln8Cb_8OuW0QMSUvxkqiQPmSW__ihxqWWiAtEQ-RWFDxNVG4Z1RUiizWgY",
+      "news": [
+        {
+          "title": "Will Kings’ Bench Production Improve in Winless Streak?",
+          "url": "https://sports.yahoo.com/articles/kings-bench-production-improve-winless-195411737.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Tight ends for Week 8",
-          "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-8",
-          "source": "NFL.com"
+          "title": "The Kings Might Not Win a Game for a While, But They Found Their Franchise Star",
+          "url": "https://www.si.com/nba/kings-found-their-franchise-star",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Next week’s waiver wire: Chig Okonkwo and more players to add before the Week 9 rush",
-          "url": "https://www.nytimes.com/athletic/7736851/2026/10/30/fantasy-football-next-week-waiver-wire-adds-chig-okonkwo/",
-          "source": "The New York Times"
+          "title": "Sacramento Kings 0-5 start turns up heat on Doug Christie",
+          "url": "https://lindyssports.com/nba/sacramento-kings/kings-0-5-start-turns-up-heat-on-doug-christie",
+          "source": "Lyndy's Sports Annuals"
         }
       ]
     },
     {
-      "keyword": "where to watch cruz azul vs club león",
+      "keyword": "ou basketball",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Sun, 1 Nov 2026 17:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOWcMD6l17ZV4guA1JuyCfK4nvCxe-p87nFLHzaJ8fbCV39Epap4Qut77gNw",
+      "pub_date": "Mon, 2 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgMy8zzEF5wHu2fXTYilVypM3UINjmql3e1NjR_dWzx-6Vt_tys2dO0SWOXfg",
       "news": [
         {
-          "title": "Watch Cruz Azul vs. Leon live today: Who is broadcasting the match on TV and via live stream?",
-          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-cruz-azul-v-leon/blt66394a9a45ed2dbd",
-          "source": "Goal.com"
+          "title": "Oklahoma Women's Basketball guard Keeley Parks to miss season",
+          "url": "https://sports.yahoo.com/articles/oklahoma-womens-basketball-guard-keeley-161150047.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Cruz Azul vs León LIVE, Score Updates in Liga MX Match (0-0)",
-          "url": "https://www.vavel.com/en-us/soccer/2026/11/01/1277549-cruz-azul-vs-leon-live-score-liga-mx.html",
-          "source": "VAVEL.com"
+          "title": "Keeley Parks injury update: OU women's basketball guard to undergo season-ending surgery",
+          "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/11/02/keeley-parks-injury-update-ou-womens-basketball-guard-season-ending-surgery/92563128007/",
+          "source": "The Oklahoman"
         },
         {
-          "title": "Liga MX Picks: Red Hot Cruz Azul After Another Win Over Club Leon",
-          "url": "https://www.vegasodds.com/predictions/soccer/liga-mx-picks-cruz-azul-vs-club-leon-nov-1/",
-          "source": "VegasOdds.com"
+          "title": "'We’re Heartbroken': Oklahoma Sooners Suffer Early-Season Blow as Rising Guard Faces Season-Ending Injury",
+          "url": "https://www.yardbarker.com/college_basketball_w/articles/were_heartbroken_oklahoma_sooners_suffer_early_season_blow_as_rising_guard_faces_season_ending_injury/s1_17730_44507810",
+          "source": "Yardbarker"
         }
       ]
     }
