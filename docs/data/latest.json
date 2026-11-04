@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-03T03:34:07+00:00",
+  "generated_at": "2026-11-04T02:28:12+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-03T03:28:58+00:00"
+      "fetched_at": "2026-11-04T02:23:13+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 108,
+      "count": 100,
       "error": null,
-      "fetched_at": "2026-11-03T03:34:07+00:00"
+      "fetched_at": "2026-11-04T02:28:12+00:00"
     },
     "events": {
       "ok": true,
       "count": 8,
       "error": null,
-      "fetched_at": "2026-11-03T03:34:07+00:00"
+      "fetched_at": "2026-11-04T02:28:12+00:00"
     }
   },
   "candidates": [
     {
-      "title": "Black Friday",
-      "query": "black friday deals",
-      "category": "season",
+      "title": "Pokemon TCG Delta Reign (ME06)",
+      "query": "delta reign booster box",
+      "category": "tcg",
       "score": 75,
       "reasons": [
-        "이벤트 D-24 (2026-11-27), 지금 준비할 때",
+        "이벤트 D-2 (2026-11-06), 지금 준비할 때",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -37,94 +37,18 @@
       "evidence": [
         {
           "source": "events",
-          "text": "Black Friday",
-          "url": ""
+          "text": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
+          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
         },
         {
           "source": "reddit",
-          "text": "Black Friday sell started on Funko!!!",
-          "url": "https://www.reddit.com/r/funkopop/comments/1xlyi9m/black_friday_sell_started_on_funko/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-27",
-        "days_left": 24,
-        "prep_by": "2026-10-30",
-        "status": "prepare_now"
-      },
-      "id": "d076c6152a",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
-      },
-      "trend": {
-        "status": "up",
-        "prev_rank": 4,
-        "rank_change": 3,
-        "streak": 15
-      }
-    },
-    {
-      "title": "Pokemon 30th Celebration Ultra-Premium Collection",
-      "query": "pokemon 30th celebration upc",
-      "category": "tcg",
-      "score": 65,
-      "reasons": [
-        "이벤트 D-3 (2026-11-06), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Pokemon 30th Celebration Ultra-Premium Collection",
-          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
+          "text": "Bought a Delta Reign ETB yesterday",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xn7x89/bought_a_delta_reign_etb_yesterday/"
         }
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 3,
-        "prep_by": "2026-10-30",
-        "status": "prepare_now"
-      },
-      "id": "da034b1c48",
-      "category_label": "TCG",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc",
-        "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 1,
-        "rank_change": -1,
-        "streak": 15
-      }
-    },
-    {
-      "title": "Pokemon TCG Delta Reign (ME06)",
-      "query": "delta reign booster box",
-      "category": "tcg",
-      "score": 65,
-      "reasons": [
-        "이벤트 D-3 (2026-11-06), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
-          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
-        }
-      ],
-      "event": {
-        "date": "2026-11-06",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -138,7 +62,83 @@
       "trend": {
         "status": "same",
         "prev_rank": 3,
+        "rank_change": 2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Pokemon 30th Celebration Ultra-Premium Collection",
+      "query": "pokemon 30th celebration upc",
+      "category": "tcg",
+      "score": 65,
+      "reasons": [
+        "이벤트 D-2 (2026-11-06), 지금 준비할 때"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Pokemon 30th Celebration Ultra-Premium Collection",
+          "url": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026"
+        }
+      ],
+      "event": {
+        "date": "2026-11-06",
+        "days_left": 2,
+        "prep_by": "2026-10-30",
+        "status": "prepare_now"
+      },
+      "id": "da034b1c48",
+      "category_label": "TCG",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pokemon+30th+celebration+upc",
+        "naver": "https://search.shopping.naver.com/search/all?query=pokemon+30th+celebration+upc"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 2,
         "rank_change": 0,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Black Friday",
+      "query": "black friday deals",
+      "category": "season",
+      "score": 65,
+      "reasons": [
+        "이벤트 D-23 (2026-11-27), 지금 준비할 때"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Black Friday",
+          "url": ""
+        }
+      ],
+      "event": {
+        "date": "2026-11-27",
+        "days_left": 23,
+        "prep_by": "2026-10-30",
+        "status": "prepare_now"
+      },
+      "id": "d076c6152a",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
+        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 1,
+        "rank_change": -2,
         "streak": 15
       }
     },
@@ -148,7 +148,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-27 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-26 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -162,7 +162,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 27,
+        "days_left": 26,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -175,18 +175,85 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 5,
-        "rank_change": 1,
+        "prev_rank": 4,
+        "rank_change": 0,
         "streak": 15
+      }
+    },
+    {
+      "title": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+      "query": "funko Amazon Exclusive",
+      "category": "collectibles",
+      "score": 59,
+      "reasons": [
+        "r/funkopop hot #8",
+        "상품 신호: 한정판, K-pop 굿즈",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xn6em2/link_in_image_caption_funko_pop_animation_one/"
+        }
+      ],
+      "id": "8fe194bdd9",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+Amazon+Exclusive&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+Amazon+Exclusive",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+Amazon+Exclusive"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "RESCENE - From viral sensation to chart topper, Rescene aims to make 'miracle' last with 'Pulse' @ 4th Mini Album: PULSE Comeback Showcase (261103)",
+      "query": "viral sensation chart topper Rescene aims",
+      "category": "kculture",
+      "score": 58,
+      "reasons": [
+        "r/kpop hot #7",
+        "상품 신호: K-pop 굿즈, 모델명, 바이럴"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "RESCENE - From viral sensation to chart topper, Rescene aims to make 'miracle' last with 'Pulse' @ 4th Mini Album: PULSE Comeback Showcase (261103)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xn7kkl/rescene_from_viral_sensation_to_chart_topper/"
+        }
+      ],
+      "id": "6d4f1730e4",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=viral+sensation+chart+topper+Rescene+aims&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=viral+sensation+chart+topper+Rescene+aims",
+        "naver": "https://search.shopping.naver.com/search/all?query=viral+sensation+chart+topper+Rescene+aims"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
       "title": "ATEEZ 'GOLDEN HOUR Part.6'",
       "query": "ateez golden hour",
       "category": "kpop",
-      "score": 52,
+      "score": 53,
       "reasons": [
-        "이벤트 D-10 (2026-11-13), 준비 예정"
+        "이벤트 D-9 (2026-11-13), 준비 예정"
       ],
       "sources": [
         "events"
@@ -200,7 +267,7 @@
       ],
       "event": {
         "date": "2026-11-13",
-        "days_left": 10,
+        "days_left": 9,
         "prep_by": "2026-11-10",
         "status": "upcoming"
       },
@@ -213,8 +280,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 7,
-        "rank_change": 2,
+        "prev_rank": 5,
+        "rank_change": -2,
         "streak": 15
       }
     },
@@ -224,7 +291,7 @@
       "category": "season",
       "score": 52,
       "reasons": [
-        "이벤트 D-52 (2026-12-25), 준비 예정",
+        "이벤트 D-51 (2026-12-25), 준비 예정",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -245,7 +312,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 52,
+        "days_left": 51,
         "prep_by": "2026-11-25",
         "status": "upcoming"
       },
@@ -257,53 +324,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 14,
-        "rank_change": 8,
-        "streak": 9
-      }
-    },
-    {
-      "title": "landry shamet",
-      "query": "landry shamet",
-      "category": "trend",
-      "score": 52,
-      "reasons": [
-        "미국 검색 급상승 500+",
-        "상품 신호: 출시, 구매·개봉"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "landry shamet (500+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Julius Randle posts 21/11/2/1 line vs. Knicks",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/julius-randle-posts-21-11-2-1-line-vs-knicks"
-        },
-        {
-          "source": "news",
-          "text": "Karl-Anthony Towns grabs 16 rebounds vs. Brooklyn",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-02/karl-anthony-towns-grabs-16-rebounds-vs-brooklyn"
-        }
-      ],
-      "id": "5ff13db823",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=landry+shamet&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=landry+shamet",
-        "naver": "https://search.shopping.naver.com/search/all?query=landry+shamet"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "same",
+        "prev_rank": 6,
+        "rank_change": -2,
+        "streak": 10
       }
     },
     {
@@ -312,7 +336,7 @@
       "category": "kpop",
       "score": 52,
       "reasons": [
-        "이벤트 D-13 (2026-11-16), 준비 예정"
+        "이벤트 D-12 (2026-11-16), 준비 예정"
       ],
       "sources": [
         "events"
@@ -326,7 +350,7 @@
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 13,
+        "days_left": 12,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -340,19 +364,19 @@
       "trend": {
         "status": "same",
         "prev_rank": 8,
-        "rank_change": 0,
+        "rank_change": -1,
         "streak": 15
       }
     },
     {
-      "title": "Black Friday sell started on Funko!!!",
-      "query": "Black Friday sell started Funko",
+      "title": "Bought a Delta Reign ETB yesterday",
+      "query": "Bought Delta Reign ETB yesterday",
       "category": "collectibles",
-      "score": 45,
+      "score": 50,
       "reasons": [
-        "r/funkopop hot #8",
-        "브랜드/IP: funko",
-        "다가오는 이벤트와 연결: Black Friday (D-24)"
+        "r/PokemonTCG hot #2",
+        "상품 신호: TCG·수집",
+        "다가오는 이벤트와 연결: Pokemon TCG Delta Reign (ME06) (D-2)"
       ],
       "sources": [
         "reddit"
@@ -360,16 +384,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Black Friday sell started on Funko!!!",
-          "url": "https://www.reddit.com/r/funkopop/comments/1xlyi9m/black_friday_sell_started_on_funko/"
+          "text": "Bought a Delta Reign ETB yesterday",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xn7x89/bought_a_delta_reign_etb_yesterday/"
         }
       ],
-      "id": "fda9cbef51",
+      "id": "8acdda1ee5",
       "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Black+Friday+sell+started+Funko&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Black+Friday+sell+started+Funko",
-        "naver": "https://search.shopping.naver.com/search/all?query=Black+Friday+sell+started+Funko"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Bought+Delta+Reign+ETB+yesterday&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Bought+Delta+Reign+ETB+yesterday",
+        "naver": "https://search.shopping.naver.com/search/all?query=Bought+Delta+Reign+ETB+yesterday"
       },
       "trend": {
         "status": "new",
@@ -379,13 +403,13 @@
       }
     },
     {
-      "title": "Opening a physical Lego store in Emmen, the Netherlands!",
-      "query": "Opening physical Lego store Emmen Netherlands",
+      "title": "LEGO Godzilla 21375 revealed",
+      "query": "LEGO Godzilla 21375 revealed",
       "category": "collectibles",
       "score": 45,
       "reasons": [
         "r/lego hot #2",
-        "상품 신호: 구매·개봉",
+        "상품 신호: 모델명",
         "브랜드/IP: lego"
       ],
       "sources": [
@@ -394,16 +418,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Opening a physical Lego store in Emmen, the Netherlands!",
-          "url": "https://www.reddit.com/r/lego/comments/1xm45s0/opening_a_physical_lego_store_in_emmen_the/"
+          "text": "LEGO Godzilla 21375 revealed",
+          "url": "https://www.reddit.com/r/lego/comments/1xmu5g6/lego_godzilla_21375_revealed/"
         }
       ],
-      "id": "87d6b5975d",
+      "id": "0be035cb10",
       "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Opening+physical+Lego+store+Emmen+Netherlands&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Opening+physical+Lego+store+Emmen+Netherlands",
-        "naver": "https://search.shopping.naver.com/search/all?query=Opening+physical+Lego+store+Emmen+Netherlands"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed",
+        "naver": "https://search.shopping.naver.com/search/all?query=LEGO+Godzilla+21375+revealed"
       },
       "trend": {
         "status": "new",
@@ -413,14 +437,13 @@
       }
     },
     {
-      "title": "Call Of Duty Modern Warfare 4 On Switch 2 Drops To As Low As 225p Upscaled To 450p, And Has Extremely Bad Input Lag",
-      "query": "Call Duty Modern Warfare 4 Switch",
+      "title": "The Goddess of Victory: Nikke PC Launcher seems to have been compromised (Possibly even more Tencent games)",
+      "query": "Nikke PC Launcher seems compromised",
       "category": "gaming",
       "score": 44,
       "reasons": [
-        "r/gaming hot #9",
-        "상품 신호: 출시",
-        "브랜드/IP: switch 2"
+        "r/gaming hot #4",
+        "상품 신호: 출시, K-pop 굿즈"
       ],
       "sources": [
         "reddit"
@@ -428,16 +451,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Call Of Duty Modern Warfare 4 On Switch 2 Drops To As Low As 225p Upscaled To 450p, And Has Extremely Bad Input Lag",
-          "url": "https://www.reddit.com/r/gaming/comments/1xlxajp/call_of_duty_modern_warfare_4_on_switch_2_drops/"
+          "text": "The Goddess of Victory: Nikke PC Launcher seems to have been compromised (Possibly even more Tencent games)",
+          "url": "https://www.reddit.com/r/gaming/comments/1xn1o6w/the_goddess_of_victory_nikke_pc_launcher_seems_to/"
         }
       ],
-      "id": "df60321ae2",
+      "id": "3f794673f5",
       "category_label": "게임",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Call+Duty+Modern+Warfare+4+Switch&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Call+Duty+Modern+Warfare+4+Switch",
-        "naver": "https://search.shopping.naver.com/search/all?query=Call+Duty+Modern+Warfare+4+Switch"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Nikke+PC+Launcher+seems+compromised&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Nikke+PC+Launcher+seems+compromised",
+        "naver": "https://search.shopping.naver.com/search/all?query=Nikke+PC+Launcher+seems+compromised"
       },
       "trend": {
         "status": "new",
@@ -447,81 +470,13 @@
       }
     },
     {
-      "title": "SILLY POLLY BEAST coming to Nintendo Switch 2 in November",
-      "query": "SILLY POLLY BEAST Nintendo Switch 2",
-      "category": "gaming",
-      "score": 44,
-      "reasons": [
-        "r/NintendoSwitch hot #9",
-        "상품 신호: 출시",
-        "브랜드/IP: nintendo"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "SILLY POLLY BEAST coming to Nintendo Switch 2 in November",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xm4wxm/silly_polly_beast_coming_to_nintendo_switch_2_in/"
-        }
-      ],
-      "id": "4c020cf198",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=SILLY+POLLY+BEAST+Nintendo+Switch+2&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=SILLY+POLLY+BEAST+Nintendo+Switch+2",
-        "naver": "https://search.shopping.naver.com/search/all?query=SILLY+POLLY+BEAST+Nintendo+Switch+2"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Received 10 different LEGO gift cards from family/friends that knew I was saving up for Sagrada Família. Come to find out launch day you can only use 3 max in an order :(",
-      "query": "lego Come find launch only use",
-      "category": "collectibles",
-      "score": 42,
-      "reasons": [
-        "r/lego hot #6",
-        "상품 신호: 출시",
-        "브랜드/IP: lego"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Received 10 different LEGO gift cards from family/friends that knew I was saving up for Sagrada Família. Come to find out launch day you can only use 3 max in an order :(",
-          "url": "https://www.reddit.com/r/lego/comments/1xm8vwr/received_10_different_lego_gift_cards_from/"
-        }
-      ],
-      "id": "04db927091",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lego+Come+find+launch+only+use&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lego+Come+find+launch+only+use",
-        "naver": "https://search.shopping.naver.com/search/all?query=lego+Come+find+launch+only+use"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "savannah chrisley husband",
-      "query": "savannah chrisley husband",
+      "title": "childcare",
+      "query": "childcare",
       "category": "trend",
       "score": 42,
       "reasons": [
         "미국 검색 급상승 2000+",
-        "상품 신호: 한정판"
+        "브랜드/IP: braun"
       ],
       "sources": [
         "google_trends"
@@ -529,112 +484,26 @@
       "evidence": [
         {
           "source": "google_trends",
-          "text": "savannah chrisley husband (2000+)",
+          "text": "childcare (2000+)",
           "url": ""
         },
         {
           "source": "news",
-          "text": "Pregnant Savannah Chrisley Marries Jason Galanis in Secret Church Wedding in the Cayman Islands (Exclusive)",
-          "url": "https://people.com/savannah-chrisley-and-jason-galanis-are-married-exclusive-12201371"
+          "text": "Indiana makes progress in cutting childcare voucher waitlist",
+          "url": "https://www.tribstar.com/news/indiana_news/indiana-makes-progress-in-cutting-childcare-voucher-waitlist/article_5c67df18-2280-4e6b-9765-07283d6fceb1.html"
         },
         {
           "source": "news",
-          "text": "Pregnant Savannah Chrisley Confirms Private Cayman Islands Wedding With Husband Jason Galanis",
-          "url": "https://www.eonline.com/news/1437714/pregnant-savannah-chrisley-confirms-wedding-with-husband-jason-galanis"
+          "text": "Braun: $200 Million Investment Cuts Childcare Waitlist by Nearly 80 Percent",
+          "url": "https://www.wwbl.com/2026/11/02/braun-200-million-investment-cuts-childcare-waitlist-by-nearly-80-percent/"
         }
       ],
-      "id": "d74f5bf66e",
+      "id": "2a0567a83b",
       "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=savannah+chrisley+husband&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=savannah+chrisley+husband",
-        "naver": "https://search.shopping.naver.com/search/all?query=savannah+chrisley+husband"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "hunger games",
-      "query": "hunger games",
-      "category": "trend",
-      "score": 42,
-      "reasons": [
-        "미국 검색 급상승 2000+",
-        "상품 신호: K-pop 굿즈"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "hunger games (2000+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "‘The Hunger Games: Sunrise on the Reaping (The Album)’ to Feature Ella Langley, Tyler Childers, Stevie Nicks & More: ‘Great Artists & Great Music’",
-          "url": "https://www.billboard.com/music/music-news/the-hunger-games-sunrise-on-the-reaping-album-ella-langley-1236371836/"
-        },
-        {
-          "source": "news",
-          "text": "'Hunger Games' Album Includes Songs by Jennifer Lawrence, Ella Langley",
-          "url": "https://variety.com/2026/music/news/hunger-games-album-jennifer-lawrence-ella-langley-1236937594/"
-        }
-      ],
-      "id": "6047651d54",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=hunger+games&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=hunger+games",
-        "naver": "https://search.shopping.naver.com/search/all?query=hunger+games"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "new hunger games movie",
-      "query": "new hunger games movie",
-      "category": "trend",
-      "score": 42,
-      "reasons": [
-        "미국 검색 급상승 2000+",
-        "상품 신호: 출시"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "new hunger games movie (2000+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "The New Hunger Games Movie Is Getting a 3D Release — Plus a New Way to Watch at Home",
-          "url": "https://people.com/the-new-hunger-games-movie-getting-a-3d-release-plus-new-way-to-watch-at-home-12208171"
-        },
-        {
-          "source": "news",
-          "text": "Lionsgate Inks Deal With Meta to Bring New ‘Hunger Games’ Movie to VR Glasses",
-          "url": "https://www.hollywoodreporter.com/business/digital/hunger-games-sunrise-on-the-reaping-1236745888/"
-        }
-      ],
-      "id": "ff4383b11b",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=new+hunger+games+movie&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=new+hunger+games+movie",
-        "naver": "https://search.shopping.naver.com/search/all?query=new+hunger+games+movie"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=childcare&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=childcare",
+        "naver": "https://search.shopping.naver.com/search/all?query=childcare"
       },
       "trend": {
         "status": "new",
@@ -650,7 +519,7 @@
       "score": 35,
       "reasons": [
         "r/PokemonTCG hot #1",
-        "다가오는 이벤트와 연결: Christmas (D-52)"
+        "다가오는 이벤트와 연결: Christmas (D-51)"
       ],
       "sources": [
         "reddit"
@@ -670,10 +539,10 @@
         "naver": "https://search.shopping.naver.com/search/all?query=confiscated+Christmas+Pok%C3%A9mon+cards+decades+ago"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "up",
+        "prev_rank": 17,
+        "rank_change": 3,
+        "streak": 2
       }
     },
     {
@@ -682,7 +551,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-8 (2026-11-11), 배송 시간 부족"
+        "이벤트 D-7 (2026-11-11), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -696,7 +565,7 @@
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 8,
+        "days_left": 7,
         "prep_by": "2026-10-28",
         "status": "too_late"
       },
@@ -708,9 +577,9 @@
         "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
       },
       "trend": {
-        "status": "same",
-        "prev_rank": 17,
-        "rank_change": -1,
+        "status": "up",
+        "prev_rank": 18,
+        "rank_change": 3,
         "streak": 15
       }
     }
@@ -720,7 +589,7 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "prepare_now",
@@ -742,7 +611,7 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "prepare_now",
@@ -762,7 +631,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -781,7 +650,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -800,7 +669,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -820,7 +689,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 24,
+      "days_left": 23,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -838,7 +707,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 27,
+      "days_left": 26,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -856,7 +725,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 52,
+      "days_left": 51,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -874,129 +743,156 @@
   ],
   "other_trends": [
     {
-      "keyword": "who got eliminated on dancing with the stars",
-      "traffic_label": "10000+",
+      "keyword": "melat kiros",
+      "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=who+got+eliminated+on+dancing+with+the+stars&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=who+got+eliminated+on+dancing+with+the+stars",
-        "naver": "https://search.shopping.naver.com/search/all?query=who+got+eliminated+on+dancing+with+the+stars"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=melat+kiros&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=melat+kiros",
+        "naver": "https://search.shopping.naver.com/search/all?query=melat+kiros"
       }
     },
     {
-      "keyword": "hunger games sunrise on the reaping",
-      "traffic_label": "5000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=hunger+games+sunrise+on+the+reaping&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=hunger+games+sunrise+on+the+reaping",
-        "naver": "https://search.shopping.naver.com/search/all?query=hunger+games+sunrise+on+the+reaping"
-      }
-    },
-    {
-      "keyword": "oklahoma basketball",
+      "keyword": "iowa",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=oklahoma+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=oklahoma+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=oklahoma+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=iowa&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=iowa",
+        "naver": "https://search.shopping.naver.com/search/all?query=iowa"
       }
     },
     {
-      "keyword": "aclu",
+      "keyword": "eric barlow",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=eric+barlow&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=eric+barlow",
+        "naver": "https://search.shopping.naver.com/search/all?query=eric+barlow"
+      }
+    },
+    {
+      "keyword": "lynne walz",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lynne+walz&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lynne+walz",
+        "naver": "https://search.shopping.naver.com/search/all?query=lynne+walz"
+      }
+    },
+    {
+      "keyword": "connor mcdavid",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aclu&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aclu",
-        "naver": "https://search.shopping.naver.com/search/all?query=aclu"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=connor+mcdavid&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=connor+mcdavid",
+        "naver": "https://search.shopping.naver.com/search/all?query=connor+mcdavid"
       }
     },
     {
-      "keyword": "malik monk",
-      "traffic_label": "200+",
+      "keyword": "rashida tlaib",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=malik+monk&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=malik+monk",
-        "naver": "https://search.shopping.naver.com/search/all?query=malik+monk"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=rashida+tlaib&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=rashida+tlaib",
+        "naver": "https://search.shopping.naver.com/search/all?query=rashida+tlaib"
       }
     },
     {
-      "keyword": "ou basketball",
-      "traffic_label": "200+",
+      "keyword": "nc amendments 2026",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ou+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ou+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=ou+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nc+amendments+2026&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nc+amendments+2026",
+        "naver": "https://search.shopping.naver.com/search/all?query=nc+amendments+2026"
+      }
+    },
+    {
+      "keyword": "larry kudlow",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=larry+kudlow&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=larry+kudlow",
+        "naver": "https://search.shopping.naver.com/search/all?query=larry+kudlow"
+      }
+    },
+    {
+      "keyword": "first black woman governor",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=first+black+woman+governor&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=first+black+woman+governor",
+        "naver": "https://search.shopping.naver.com/search/all?query=first+black+woman+governor"
       }
     }
   ],
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "dropped": [
     {
-      "id": "6ed713c50c",
-      "title": "TWS 'TO US'",
-      "query": "tws album",
-      "score": 65,
-      "rank": 2
+      "id": "5ff13db823",
+      "title": "landry shamet",
+      "query": "landry shamet",
+      "score": 52,
+      "rank": 7
     },
     {
-      "id": "8fe194bdd9",
-      "title": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
-      "query": "funko Amazon Exclusive",
-      "score": 59,
-      "rank": 6
-    },
-    {
-      "id": "a1f6e6bd78",
-      "title": "30th Celebration Pulls",
-      "query": "30th Celebration Pulls",
-      "score": 49,
+      "id": "fda9cbef51",
+      "title": "Black Friday sell started on Funko!!!",
+      "query": "Black Friday sell started Funko",
+      "score": 45,
       "rank": 9
     },
     {
-      "id": "b778d66c81",
-      "title": "Petit Planet is coming to Nintendo Switch 2 in 2027!",
-      "query": "Petit Planet Nintendo Switch 2 2027",
+      "id": "87d6b5975d",
+      "title": "Opening a physical Lego store in Emmen, the Netherlands!",
+      "query": "Opening physical Lego store Emmen Netherlands",
       "score": 45,
       "rank": 10
     },
     {
-      "id": "b0945f8bd2",
-      "title": "BTS' \"ARIRANG\" tour's South American leg drew 853,000 fans in 14 sold out shows",
-      "query": "BTS ARIRANG tour South American leg",
-      "score": 45,
+      "id": "df60321ae2",
+      "title": "Call Of Duty Modern Warfare 4 On Switch 2 Drops To As Low As 225p Upscaled To 450p, And Has Extremely Bad Input Lag",
+      "query": "Call Duty Modern Warfare 4 Switch",
+      "score": 44,
       "rank": 11
     },
     {
-      "id": "69779fbca5",
-      "title": "ILLIT - paw, paw! @ PRESS START♥︎ ENCORE in KOREA (261018)",
-      "query": "ILLIT",
-      "score": 43,
+      "id": "4c020cf198",
+      "title": "SILLY POLLY BEAST coming to Nintendo Switch 2 in November",
+      "query": "SILLY POLLY BEAST Nintendo Switch 2",
+      "score": 44,
       "rank": 12
     },
     {
-      "id": "95f96b919f",
-      "title": "SHINee Key - Edited by Key (E.B.K.) #9: SHINee Season's Greetings Filming (261031) [ENG SUB]",
-      "query": "SHINee Season Greetings Filming",
-      "score": 43,
+      "id": "04db927091",
+      "title": "Received 10 different LEGO gift cards from family/friends that knew I was saving up for Sagrada Família. Come to find out launch day you can only use 3 max in an order :(",
+      "query": "lego Come find launch only use",
+      "score": 42,
       "rank": 13
     },
     {
-      "id": "49c7f5e57f",
-      "title": "robin williams",
-      "query": "robin williams",
-      "score": 39,
+      "id": "d74f5bf66e",
+      "title": "savannah chrisley husband",
+      "query": "savannah chrisley husband",
+      "score": 42,
+      "rank": 14
+    },
+    {
+      "id": "6047651d54",
+      "title": "hunger games",
+      "query": "hunger games",
+      "score": 42,
       "rank": 15
     },
     {
-      "id": "856b4e5429",
-      "title": "elijah mitchell",
-      "query": "elijah mitchell",
-      "score": 37,
+      "id": "ff4383b11b",
+      "title": "new hunger games movie",
+      "query": "new hunger games movie",
+      "score": 42,
       "rank": 16
     }
   ],
   "history": {
-    "date": "2026-11-03",
-    "previous_date": "2026-11-02",
-    "new_count": 10
+    "date": "2026-11-04",
+    "previous_date": "2026-11-03",
+    "new_count": 6
   }
 }
