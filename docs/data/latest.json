@@ -1,68 +1,33 @@
 {
-  "generated_at": "2026-11-05T02:36:06+00:00",
+  "generated_at": "2026-11-06T02:35:12+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-05T02:30:16+00:00"
+      "fetched_at": "2026-11-06T02:30:14+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 95,
+      "count": 100,
       "error": null,
-      "fetched_at": "2026-11-05T02:36:06+00:00"
+      "fetched_at": "2026-11-06T02:35:11+00:00"
     },
     "events": {
       "ok": true,
       "count": 8,
       "error": null,
-      "fetched_at": "2026-11-05T02:36:06+00:00"
+      "fetched_at": "2026-11-06T02:35:11+00:00"
     }
   },
   "candidates": [
-    {
-      "title": "TXT (TOMORROW X TOGETHER) - 9th Mini Album: PERFECT STORM (Highlight Medley)",
-      "query": "txt 9th Mini Album",
-      "category": "kculture",
-      "score": 77,
-      "reasons": [
-        "r/kpop hot #9",
-        "상품 신호: 콜라보, K-pop 굿즈",
-        "브랜드/IP: txt",
-        "다가오는 이벤트와 연결: TXT 'PERFECT STORM' (D-11)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "TXT (TOMORROW X TOGETHER) - 9th Mini Album: PERFECT STORM (Highlight Medley)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xnqflo/txt_tomorrow_x_together_9th_mini_album_perfect/"
-        }
-      ],
-      "id": "a4beb9ab14",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+9th+Mini+Album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+9th+Mini+Album",
-        "naver": "https://search.shopping.naver.com/search/all?query=txt+9th+Mini+Album"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
     {
       "title": "Pokemon TCG Delta Reign (ME06)",
       "query": "delta reign booster box",
       "category": "tcg",
       "score": 75,
       "reasons": [
-        "이벤트 D-1 (2026-11-06), 지금 준비할 때",
+        "이벤트 D-0 (2026-11-06), 지금 준비할 때",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -77,13 +42,13 @@
         },
         {
           "source": "reddit",
-          "text": "Delta Reign pulls",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xnxenh/delta_reign_pulls/"
+          "text": "Delta reign officially delayed by Pokemon center until mid Nov",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xoog9h/delta_reign_officially_delayed_by_pokemon_center/"
         }
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 1,
+        "days_left": 0,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -96,8 +61,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 1,
-        "rank_change": -1,
+        "prev_rank": 2,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -107,7 +72,7 @@
       "category": "tcg",
       "score": 65,
       "reasons": [
-        "이벤트 D-1 (2026-11-06), 지금 준비할 때"
+        "이벤트 D-0 (2026-11-06), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -121,7 +86,7 @@
       ],
       "event": {
         "date": "2026-11-06",
-        "days_left": 1,
+        "days_left": 0,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -134,8 +99,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 2,
-        "rank_change": -1,
+        "prev_rank": 3,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -145,7 +110,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-22 (2026-11-27), 지금 준비할 때"
+        "이벤트 D-21 (2026-11-27), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -159,7 +124,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 22,
+        "days_left": 21,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -172,8 +137,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 3,
-        "rank_change": -1,
+        "prev_rank": 4,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -183,7 +148,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-25 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-24 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -197,7 +162,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 25,
+        "days_left": 24,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -210,8 +175,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 4,
-        "rank_change": -1,
+        "prev_rank": 5,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -219,30 +184,23 @@
       "title": "ATEEZ 'GOLDEN HOUR Part.6'",
       "query": "ateez golden hour",
       "category": "kpop",
-      "score": 63,
+      "score": 53,
       "reasons": [
-        "이벤트 D-8 (2026-11-13), 준비 예정",
-        "다른 소스에서 1건 언급"
+        "이벤트 D-7 (2026-11-13), 준비 예정"
       ],
       "sources": [
-        "events",
-        "reddit"
+        "events"
       ],
       "evidence": [
         {
           "source": "events",
           "text": "ATEEZ 'GOLDEN HOUR Part.6'",
           "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
-        },
-        {
-          "source": "reddit",
-          "text": "ATEEZ San to feature in Airbnb campaign ‘Welcome to Halmiwood’, to find countryside homes with special stories",
-          "url": "https://www.reddit.com/r/kpop/comments/1xo5cyc/ateez_san_to_feature_in_airbnb_campaign_welcome/"
         }
       ],
       "event": {
         "date": "2026-11-13",
-        "days_left": 8,
+        "days_left": 7,
         "prep_by": "2026-11-10",
         "status": "upcoming"
       },
@@ -255,18 +213,18 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 7,
+        "prev_rank": 6,
         "rank_change": 1,
         "streak": 15
       }
     },
     {
-      "title": "TXT 'PERFECT STORM'",
-      "query": "txt perfect storm",
-      "category": "kpop",
-      "score": 62,
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 53,
       "reasons": [
-        "이벤트 D-11 (2026-11-16), 준비 예정",
+        "이벤트 D-49 (2026-12-25), 준비 예정",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -276,18 +234,56 @@
       "evidence": [
         {
           "source": "events",
-          "text": "TXT 'PERFECT STORM'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
+          "url": ""
         },
         {
           "source": "reddit",
-          "text": "TXT (TOMORROW X TOGETHER) - 9th Mini Album: PERFECT STORM (Highlight Medley)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xnqflo/txt_tomorrow_x_together_9th_mini_album_perfect/"
+          "text": "Early Christmas Gift!!",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xotvb0/early_christmas_gift/"
+        }
+      ],
+      "event": {
+        "date": "2026-12-25",
+        "days_left": 49,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
+      },
+      "id": "90f88a9324",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 13,
+        "rank_change": 7,
+        "streak": 12
+      }
+    },
+    {
+      "title": "TXT 'PERFECT STORM'",
+      "query": "txt perfect storm",
+      "category": "kpop",
+      "score": 52,
+      "reasons": [
+        "이벤트 D-10 (2026-11-16), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "TXT 'PERFECT STORM'",
+          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
         }
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 11,
+        "days_left": 10,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -300,54 +296,20 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 9,
-        "rank_change": 2,
+        "prev_rank": 7,
+        "rank_change": 0,
         "streak": 15
       }
     },
     {
-      "title": "Delta Reign pulls",
-      "query": "Delta Reign pulls",
+      "title": "Delta reign officially delayed by Pokemon center until mid Nov",
+      "query": "Delta reign officially delayed Pokemon center",
       "category": "collectibles",
-      "score": 50,
-      "reasons": [
-        "r/PokemonTCG hot #3",
-        "상품 신호: 구매·개봉",
-        "다가오는 이벤트와 연결: Pokemon TCG Delta Reign (ME06) (D-1)"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Delta Reign pulls",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xnxenh/delta_reign_pulls/"
-        }
-      ],
-      "id": "a24f208a59",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Delta+Reign+pulls&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Delta+Reign+pulls",
-        "naver": "https://search.shopping.naver.com/search/all?query=Delta+Reign+pulls"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "ATEEZ San to feature in Airbnb campaign ‘Welcome to Halmiwood’, to find countryside homes with special stories",
-      "query": "ATEEZ San feature Airbnb campaign Welcome",
-      "category": "kculture",
       "score": 49,
       "reasons": [
-        "r/kpop hot #4",
-        "브랜드/IP: ateez",
-        "다가오는 이벤트와 연결: ATEEZ 'GOLDEN HOUR Part.6' (D-8)"
+        "r/PokemonTCG hot #5",
+        "브랜드/IP: pokemon",
+        "다가오는 이벤트와 연결: Pokemon TCG Delta Reign (ME06) (D-0)"
       ],
       "sources": [
         "reddit"
@@ -355,16 +317,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "ATEEZ San to feature in Airbnb campaign ‘Welcome to Halmiwood’, to find countryside homes with special stories",
-          "url": "https://www.reddit.com/r/kpop/comments/1xo5cyc/ateez_san_to_feature_in_airbnb_campaign_welcome/"
+          "text": "Delta reign officially delayed by Pokemon center until mid Nov",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xoog9h/delta_reign_officially_delayed_by_pokemon_center/"
         }
       ],
-      "id": "20fbda0a7d",
-      "category_label": "K-컬처",
+      "id": "969d49365d",
+      "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ATEEZ+San+feature+Airbnb+campaign+Welcome&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ATEEZ+San+feature+Airbnb+campaign+Welcome",
-        "naver": "https://search.shopping.naver.com/search/all?query=ATEEZ+San+feature+Airbnb+campaign+Welcome"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Delta+reign+officially+delayed+Pokemon+center&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Delta+reign+officially+delayed+Pokemon+center",
+        "naver": "https://search.shopping.naver.com/search/all?query=Delta+reign+officially+delayed+Pokemon+center"
       },
       "trend": {
         "status": "new",
@@ -374,40 +336,31 @@
       }
     },
     {
-      "title": "lakers vs kings",
-      "query": "lakers vs kings",
-      "category": "trend",
+      "title": "LEGO Godzilla 21375 revealed",
+      "query": "LEGO Godzilla 21375 revealed",
+      "category": "collectibles",
       "score": 45,
       "reasons": [
-        "미국 검색 급상승 5000+",
-        "상품 신호: 출시"
+        "r/lego hot #2",
+        "상품 신호: 모델명",
+        "브랜드/IP: lego"
       ],
       "sources": [
-        "google_trends"
+        "reddit"
       ],
       "evidence": [
         {
-          "source": "google_trends",
-          "text": "lakers vs kings (5000+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Lakers vs. Kings Preview: Quick road trip",
-          "url": "https://www.silverscreenandroll.com/lakers-game-previews/128397/lakers-vs-kings-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-zach-lavine"
-        },
-        {
-          "source": "news",
-          "text": "Kings vs Lakers Preview: Sacramento Win Tsunami Incoming?",
-          "url": "https://kingsherald.com/articles/kings-vs-lakers-preview-sacramento-win-tsunami-incoming/"
+          "source": "reddit",
+          "text": "LEGO Godzilla 21375 revealed",
+          "url": "https://www.reddit.com/r/lego/comments/1xmu5g6/lego_godzilla_21375_revealed/"
         }
       ],
-      "id": "7d680704e8",
-      "category_label": "검색 급상승",
+      "id": "0be035cb10",
+      "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lakers+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lakers+vs+kings",
-        "naver": "https://search.shopping.naver.com/search/all?query=lakers+vs+kings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed",
+        "naver": "https://search.shopping.naver.com/search/all?query=LEGO+Godzilla+21375+revealed"
       },
       "trend": {
         "status": "new",
@@ -417,12 +370,46 @@
       }
     },
     {
-      "title": "We are Eidos-Montréal, developers of Marvel's Guardians of the Galaxy. We're launching the game on Nintendo Switch 2 tonight! Ask us anything!",
-      "query": "We're launching game Nintendo Switch 2",
-      "category": "gaming",
-      "score": 44,
+      "title": "HYBE x GEFFEN clarifies that the Chicago and Minneapolis KATSEYE WILDWORLD TOUR shows were postponed due to MEGAN recovering from a concussion",
+      "query": "HYBE x GEFFEN clarifies Chicago Minneapolis",
+      "category": "kculture",
+      "score": 45,
       "reasons": [
-        "r/NintendoSwitch hot #7",
+        "r/kpop hot #2",
+        "상품 신호: 콜라보",
+        "브랜드/IP: katseye"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "HYBE x GEFFEN clarifies that the Chicago and Minneapolis KATSEYE WILDWORLD TOUR shows were postponed due to MEGAN recovering from a concussion",
+          "url": "https://www.reddit.com/r/kpop/comments/1xoxa2f/hybe_x_geffen_clarifies_that_the_chicago_and/"
+        }
+      ],
+      "id": "4b6e60b44e",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=HYBE+x+GEFFEN+clarifies+Chicago+Minneapolis&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=HYBE+x+GEFFEN+clarifies+Chicago+Minneapolis",
+        "naver": "https://search.shopping.naver.com/search/all?query=HYBE+x+GEFFEN+clarifies+Chicago+Minneapolis"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "BACK IN STOCK - Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition - Happy Release Day!",
+      "query": "nintendo Happy Release",
+      "category": "gaming",
+      "score": 43,
+      "reasons": [
+        "r/NintendoSwitch hot #5",
         "상품 신호: 출시",
         "브랜드/IP: nintendo"
       ],
@@ -432,16 +419,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "We are Eidos-Montréal, developers of Marvel's Guardians of the Galaxy. We're launching the game on Nintendo Switch 2 tonight! Ask us anything!",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xo3imi/we_are_eidosmontréal_developers_of_marvels/"
+          "text": "BACK IN STOCK - Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition - Happy Release Day!",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xooaky/back_in_stock_nintendo_switch_2_the_legend_of/"
         }
       ],
-      "id": "af0af2b459",
+      "id": "b3ee559527",
       "category_label": "게임",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=We%27re+launching+game+Nintendo+Switch+2&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=We%27re+launching+game+Nintendo+Switch+2",
-        "naver": "https://search.shopping.naver.com/search/all?query=We%27re+launching+game+Nintendo+Switch+2"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nintendo+Happy+Release&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nintendo+Happy+Release",
+        "naver": "https://search.shopping.naver.com/search/all?query=nintendo+Happy+Release"
       },
       "trend": {
         "status": "new",
@@ -454,9 +441,9 @@
       "title": "[Special Release] The Legend of Zelda: Ocarina of Time - Nintendo Music",
       "query": "Legend Zelda",
       "category": "gaming",
-      "score": 44,
+      "score": 41,
       "reasons": [
-        "r/NintendoSwitch hot #9",
+        "r/NintendoSwitch hot #10",
         "상품 신호: 출시",
         "브랜드/IP: nintendo"
       ],
@@ -478,48 +465,53 @@
         "naver": "https://search.shopping.naver.com/search/all?query=Legend+Zelda"
       },
       "trend": {
+        "status": "same",
+        "prev_rank": 12,
+        "rank_change": 0,
+        "streak": 2
+      }
+    },
+    {
+      "title": "will ferrell",
+      "query": "will ferrell",
+      "category": "trend",
+      "score": 37,
+      "reasons": [
+        "미국 검색 급상승 500+",
+        "상품 신호: 출시"
+      ],
+      "sources": [
+        "google_trends"
+      ],
+      "evidence": [
+        {
+          "source": "google_trends",
+          "text": "will ferrell (500+)",
+          "url": ""
+        },
+        {
+          "source": "news",
+          "text": "It’s That Time Of Year When More Wild Will Ferrell Elf Stories Are Coming Down The Pipeline",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/time-more-wild-ferrell-elf-234500018.html"
+        },
+        {
+          "source": "news",
+          "text": "Andy Richter Reveals Which ‘Elf’ Scenes Were Filmed in a Mental Hospital That ‘Still Had Patients’",
+          "url": "https://www.usmagazine.com/celebrity-news/news/andy-richter-on-elf-scenes-filmed-in-mental-hospital/"
+        }
+      ],
+      "id": "2957e739f0",
+      "category_label": "검색 급상승",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=will+ferrell&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=will+ferrell",
+        "naver": "https://search.shopping.naver.com/search/all?query=will+ferrell"
+      },
+      "trend": {
         "status": "new",
         "prev_rank": null,
         "rank_change": 0,
         "streak": 1
-      }
-    },
-    {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 42,
-      "reasons": [
-        "이벤트 D-50 (2026-12-25), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 50,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
-        "status": "down",
-        "prev_rank": 8,
-        "rank_change": -5,
-        "streak": 11
       }
     },
     {
@@ -528,7 +520,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-6 (2026-11-11), 배송 시간 부족"
+        "이벤트 D-5 (2026-11-11), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -542,7 +534,7 @@
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 6,
+        "days_left": 5,
         "prep_by": "2026-10-28",
         "status": "too_late"
       },
@@ -555,8 +547,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 15,
-        "rank_change": 1,
+        "prev_rank": 14,
+        "rank_change": 0,
         "streak": 15
       }
     }
@@ -566,7 +558,7 @@
       "name": "Pokemon 30th Celebration Ultra-Premium Collection",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 1,
+      "days_left": 0,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "prepare_now",
@@ -588,7 +580,7 @@
       "name": "Pokemon TCG Delta Reign (ME06)",
       "category": "tcg",
       "date": "2026-11-06",
-      "days_left": 1,
+      "days_left": 0,
       "prep_by": "2026-10-30",
       "lead_days": 7,
       "status": "prepare_now",
@@ -608,7 +600,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -627,7 +619,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -646,7 +638,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -666,7 +658,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 22,
+      "days_left": 21,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -684,7 +676,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 25,
+      "days_left": 24,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -702,7 +694,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 50,
+      "days_left": 49,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -720,142 +712,128 @@
   ],
   "other_trends": [
     {
-      "keyword": "dalton knecht",
+      "keyword": "the day after tomorrow",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=dalton+knecht&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=dalton+knecht",
-        "naver": "https://search.shopping.naver.com/search/all?query=dalton+knecht"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=the+day+after+tomorrow&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=the+day+after+tomorrow",
+        "naver": "https://search.shopping.naver.com/search/all?query=the+day+after+tomorrow"
       }
     },
     {
-      "keyword": "aldi november 2026 new products",
+      "keyword": "joe flacco",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aldi+november+2026+new+products&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aldi+november+2026+new+products",
-        "naver": "https://search.shopping.naver.com/search/all?query=aldi+november+2026+new+products"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=joe+flacco&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=joe+flacco",
+        "naver": "https://search.shopping.naver.com/search/all?query=joe+flacco"
       }
     },
     {
-      "keyword": "duncan robinson",
-      "traffic_label": "2000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=duncan+robinson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=duncan+robinson",
-        "naver": "https://search.shopping.naver.com/search/all?query=duncan+robinson"
-      }
-    },
-    {
-      "keyword": "sharks vs kings",
+      "keyword": "bill cassidy",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=sharks+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=sharks+vs+kings",
-        "naver": "https://search.shopping.naver.com/search/all?query=sharks+vs+kings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=bill+cassidy&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=bill+cassidy",
+        "naver": "https://search.shopping.naver.com/search/all?query=bill+cassidy"
       }
     },
     {
-      "keyword": "maria alicia delgado",
+      "keyword": "trey hendrickson",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=maria+alicia+delgado&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=maria+alicia+delgado",
-        "naver": "https://search.shopping.naver.com/search/all?query=maria+alicia+delgado"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=trey+hendrickson&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=trey+hendrickson",
+        "naver": "https://search.shopping.naver.com/search/all?query=trey+hendrickson"
       }
     },
     {
-      "keyword": "hurricane",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=hurricane&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=hurricane",
-        "naver": "https://search.shopping.naver.com/search/all?query=hurricane"
-      }
-    },
-    {
-      "keyword": "bennett stirtz",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=bennett+stirtz&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=bennett+stirtz",
-        "naver": "https://search.shopping.naver.com/search/all?query=bennett+stirtz"
-      }
-    },
-    {
-      "keyword": "jarrett allen",
+      "keyword": "deportación",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jarrett+allen&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jarrett+allen",
-        "naver": "https://search.shopping.naver.com/search/all?query=jarrett+allen"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=deportaci%C3%B3n&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=deportaci%C3%B3n",
+        "naver": "https://search.shopping.naver.com/search/all?query=deportaci%C3%B3n"
       }
     },
     {
-      "keyword": "daisy ridley",
+      "keyword": "camryn manheim",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=daisy+ridley&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=daisy+ridley",
-        "naver": "https://search.shopping.naver.com/search/all?query=daisy+ridley"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=camryn+manheim&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=camryn+manheim",
+        "naver": "https://search.shopping.naver.com/search/all?query=camryn+manheim"
+      }
+    },
+    {
+      "keyword": "central florida floods",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=central+florida+floods&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=central+florida+floods",
+        "naver": "https://search.shopping.naver.com/search/all?query=central+florida+floods"
+      }
+    },
+    {
+      "keyword": "rashod bateman",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=rashod+bateman&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=rashod+bateman",
+        "naver": "https://search.shopping.naver.com/search/all?query=rashod+bateman"
+      }
+    },
+    {
+      "keyword": "anthony mantha",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=anthony+mantha&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=anthony+mantha",
+        "naver": "https://search.shopping.naver.com/search/all?query=anthony+mantha"
       }
     }
   ],
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "dropped": [
     {
-      "id": "8fe194bdd9",
-      "title": "[Link in Image Caption] Funko POP! Animation: One Piece - Edison - Amazon Exclusive | Official Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
-      "query": "funko Amazon Exclusive",
-      "score": 59,
-      "rank": 5
+      "id": "a4beb9ab14",
+      "title": "TXT (TOMORROW X TOGETHER) - 9th Mini Album: PERFECT STORM (Highlight Medley)",
+      "query": "txt 9th Mini Album",
+      "score": 77,
+      "rank": 1
     },
     {
-      "id": "6d4f1730e4",
-      "title": "RESCENE - From viral sensation to chart topper, Rescene aims to make 'miracle' last with 'Pulse' @ 4th Mini Album: PULSE Comeback Showcase (261103)",
-      "query": "viral sensation chart topper Rescene aims",
-      "score": 58,
-      "rank": 6
-    },
-    {
-      "id": "8acdda1ee5",
-      "title": "Bought a Delta Reign ETB yesterday",
-      "query": "Bought Delta Reign ETB yesterday",
+      "id": "a24f208a59",
+      "title": "Delta Reign pulls",
+      "query": "Delta Reign pulls",
       "score": 50,
+      "rank": 8
+    },
+    {
+      "id": "20fbda0a7d",
+      "title": "ATEEZ San to feature in Airbnb campaign ‘Welcome to Halmiwood’, to find countryside homes with special stories",
+      "query": "ATEEZ San feature Airbnb campaign Welcome",
+      "score": 49,
+      "rank": 9
+    },
+    {
+      "id": "7d680704e8",
+      "title": "lakers vs kings",
+      "query": "lakers vs kings",
+      "score": 45,
       "rank": 10
     },
     {
-      "id": "0be035cb10",
-      "title": "LEGO Godzilla 21375 revealed",
-      "query": "LEGO Godzilla 21375 revealed",
-      "score": 45,
-      "rank": 11
-    },
-    {
-      "id": "3f794673f5",
-      "title": "The Goddess of Victory: Nikke PC Launcher seems to have been compromised (Possibly even more Tencent games)",
-      "query": "Nikke PC Launcher seems compromised",
+      "id": "af0af2b459",
+      "title": "We are Eidos-Montréal, developers of Marvel's Guardians of the Galaxy. We're launching the game on Nintendo Switch 2 tonight! Ask us anything!",
+      "query": "We're launching game Nintendo Switch 2",
       "score": 44,
-      "rank": 12
-    },
-    {
-      "id": "2a0567a83b",
-      "title": "childcare",
-      "query": "childcare",
-      "score": 42,
-      "rank": 13
-    },
-    {
-      "id": "5f20dd467b",
-      "title": "Mom confiscated my Christmas Pokémon cards decades ago. Just found them. Still sealed.",
-      "query": "confiscated Christmas Pokémon cards decades ago",
-      "score": 35,
-      "rank": 14
+      "rank": 11
     }
   ],
   "history": {
-    "date": "2026-11-05",
-    "previous_date": "2026-11-04",
-    "new_count": 6
+    "date": "2026-11-06",
+    "previous_date": "2026-11-05",
+    "new_count": 5
   }
 }
