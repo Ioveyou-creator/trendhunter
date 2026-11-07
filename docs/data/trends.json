@@ -1,247 +1,232 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-06T02:30:14+00:00",
+  "fetched_at": "2026-11-07T01:58:06+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "the day after tomorrow",
+      "keyword": "vj edgecombe",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 5 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFwwT_U-rjIUTm7tpKxT7gFKcfIrmPrX4_xiOCNEQE6vcWgVVu38KUyBt-oxg",
+      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLc0-n9CZOkfqxgVwaQFGJioqhUMYQtdc_44tyetRXwoPlXWAS_866Xf24PyY",
       "news": [
         {
-          "title": "Jake Gyllenhaal's 123-Minute Sci-Fi Action Thriller Is Officially the Biggest Movie on Netflix",
-          "url": "https://movieweb.com/the-day-after-tomorrow-jake-gyllenhaal-stream-november-2026/",
-          "source": "MovieWeb"
-        },
-        {
-          "title": "How Did ‘The Day After Tomorrow’ Become the Top Movie on Netflix in 2026?",
-          "url": "https://decider.com/2026/11/03/top-movie-on-netflix-the-day-after-tomorrow/",
-          "source": "Decider"
-        },
-        {
-          "title": "8 Best Movies To Watch If You Love The Day After Tomorrow",
-          "url": "https://www.cbr.com/best-movies-for-day-after-tomorrow-fans-list/",
-          "source": "Comic Book Resources"
-        }
-      ]
-    },
-    {
-      "keyword": "joe flacco",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Thu, 5 Nov 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqK9FFjAQ4mdD3agDGuXFQZ0_dPf975RAoas1XIAe_TJ9kgaRRH2koDFARSJA",
-      "news": [
-        {
-          "title": "Column: Caleb Williams didn’t just black out his cleats’ logo. The Bears QB blocked a growing controversy.",
-          "url": "https://www.chicagotribune.com/2026/11/04/caleb-williams-cleats-controversy/",
-          "source": "Chicago Tribune"
-        },
-        {
-          "title": "Bears QB Caleb Williams blacks out logo on cleats, says he wants 'to calm things down' after risking $12,000 in NFL fines",
-          "url": "https://sports.yahoo.com/nfl/article/bears-qb-caleb-williams-blacks-out-logo-on-cleats-says-he-wants-to-calm-things-down-after-risking-12000-in-nfl-fines-072404682.html",
+          "title": "76ers Star Tyrese Maxey’s 4-Word Message to VJ Edgecombe Goes Viral",
+          "url": "https://sports.yahoo.com/articles/76ers-star-tyrese-maxey-4-205540402.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "NFL keeps fining Caleb Williams for refusing to cover logo of \"science\" cleats worn by over 80 players",
-          "url": "https://www.foxnews.com/outkick-sports/nfl-keeps-fining-caleb-williams-refusing-cover-logo-science-cleats-worn-over-80-players",
-          "source": "Fox News"
+          "title": "Tyrese Maxey had hilarious message for 76ers teammate after missed layup",
+          "url": "https://larrybrownsports.com/basketball/tyrese-maxey-hilarious-message-76ers-teammate-missed-layup/777378",
+          "source": "Larry Brown Sports"
+        },
+        {
+          "title": "Tyrese Maxey shares what he said to VJ Edgecombe just before his clutch triple vs Hornets",
+          "url": "https://www.yardbarker.com/nba/articles/tyrese_maxey_shares_what_he_said_to_vj_edgecombe_just_before_his_clutch_triple_vs_hornets/s1_17664_44500706",
+          "source": "Yardbarker"
         }
       ]
     },
     {
-      "keyword": "bill cassidy",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 5 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-yWw3Hl6tJWlf-g00hPBP_eWyzvOPts7gtDkybhitVzQdGimWgM9SaegYRPM",
+      "keyword": "brandon miller",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Fri, 6 Nov 2026 17:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLgfpCJKw3h-UZAk743NuFNoYfH6laihhKcRpE_a0DjkW_hBLa1fkUA4xLIck",
       "news": [
         {
-          "title": "Louisiana Election Results",
-          "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-louisiana.html",
+          "title": "Brandon Miller Injury: Won't return Friday",
+          "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-wont-return-friday-537900",
+          "source": "RotoWire"
+        },
+        {
+          "title": "What happened to Brandon Miller? Hornets star exits with injury in NBA Cup vs Celtics",
+          "url": "https://basketnews.com/news-258989-what-happened-to-brandon-miller-hornets-star-exits-with-injury-in-nba-cup-vs-celtics.html",
+          "source": "BasketNews.com"
+        },
+        {
+          "title": "Hornets' Brandon Miller: Heads to locker room",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/hornets-brandon-miller-heads-to-locker-room/",
+          "source": "CBS Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "nocturne series",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTphpIzeRYQxMdjnC7a5MnEAKVIFE_ge4sBi93gWk4hEZNmADtciVowBT51nsQ",
+      "news": [
+        {
+          "title": "‘Nocturne’ Episode 3 Recap & Ending Explained: What the Sandman’s Call Means for Jonah and Saga",
+          "url": "https://www.imdb.com/news/ni66098068/?ref_=nmnw_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Apple TV’s Serial Killer Thriller is Officially a No. 1 Streaming Hit",
+          "url": "https://www.aol.com/articles/apple-tv-serial-killer-thriller-135154000.html",
+          "source": "AOL.com"
+        },
+        {
+          "title": "‘Nocturne’: Liev Schreiber, Zazie Beetz, Stephen Graham & Rory Culkin On Playing Psychological Games With A Serial Killer [Bingeworthy Podcast]",
+          "url": "https://theplaylist.net/nocturne-stephen-graham-rory-culkin-liev-schreiber-zazie-beetz-interview-20261106/",
+          "source": "The Playlist"
+        }
+      ]
+    },
+    {
+      "keyword": "midterm election results senate",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1SVSUKSj-s0swbJ0p6q1XqytKWzh6PapUzPInxcpAGG9qol4sZ9IUSGzrEMk",
+      "news": [
+        {
+          "title": "2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows",
+          "url": "https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump",
           "source": "The New York Times"
         },
         {
-          "title": "The blue wave fell short of Louisiana, but it's still firing up Democrats",
-          "url": "https://www.axios.com/local/new-orleans/2026/11/05/louisiana-senate-race-democrats-midterms",
-          "source": "Axios"
+          "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
+          "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
+          "source": "The Hill"
         },
         {
-          "title": "Louisiana election results: Letlow, Johnson, Higgins, Carter, other races decided",
-          "url": "https://www.wafb.com/2026/11/03/polls-open-across-louisiana-voters-decide-senate-seat-major-local-races/",
-          "source": "WAFB"
+          "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+          "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+          "source": "CNBC"
         }
       ]
     },
     {
-      "keyword": "trey hendrickson",
+      "keyword": "karlo matković",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Thu, 5 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGGFEFOEZJM_x31NDROvDpuaYjGUH6QaxrdytifPCzBD75urHe_FQTWgXG214",
+      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQj_4zS5-SIHZCduhqDYTicIMHcdy7BmQDmKL6-rO8mA_SdCaUia6iRqurmvQ",
       "news": [
         {
-          "title": "Ravens clearly dodged a bullet by backing out of the Maxx Crosby trade",
-          "url": "https://ebonybird.com/baltimore-ravens-clearly-dodged-a-bullet-by-backing-out-of-maxx-crosby-trade",
-          "source": "Ebony Bird"
-        },
-        {
-          "title": "The Ravens Anointed Trey Hendrickson As A $30M/Year Closer. Turns Out He's An Opener",
-          "url": "https://www.si.com/nfl/ravens/onsi/the-ravens-anointed-trey-hendrickson-as-a-30m-year-closer-turns-out-he-s-an-opener-01m6mqe2m76c",
-          "source": "Sports Illustrated"
-        },
-        {
-          "title": "Kyle Goon: For struggling Ravens, the nixed deal for Maxx Crosby has a cost",
-          "url": "https://www.thebanner.com/sports/ravens-nfl/ravens-maxx-crosby-eric-decosta-G3UTZA2XR5FHBMCBOPE4PM6HN4/",
-          "source": "The Baltimore Banner"
-        }
-      ]
-    },
-    {
-      "keyword": "deportación",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 5 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQqzP2MnxWHXdTtqvRq-MB23K4uXtOnr9vs2r0-bsD0jWfz98JCL46uDc4JM",
-      "news": [
-        {
-          "title": "Gobierno de Trump mantuvo comunicación con Irán para llevar a cabo deportaciones de iraníes durante la guerra",
-          "url": "https://www.univision.com/noticias/inmigracion/gobierno-de-trump-mantuvo-comunicacion-con-iran-para-llevar-a-cabo-deportaciones-de-iranies-durante-la-guerra",
-          "source": "Univision"
-        },
-        {
-          "title": "EEUU habló con Irán sobre deportar iraníes durante la guerra",
-          "url": "https://www.americateve.com/eeuu-hablo-iran-deportar-iranies-la-guerra-n5466370",
-          "source": "América TeVé"
-        },
-        {
-          "title": "Una jueza de EE.UU. impide que el Gobierno de Trump deporte a Pakistán o a Afganistán a inmigrantes afganos detenidos",
-          "url": "https://www.democracynow.org/es/2026/11/5/titulares/court_blocks_trump_administration_from_deporting_afghans_to_pakistan_or_afghanistan",
-          "source": "Democracy Now!"
-        }
-      ]
-    },
-    {
-      "keyword": "camryn manheim",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 5 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbUNl9faYcsRdoMaR_yEke6HOrKa0G0avJWPUjuxShF7LZjCxlagTLjmQJG1g",
-      "news": [
-        {
-          "title": "Meet the New Characters in ‘9-1-1: Nashville’ Season 2",
-          "url": "https://people.com/meet-911-nashville-season-2-new-characters-12237065",
-          "source": "People.com"
-        },
-        {
-          "title": "Camryn Manheim Joins ‘9-1-1: Nashville’ In Season 2",
-          "url": "https://deadline.com/2026/10/camryn-manheim-9-1-1-nashville-season-2-cast-1237207691/",
-          "source": "Deadline"
-        },
-        {
-          "title": "Casting News: 9-1-1: Nashville Adds Camryn Manheim, Taraji P. Henson's Prime Video Drama, And More",
-          "url": "https://www.tvline.com/2301542/911-nashville-cast-camryn-manheim-taraji-p-henson-whiskey-matriarch/",
-          "source": "TVLine"
-        }
-      ]
-    },
-    {
-      "keyword": "will ferrell",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 5 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFo9IHcFSGFBTbFM2_oZig8QYcjItx69s6aIRQ09rENM23rXRL3_t-QAhJgU",
-      "news": [
-        {
-          "title": "It’s That Time Of Year When More Wild Will Ferrell Elf Stories Are Coming Down The Pipeline",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/time-more-wild-ferrell-elf-234500018.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Andy Richter Reveals Which ‘Elf’ Scenes Were Filmed in a Mental Hospital That ‘Still Had Patients’",
-          "url": "https://www.usmagazine.com/celebrity-news/news/andy-richter-on-elf-scenes-filmed-in-mental-hospital/",
-          "source": "Us Weekly"
-        },
-        {
-          "title": "The Origins of ‘Elf’: How Will Ferrell Came to Replace Chris Farley in the Christmas Classic",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/elf-oral-history-will-ferrell-chris-farley-andy-richter-1236747109/",
-          "source": "The Hollywood Reporter"
-        }
-      ]
-    },
-    {
-      "keyword": "central florida floods",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 5 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pX54JRyIKq1Gij6YL4zJl29nnG6qAnEWiZNCXDu3ViocJxNOEVlMz-M38_8",
-      "news": [
-        {
-          "title": "Timelapse shows Palm Bay neighborhood go underwater in 13 hours amid historic flooding",
-          "url": "https://www.wesh.com/article/flooding-timelapse-palm-bay-brevard-county/74345039",
-          "source": "WESH"
-        },
-        {
-          "title": "Her home was flooding. Teens saw her social media post and came to the rescue.",
-          "url": "https://www.washingtonpost.com/lifestyle/2026/11/05/her-house-was-flooding-teens-came-rescue-paddleboard-kayak/",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "West Palm Beach residents trapped by RiverWalk flooding, encounter snakes, fish and alligators",
-          "url": "https://www.wptv.com/news/local-news/our-community/west-palm-beach/west-palm-beach-residents-trapped-by-riverwalk-flooding-encounter-snakes-fish-and-alligators",
-          "source": "WPTV"
-        }
-      ]
-    },
-    {
-      "keyword": "rashod bateman",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 5 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXwlzLPr0N3ozvmj1Rx4wNMnZbu5cenUEiHODop_OkHdIpmBOpE5FjeNssKo",
-      "news": [
-        {
-          "title": "Chiefs Trade Deadline: Brian Thomas Jr. Or Josh Downs?",
-          "url": "https://sports.yahoo.com/articles/chiefs-trade-deadline-brian-thomas-003530812.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "KC talks trades constantly, seeks long-term option",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-04/kc-talks-trades-constantly-seeks-long-term-option",
+          "title": "NOR starts Fears, Murray, Murphy, Zion, Matković",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-06/nor-starts-fears-murray-murphy-zion-matkovic",
           "source": "NBC Sports"
         },
         {
-          "title": "Kansas City Chiefs HC Andy Reid provides latest updates on GM Brett Veach's NFL trade deadline pursuits",
-          "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-andy-reid-latest-update-gm-brett-veach-nfl-trade-deadline/",
-          "source": "A to Z Sports"
+          "title": "Thunder start Shai, McCain, Ajay, Kenrich, I-hart",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-06/thunder-start-shai-mccain-ajay-kenrich-i-hart",
+          "source": "NBC Sports"
         }
       ]
     },
     {
-      "keyword": "anthony mantha",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 5 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuDVe3kem1jbnLGU9ThWa_wWqVddicQUEzFngAwl9lUiPhE85ONMtc7eap68g",
+      "keyword": "marquette basketball",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT7rCJaBxYcA_68Dqj_akcfWX3Jv6gdOTewydwRNhNG19cOh5HAHW0MZXXdrk",
       "news": [
         {
-          "title": "Blues Devils Hockey",
-          "url": "https://www.idahostatejournal.com/sports/national/blues-devils-hockey/image_d6179ad5-9dd1-5dbc-b58f-819a3a19f24b.html",
-          "source": "Idaho State Journal"
+          "title": "#MUBB Hosts Detroit Mercy In Student-Only Game At Al McGuire Center",
+          "url": "https://gomarquette.com/news/2026/11/4/mens-basketball-mubb-hosts-detroit-mercy-in-student-only-game-at-al-mcguire-center",
+          "source": "Marquette University Athletics"
         },
         {
-          "title": "Blues Devils Hockey",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/blues-devils-hockey/image_51ba563a-a6ec-5896-ad6a-18d9ea68e5bf.html",
-          "source": "Corsicana Daily Sun"
+          "title": "What channel is Marquette basketball on tonight? Time, TV, odds",
+          "url": "https://www.jsonline.com/story/sports/college/marquette/2026/11/06/watch-marquette-vs-detroit-mercy-tonight-time-tv-channel-streaming/92598716007/",
+          "source": "Milwaukee Journal Sentinel"
         },
         {
-          "title": "Blues Devils Hockey",
-          "url": "https://www.couriernews.com/sports/blues-devils-hockey/image_43bdd5a0-456c-574d-a2d4-21c9201d12cc.html",
-          "source": "couriernews.com"
+          "title": "Marquette basketball vs Detroit live updates, highlights, how to watch",
+          "url": "https://sports.yahoo.com/articles/marquette-basketball-vs-detroit-live-230126901.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "billy bush",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbS8I7z4RQUg-kXfl8BKy0AiZ72c3OI60Ld55ByrGivOZ8RBqWhqqc8pzZQJA",
+      "news": [
+        {
+          "title": "Billy Bush Praises Pal Tucker Carlson as a ‘Different Kind of Leader’ as He Questions If He’ll Run for President",
+          "url": "https://www.aol.com/articles/billy-bush-praises-pal-tucker-151813000.html",
+          "source": "AOL.com"
+        }
+      ]
+    },
+    {
+      "keyword": "you can see everything streaming",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1CDgnNaPDhXvXtOmAY-Z7_5UrQ-721gfZ_tagBVJuc1snZvwFHuUn191mpV8",
+      "news": [
+        {
+          "title": "In ‘Possible Love,’ a South Korean auteur returns with a story of marriage, labor and class",
+          "url": "https://apnews.com/article/possible-love-movie-c6e7ace8cdeb35383e42ab8013b4e05d",
+          "source": "AP News"
+        },
+        {
+          "title": "Netflix’s New Movie Is Being Compared to Parasite, but It Resembles Other Masterpieces Even More",
+          "url": "https://slate.com/culture/2026/11/possible-love-netflix-movie-oscars-you-can-see-everything.html",
+          "source": "Slate Magazine"
+        },
+        {
+          "title": "Possible Love Ending: How Do Ho-seok and Mi-ok Face Their Future After Leaving the Mansion?",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/possible-love-ending-ho-seok-113424654.html",
+          "source": "Yahoo"
+        }
+      ]
+    },
+    {
+      "keyword": "thomas bryant",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXTkLEH8eXt_3mdvvsMRNbqdiMbmkXsvsMQcmu5YWTqY6ANSB-lOLM_mptMM8",
+      "news": [
+        {
+          "title": "Thomas Bryant Stays Ready for when His Name is Called",
+          "url": "https://cavs.com/news/features-thomas-bryant-261105",
+          "source": "NBA.com"
+        },
+        {
+          "title": "This Backup Big Man Is Suddenly Crucial To Cavs Success",
+          "url": "https://sports.yahoo.com/articles/backup-big-man-suddenly-crucial-150005225.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Cavaliers' Khalifa Diop: Recalled Thursday",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/cavaliers-khalifa-diop-recalled-thursday/",
+          "source": "CBS Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "lsu vs alabama",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Sn7Qgm3kx-6Z8OM15XaIwWRzeRRJ1_UgivbLAfbrWjm5fjbvQkMNp1ThKm0",
+      "news": [
+        {
+          "title": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU",
+          "url": "https://www.espn.com/college-football/story/_/id/50401690/alabama-ryan-coleman-williams-trio-return-vs-lsu",
+          "source": "ESPN"
+        },
+        {
+          "title": "3 Alabama players questionable, 4 upgraded to probable for LSU game",
+          "url": "https://www.al.com/alabamafootball/2026/11/3-alabama-players-questionable-4-upgraded-to-probable-for-lsu-game.html",
+          "source": "AL.com"
+        },
+        {
+          "title": "Football Returns to Death Valley for November Showdown with Alabama",
+          "url": "https://lsusports.net/news/2026/11/6/football-returns-to-death-valley-for-november-showdown-with-alabama",
+          "source": "LSUsports.net"
         }
       ]
     }

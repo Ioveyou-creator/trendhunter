@@ -1,57 +1,15 @@
 {
   "source": "events",
-  "fetched_at": "2026-11-06T02:35:11+00:00",
+  "fetched_at": "2026-11-07T02:03:05+00:00",
   "ok": true,
   "error": null,
-  "count": 8,
+  "count": 6,
   "items": [
-    {
-      "name": "Pokemon 30th Celebration Ultra-Premium Collection",
-      "category": "tcg",
-      "date": "2026-11-06",
-      "days_left": 0,
-      "prep_by": "2026-10-30",
-      "lead_days": 7,
-      "status": "prepare_now",
-      "keywords": [
-        "pokemon 30th celebration upc",
-        "pokemon 30th anniversary"
-      ],
-      "match": [
-        "30th celebration",
-        "30th collection",
-        "30th etb",
-        "30th anniversary"
-      ],
-      "note": "",
-      "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
-      "kind": "once"
-    },
-    {
-      "name": "Pokemon TCG Delta Reign (ME06)",
-      "category": "tcg",
-      "date": "2026-11-06",
-      "days_left": 0,
-      "prep_by": "2026-10-30",
-      "lead_days": 7,
-      "status": "prepare_now",
-      "keywords": [
-        "delta reign booster box",
-        "pokemon delta reign"
-      ],
-      "match": [
-        "delta reign",
-        "me06"
-      ],
-      "note": "영문판 발매일. 한국판/일본판 일정과 가격 차이를 따로 확인",
-      "source": "https://www.misprint.com/posts/pokemon-tcg-release-schedule-late-2026",
-      "kind": "once"
-    },
     {
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 5,
+      "days_left": 4,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -70,7 +28,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 7,
+      "days_left": 6,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -89,7 +47,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -109,7 +67,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 21,
+      "days_left": 20,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -127,7 +85,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 24,
+      "days_left": 23,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -145,7 +103,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 49,
+      "days_left": 48,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -161,5 +119,5 @@
       "kind": "yearly"
     }
   ],
-  "today": "2026-11-06"
+  "today": "2026-11-07"
 }
