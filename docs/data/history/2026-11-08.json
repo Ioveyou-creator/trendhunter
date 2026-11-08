@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-08",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 65,
+   "rank": 1
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 54,
+   "rank": 3
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 53,
+   "rank": 4
+  },
+  {
+   "id": "0be035cb10",
+   "title": "LEGO Godzilla 21375 revealed",
+   "query": "LEGO Godzilla 21375 revealed",
+   "score": 45,
+   "rank": 5
+  },
+  {
+   "id": "ad5b180ae7",
+   "title": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
+   "query": "Nintendo released sheet music Link in-game",
+   "score": 45,
+   "rank": 6
+  },
+  {
+   "id": "de5dffccd0",
+   "title": "TWICE NAYEON - 1st Single Album: NA-sty / Title Track: BABY ANGEL (Teaser Image: SUBJECT NOT FOUND.)",
+   "query": "twice 1st Single Album",
+   "score": 44,
+   "rank": 7
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 43,
+   "rank": 8
+  },
+  {
+   "id": "ed72da7c0b",
+   "title": "jordan faison",
+   "query": "jordan faison",
+   "score": 42,
+   "rank": 9
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 20,
+   "rank": 10
+  }
+ ]
+}

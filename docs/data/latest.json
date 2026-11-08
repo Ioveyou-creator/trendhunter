@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-07T02:03:05+00:00",
+  "generated_at": "2026-11-08T01:36:11+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-07T01:58:06+00:00"
+      "fetched_at": "2026-11-08T01:28:02+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 99,
+      "count": 101,
       "error": null,
-      "fetched_at": "2026-11-07T02:03:05+00:00"
+      "fetched_at": "2026-11-08T01:36:11+00:00"
     },
     "events": {
       "ok": true,
       "count": 6,
       "error": null,
-      "fetched_at": "2026-11-07T02:03:05+00:00"
+      "fetched_at": "2026-11-08T01:36:11+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-20 (2026-11-27), 지금 준비할 때"
+        "이벤트 D-19 (2026-11-27), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,7 +41,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 20,
+        "days_left": 19,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -54,8 +54,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 3,
-        "rank_change": 2,
+        "prev_rank": 1,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -65,7 +65,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-23 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-22 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -79,7 +79,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 23,
+        "days_left": 22,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -92,8 +92,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 4,
-        "rank_change": 2,
+        "prev_rank": 2,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -103,7 +103,7 @@
       "category": "kpop",
       "score": 54,
       "reasons": [
-        "이벤트 D-6 (2026-11-13), 준비 예정"
+        "이벤트 D-5 (2026-11-13), 준비 예정"
       ],
       "sources": [
         "events"
@@ -117,7 +117,7 @@
       ],
       "event": {
         "date": "2026-11-13",
-        "days_left": 6,
+        "days_left": 5,
         "prep_by": "2026-11-10",
         "status": "upcoming"
       },
@@ -130,8 +130,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 5,
-        "rank_change": 2,
+        "prev_rank": 3,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -141,7 +141,7 @@
       "category": "kpop",
       "score": 53,
       "reasons": [
-        "이벤트 D-9 (2026-11-16), 준비 예정"
+        "이벤트 D-8 (2026-11-16), 준비 예정"
       ],
       "sources": [
         "events"
@@ -155,7 +155,7 @@
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 9,
+        "days_left": 8,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -167,9 +167,9 @@
         "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 7,
-        "rank_change": 3,
+        "status": "same",
+        "prev_rank": 4,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -201,21 +201,21 @@
         "naver": "https://search.shopping.naver.com/search/all?query=LEGO+Godzilla+21375+revealed"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 9,
-        "rank_change": 4,
-        "streak": 2
+        "status": "same",
+        "prev_rank": 5,
+        "rank_change": 0,
+        "streak": 3
       }
     },
     {
-      "title": "ILLIT have earned their first win for \"You're Under Arrest\" on KBS Music Bank (261106)",
-      "query": "ILLIT earned win You're Under Arrest",
-      "category": "kculture",
+      "title": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
+      "query": "Nintendo released sheet music Link in-game",
+      "category": "gaming",
       "score": 45,
       "reasons": [
-        "r/kpop hot #2",
-        "상품 신호: 모델명",
-        "브랜드/IP: illit"
+        "r/NintendoSwitch hot #2",
+        "상품 신호: 출시",
+        "브랜드/IP: nintendo"
       ],
       "sources": [
         "reddit"
@@ -223,16 +223,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "ILLIT have earned their first win for \"You're Under Arrest\" on KBS Music Bank (261106)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xp8blh/illit_have_earned_their_first_win_for_youre_under/"
+          "text": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xq77wp/nintendo_has_released_the_sheet_music_for_links/"
         }
       ],
-      "id": "3b0541a17f",
-      "category_label": "K-컬처",
+      "id": "ad5b180ae7",
+      "category_label": "게임",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ILLIT+earned+win+You%27re+Under+Arrest&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ILLIT+earned+win+You%27re+Under+Arrest",
-        "naver": "https://search.shopping.naver.com/search/all?query=ILLIT+earned+win+You%27re+Under+Arrest"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+released+sheet+music+Link+in-game&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+released+sheet+music+Link+in-game",
+        "naver": "https://search.shopping.naver.com/search/all?query=Nintendo+released+sheet+music+Link+in-game"
       },
       "trend": {
         "status": "new",
@@ -242,13 +242,14 @@
       }
     },
     {
-      "title": "Scalpers lining up for the newest release",
-      "query": "Scalpers lining newest release",
-      "category": "collectibles",
+      "title": "TWICE NAYEON - 1st Single Album: NA-sty / Title Track: BABY ANGEL (Teaser Image: SUBJECT NOT FOUND.)",
+      "query": "twice 1st Single Album",
+      "category": "kculture",
       "score": 44,
       "reasons": [
-        "r/PokemonTCG hot #8",
-        "상품 신호: 품귀, 출시"
+        "r/kpop hot #5",
+        "상품 신호: K-pop 굿즈",
+        "브랜드/IP: twice"
       ],
       "sources": [
         "reddit"
@@ -256,16 +257,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Scalpers lining up for the newest release",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xp91hx/scalpers_lining_up_for_the_newest_release/"
+          "text": "TWICE NAYEON - 1st Single Album: NA-sty / Title Track: BABY ANGEL (Teaser Image: SUBJECT NOT FOUND.)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xqg0v3/twice_nayeon_1st_single_album_nasty_title_track/"
         }
       ],
-      "id": "acf5280bdf",
-      "category_label": "수집품",
+      "id": "de5dffccd0",
+      "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Scalpers+lining+newest+release&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Scalpers+lining+newest+release",
-        "naver": "https://search.shopping.naver.com/search/all?query=Scalpers+lining+newest+release"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album",
+        "naver": "https://search.shopping.naver.com/search/all?query=twice+1st+Single+Album"
       },
       "trend": {
         "status": "new",
@@ -280,7 +281,7 @@
       "category": "season",
       "score": 43,
       "reasons": [
-        "이벤트 D-48 (2026-12-25), 준비 예정"
+        "이벤트 D-47 (2026-12-25), 준비 예정"
       ],
       "sources": [
         "events"
@@ -294,7 +295,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 48,
+        "days_left": 47,
         "prep_by": "2026-11-25",
         "status": "upcoming"
       },
@@ -307,19 +308,19 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 6,
-        "rank_change": -2,
-        "streak": 13
+        "prev_rank": 8,
+        "rank_change": 0,
+        "streak": 14
       }
     },
     {
-      "title": "vj edgecombe",
-      "query": "vj edgecombe",
+      "title": "jordan faison",
+      "query": "jordan faison",
       "category": "trend",
       "score": 42,
       "reasons": [
         "미국 검색 급상승 2000+",
-        "상품 신호: 바이럴"
+        "브랜드/IP: jordan"
       ],
       "sources": [
         "google_trends"
@@ -327,26 +328,26 @@
       "evidence": [
         {
           "source": "google_trends",
-          "text": "vj edgecombe (2000+)",
+          "text": "jordan faison (2000+)",
           "url": ""
         },
         {
           "source": "news",
-          "text": "76ers Star Tyrese Maxey’s 4-Word Message to VJ Edgecombe Goes Viral",
-          "url": "https://sports.yahoo.com/articles/76ers-star-tyrese-maxey-4-205540402.html"
+          "text": "Notre Dame WR Jordan Faison Unfazed",
+          "url": "https://irishsportsdaily.com/s/28488/notre-dame-wr-jordan-faison-unfazed"
         },
         {
           "source": "news",
-          "text": "Tyrese Maxey had hilarious message for 76ers teammate after missed layup",
-          "url": "https://larrybrownsports.com/basketball/tyrese-maxey-hilarious-message-76ers-teammate-missed-layup/777378"
+          "text": "CFB Player to Watch: Notre Dame's Jordan Faison",
+          "url": "https://247sports.com/video/cfb-player-to-watch-notre-dames-jordan-faison-14626267"
         }
       ],
-      "id": "08b4e9abb4",
+      "id": "ed72da7c0b",
       "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=vj+edgecombe&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=vj+edgecombe",
-        "naver": "https://search.shopping.naver.com/search/all?query=vj+edgecombe"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jordan+faison&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jordan+faison",
+        "naver": "https://search.shopping.naver.com/search/all?query=jordan+faison"
       },
       "trend": {
         "status": "new",
@@ -361,7 +362,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-4 (2026-11-11), 배송 시간 부족"
+        "이벤트 D-3 (2026-11-11), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -375,7 +376,7 @@
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 4,
+        "days_left": 3,
         "prep_by": "2026-10-28",
         "status": "too_late"
       },
@@ -387,9 +388,9 @@
         "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 14,
-        "rank_change": 4,
+        "status": "same",
+        "prev_rank": 10,
+        "rank_change": 0,
         "streak": 15
       }
     }
@@ -399,7 +400,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 4,
+      "days_left": 3,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -418,7 +419,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "upcoming",
@@ -437,7 +438,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 9,
+      "days_left": 8,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -457,7 +458,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 20,
+      "days_left": 19,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -475,7 +476,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 23,
+      "days_left": 22,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -493,7 +494,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 48,
+      "days_left": 47,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -511,142 +512,114 @@
   ],
   "other_trends": [
     {
-      "keyword": "brandon miller",
+      "keyword": "musician",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=brandon+miller&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=brandon+miller",
-        "naver": "https://search.shopping.naver.com/search/all?query=brandon+miller"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=musician&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=musician",
+        "naver": "https://search.shopping.naver.com/search/all?query=musician"
       }
     },
     {
-      "keyword": "nocturne series",
+      "keyword": "cruz azul",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cruz+azul&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cruz+azul",
+        "naver": "https://search.shopping.naver.com/search/all?query=cruz+azul"
+      }
+    },
+    {
+      "keyword": "red wings vs avalanche",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nocturne+series&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nocturne+series",
-        "naver": "https://search.shopping.naver.com/search/all?query=nocturne+series"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=red+wings+vs+avalanche&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=red+wings+vs+avalanche",
+        "naver": "https://search.shopping.naver.com/search/all?query=red+wings+vs+avalanche"
       }
     },
     {
-      "keyword": "midterm election results senate",
+      "keyword": "uga game",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=midterm+election+results+senate&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=midterm+election+results+senate",
-        "naver": "https://search.shopping.naver.com/search/all?query=midterm+election+results+senate"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=uga+game&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=uga+game",
+        "naver": "https://search.shopping.naver.com/search/all?query=uga+game"
       }
     },
     {
-      "keyword": "karlo matković",
+      "keyword": "penguins vs kings",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=karlo+matkovi%C4%87&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=karlo+matkovi%C4%87",
-        "naver": "https://search.shopping.naver.com/search/all?query=karlo+matkovi%C4%87"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=penguins+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=penguins+vs+kings",
+        "naver": "https://search.shopping.naver.com/search/all?query=penguins+vs+kings"
       }
     },
     {
-      "keyword": "marquette basketball",
+      "keyword": "hendon hooker",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=marquette+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=marquette+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=marquette+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=hendon+hooker&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=hendon+hooker",
+        "naver": "https://search.shopping.naver.com/search/all?query=hendon+hooker"
       }
     },
     {
-      "keyword": "billy bush",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=billy+bush&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=billy+bush",
-        "naver": "https://search.shopping.naver.com/search/all?query=billy+bush"
-      }
-    },
-    {
-      "keyword": "you can see everything streaming",
+      "keyword": "danny wolf",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=you+can+see+everything+streaming&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=you+can+see+everything+streaming",
-        "naver": "https://search.shopping.naver.com/search/all?query=you+can+see+everything+streaming"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=danny+wolf&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=danny+wolf",
+        "naver": "https://search.shopping.naver.com/search/all?query=danny+wolf"
       }
     },
     {
-      "keyword": "thomas bryant",
+      "keyword": "faizon brandon",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=thomas+bryant&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=thomas+bryant",
-        "naver": "https://search.shopping.naver.com/search/all?query=thomas+bryant"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=faizon+brandon&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=faizon+brandon",
+        "naver": "https://search.shopping.naver.com/search/all?query=faizon+brandon"
       }
     },
     {
-      "keyword": "lsu vs alabama",
+      "keyword": "ryan field",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lsu+vs+alabama&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lsu+vs+alabama",
-        "naver": "https://search.shopping.naver.com/search/all?query=lsu+vs+alabama"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ryan+field&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ryan+field",
+        "naver": "https://search.shopping.naver.com/search/all?query=ryan+field"
       }
     }
   ],
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "dropped": [
     {
-      "id": "0771746723",
-      "title": "Pokemon TCG Delta Reign (ME06)",
-      "query": "delta reign booster box",
-      "score": 75,
-      "rank": 1
-    },
-    {
-      "id": "da034b1c48",
-      "title": "Pokemon 30th Celebration Ultra-Premium Collection",
-      "query": "pokemon 30th celebration upc",
-      "score": 65,
-      "rank": 2
-    },
-    {
-      "id": "969d49365d",
-      "title": "Delta reign officially delayed by Pokemon center until mid Nov",
-      "query": "Delta reign officially delayed Pokemon center",
-      "score": 49,
-      "rank": 8
-    },
-    {
-      "id": "4b6e60b44e",
-      "title": "HYBE x GEFFEN clarifies that the Chicago and Minneapolis KATSEYE WILDWORLD TOUR shows were postponed due to MEGAN recovering from a concussion",
-      "query": "HYBE x GEFFEN clarifies Chicago Minneapolis",
+      "id": "3b0541a17f",
+      "title": "ILLIT have earned their first win for \"You're Under Arrest\" on KBS Music Bank (261106)",
+      "query": "ILLIT earned win You're Under Arrest",
       "score": 45,
-      "rank": 10
+      "rank": 6
     },
     {
-      "id": "b3ee559527",
-      "title": "BACK IN STOCK - Nintendo Switch™ 2 – The Legend of Zelda™ – 40th Anniversary Edition - Happy Release Day!",
-      "query": "nintendo Happy Release",
-      "score": 43,
-      "rank": 11
+      "id": "acf5280bdf",
+      "title": "Scalpers lining up for the newest release",
+      "query": "Scalpers lining newest release",
+      "score": 44,
+      "rank": 7
     },
     {
-      "id": "02d2805022",
-      "title": "[Special Release] The Legend of Zelda: Ocarina of Time - Nintendo Music",
-      "query": "Legend Zelda",
-      "score": 41,
-      "rank": 12
-    },
-    {
-      "id": "2957e739f0",
-      "title": "will ferrell",
-      "query": "will ferrell",
-      "score": 37,
-      "rank": 13
+      "id": "08b4e9abb4",
+      "title": "vj edgecombe",
+      "query": "vj edgecombe",
+      "score": 42,
+      "rank": 9
     }
   ],
   "history": {
-    "date": "2026-11-07",
-    "previous_date": "2026-11-06",
+    "date": "2026-11-08",
+    "previous_date": "2026-11-07",
     "new_count": 3
   }
 }

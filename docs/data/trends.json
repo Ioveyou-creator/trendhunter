@@ -1,232 +1,232 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-07T01:58:06+00:00",
+  "fetched_at": "2026-11-08T01:28:02+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "vj edgecombe",
+      "keyword": "musician",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLc0-n9CZOkfqxgVwaQFGJioqhUMYQtdc_44tyetRXwoPlXWAS_866Xf24PyY",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "",
       "news": [
         {
-          "title": "76ers Star Tyrese Maxey’s 4-Word Message to VJ Edgecombe Goes Viral",
-          "url": "https://sports.yahoo.com/articles/76ers-star-tyrese-maxey-4-205540402.html",
-          "source": "Yahoo Sports"
+          "title": "How a musician turned singing sands into an instrument",
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6029751/how-a-musician-turned-singing-sands-into-an-instrument",
+          "source": "NPR"
         },
         {
-          "title": "Tyrese Maxey had hilarious message for 76ers teammate after missed layup",
-          "url": "https://larrybrownsports.com/basketball/tyrese-maxey-hilarious-message-76ers-teammate-missed-layup/777378",
-          "source": "Larry Brown Sports"
+          "title": "Beloved rock musician dies after battling long-term illness: ‘Our hearts are broken’",
+          "url": "https://www.pennlive.com/entertainment/2026/11/beloved-rock-musician-dies-after-battling-long-term-illness-our-hearts-are-broken.html",
+          "source": "PennLive.com"
         },
         {
-          "title": "Tyrese Maxey shares what he said to VJ Edgecombe just before his clutch triple vs Hornets",
-          "url": "https://www.yardbarker.com/nba/articles/tyrese_maxey_shares_what_he_said_to_vj_edgecombe_just_before_his_clutch_triple_vs_hornets/s1_17664_44500706",
-          "source": "Yardbarker"
+          "title": "North Texas musicians remember celebrated Dallas drummer Guyton Sanders",
+          "url": "https://www.dallasobserver.com/music/north-texas-musicians-remember-celebrated-dallas-drummer-guyton-sanders-40728522/",
+          "source": "Dallas Observer"
         }
       ]
     },
     {
-      "keyword": "brandon miller",
+      "keyword": "jordan faison",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 6 Nov 2026 17:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLgfpCJKw3h-UZAk743NuFNoYfH6laihhKcRpE_a0DjkW_hBLa1fkUA4xLIck",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNerYmH0jfiLlJwDieCrtW-PiG61__6Tr8QW7xjL-CxQK29s4cnFKTm82_0w",
       "news": [
         {
-          "title": "Brandon Miller Injury: Won't return Friday",
-          "url": "https://www.rotowire.com/basketball/headlines/brandon-miller-injury-wont-return-friday-537900",
-          "source": "RotoWire"
+          "title": "Notre Dame WR Jordan Faison Unfazed",
+          "url": "https://irishsportsdaily.com/s/28488/notre-dame-wr-jordan-faison-unfazed",
+          "source": "Irish Sports Daily"
         },
         {
-          "title": "What happened to Brandon Miller? Hornets star exits with injury in NBA Cup vs Celtics",
-          "url": "https://basketnews.com/news-258989-what-happened-to-brandon-miller-hornets-star-exits-with-injury-in-nba-cup-vs-celtics.html",
-          "source": "BasketNews.com"
-        },
-        {
-          "title": "Hornets' Brandon Miller: Heads to locker room",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/hornets-brandon-miller-heads-to-locker-room/",
-          "source": "CBS Sports"
+          "title": "CFB Player to Watch: Notre Dame's Jordan Faison",
+          "url": "https://247sports.com/video/cfb-player-to-watch-notre-dames-jordan-faison-14626267",
+          "source": "247Sports"
         }
       ]
     },
     {
-      "keyword": "nocturne series",
+      "keyword": "cruz azul",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8Zl8BVddTGIjtNYTh8lgZ14_Em8Kw-AcMik6tyNUH8KsKleH79nZR1fM_gok",
+      "news": [
+        {
+          "title": "Tigres vs Cruz Azul LIVE, Latest Score, Goals and Liga MX Updates (0-0)",
+          "url": "https://www.vavel.com/en-us/soccer/2026/11/07/1278362-tigres-vs-cruz-azul-live-score-liga-mx.html",
+          "source": "VAVEL.com"
+        },
+        {
+          "title": "Cruz Azul vs. Tigres UANL Prediction, Picks, Live Odds – Nov. 7",
+          "url": "https://www.bleachernation.com/picks/2026/11/07/cruz-azul-vs-tigres-uanl-prediction-picks-live-odds-nov-7/",
+          "source": "Bleacher Nation"
+        },
+        {
+          "title": "Tigres Rolling Out a Backup Squad Against Cruz Azul: Vucetich Bets on Youngsters and Faces a Key Absence—Will the Machine Take Advantage?",
+          "url": "https://www.soyfutbol.com/en/news/tigres-rolling-out-a-backup-squad-against-cruz-azul-vucetich-bets-on-youngsters-and-faces-a-key-absencewill-the-machine-take-advantage-20261105-0032.html",
+          "source": "Soy Futbol"
+        }
+      ]
+    },
+    {
+      "keyword": "red wings vs avalanche",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTphpIzeRYQxMdjnC7a5MnEAKVIFE_ge4sBi93gWk4hEZNmADtciVowBT51nsQ",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
       "news": [
         {
-          "title": "‘Nocturne’ Episode 3 Recap & Ending Explained: What the Sandman’s Call Means for Jonah and Saga",
-          "url": "https://www.imdb.com/news/ni66098068/?ref_=nmnw_art_perm",
-          "source": "IMDb"
+          "title": "Red Wings at Avalanche projected lineups",
+          "url": "https://www.nhl.com/news/detroit-red-wings-colorado-avalanche-game-preview-november-7-2026",
+          "source": "NHL.com"
         },
         {
-          "title": "Apple TV’s Serial Killer Thriller is Officially a No. 1 Streaming Hit",
-          "url": "https://www.aol.com/articles/apple-tv-serial-killer-thriller-135154000.html",
-          "source": "AOL.com"
+          "title": "Open Thread: Detroit Red Wings @ Colorado Avalanche 7:00 P.M. MST)",
+          "url": "https://sports.yahoo.com/articles/open-thread-detroit-red-wings-010000350.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "‘Nocturne’: Liev Schreiber, Zazie Beetz, Stephen Graham & Rory Culkin On Playing Psychological Games With A Serial Killer [Bingeworthy Podcast]",
-          "url": "https://theplaylist.net/nocturne-stephen-graham-rory-culkin-liev-schreiber-zazie-beetz-interview-20261106/",
-          "source": "The Playlist"
+          "title": "Red Wings vs. Avalanche Projected Lines, Injuries and How to Watch",
+          "url": "https://www.si.com/nhl/red-wings/onsi/news/red-wings-vs-avalanche-projected-lines-injuries-how-to-watch",
+          "source": "Sports Illustrated"
         }
       ]
     },
     {
-      "keyword": "midterm election results senate",
+      "keyword": "uga game",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1SVSUKSj-s0swbJ0p6q1XqytKWzh6PapUzPInxcpAGG9qol4sZ9IUSGzrEMk",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTiBcs1r4AzcETGAsa2E6ao3SCUvmJKuZ73QTJpYil-SOve3pEfcgJU4mrzBHE",
       "news": [
         {
-          "title": "2026 Election Results Live Updates: Democrats’ Lead in Mississippi Senate Midterm Grows",
-          "url": "https://www.nytimes.com/live/2026/11/06/us/midterm-elections-trump",
-          "source": "The New York Times"
+          "title": "Georgia rules out three more players for Ole Miss game",
+          "url": "https://www.dawgnation.com/gameday/georgia-rules-out-three-more-players-ole-miss-game/PLEATTHVDFCKDLNAPBRBF5ZWPM/",
+          "source": "DawgNation"
         },
         {
-          "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
-          "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
-          "source": "The Hill"
+          "title": "Georgia rushing touchdown leader returning vs. Ole Miss",
+          "url": "https://sports.yahoo.com/articles/georgia-rushing-touchdown-leader-returning-000352203.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
-          "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
-          "source": "CNBC"
+          "title": "At least 10 players ruled out for Georgia-Ole Miss game",
+          "url": "https://ugawire.usatoday.com/story/sports/college/bulldogs/football/2026/11/06/georgia-football-ole-miss-injury-report-players-out/92629443007/",
+          "source": "UGA Wire"
         }
       ]
     },
     {
-      "keyword": "karlo matković",
+      "keyword": "penguins vs kings",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQj_4zS5-SIHZCduhqDYTicIMHcdy7BmQDmKL6-rO8mA_SdCaUia6iRqurmvQ",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJohvqhTIpw1Zy7aWlrkevrrCqspRWvGLcBKdpC3b6H3ZXvoNSEjOzdV7-U6s",
       "news": [
         {
-          "title": "NOR starts Fears, Murray, Murphy, Zion, Matković",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-06/nor-starts-fears-murray-murphy-zion-matkovic",
-          "source": "NBC Sports"
+          "title": "11/7 Preview - Panarin Leads The Way for LAK + PPProgress, Turcotte expected to return, Hockey Fights Cancer",
+          "url": "https://lakingsinsider.com/2026/11/07/11-7-preview-panarin-leads-the-way-for-lak-ppprogress-turcotte-expected-to-return-hockey-fights-cancer/",
+          "source": "LA Kings Insider"
         },
         {
-          "title": "Thunder start Shai, McCain, Ajay, Kenrich, I-hart",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-06/thunder-start-shai-mccain-ajay-kenrich-i-hart",
-          "source": "NBC Sports"
+          "title": "Penguins at Kings projected lineups",
+          "url": "https://www.nhl.com/news/pittsburgh-penguins-los-angeles-kings-game-preview-november-7-2026",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Game Preview: Pittsburgh Penguins @ Los Angeles Kings 11/7/2026",
+          "url": "https://www.pensburgh.com/penguins-lines-game-time-watch/82866/game-preview-pittsburgh-penguins-los-angeles-kings-11-7-2026",
+          "source": "PensBurgh"
         }
       ]
     },
     {
-      "keyword": "marquette basketball",
+      "keyword": "hendon hooker",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT7rCJaBxYcA_68Dqj_akcfWX3Jv6gdOTewydwRNhNG19cOh5HAHW0MZXXdrk",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxq12bsq8eV6llFX7rNfaIZ2weOn5ql7IWNyc_YRA7OV5oDUSWI5Mutspq72k",
       "news": [
         {
-          "title": "#MUBB Hosts Detroit Mercy In Student-Only Game At Al McGuire Center",
-          "url": "https://gomarquette.com/news/2026/11/4/mens-basketball-mubb-hosts-detroit-mercy-in-student-only-game-at-al-mcguire-center",
-          "source": "Marquette University Athletics"
+          "title": "Everything Vols OC Alex Golesh said ahead of Music City Bowl",
+          "url": "https://247sports.com/college/tennessee/LongFormArticle/alex-golesh-tennessee-vols-football-offensive-coordinator-everything-said-ahead-music-city-bowl-hendon-hooker-cedric-tillman-179314490/",
+          "source": "247Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "danny wolf",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSya8K4bBPP6s8-7JiYj0C27PMTpw7FNuB7H_OU7D-A45krl3PMf2lrCah6bhY",
+      "news": [
+        {
+          "title": "Nets’ Danny Wolf makes most of long-awaited opportunity with big performance",
+          "url": "https://nypost.com/2026/11/05/sports/nets-danny-wolf-makes-most-of-long-awaited-opportunity-with-big-performance/",
+          "source": "New York Post"
         },
         {
-          "title": "What channel is Marquette basketball on tonight? Time, TV, odds",
-          "url": "https://www.jsonline.com/story/sports/college/marquette/2026/11/06/watch-marquette-vs-detroit-mercy-tonight-time-tv-channel-streaming/92598716007/",
-          "source": "Milwaukee Journal Sentinel"
+          "title": "Has Danny Wolf’s breakout game unlocked frontcourt potential?",
+          "url": "https://www.netsdaily.com/nets-news/115800/danny-wolf-breakout-nets-hornets-analysis",
+          "source": "NetsDaily"
         },
         {
-          "title": "Marquette basketball vs Detroit live updates, highlights, how to watch",
-          "url": "https://sports.yahoo.com/articles/marquette-basketball-vs-detroit-live-230126901.html",
+          "title": "Wolf Impresses off Bench in Nets’ Win Over Hornets",
+          "url": "https://sports.yahoo.com/articles/wolf-impresses-off-bench-nets-021810858.html",
           "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "billy bush",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbS8I7z4RQUg-kXfl8BKy0AiZ72c3OI60Ld55ByrGivOZ8RBqWhqqc8pzZQJA",
+      "keyword": "faizon brandon",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTX09M5AsZiX9OrNzn1HXL5b8ssa66gpdAalN6-xgdXNxicZE-i6NYqU3VGzII",
       "news": [
         {
-          "title": "Billy Bush Praises Pal Tucker Carlson as a ‘Different Kind of Leader’ as He Questions If He’ll Run for President",
-          "url": "https://www.aol.com/articles/billy-bush-praises-pal-tucker-151813000.html",
-          "source": "AOL.com"
+          "title": "Tennessee QB Faizon Brandon plays vs Kentucky in first appearance in a month",
+          "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2026/11/07/faizon-brandon-tennessee-football-quarterback-plays-vs-kentucky-injury/92247243007/",
+          "source": "Knoxville News Sentinel"
+        },
+        {
+          "title": "Faizon Brandon plays for Tennessee football Kentucky, first action since Auburn",
+          "url": "https://www.on3.com/teams/tennessee-volunteers/news/faizon-brandon-tennessee-football-kentucky-quarterback/",
+          "source": "On3"
+        },
+        {
+          "title": "George MacIntyre, Faizon Brandon could be playing somewhere else in 2027 | Adams",
+          "url": "https://www.knoxnews.com/story/sports/columnists/university-of-tennessee/john-adams/2026/11/03/faizon-brandon-george-macintyre-tennessee-football-transfer-josh-heupel/92487332007/",
+          "source": "Knoxville News Sentinel"
         }
       ]
     },
     {
-      "keyword": "you can see everything streaming",
+      "keyword": "ryan field",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 6 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1CDgnNaPDhXvXtOmAY-Z7_5UrQ-721gfZ_tagBVJuc1snZvwFHuUn191mpV8",
+      "pub_date": "Sat, 7 Nov 2026 17:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr_J55-iIBib1WF2c_-fZKC1V8sudTLwAcRoQT0Aj6GYxlDff41HsXVoGP1PQ",
       "news": [
         {
-          "title": "In ‘Possible Love,’ a South Korean auteur returns with a story of marriage, labor and class",
-          "url": "https://apnews.com/article/possible-love-movie-c6e7ace8cdeb35383e42ab8013b4e05d",
-          "source": "AP News"
+          "title": "Northwestern's Grid Iron Grilled Cheese, Top Concession Menu Items at New Ryan Field Shown in Video",
+          "url": "https://bleacherreport.com/articles/25530011-northwesterns-grid-iron-grilled-cheese-top-concession-menu-items-new-ryan-field-shown-video",
+          "source": "Bleacher Report"
         },
         {
-          "title": "Netflix’s New Movie Is Being Compared to Parasite, but It Resembles Other Masterpieces Even More",
-          "url": "https://slate.com/culture/2026/11/possible-love-netflix-movie-oscars-you-can-see-everything.html",
-          "source": "Slate Magazine"
+          "title": "Watch Iowa vs Northwestern Live: Streaming, TV Channel & Start Time - Nov 7, 2026 | CFB Week 10",
+          "url": "https://www.fox.com/sports/football/college-football/watch-iowa-hawkeyes-vs-northwestern-wildcats-nov-07-2026",
+          "source": "FOX One"
         },
         {
-          "title": "Possible Love Ending: How Do Ho-seok and Mi-ok Face Their Future After Leaving the Mansion?",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/possible-love-ending-ho-seok-113424654.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "thomas bryant",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXTkLEH8eXt_3mdvvsMRNbqdiMbmkXsvsMQcmu5YWTqY6ANSB-lOLM_mptMM8",
-      "news": [
-        {
-          "title": "Thomas Bryant Stays Ready for when His Name is Called",
-          "url": "https://cavs.com/news/features-thomas-bryant-261105",
-          "source": "NBA.com"
-        },
-        {
-          "title": "This Backup Big Man Is Suddenly Crucial To Cavs Success",
-          "url": "https://sports.yahoo.com/articles/backup-big-man-suddenly-crucial-150005225.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Cavaliers' Khalifa Diop: Recalled Thursday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/cavaliers-khalifa-diop-recalled-thursday/",
-          "source": "CBS Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "lsu vs alabama",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 6 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Sn7Qgm3kx-6Z8OM15XaIwWRzeRRJ1_UgivbLAfbrWjm5fjbvQkMNp1ThKm0",
-      "news": [
-        {
-          "title": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU",
-          "url": "https://www.espn.com/college-football/story/_/id/50401690/alabama-ryan-coleman-williams-trio-return-vs-lsu",
-          "source": "ESPN"
-        },
-        {
-          "title": "3 Alabama players questionable, 4 upgraded to probable for LSU game",
-          "url": "https://www.al.com/alabamafootball/2026/11/3-alabama-players-questionable-4-upgraded-to-probable-for-lsu-game.html",
-          "source": "AL.com"
-        },
-        {
-          "title": "Football Returns to Death Valley for November Showdown with Alabama",
-          "url": "https://lsusports.net/news/2026/11/6/football-returns-to-death-valley-for-november-showdown-with-alabama",
-          "source": "LSUsports.net"
+          "title": "Iowa Hawkeyes at Northwestern Wildcats Fan Discussion",
+          "url": "https://www.blackheartgoldpants.com/iowa-hawkeyes-game-discussions/72079/iowa-hawkeyes-at-northwestern-wildcats-fan-discussion-game-thread-aidan-chiles-hank-brown-bhgp",
+          "source": "Black Heart Gold Pants"
         }
       ]
     }
