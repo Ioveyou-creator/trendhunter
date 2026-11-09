@@ -1,0 +1,82 @@
+{
+ "date": "2026-11-09",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 75,
+   "rank": 1
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 54,
+   "rank": 3
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 53,
+   "rank": 4
+  },
+  {
+   "id": "fcacd0ebbf",
+   "title": "The Legend of Zelda: Ocarina of Time remake is the UK’s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, but is roughly half of what Tears of the Kingdom did in its first week",
+   "query": "Ocarina Time remake UK s second",
+   "score": 45,
+   "rank": 5
+  },
+  {
+   "id": "0be035cb10",
+   "title": "LEGO Godzilla 21375 revealed",
+   "query": "LEGO Godzilla 21375 revealed",
+   "score": 45,
+   "rank": 6
+  },
+  {
+   "id": "ad5b180ae7",
+   "title": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
+   "query": "Nintendo released sheet music Link in-game",
+   "score": 44,
+   "rank": 7
+  },
+  {
+   "id": "0f845be590",
+   "title": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Teaser Video - Curtain Raiser)",
+   "query": "girls generation 4th Album",
+   "score": 44,
+   "rank": 8
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 44,
+   "rank": 9
+  },
+  {
+   "id": "6a84306217",
+   "title": "ali liebert",
+   "query": "ali liebert",
+   "score": 37,
+   "rank": 10
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 30,
+   "rank": 11
+  }
+ ]
+}
