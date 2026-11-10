@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-09T01:45:04+00:00",
+  "fetched_at": "2026-11-10T04:08:57+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "violent night 2",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMNAOQfWPJ4VnrHfpZjVDu20dNvPDfZFv4aEeV0FQDOnrDKG3k4iyDPbX783k",
-      "news": [
-        {
-          "title": "Long Range Forecast: Will Moviegoers Say Ho-Ho-Ho or No-No-No to VIOLENT NIGHT 2?",
-          "url": "https://www.boxofficepro.com/long-range-forecast-will-moviegoers-say-ho-ho-ho-or-no-no-no-to-violent-night-2/",
-          "source": "Boxoffice Pro"
-        },
-        {
-          "title": "Santa and Mrs. Claus Kick Some Ass in Funny New VIOLENT NIGHT 2 Featurette",
-          "url": "https://geektyrant.com/news/santa-and-mrs-claus-kick-some-ass-in-funny-new-violent-night-2-featurette",
-          "source": "GeekTyrant"
-        },
-        {
-          "title": "David Harbour Is Officially Back in Action in Clip From Next Month's Violent New Sequel",
-          "url": "https://www.imdb.com/news/ni66100363/?ref_=ttnw_art_perm",
-          "source": "IMDb"
-        }
-      ]
-    },
-    {
-      "keyword": "salvon ahmed",
+      "keyword": "cooper flagg",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Sun, 8 Nov 2026 17:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuH-lbWvJ9xWB9GjW6DU_nsqrL--thrOpExf5SOyj6MTlW0Wnw2viAotSmUF8",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO8yXNlJ9Z2Vc4mec2XBFYpOY3Fd8ry_0_oto7KjCkICEU12T8-TNGKcrXZB0",
       "news": [
         {
-          "title": "Who's in, who's out for Bears-Bucs: Will Kyle Monangai play?",
-          "url": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/08/bears-vs-bucs-inactives-injuries-kyle-monangai/92663649007/",
-          "source": "Bears Wire"
-        },
-        {
-          "title": "Sunday Night Football: Emeka Egbuka active, Kyle Monangai inactive for Bucs-Bears",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-emeka-egbuka-active-kyle-monangai-inactive-for-bucs-bears",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Bears-Buccaneers Inactives: Malik Muhammad II and Kyle Monangai still out",
-          "url": "https://www.windycitygridiron.com/chicago-bears-game-information/127153/bears-buccaneers-inactives-malik-muhammad-ii-and-kyle-monangai-still-out",
-          "source": "Windy City Gridiron"
-        }
-      ]
-    },
-    {
-      "keyword": "pittsburgh vs penn state",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRCa_Lv6403e_Q-AhBB9_R3gnO5aSU6vrVsX-YtTkKpHufWIE_iLKveGoqoQA",
-      "news": [
-        {
-          "title": "Staff picks: Can Pitt pick up a rivalry win over Penn State in Philadelphia?",
-          "url": "https://247sports.com/college/pittsburgh/article/pitt-penn-state-basketball-preview-where-to-watch-philadelphia-palestra-150th-meeting-292396553/",
-          "source": "247Sports"
-        },
-        {
-          "title": "Penn State vs Pittsburgh Prediction, Picks & Odds | 08 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/penn-state-nittany-lions-vs-pittsburgh-panthers-prediction-odds-2026-11-08/",
-          "source": "Sportsgambler"
-        },
-        {
-          "title": "GAME DAY: Penn State MBB vs. Pittsburgh",
-          "url": "https://gopsusports.com/news/2026/11/7/game-day-penn-state-mbb-vs-pittsburgh",
-          "source": "gopsusports.com"
-        }
-      ]
-    },
-    {
-      "keyword": "cole kmet",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSM_oZhYbdnFf__HerlJYFP-z0TV3DOpVdA0JYuwmjHOmDVgCu2ANnsz-PIpUM",
-      "news": [
-        {
-          "title": "CATCH-22: Bears TE Sam Roush hoping to make a world of difference",
-          "url": "https://chicago.suntimes.com/bears/2026/11/05/catch-22-bears-sam-roush-tight-end-stephen-carlson-trent-dilfer-world-difference-nfl",
-          "source": "Chicago Sun-Times"
-        },
-        {
-          "title": "Chicago Bears Stat Pack Week 8: With Cole Kmet out, a big opportunity awaits rookie Sam Roush",
-          "url": "https://247sports.com/nfl/chicago-bears/article/chicago-bears-stat-pack-week-8-with-cole-kmet-out-a-big-opportunity-awaits-rookie-sam-roush--291836369/",
-          "source": "247Sports"
-        },
-        {
-          "title": "Bears' Sam Roush: Logs season-high snap total, but no targets",
-          "url": "https://www.cbssports.com/fantasy/football/news/bears-sam-roush-logs-season-high-snap-total-but-no-targets/",
-          "source": "CBS Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "worlds",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoCfacsEVq0rGEsR9tb_MrtsEOBKODXX71SnkKOrsqCbJGmyuTdSCY6q0bdE",
-      "news": [
-        {
-          "title": "The World's Biggest Sea of Sand Shows No Trace of Ancient Humans. Here's Why.",
-          "url": "https://www.sciencealert.com/the-worlds-biggest-sea-of-sand-shows-no-trace-of-ancient-humans-heres-why",
-          "source": "ScienceAlert"
-        },
-        {
-          "title": "Stone and water together shaped where early humans settled in Arabia’s desert, study finds",
-          "url": "https://archaeologymag.com/2026/11/stone-water-early-human-settlement-desert/",
-          "source": "Archaeology News Online Magazine"
-        },
-        {
-          "title": "Early humans needed more than access to water to settle ancient Arabian deserts",
-          "url": "https://phys.org/news/2026-11-early-humans-access-ancient-arabian.html",
-          "source": "Phys.org"
-        }
-      ]
-    },
-    {
-      "keyword": "sean payton denver broncos news",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZME-d4nGcxl87ZKYzJvf2pjY_037WiLiE2kDU0PlpuERnPyJhyNQ3257r5zg",
-      "news": [
-        {
-          "title": "Sean Payton's replay challenge results in key interception in Broncos' victory",
-          "url": "https://www.espn.com/nfl/story/_/id/50427121/payton-challenge-results-key-interception-broncos-win",
+          "title": "Cooper Flagg breaks down in-game peanut butter and jelly sandwich",
+          "url": "https://www.espn.com/nba/story/_/id/50437538/cooper-flagg-peanut-butter-jelly",
           "source": "ESPN"
         },
         {
-          "title": "Broncos DB Devon Key awarded wild interception in the Panthers' end zone after Denver challenge",
-          "url": "https://sports.yahoo.com/nfl/article/broncos-db-devon-key-awarded-wild-interception-in-the-panthers-end-zone-after-denver-challenge-203611948.html",
+          "title": "Why's Cooper Flagg Eating A Sandwich During Dallas Mavs Game?",
+          "url": "https://roundtable.io/sports/nba/mavericks/news/whys-cooper-flagg-eating-a-sandwich-during-dallas-mavs-game",
+          "source": "roundtable.io"
+        },
+        {
+          "title": "Mavericks Star Cooper Flagg Gets Honest About Viral Eating And Weight Gain",
+          "url": "https://sports.yahoo.com/articles/mavericks-star-cooper-flagg-gets-212251307.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "purdue basketball",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBKDFLRyaElqcyFl3XsjBpLPVKWzn4r2dqfwfUjGJTJIo4IsTXAQmLudi9_nU",
+      "news": [
+        {
+          "title": "Noah Cleveland Rolls and Finishes With Slam Dunk And The Foul, Trimming Illinois State's Deficit vs Purdue",
+          "url": "https://www.foxnews.com/video/6408164202112",
+          "source": "Fox News"
+        },
+        {
+          "title": "Purdue basketball vs Illinois State start time, where to watch, roster, schedule tonight, Nov. 9",
+          "url": "https://www.indystar.com/story/sports/college/purdue/2026/11/08/purdue-basketball-game-tonight-vs-illinois-state-start-time-how-to-watch-stream/92677069007/",
+          "source": "IndyStar"
+        },
+        {
+          "title": "Purdue Men’s Basketball Game 3 Preview: Purdue (0-2) vs. Illinois State (1-1)",
+          "url": "https://www.hammerandrails.com/purdue-mens-basketball/62196/purdue-mens-basketball-game-3-preview-purdue-0-2-vs-illinois-state-1-1",
+          "source": "Hammer and Rails"
+        }
+      ]
+    },
+    {
+      "keyword": "zion williamson",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQARbXnKyvyS73AMewYZOLwWdmj9m9juj1tGsKclZPngLMMlM7SstjZYExFtrE",
+      "news": [
+        {
+          "title": "Pelicans' Zion Williamson to miss first game of 2026-27 season, out for rest vs. Warriors",
+          "url": "https://sports.yahoo.com/nba/article/pelicans-zion-williamson-to-miss-first-game-of-2026-27-season-out-for-rest-vs-warriors-224448869.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Broncos' game management director's quick decision helps Denver beat Carolina on overturned call",
-          "url": "https://www.newsday.com/sports/football/denver-broncos-challenge-n25432",
-          "source": "Newsday"
+          "title": "Pelicans reveal brutal Zion Williamson final status vs. Warriors",
+          "url": "https://basketnews.com/news-259147-pelicans-reveal-brutal-zion-williamson-final-status-vs-warriors.html",
+          "source": "BasketNews.com"
+        },
+        {
+          "title": "Zion Williamson News: Sitting out Monday",
+          "url": "https://www.rotowire.com/basketball/headlines/zion-williamson-news-sitting-out-monday-538347",
+          "source": "RotoWire"
         }
       ]
     },
     {
-      "keyword": "ali liebert",
+      "keyword": "saddiq bey",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvVKqV0cGFQqQ-TiLlG3Ox4XW4YWQ8mr_a-v746WxgWVadXuac7nvlSYpa3nc",
+      "pub_date": "Mon, 9 Nov 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsu0nMAzCgvVkF9ARLb4JmUvwmLkLJ3VsrnaCWzUwesQOwLqQ7HByI6J9CjRE",
       "news": [
         {
-          "title": "James Denton Says His New Father-Daughter Christmas Drama Has the Best Scenes 'I've Ever Done' at Hallmark (Exclusive)",
-          "url": "https://parade.com/entertainment/james-denton-says-his-new-father-daughter-christmas-drama-has-the-best-scenes-ive-ever-done-at-hallmark-exclusive",
-          "source": "Parade Magazine"
+          "title": "NOR starts Fears, Murray, Jones, Bey, Matković",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/nor-starts-fears-murray-jones-bey-matkovic",
+          "source": "NBC Sports"
         },
         {
-          "title": "‘A SEASON OF PROMISES’: HOW JOY TEACHES UNIQUE LESSON",
-          "url": "https://rissiwrites.com/2026/11/a-season-of-promises-unique-lesson-on-joy.html",
-          "source": "RissiWrites.com"
+          "title": "Saddiq Bey News: Drawing first start of season",
+          "url": "https://www.rotowire.com/basketball/headlines/saddiq-bey-news-drawing-first-start-of-season-538395",
+          "source": "RotoWire"
         },
         {
-          "title": "A Season of Promises Review: Hallmark’s Family Grief Story Is Not Your Typical Romcom",
-          "url": "https://www.fantasylandnews.com/2026/11/08/a-season-of-promises-review-hallmarks-family-grief-story-is-not-your-typical-romcom/",
-          "source": "Fantasy Land News"
-        }
-      ]
-    },
-    {
-      "keyword": "usc women's basketball",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVAajAG4SIdCQKjiGnV7zvYJ-q_sCylX37LVOGKzug-0AP21NUv-amjGz7Grs",
-      "news": [
-        {
-          "title": "Where to watch Utah State vs. USC basketball for free today",
-          "url": "https://www.oregonlive.com/tv/2026/11/where-to-watch-utah-state-vs-usc-basketball-for-free-today.html",
-          "source": "OregonLive.com"
-        },
-        {
-          "title": "No. 3 USC Women's Basketball Primed for Home Opener Against Utah State",
-          "url": "https://usctrojans.com/news/2026/11/7/no-3-usc-womens-basketball-primed-for-home-opener-against-utah-statet",
-          "source": "USC Athletics"
-        },
-        {
-          "title": "How to watch Utah State vs. USC women’s basketball: TV channel and streaming options for November 8",
-          "url": "https://www.nytimes.com/athletic/7764601/2026/11/08/utah-state-vs-usc-stream-how-to-watch-nov-8/",
-          "source": "The New York Times"
-        }
-      ]
-    },
-    {
-      "keyword": "mike conley",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7HonF-78Lr1fGS2ViwhnlBtaj8z_59OJ8LeEIetkRQYUPBV6yXqVaLfmTUE",
-      "news": [
-        {
-          "title": "Celtics make surprising starting lineup decision against Bucks",
-          "url": "https://www.celticsblog.com/boston-celtics-news/149702/celtics-mike-conley-starting-lineup-bucks",
-          "source": "CelticsBlog"
-        },
-        {
-          "title": "Celtics starting Mike Conley reinforces Payton Pritchard's locked into sixth-man role",
-          "url": "https://hardwoodhoudini.com/celtics-starting-mike-conley-reinforces-payton-pritchards-locked-into-sixth-man-role",
-          "source": "Hardwood Houdini"
-        },
-        {
-          "title": "Celtics' Mike Conley: Starting Sunday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/celtics-mike-conley-starting-sunday/",
+          "title": "Pelicans' Herbert Jones: Starting Monday",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pelicans-herbert-jones-starting-monday/",
           "source": "CBS Sports"
         }
       ]
     },
     {
-      "keyword": "cade otton",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sun, 8 Nov 2026 17:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5aHknR59Tkm40mYANrm5ufLK2JrXZc_Vv409C-sAMGgbnr793zeujUOsErJo",
+      "keyword": "dejounte murray",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLuJyGE-4fvkpkhhFpY-KsXN2Bt_GwESwcn8jwJiK_oJLd0rhId20iDjdsJ0",
       "news": [
         {
-          "title": "Pewter Pick$ & Prop$: Bucs GOING OLD SCHOOL! Smash-Mouth Football Is BACK!",
-          "url": "https://www.pewterreport.com/pewter-pick-prop-bucs-smash-mouth-football/",
-          "source": "Pewter Report"
+          "title": "Pelicans' Dejounte Murray: Season-worst outing in rout",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pelicans-dejounte-murray-season-worst-outing-in-rout/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Todd Bowles: Coaching Beginning To Figure Out How To Use The Offensive Line",
-          "url": "https://www.joebucsfan.com/2026/11/todd-bowles-coachings-beginning-to-figure-out-how-to-use-the-offensive-line/",
-          "source": "JoeBucsFan.com"
+          "title": "Dejounte Murray quiet in loss to Clippers",
+          "url": "https://www.fantasypros.com/nba/news/618799/dejounte-murray-quiet-loss-to-clippers.php",
+          "source": "FantasyPros"
         },
         {
-          "title": "Buccaneers ground game needs to keep running the game going against the Bears",
-          "url": "https://sportstalkflorida.com/featured/slug-buccaneers-running-game-defense-bucky-irving-kenneth-gainwell-nfc-south/",
-          "source": "Sports Talk Florida"
+          "title": "Dejounte Murray News: Season-worst outing in rout",
+          "url": "https://www.rotowire.com/basketball/headlines/dejounte-murray-news-season-worst-outing-in-rout-538346",
+          "source": "RotoWire"
+        }
+      ]
+    },
+    {
+      "keyword": "daisy ridley",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpYuRSERnletw56Q2WzBRP0DrFhIVg_EYVW7z6EEDdOdj7W3bLxSGxrOzceQc",
+      "news": [
+        {
+          "title": "'Obsession' Hunt Continues: AFM 2026 Market Preview & Analysis",
+          "url": "https://deadline.com/2026/11/obsession-afm-2026-preview-hot-list-1237217117/",
+          "source": "Deadline"
+        },
+        {
+          "title": "Julianne Moore, Josh Brolin and Daisy Ridley Lead the Buzziest Titles at AFM",
+          "url": "https://www.hollywoodreporter.com/lists/afm-hotlist-2026-josh-brolin-daisy-ridley-james-mcavoy/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "American Film Market Opens With Focus on AI, Production and New Business Models",
+          "url": "https://www.mediaplaynews.com/american-film-market-opens-with-focus-on-ai-production-and-new-business-models/",
+          "source": "Media Play News"
+        }
+      ]
+    },
+    {
+      "keyword": "jeffrey epstein",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 9 Nov 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhj5tkyCuZxGR8NdtVWgtJAuF6JkxtyhbtIdDk5j7zI0b4I70bZlLVSs-swfs",
+      "news": [
+        {
+          "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+          "url": "https://www.bbc.com/news/articles/cm86z6w59gggo",
+          "source": "BBC"
+        },
+        {
+          "title": "How model agencies helped Epstein access victims",
+          "url": "https://www.bbc.co.uk/news/videos/cmqxnxgwqrqlo",
+          "source": "BBC"
+        },
+        {
+          "title": "Model says MC2 president sent her to Epstein — BBC News",
+          "url": "https://ua.news/en/dovkolo-svitu/model-zaiavila-shcho-prezident-mc2-vidpraviv-yiyi-do-epshteina-bbc-news",
+          "source": "UA.NEWS"
+        }
+      ]
+    },
+    {
+      "keyword": "ben hutton",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdO8hzS6016IVvOsm_Pxr4ail-Bc7I_x1hiq5ST1qcwp3H4vVOzCobzl71wsI",
+      "news": [
+        {
+          "title": "Islanders Sign Hutton To One-Year Contract",
+          "url": "https://www.nhl.com/islanders/news/islanders-sign-hutton-to-one-year-contract",
+          "source": "NHL.com"
+        },
+        {
+          "title": "Islanders News: Practicing and waiting",
+          "url": "https://www.lighthousehockey.com/islanders-news-headlines/45458/islanders-news-ben-hutton-practice-injuries",
+          "source": "Lighthouse Hockey"
+        },
+        {
+          "title": "Ben Hutton supplants Scott Mayfield in Islanders’ lineup",
+          "url": "https://nypost.com/2026/11/08/sports/ben-hutton-supplants-scott-mayfield-in-islanders-lineup/",
+          "source": "New York Post"
+        }
+      ]
+    },
+    {
+      "keyword": "michael strahan",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDR45DkK2D8cNUQb_cfMssZHglGZgr50Q6HlPHH7miJUTcK92n5jJpCZ98E8g",
+      "news": [
+        {
+          "title": "Giants’ Arvell Reese torments Eagles, bolsters Defensive Rookie of the Year case",
+          "url": "https://www.nytimes.com/athletic/7766474/2026/11/09/arvell-reese-new-york-giants-rookie-of-the-year/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "This former Ohio State, Glenville star just broke an NFL record: Buckeye Breakfast",
+          "url": "https://www.cleveland.com/osu/2026/11/this-former-ohio-state-glenville-star-just-broke-an-nfl-record-buckeye-breakfast.html",
+          "source": "Cleveland.com"
+        },
+        {
+          "title": "CB Greg Newsome II on Arvell Reese: 'He's unbelievable'",
+          "url": "https://www.giants.com/video/cb-greg-newsome-ii-on-arvell-reese-he-s-unbelievable",
+          "source": "Giants.com"
+        }
+      ]
+    },
+    {
+      "keyword": "katt williams",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 9 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5zOKx5RU_yUb9CBVW5gnjZO8WSyaGiH9oJGIVD93yy8XgFnIFfFTPCDZ89uw",
+      "news": [
+        {
+          "title": "Katt Williams opens up about horrific childhood abuse, recalls being “tied up to a pole in the basement” for questioning parents’ religious beliefs",
+          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/katt-williams-opens-horrific-childhood-153746638.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Katt Williams Says He Outworked 300 Comedians to Build a Self-Funded Stand-Up Empire",
+          "url": "https://finance.biggo.com/news/12fa16a2fddc26f9",
+          "source": "BigGo Finance"
+        },
+        {
+          "title": "Katt Williams doesn’t shy from ‘ugly’ truth in ‘Lives’",
+          "url": "https://www.pressreader.com/usa/usa-today-us-edition/20261102/282063398980768",
+          "source": "PressReader"
         }
       ]
     }

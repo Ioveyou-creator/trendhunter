@@ -1,116 +1,33 @@
 {
-  "generated_at": "2026-11-09T01:54:04+00:00",
+  "generated_at": "2026-11-10T04:14:07+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-09T01:45:04+00:00"
+      "fetched_at": "2026-11-10T04:08:57+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 102,
+      "count": 111,
       "error": null,
-      "fetched_at": "2026-11-09T01:54:03+00:00"
+      "fetched_at": "2026-11-10T04:14:07+00:00"
     },
     "events": {
       "ok": true,
       "count": 6,
       "error": null,
-      "fetched_at": "2026-11-09T01:54:03+00:00"
+      "fetched_at": "2026-11-10T04:14:07+00:00"
     }
   },
   "candidates": [
     {
-      "title": "Black Friday",
-      "query": "black friday deals",
-      "category": "season",
-      "score": 75,
-      "reasons": [
-        "이벤트 D-18 (2026-11-27), 지금 준비할 때",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Black Friday",
-          "url": ""
-        },
-        {
-          "source": "reddit",
-          "text": "Best Time to Stock up on Olens- Singles Day or Black Friday?",
-          "url": "https://www.reddit.com/r/AsianBeauty/comments/1xrd531/best_time_to_stock_up_on_olens_singles_day_or/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-27",
-        "days_left": 18,
-        "prep_by": "2026-10-30",
-        "status": "prepare_now"
-      },
-      "id": "d076c6152a",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 1,
-        "rank_change": 0,
-        "streak": 15
-      }
-    },
-    {
-      "title": "Cyber Monday",
-      "query": "cyber monday deals",
-      "category": "season",
-      "score": 65,
-      "reasons": [
-        "이벤트 D-21 (2026-11-30), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Cyber Monday",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-11-30",
-        "days_left": 21,
-        "prep_by": "2026-11-02",
-        "status": "prepare_now"
-      },
-      "id": "28fb3c4aa4",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=cyber+monday+deals"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 2,
-        "rank_change": 0,
-        "streak": 15
-      }
-    },
-    {
       "title": "ATEEZ 'GOLDEN HOUR Part.6'",
       "query": "ateez golden hour",
       "category": "kpop",
-      "score": 54,
+      "score": 65,
       "reasons": [
-        "이벤트 D-4 (2026-11-13), 준비 예정"
+        "이벤트 D-3 (2026-11-13), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -124,9 +41,9 @@
       ],
       "event": {
         "date": "2026-11-13",
-        "days_left": 4,
+        "days_left": 3,
         "prep_by": "2026-11-10",
-        "status": "upcoming"
+        "status": "prepare_now"
       },
       "id": "312a19efa8",
       "category_label": "K-pop",
@@ -138,17 +55,172 @@
       "trend": {
         "status": "same",
         "prev_rank": 3,
-        "rank_change": 0,
+        "rank_change": 2,
         "streak": 15
+      }
+    },
+    {
+      "title": "Black Friday",
+      "query": "black friday deals",
+      "category": "season",
+      "score": 65,
+      "reasons": [
+        "이벤트 D-17 (2026-11-27), 지금 준비할 때"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Black Friday",
+          "url": ""
+        }
+      ],
+      "event": {
+        "date": "2026-11-27",
+        "days_left": 17,
+        "prep_by": "2026-10-30",
+        "status": "prepare_now"
+      },
+      "id": "d076c6152a",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
+        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 1,
+        "rank_change": -1,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Cyber Monday",
+      "query": "cyber monday deals",
+      "category": "season",
+      "score": 65,
+      "reasons": [
+        "이벤트 D-20 (2026-11-30), 지금 준비할 때"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "Cyber Monday",
+          "url": ""
+        }
+      ],
+      "event": {
+        "date": "2026-11-30",
+        "days_left": 20,
+        "prep_by": "2026-11-02",
+        "status": "prepare_now"
+      },
+      "id": "28fb3c4aa4",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cyber+monday+deals",
+        "naver": "https://search.shopping.naver.com/search/all?query=cyber+monday+deals"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 2,
+        "rank_change": -1,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 54,
+      "reasons": [
+        "이벤트 D-45 (2026-12-25), 준비 예정",
+        "다른 소스에서 1건 언급"
+      ],
+      "sources": [
+        "events",
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
+          "url": ""
+        },
+        {
+          "source": "reddit",
+          "text": "Some of my 100yr old lionel trains (green one goes under the christmas tree-all new metal wheels (original white metal ones crumbled away) wirjng and bulbs still working after 100yrs which very early 1920s electrical ideas at play",
+          "url": "https://www.reddit.com/r/BuyItForLife/comments/1xrxqxf/some_of_my_100yr_old_lionel_trains_green_one_goes/"
+        }
+      ],
+      "event": {
+        "date": "2026-12-25",
+        "days_left": 45,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
+      },
+      "id": "90f88a9324",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 9,
+        "rank_change": 5,
+        "streak": 15
+      }
+    },
+    {
+      "title": "[Link in Image Caption] Funko POP! Marvel: Captain America Civil War - Falcon (Amazon Exclusive) | Official Superheroes Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+      "query": "funko Official Superheroes Merch",
+      "category": "collectibles",
+      "score": 54,
+      "reasons": [
+        "r/funkopop hot #6",
+        "상품 신호: 한정판, K-pop 굿즈",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] Funko POP! Marvel: Captain America Civil War - Falcon (Amazon Exclusive) | Official Superheroes Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xs80hj/link_in_image_caption_funko_pop_marvel_captain/"
+        }
+      ],
+      "id": "caebe43c1e",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+Official+Superheroes+Merch&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+Official+Superheroes+Merch",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+Official+Superheroes+Merch"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
       }
     },
     {
       "title": "TXT 'PERFECT STORM'",
       "query": "txt perfect storm",
       "category": "kpop",
-      "score": 53,
+      "score": 54,
       "reasons": [
-        "이벤트 D-7 (2026-11-16), 준비 예정"
+        "이벤트 D-6 (2026-11-16), 준비 예정"
       ],
       "sources": [
         "events"
@@ -162,7 +234,7 @@
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 7,
+        "days_left": 6,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -176,17 +248,51 @@
       "trend": {
         "status": "same",
         "prev_rank": 4,
-        "rank_change": 0,
+        "rank_change": -2,
         "streak": 15
+      }
+    },
+    {
+      "title": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Schedule)",
+      "query": "girls generation 4th Album",
+      "category": "kculture",
+      "score": 44,
+      "reasons": [
+        "r/kpop hot #8",
+        "상품 신호: K-pop 굿즈",
+        "브랜드/IP: girls' generation"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Schedule)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xrty3f/girls_generation_snsd_taeyeon_the_4th_album/"
+        }
+      ],
+      "id": "0f845be590",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+4th+Album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+4th+Album",
+        "naver": "https://search.shopping.naver.com/search/all?query=girls+generation+4th+Album"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 8,
+        "rank_change": 1,
+        "streak": 2
       }
     },
     {
       "title": "The Legend of Zelda: Ocarina of Time remake is the UK’s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, but is roughly half of what Tears of the Kingdom did in its first week",
       "query": "Ocarina Time remake UK s second",
       "category": "gaming",
-      "score": 45,
+      "score": 44,
       "reasons": [
-        "r/NintendoSwitch hot #1",
+        "r/NintendoSwitch hot #8",
         "상품 신호: 출시",
         "브랜드/IP: zelda"
       ],
@@ -208,166 +314,20 @@
         "naver": "https://search.shopping.naver.com/search/all?query=Ocarina+Time+remake+UK+s+second"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "LEGO Godzilla 21375 revealed",
-      "query": "LEGO Godzilla 21375 revealed",
-      "category": "collectibles",
-      "score": 45,
-      "reasons": [
-        "r/lego hot #2",
-        "상품 신호: 모델명",
-        "브랜드/IP: lego"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "LEGO Godzilla 21375 revealed",
-          "url": "https://www.reddit.com/r/lego/comments/1xmu5g6/lego_godzilla_21375_revealed/"
-        }
-      ],
-      "id": "0be035cb10",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=LEGO+Godzilla+21375+revealed",
-        "naver": "https://search.shopping.naver.com/search/all?query=LEGO+Godzilla+21375+revealed"
-      },
-      "trend": {
-        "status": "same",
+        "status": "down",
         "prev_rank": 5,
-        "rank_change": -1,
-        "streak": 4
-      }
-    },
-    {
-      "title": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
-      "query": "Nintendo released sheet music Link in-game",
-      "category": "gaming",
-      "score": 44,
-      "reasons": [
-        "r/NintendoSwitch hot #5",
-        "상품 신호: 출시",
-        "브랜드/IP: nintendo"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xq77wp/nintendo_has_released_the_sheet_music_for_links/"
-        }
-      ],
-      "id": "ad5b180ae7",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+released+sheet+music+Link+in-game&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Nintendo+released+sheet+music+Link+in-game",
-        "naver": "https://search.shopping.naver.com/search/all?query=Nintendo+released+sheet+music+Link+in-game"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 6,
-        "rank_change": -1,
+        "rank_change": -3,
         "streak": 2
       }
     },
     {
-      "title": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Teaser Video - Curtain Raiser)",
-      "query": "girls generation 4th Album",
-      "category": "kculture",
-      "score": 44,
-      "reasons": [
-        "r/kpop hot #6",
-        "상품 신호: K-pop 굿즈",
-        "브랜드/IP: girls' generation",
-        "r/kpop hot #10"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Teaser Video - Curtain Raiser)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xr0shl/girls_generation_snsd_taeyeon_the_4th_album/"
-        },
-        {
-          "source": "reddit",
-          "text": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (New Banner + Logo)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xr0ifq/girls_generation_snsd_taeyeon_the_4th_album/"
-        }
-      ],
-      "id": "0f845be590",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+4th+Album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=girls+generation+4th+Album",
-        "naver": "https://search.shopping.naver.com/search/all?query=girls+generation+4th+Album"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 44,
-      "reasons": [
-        "이벤트 D-46 (2026-12-25), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 46,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 8,
-        "rank_change": -1,
-        "streak": 15
-      }
-    },
-    {
-      "title": "ali liebert",
-      "query": "ali liebert",
+      "title": "cooper flagg",
+      "query": "cooper flagg",
       "category": "trend",
-      "score": 37,
+      "score": 42,
       "reasons": [
-        "미국 검색 급상승 500+",
-        "상품 신호: 한정판"
+        "미국 검색 급상승 2000+",
+        "상품 신호: 바이럴"
       ],
       "sources": [
         "google_trends"
@@ -375,26 +335,26 @@
       "evidence": [
         {
           "source": "google_trends",
-          "text": "ali liebert (500+)",
+          "text": "cooper flagg (2000+)",
           "url": ""
         },
         {
           "source": "news",
-          "text": "James Denton Says His New Father-Daughter Christmas Drama Has the Best Scenes 'I've Ever Done' at Hallmark (Exclusive)",
-          "url": "https://parade.com/entertainment/james-denton-says-his-new-father-daughter-christmas-drama-has-the-best-scenes-ive-ever-done-at-hallmark-exclusive"
+          "text": "Cooper Flagg breaks down in-game peanut butter and jelly sandwich",
+          "url": "https://www.espn.com/nba/story/_/id/50437538/cooper-flagg-peanut-butter-jelly"
         },
         {
           "source": "news",
-          "text": "‘A SEASON OF PROMISES’: HOW JOY TEACHES UNIQUE LESSON",
-          "url": "https://rissiwrites.com/2026/11/a-season-of-promises-unique-lesson-on-joy.html"
+          "text": "Why's Cooper Flagg Eating A Sandwich During Dallas Mavs Game?",
+          "url": "https://roundtable.io/sports/nba/mavericks/news/whys-cooper-flagg-eating-a-sandwich-during-dallas-mavs-game"
         }
       ],
-      "id": "6a84306217",
+      "id": "eb31d63442",
       "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ali+liebert&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ali+liebert",
-        "naver": "https://search.shopping.naver.com/search/all?query=ali+liebert"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cooper+flagg&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cooper+flagg",
+        "naver": "https://search.shopping.naver.com/search/all?query=cooper+flagg"
       },
       "trend": {
         "status": "new",
@@ -407,30 +367,23 @@
       "title": "Singles' Day (11.11)",
       "query": "singles day sale",
       "category": "season",
-      "score": 30,
+      "score": 20,
       "reasons": [
-        "이벤트 D-2 (2026-11-11), 배송 시간 부족",
-        "다른 소스에서 1건 언급"
+        "이벤트 D-1 (2026-11-11), 배송 시간 부족"
       ],
       "sources": [
-        "events",
-        "reddit"
+        "events"
       ],
       "evidence": [
         {
           "source": "events",
           "text": "Singles' Day (11.11)",
           "url": ""
-        },
-        {
-          "source": "reddit",
-          "text": "Best Time to Stock up on Olens- Singles Day or Black Friday?",
-          "url": "https://www.reddit.com/r/AsianBeauty/comments/1xrd531/best_time_to_stock_up_on_olens_singles_day_or/"
         }
       ],
       "event": {
         "date": "2026-11-11",
-        "days_left": 2,
+        "days_left": 1,
         "prep_by": "2026-10-28",
         "status": "too_late"
       },
@@ -443,8 +396,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 10,
-        "rank_change": -1,
+        "prev_rank": 11,
+        "rank_change": 1,
         "streak": 15
       }
     }
@@ -454,7 +407,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 2,
+      "days_left": 1,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -473,10 +426,10 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 4,
+      "days_left": 3,
       "prep_by": "2026-11-10",
       "lead_days": 3,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "ateez golden hour",
         "ateez photocard"
@@ -492,7 +445,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 7,
+      "days_left": 6,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -512,7 +465,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 18,
+      "days_left": 17,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -530,7 +483,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 21,
+      "days_left": 20,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -548,7 +501,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 46,
+      "days_left": 45,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -566,107 +519,114 @@
   ],
   "other_trends": [
     {
-      "keyword": "violent night 2",
-      "traffic_label": "5000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2",
-        "naver": "https://search.shopping.naver.com/search/all?query=violent+night+2"
-      }
-    },
-    {
-      "keyword": "salvon ahmed",
+      "keyword": "purdue basketball",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=salvon+ahmed&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=salvon+ahmed",
-        "naver": "https://search.shopping.naver.com/search/all?query=salvon+ahmed"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=purdue+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=purdue+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=purdue+basketball"
       }
     },
     {
-      "keyword": "pittsburgh vs penn state",
+      "keyword": "zion williamson",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pittsburgh+vs+penn+state&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pittsburgh+vs+penn+state",
-        "naver": "https://search.shopping.naver.com/search/all?query=pittsburgh+vs+penn+state"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=zion+williamson&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=zion+williamson",
+        "naver": "https://search.shopping.naver.com/search/all?query=zion+williamson"
       }
     },
     {
-      "keyword": "cole kmet",
+      "keyword": "saddiq bey",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cole+kmet&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cole+kmet",
-        "naver": "https://search.shopping.naver.com/search/all?query=cole+kmet"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=saddiq+bey&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=saddiq+bey",
+        "naver": "https://search.shopping.naver.com/search/all?query=saddiq+bey"
       }
     },
     {
-      "keyword": "worlds",
+      "keyword": "dejounte murray",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=worlds&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=worlds",
-        "naver": "https://search.shopping.naver.com/search/all?query=worlds"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=dejounte+murray&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=dejounte+murray",
+        "naver": "https://search.shopping.naver.com/search/all?query=dejounte+murray"
       }
     },
     {
-      "keyword": "sean payton denver broncos news",
+      "keyword": "daisy ridley",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=sean+payton+denver+broncos+news&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=sean+payton+denver+broncos+news",
-        "naver": "https://search.shopping.naver.com/search/all?query=sean+payton+denver+broncos+news"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=daisy+ridley&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=daisy+ridley",
+        "naver": "https://search.shopping.naver.com/search/all?query=daisy+ridley"
       }
     },
     {
-      "keyword": "usc women's basketball",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=usc+women%27s+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=usc+women%27s+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=usc+women%27s+basketball"
-      }
-    },
-    {
-      "keyword": "mike conley",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mike+conley&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mike+conley",
-        "naver": "https://search.shopping.naver.com/search/all?query=mike+conley"
-      }
-    },
-    {
-      "keyword": "cade otton",
+      "keyword": "jeffrey epstein",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cade+otton&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cade+otton",
-        "naver": "https://search.shopping.naver.com/search/all?query=cade+otton"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jeffrey+epstein&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jeffrey+epstein",
+        "naver": "https://search.shopping.naver.com/search/all?query=jeffrey+epstein"
+      }
+    },
+    {
+      "keyword": "ben hutton",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ben+hutton&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ben+hutton",
+        "naver": "https://search.shopping.naver.com/search/all?query=ben+hutton"
+      }
+    },
+    {
+      "keyword": "michael strahan",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=michael+strahan&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=michael+strahan",
+        "naver": "https://search.shopping.naver.com/search/all?query=michael+strahan"
+      }
+    },
+    {
+      "keyword": "katt williams",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=katt+williams&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=katt+williams",
+        "naver": "https://search.shopping.naver.com/search/all?query=katt+williams"
       }
     }
   ],
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "dropped": [
     {
-      "id": "de5dffccd0",
-      "title": "TWICE NAYEON - 1st Single Album: NA-sty / Title Track: BABY ANGEL (Teaser Image: SUBJECT NOT FOUND.)",
-      "query": "twice 1st Single Album",
+      "id": "0be035cb10",
+      "title": "LEGO Godzilla 21375 revealed",
+      "query": "LEGO Godzilla 21375 revealed",
+      "score": 45,
+      "rank": 6
+    },
+    {
+      "id": "ad5b180ae7",
+      "title": "Nintendo has released the sheet music for Link's in-game tunes in The Legend of Zelda: Ocarina of Time",
+      "query": "Nintendo released sheet music Link in-game",
       "score": 44,
       "rank": 7
     },
     {
-      "id": "ed72da7c0b",
-      "title": "jordan faison",
-      "query": "jordan faison",
-      "score": 42,
-      "rank": 9
+      "id": "6a84306217",
+      "title": "ali liebert",
+      "query": "ali liebert",
+      "score": 37,
+      "rank": 10
     }
   ],
   "history": {
-    "date": "2026-11-09",
-    "previous_date": "2026-11-08",
-    "new_count": 3
+    "date": "2026-11-10",
+    "previous_date": "2026-11-09",
+    "new_count": 2
   }
 }

@@ -1,0 +1,75 @@
+{
+ "date": "2026-11-10",
+ "candidates": [
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 65,
+   "rank": 1
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 54,
+   "rank": 4
+  },
+  {
+   "id": "caebe43c1e",
+   "title": "[Link in Image Caption] Funko POP! Marvel: Captain America Civil War - Falcon (Amazon Exclusive) | Official Superheroes Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
+   "query": "funko Official Superheroes Merch",
+   "score": 54,
+   "rank": 5
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 54,
+   "rank": 6
+  },
+  {
+   "id": "0f845be590",
+   "title": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Schedule)",
+   "query": "girls generation 4th Album",
+   "score": 44,
+   "rank": 7
+  },
+  {
+   "id": "fcacd0ebbf",
+   "title": "The Legend of Zelda: Ocarina of Time remake is the UK’s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, but is roughly half of what Tears of the Kingdom did in its first week",
+   "query": "Ocarina Time remake UK s second",
+   "score": 44,
+   "rank": 8
+  },
+  {
+   "id": "eb31d63442",
+   "title": "cooper flagg",
+   "query": "cooper flagg",
+   "score": 42,
+   "rank": 9
+  },
+  {
+   "id": "8fc95d9a75",
+   "title": "Singles' Day (11.11)",
+   "query": "singles day sale",
+   "score": 20,
+   "rank": 10
+  }
+ ]
+}

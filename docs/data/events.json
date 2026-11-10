@@ -1,6 +1,6 @@
 {
   "source": "events",
-  "fetched_at": "2026-11-09T01:54:03+00:00",
+  "fetched_at": "2026-11-10T04:14:07+00:00",
   "ok": true,
   "error": null,
   "count": 6,
@@ -9,7 +9,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 2,
+      "days_left": 1,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -28,10 +28,10 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 4,
+      "days_left": 3,
       "prep_by": "2026-11-10",
       "lead_days": 3,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "ateez golden hour",
         "ateez photocard"
@@ -47,7 +47,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 7,
+      "days_left": 6,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -67,7 +67,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 18,
+      "days_left": 17,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -85,7 +85,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 21,
+      "days_left": 20,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -103,7 +103,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 46,
+      "days_left": 45,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -119,5 +119,5 @@
       "kind": "yearly"
     }
   ],
-  "today": "2026-11-09"
+  "today": "2026-11-10"
 }
