@@ -1,6 +1,6 @@
 {
   "source": "events",
-  "fetched_at": "2026-11-10T04:14:07+00:00",
+  "fetched_at": "2026-11-11T02:03:07+00:00",
   "ok": true,
   "error": null,
   "count": 6,
@@ -9,7 +9,7 @@
       "name": "Singles' Day (11.11)",
       "category": "season",
       "date": "2026-11-11",
-      "days_left": 1,
+      "days_left": 0,
       "prep_by": "2026-10-28",
       "lead_days": 14,
       "status": "too_late",
@@ -28,7 +28,7 @@
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "prepare_now",
@@ -47,7 +47,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -67,7 +67,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 17,
+      "days_left": 16,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -85,7 +85,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 20,
+      "days_left": 19,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -103,7 +103,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 45,
+      "days_left": 44,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -119,5 +119,5 @@
       "kind": "yearly"
     }
   ],
-  "today": "2026-11-10"
+  "today": "2026-11-11"
 }
