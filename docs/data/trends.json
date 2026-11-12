@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-11T01:57:28+00:00",
+  "fetched_at": "2026-11-12T03:04:17+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "julianne hough",
+      "keyword": "where to watch oklahoma city thunder vs portland trail blazers",
+      "traffic": 50000,
+      "traffic_label": "50000+",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRui9ApRp4MH5BCAjmDPsbdEx4LWUPg9Oc-DG3PzkvByK9U_gEXgEOHXkK4L2g",
+      "news": [
+        {
+          "title": "Trail Blazers 123-103 Thunder (Nov 10, 2026) Game Recap",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909965",
+          "source": "ESPN"
+        },
+        {
+          "title": "Game Recap: Trail Blazers 123, Thunder 103 (Nov. 10)",
+          "url": "https://www.nba.com/watch/video/game-recap-trail-blazers-123-thunder-103",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Damian Lillard torches Thunder as Trail Blazers snap OKC's four-game win streak",
+          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-ajay-mitchell-damian-lillard-stats/92719257007/",
+          "source": "The Oklahoman"
+        }
+      ]
+    },
+    {
+      "keyword": "sandro mamukelashvili",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBGAmdIiIOA09hANeOlZsvzlOFg8HjJpTRil95mzRt29RJURJIdnhgoY8h1O8",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLMyTMZmBQ0BaBscAkEZEv7UV9sHug4I2reEH4-cWU5vbP33G_4zyl76AM2OU",
       "news": [
         {
-          "title": "DWTS co-hosts Alfonso and Julianne's salaries revealed as one makes ‘MUCH more’",
-          "url": "https://www.the-sun.com/tv/17280828/dwts-hosts-alfonso-ribeiro-julianne-hough-salaries-pay-2026/",
-          "source": "The Sun"
+          "title": "Sandro Mamukelashvili draws JJ Redick praise after ‘best game as a Lakers’",
+          "url": "https://sports.yahoo.com/articles/sandro-mamukelashvili-draws-lakers-hc-060155602.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "‘Dancing with the Stars’ Host Alfonso Ribeiro Makes ‘Significantly More’ Than Cohost Julianne Hough",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-host-alfonso-ribeiro-230822387.html",
-          "source": "Yahoo"
+          "title": "Sandro Mamukelashvili drops 23 points Monday",
+          "url": "https://www.fantasypros.com/nba/news/618976/sandro-mamukelashvili-drops-23-points-monday.php",
+          "source": "FantasyPros"
         },
         {
-          "title": "Alfonso Ribeiro and Julianne Hough’s Exact ‘DWTS’ Salaries Revealed by a Show Source",
-          "url": "https://www.cosmopolitan.com/entertainment/tv/a74385505/alfonso-ribeiro-julianne-hough-dancing-with-the-stars-salary/",
-          "source": "Cosmopolitan"
+          "title": "Sandro Mamukelashvili scores 23 off the bench",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/sandro-mamukelashvili-scores-23-off-the-bench",
+          "source": "NBC Sports"
         }
       ]
     },
     {
-      "keyword": "val chmerkovskiy",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9N75uO9LHkM4LSEIUgpUCPmJZTX0z0r7mvz1RHQcQ5Smg79ynBUS5S_GKN6k",
+      "keyword": "chicago fire cast",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV7uMCj5KJhiGk-5PS6MHcrROItcMnHD5lCW1-grg218S_Rmts_iVNMYTXi_k",
       "news": [
         {
-          "title": "Lindsey Vonn Says 'Never Say Never' to 'Dancing with the Stars'",
-          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/lindsey-vonn-says-never-never-140000653.html",
+          "title": "A Woman Got Dumped, Opened Wine, And Gained The \"Chicago Fire\" Cast As Her Hype Squad",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/woman-got-dumped-opened-wine-213231135.html",
           "source": "Yahoo"
         },
         {
-          "title": "EXCLUSIVE: Val Chmerkovskiy Faces Career Setback After Carrie Ann Inaba Row",
-          "url": "https://www.aol.com/articles/exclusive-val-chmerkovskiy-faces-career-130000000.html",
-          "source": "AOL.com"
-        },
-        {
-          "title": "Carrie Ann Inaba and Val Chmerkovskiy Clear the Air in ‘Dancing with the Stars’ Ballroom",
-          "url": "https://people.com/carrie-ann-inaba-val-chmerkovskiy-have-long-conversation-dancing-with-the-stars-ballroom-12197803",
-          "source": "People.com"
-        }
-      ]
-    },
-    {
-      "keyword": "channing tatum",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcOQE_fH4Jd5Xep_ubLGW7H_G51QmkMAodAWN76XQ5XotG-nghO8F6LoybfyY",
-      "news": [
-        {
-          "title": "Sorry, Channing Tatum, but Marvel’s X-Men Future Can’t Be Held Hostage by Its Past",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/sorry-channing-tatum-marvel-x-182648719.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Gambit's Solo MCU Movie Chances Get New Update From Channing Tatum",
-          "url": "https://screenrant.com/gambit-mcu-solo-movie-chances-update-channing-tatum/",
-          "source": "ScreenRant"
-        },
-        {
-          "title": "The Gambit-Related Mistake Channing Tatum Nearly Made: ‘It Would’ve Just Been A Catastrophe’",
-          "url": "https://www.cinemablend.com/movies/channing-tatum-reveals-gambit-related-mistake-nearly-made-deadpool-wolverine",
+          "title": "A Woman Ran Into The Chicago Fire Cast After Getting Dumped, And They Made A Video Roasting Her Ex",
+          "url": "https://www.cinemablend.com/television/chicago-fire-cast-roasted-womans-ex-video-after-breakup",
           "source": "Cinemablend"
+        },
+        {
+          "title": "Chicago Fire cast supports girl who just got dumped",
+          "url": "https://www.themarysue.com/woman-gets-dumped-then-goes-viral-after-stumbling-across-a-surprising-group-of-supporters-the-most-iconic-way-to-go-through-a-breakup/",
+          "source": "The Mary Sue"
         }
       ]
     },
     {
-      "keyword": "clima para amanhã",
+      "keyword": "violent night 2",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSC4TUvjyLLz9NjTQP1fXoHBMnAX-wEDraCCExoIRgcWrDVjsUxeGjyv2_i5s8",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiuabhReujAhujwwIDFygs59Yak5djKa9SZMLGAb4aqX6l_KKCk2tQcIFKd8",
       "news": [
         {
-          "title": "ALERTA DE CHUVA: Defesa Civil prevê temporal em Manaus nesta terça-feira e orienta moradores",
-          "url": "https://imediato.ncnews.com.br/2026/11/10/alerta-de-chuva-defesa-civil-preve-temporal-em-manaus-nesta-terca-feira-e-orienta-moradores/",
-          "source": "Imediato Online"
+          "title": "Former AEW World Champion’s Stunt Work Impressed David Harbour In ‘Violent Night 2’",
+          "url": "https://www.mensjournal.com/entertainment/maxwell-jacob-friendman-aew-stunt-work-david-harbour-violent-night-2",
+          "source": "Men's Journal"
         },
         {
-          "title": "Clima para amanhã em Manaus: tarde de calor dá lugar a pancadas no fim do dia",
-          "url": "https://novo2026.portaldoholanda.com.br/manaus/clima-para-amanha-em-manaus-tarde-de-calor-da-lugar-a-pancadas-no-fim-do-dia",
-          "source": "Portal do Holanda"
+          "title": "Long Range Forecast: Will Moviegoers Say Ho-Ho-Ho or No-No-No to VIOLENT NIGHT 2?",
+          "url": "https://www.boxofficepro.com/long-range-forecast-will-moviegoers-say-ho-ho-ho-or-no-no-no-to-violent-night-2/",
+          "source": "Boxoffice Pro"
         },
         {
-          "title": "Inmet põe Marabá e mais 1 cidade do Pará em alerta amarelo para chuva de até 50 mm/dia",
-          "url": "https://www.otempo.com.br/tempo/2026/11/10/inmet-poe-maraba-e-mais-1-cidade-do-para-em-alerta-amarelo-para-chuva-de-ate-50-mm-dia",
-          "source": "O Tempo"
+          "title": "Violent Night 2 Featurette Shows David Harbour and Kristen Bell in Action",
+          "url": "https://www.themovieblog.com/2026/11/violent-night-2-featurette-david-harbour-kristen-bell/",
+          "source": "The Movie Blog"
         }
       ]
     },
     {
-      "keyword": "ncis cast",
+      "keyword": "jamal murray",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRRW708T8uIiA0XeHFnGpkU7rUo4zDgHmpzszdO37KHrHZ7M0LS8OBTBMsRZI",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAzzn0nfpEyYNOR-sdbCcp3c_vtqHMsH0NpV2CG8G-o164ido5ylAFYjeA8zk",
       "news": [
         {
-          "title": "4 ‘NCIS’ Stars Who Acted Alongside Their Kids in the Franchise",
-          "url": "https://people.com/see-ncis-cast-kids-appearing-in-franchise-12244670",
-          "source": "People.com"
+          "title": "Nuggets are at risk of wearing Jamal Murray down too early",
+          "url": "https://sports.yahoo.com/articles/nuggets-risk-wearing-jamal-murray-140008286.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "New episode of NCIS!",
-          "url": "https://www.cbsnews.com/gooddaysacramento/video/new-episode-of-ncis/",
-          "source": "CBS News"
+          "title": "NBA Trade Rumors: Draymond Green, ‘Seismic’ Jamal Murray Talk, Bulls’ Big Chip & More",
+          "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-seismic-jamal-murray-talk-bulls-draymond-green/",
+          "source": "Heavy.com"
         },
         {
-          "title": "Katrina Law’s Daughter Is Making Her Acting Debut on ‘NCIS’—and the Cast Had the Sweetest Reaction (Exclusive)",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/katrina-law-daughter-making-her-111100997.html",
+          "title": "The Ringer’s Zach Lowe this week brought up a Murray …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/09/the-ringers-zach-lowe-this-week-brought-up-a-murray/92687201007/",
+          "source": "HoopsHype"
+        }
+      ]
+    },
+    {
+      "keyword": "raphael warnock",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4kFy6L2S6I3sY6YprJXuVdecj9ajns4Hzc_vwNX_tnEoxhE8sAR3Irx3TnbI",
+      "news": [
+        {
+          "title": "Sen. Raphael Warnock says Black voters overcame gerrymandering, but the fight isn’t over",
+          "url": "https://www.yahoo.com/news/politics/articles/sen-raphael-warnock-says-black-014253359.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Meet the 2028 Potential Presidential Contenders – Raphael Warnock",
+          "url": "https://www.cnn.com/interactive/politics/2028-presidential-candidates-vis/raphael-warnock/",
+          "source": "CNN"
+        },
+        {
+          "title": "Senator Warnock says donors laughed when he told them to invest in Scott Colom’s Mississippi race",
+          "url": "https://www.yahoo.com/news/politics/articles/senator-warnock-says-donors-laughed-215242856.html",
           "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "wisconsin basketball",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTb4fHEkpwjRbWF1v7tdOZMijECZw9qEGMy8JHlfyyah2y2G11EiQ_gGh50pGA",
+      "keyword": "john allen rubio",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjnX7JSmAptutOLJUpYK_wNo_yDsBTGD8iJe4lSyzwprnC2sZUHhJvnL0rY0",
       "news": [
         {
-          "title": "What channel is Wisconsin basketball on tonight? Time, TV, streaming",
-          "url": "https://www.jsonline.com/story/sports/college/uw/2026/11/10/watch-wisconsin-basketball-vs-fairfield-tonight-time-tv-channel/92698377007/",
-          "source": "Milwaukee Journal Sentinel"
+          "title": "South Texas man who beheaded 3 children faces execution Thursday",
+          "url": "https://www.expressnews.com/news/article/john-allen-rubio-execution-22525396.php",
+          "source": "San Antonio Express-News"
         },
         {
-          "title": "Five Things to Know: Badgers host Stags Tuesday night",
-          "url": "https://uwbadgers.com/news/2026/11/9/mens-basketball-five-things-to-know-badgers-host-stags-tuesday-night",
-          "source": "Wisconsin Badgers"
+          "title": "John Allen Rubio scheduled for Thursday execution",
+          "url": "https://myrgv.com/local-news/2026/11/11/john-allen-rubio-scheduled-for-thursday-execution/",
+          "source": "MyRGV.com"
         },
         {
-          "title": "How to watch Wisconsin’s game on Tuesday + betting odds",
-          "url": "https://www.buckys5thquarter.com/wisconsin-badgers-mens-basketball/91608/wisconsin-badgers-basketball-news-how-to-watch-tuesday-game-fairfield-stags-greg-gard-nolan-winter",
-          "source": "Bucky's 5th Quarter"
+          "title": "Final hours: TDCJ outlines protocol as John Allen Rubio's execution nears",
+          "url": "https://www.krgv.com/news/final-hours-tdcj-outlines-protocol-as-john-allen-rubio-s-execution-nears/",
+          "source": "KRGV"
         }
       ]
     },
     {
-      "keyword": "saving private ryan",
+      "keyword": "nevada basketball",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRaa0K-ojaYSxlFDciL3CLHBjLinfbA1sizF87NyYlKUxHIxnW6OwRANgWwqU",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD9rAUIQihP3Y2MHYfsNM6h4GM2Yevgelf2iAMXajBopvgSGuBZORonL7DjOc",
       "news": [
         {
-          "title": "Veterans Day: ‘Saving Private Ryan’ at Cinema Arts Centre",
-          "url": "https://huntingtonnow.com/event/veterans-day-saving-private-ryan-at-cinema-arts-centre/",
-          "source": "Huntington Now"
+          "title": "Nevada basketball at UC Santa Barbara: Three keys to victory and a prediction",
+          "url": "https://nevadasportsnet.com/news/reporters/nevada-basketball-at-uc-santa-barbara-three-keys-to-victory-and-a-prediction",
+          "source": "Nevada Sports Net"
         },
         {
-          "title": "The 10 Most Intense Movie Scenes of All Time, Ranked",
-          "url": "https://collider.com/most-intense-movie-scenes-all-time-ranked/",
-          "source": "Collider"
+          "title": "Nevada vs UCSB Prediction, Picks & Odds | 11 Nov 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/basketball/nevada-wolf-pack-vs-uc-santa-barbara-gauchos-prediction-odds-2026-11-11/",
+          "source": "Sportsgambler"
         },
         {
-          "title": "‘Saving Private Ryan’ Meets ‘Looper’ in the Sci-Fi Cult Classic Officially Taking Streaming by Storm",
-          "url": "https://www.imdb.com/news/ni66104324/?ref_=nmnw_art_perm",
-          "source": "IMDb"
+          "title": "Nevada hits the road to face UCSB",
+          "url": "https://nevadawolfpack.com/news/2026/11/10/mens-basketball-nevada-hits-the-road-to-face-ucsb.aspx",
+          "source": "University of Nevada Athletics"
         }
       ]
     },
     {
-      "keyword": "secret lives of mormon wives",
+      "keyword": "zoe saldana",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyl3gjQr7H2nyA2W1ZMjfhpQ6C_Vc1xOCpOQHmZO93yhkj_3WnMiNHd0NWQcY",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEUk9flIExBwAzGc8pZ3qRgJDMTBwAeNHuEx6ixV6vsqB5wCi41bmOZyrNlrw",
       "news": [
         {
-          "title": "Pregnant Jen Affleck ‘Doing the Best That I Can’ amid Divorce from Zac (Exclusive)",
-          "url": "https://people.com/pregnant-jen-affleck-doing-the-best-that-i-can-amid-divorce-from-zac-exclusive-12245372",
-          "source": "People.com"
+          "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
+          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zoe-salda-gwyneth-paltrow-just-192729643.html",
+          "source": "Yahoo"
         },
         {
-          "title": "Jen Affleck's 'controlling' husband Zac was a 'nightmare' while filming DWTS",
-          "url": "https://www.the-sun.com/tv/17267874/dwts-jen-affleck-husband-zac-nightmare-mormon-wives-divorce/",
-          "source": "The Sun"
+          "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
+          "url": "https://www.cinemablend.com/movies/zoe-saldana-gwyneth-paltrow-bonded-how-tough-marvel-sets-avengers-endgame",
+          "source": "Cinemablend"
         },
         {
-          "title": "'Mormon Wives' Star Jen Affleck Files for Divorce From Zac Affleck",
-          "url": "https://www.tmz.com/2026/11/04/jen-affleck-files-for-divorce/",
-          "source": "TMZ"
+          "title": "Zoe Saldaña Is Bringing Her New Movie to the Upper West Side This Week",
+          "url": "https://www.ilovetheupperwestside.com/zoe-saldana-is-bringing-her-new-movie-to-the-upper-west-side-this-week/",
+          "source": "iLovetheUpperWestSide.com"
         }
       ]
     },
     {
-      "keyword": "boston",
+      "keyword": "alperen sengun",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3TyEevQumZ1BsqQSBiNFvye2bvmtPZmh67lC9GfycSBJ6Zu1mpbrjRWcZfBc",
+      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3JiGwiMhT5qWKv9oLQMlLdPWvzEAHfKeI7I90WAh5EOw3R7ouqtO8lER9J0U",
       "news": [
         {
-          "title": "Homes in a ‘low-priced town’ in Greater Boston are now $600,000, a new report says. Here are five striking findings.",
-          "url": "https://www.bostonglobe.com/2026/11/10/business/boston-housing-costs/",
-          "source": "The Boston Globe"
+          "title": "Rockets 110-100 Nuggets (Nov 9, 2026) Game Recap",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401909957",
+          "source": "ESPN"
         },
         {
-          "title": "This is what you have to earn to buy a house in Greater Boston. Fewer than 1 in 5 renters make enough",
-          "url": "https://www.masslive.com/boston/2026/11/this-is-how-much-you-have-to-earn-to-buy-a-house-in-greater-boston-report-finds.html",
-          "source": "MassLive.com"
+          "title": "Game Recap: Rockets 110, Nuggets 100 (Nov. 9)",
+          "url": "https://www.nba.com/watch/video/game-recap-rockets-110-nuggets-100-nov-9",
+          "source": "NBA.com"
         },
         {
-          "title": "Greater Boston renters need to make $181K to afford a starter home",
-          "url": "https://www.axios.com/local/boston/2026/11/10/greater-boston-earn-181k-to-afford-home",
-          "source": "Axios"
-        }
-      ]
-    },
-    {
-      "keyword": "kendall jenner jacob elordi the row",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Tue, 10 Nov 2026 17:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPrVJrAKP1S-lhZi7ATAcL5hAFYlq7x30x8J8GhGDf7M3hERmrIbSJvGDShk",
-      "news": [
-        {
-          "title": "Kendall Jenner Introduces Jacob Elordi to Her Other Love: The Row",
-          "url": "https://www.vogue.com/article/kendall-jenner-introduces-jacob-elordi-to-the-row-2026-11-10",
-          "source": "Vogue"
-        },
-        {
-          "title": "Kendall Jenner and Jacob Elordi Complement Each Other's \"Cute Jeans\"",
-          "url": "https://www.marieclaire.com/fashion/celebrity-style/kendall-jenner-jacob-elordi-new-york-jeans-looks/",
-          "source": "Marie Claire"
-        },
-        {
-          "title": "Kendall Jenner Isn't Wearing Flared Blue Jeans With Heels or Flats—She's Wearing These Anti-Trend Boots",
-          "url": "https://www.whowhatwear.com/fashion/celebrity-style/flared-jeans-with-boots-kendall-jenner",
-          "source": "Who What Wear"
+          "title": "Rockets break the white unis losing streak against Denver 110-100",
+          "url": "https://www.thedreamshake.com/rockets-scores-results/42433/rockets-break-the-white-unis-losing-streak-against-denver-110-100",
+          "source": "The Dream Shake"
         }
       ]
     }

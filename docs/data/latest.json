@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-11T02:03:07+00:00",
+  "generated_at": "2026-11-12T03:10:06+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-11T01:57:28+00:00"
+      "fetched_at": "2026-11-12T03:04:17+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 111,
+      "count": 98,
       "error": null,
-      "fetched_at": "2026-11-11T02:03:07+00:00"
+      "fetched_at": "2026-11-12T03:10:06+00:00"
     },
     "events": {
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null,
-      "fetched_at": "2026-11-11T02:03:07+00:00"
+      "fetched_at": "2026-11-12T03:10:06+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 75,
       "reasons": [
-        "이벤트 D-16 (2026-11-27), 지금 준비할 때",
+        "이벤트 D-15 (2026-11-27), 지금 준비할 때",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -42,13 +42,13 @@
         },
         {
           "source": "reddit",
-          "text": "The black friday deals are live",
-          "url": "https://www.reddit.com/r/funkopop/comments/1xsozrh/the_black_friday_deals_are_live/"
+          "text": "Walmart Black Friday 2016.",
+          "url": "https://www.reddit.com/r/gaming/comments/1xtye4g/walmart_black_friday_2016/"
         }
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 16,
+        "days_left": 15,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -61,8 +61,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 2,
-        "rank_change": 1,
+        "prev_rank": 1,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -72,7 +72,7 @@
       "category": "kpop",
       "score": 65,
       "reasons": [
-        "이벤트 D-2 (2026-11-13), 지금 준비할 때"
+        "이벤트 D-1 (2026-11-13), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -86,7 +86,7 @@
       ],
       "event": {
         "date": "2026-11-13",
-        "days_left": 2,
+        "days_left": 1,
         "prep_by": "2026-11-10",
         "status": "prepare_now"
       },
@@ -99,8 +99,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 1,
-        "rank_change": -1,
+        "prev_rank": 2,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -110,7 +110,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-19 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-18 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -124,7 +124,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 19,
+        "days_left": 18,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -143,12 +143,46 @@
       }
     },
     {
+      "title": "[Link in Image Caption] One Piece Demonio Fleur Funko Pop! Vinyl Figure #2572 - Entertainment Earth Exclusive, Not Mint now available at Entertainment Earth",
+      "query": "funko Vinyl Figure 2572",
+      "category": "collectibles",
+      "score": 59,
+      "reasons": [
+        "r/funkopop hot #9",
+        "상품 신호: 한정판, 모델명",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] One Piece Demonio Fleur Funko Pop! Vinyl Figure #2572 - Entertainment Earth Exclusive, Not Mint now available at Entertainment Earth",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xtsk9a/link_in_image_caption_one_piece_demonio_fleur/"
+        }
+      ],
+      "id": "f505b903ff",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+Vinyl+Figure+2572&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+Vinyl+Figure+2572",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+Vinyl+Figure+2572"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
       "title": "TXT 'PERFECT STORM'",
       "query": "txt perfect storm",
       "category": "kpop",
       "score": 54,
       "reasons": [
-        "이벤트 D-5 (2026-11-16), 준비 예정"
+        "이벤트 D-4 (2026-11-16), 준비 예정"
       ],
       "sources": [
         "events"
@@ -162,7 +196,7 @@
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 5,
+        "days_left": 4,
         "prep_by": "2026-11-13",
         "status": "upcoming"
       },
@@ -175,20 +209,19 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 6,
-        "rank_change": 2,
+        "prev_rank": 4,
+        "rank_change": -1,
         "streak": 15
       }
     },
     {
-      "title": "TWICE Nayeon - The 1st Single Album: NA-sty (NA-sty_PHOTO.exe)",
-      "query": "twice 1st Single Album",
-      "category": "kculture",
+      "title": "My son pulled this on his first 30th booster pack for his 6th birthday. His lifetime luck has been used up.",
+      "query": "pulled 30th booster pack 6th birthday",
+      "category": "collectibles",
       "score": 45,
       "reasons": [
-        "r/kpop hot #2",
-        "상품 신호: K-pop 굿즈",
-        "브랜드/IP: twice"
+        "r/PokemonTCG hot #1",
+        "상품 신호: 구매·개봉, TCG·수집"
       ],
       "sources": [
         "reddit"
@@ -196,16 +229,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "TWICE Nayeon - The 1st Single Album: NA-sty (NA-sty_PHOTO.exe)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xsmbdy/twice_nayeon_the_1st_single_album_nasty_nasty/"
+          "text": "My son pulled this on his first 30th booster pack for his 6th birthday. His lifetime luck has been used up.",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xtqhrn/my_son_pulled_this_on_his_first_30th_booster_pack/"
         }
       ],
-      "id": "de5dffccd0",
-      "category_label": "K-컬처",
+      "id": "71f48da797",
+      "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album",
-        "naver": "https://search.shopping.naver.com/search/all?query=twice+1st+Single+Album"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pulled+30th+booster+pack+6th+birthday&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pulled+30th+booster+pack+6th+birthday",
+        "naver": "https://search.shopping.naver.com/search/all?query=pulled+30th+booster+pack+6th+birthday"
       },
       "trend": {
         "status": "new",
@@ -215,12 +248,186 @@
       }
     },
     {
-      "title": "Nintendo Switch 2 - Zelda Edition has been restocked on Nintendo.com",
-      "query": "Zelda Edition restocked Nintendo.com",
+      "title": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
+      "query": "creators Castlebound 1-4 player platformer roguelike",
+      "category": "gaming",
+      "score": 45,
+      "reasons": [
+        "r/NintendoSwitch hot #1",
+        "상품 신호: 출시",
+        "브랜드/IP: nintendo"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtnsd1/ama_we_are_the_creators_of_castlebound_14_player/"
+        }
+      ],
+      "id": "5c8460a195",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=creators+Castlebound+1-4+player+platformer+roguelike&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=creators+Castlebound+1-4+player+platformer+roguelike",
+        "naver": "https://search.shopping.naver.com/search/all?query=creators+Castlebound+1-4+player+platformer+roguelike"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
+      "query": "nintendo News Release",
+      "category": "gaming",
+      "score": 45,
+      "reasons": [
+        "r/NintendoSwitch hot #2",
+        "상품 신호: 출시",
+        "브랜드/IP: nintendo"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtamtm/news_release_nov_11_2026_the_legend_of_zelda/"
+        }
+      ],
+      "id": "aca26c37f9",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nintendo+News+Release&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nintendo+News+Release",
+        "naver": "https://search.shopping.naver.com/search/all?query=nintendo+News+Release"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "[Link in Image Caption] Funko Pocket Pop! One Piece Tony Tony Chopper Vinyl Keychain - BoxLunch Exclusive now available at Box Lunch",
+      "query": "funko BoxLunch Exclusive now available Box",
+      "category": "collectibles",
+      "score": 45,
+      "reasons": [
+        "r/funkopop hot #3",
+        "상품 신호: 한정판",
+        "브랜드/IP: funko"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "[Link in Image Caption] Funko Pocket Pop! One Piece Tony Tony Chopper Vinyl Keychain - BoxLunch Exclusive now available at Box Lunch",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xu0mhd/link_in_image_caption_funko_pocket_pop_one_piece/"
+        }
+      ],
+      "id": "a4c6be99ab",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=funko+BoxLunch+Exclusive+now+available+Box&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=funko+BoxLunch+Exclusive+now+available+Box",
+        "naver": "https://search.shopping.naver.com/search/all?query=funko+BoxLunch+Exclusive+now+available+Box"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
+      "query": "Catalyst releases Switch 2 2028",
       "category": "gaming",
       "score": 45,
       "reasons": [
         "r/NintendoSwitch hot #3",
+        "상품 신호: 출시",
+        "브랜드/IP: switch 2"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xttv4l/tomb_raider_catalyst_releases_on_switch_2_along/"
+        }
+      ],
+      "id": "4185dcd37b",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Catalyst+releases+Switch+2+2028&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Catalyst+releases+Switch+2+2028",
+        "naver": "https://search.shopping.naver.com/search/all?query=Catalyst+releases+Switch+2+2028"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 44,
+      "reasons": [
+        "이벤트 D-43 (2026-12-25), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
+          "url": ""
+        }
+      ],
+      "event": {
+        "date": "2026-12-25",
+        "days_left": 43,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
+      },
+      "id": "90f88a9324",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
+      },
+      "trend": {
+        "status": "down",
+        "prev_rank": 7,
+        "rank_change": -4,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Nintendo Switch 2 - Zelda Edition has been restocked on Nintendo.com",
+      "query": "Zelda Edition restocked Nintendo.com",
+      "category": "gaming",
+      "score": 44,
+      "reasons": [
+        "r/NintendoSwitch hot #6",
         "상품 신호: 품귀",
         "브랜드/IP: nintendo"
       ],
@@ -242,58 +449,20 @@
         "naver": "https://search.shopping.naver.com/search/all?query=Zelda+Edition+restocked+Nintendo.com"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 44,
-      "reasons": [
-        "이벤트 D-44 (2026-12-25), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 44,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
         "status": "down",
-        "prev_rank": 4,
-        "rank_change": -3,
-        "streak": 15
+        "prev_rank": 6,
+        "rank_change": -6,
+        "streak": 2
       }
     },
     {
-      "title": "BLACKPINK JISOO with TWICE NAYEON - ADDICTED (Dance Challenge) (261110)",
-      "query": "BLACKPINK JISOO TWICE NAYEON",
+      "title": "TWICE Nayeon - The 1st Single Album: NA-sty (BABY ANGEL_PHOTO.exe)",
+      "query": "twice 1st Single Album",
       "category": "kculture",
       "score": 44,
       "reasons": [
-        "r/kpop hot #8",
-        "상품 신호: 모델명",
+        "r/kpop hot #4",
+        "상품 신호: K-pop 굿즈",
         "브랜드/IP: twice"
       ],
       "sources": [
@@ -302,32 +471,32 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "BLACKPINK JISOO with TWICE NAYEON - ADDICTED (Dance Challenge) (261110)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xsoymv/blackpink_jisoo_with_twice_nayeon_addicted_dance/"
+          "text": "TWICE Nayeon - The 1st Single Album: NA-sty (BABY ANGEL_PHOTO.exe)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xtjdkn/twice_nayeon_the_1st_single_album_nasty_baby/"
         }
       ],
-      "id": "67c5e978d2",
+      "id": "de5dffccd0",
       "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=BLACKPINK+JISOO+TWICE+NAYEON&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=BLACKPINK+JISOO+TWICE+NAYEON",
-        "naver": "https://search.shopping.naver.com/search/all?query=BLACKPINK+JISOO+TWICE+NAYEON"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album",
+        "naver": "https://search.shopping.naver.com/search/all?query=twice+1st+Single+Album"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "down",
+        "prev_rank": 5,
+        "rank_change": -8,
+        "streak": 2
       }
     },
     {
-      "title": "val chmerkovskiy",
-      "query": "val chmerkovskiy",
+      "title": "sandro mamukelashvili",
+      "query": "sandro mamukelashvili",
       "category": "trend",
-      "score": 39,
+      "score": 42,
       "reasons": [
-        "미국 검색 급상승 1000+",
-        "상품 신호: 한정판"
+        "미국 검색 급상승 2000+",
+        "상품 신호: 출시"
       ],
       "sources": [
         "google_trends"
@@ -335,141 +504,41 @@
       "evidence": [
         {
           "source": "google_trends",
-          "text": "val chmerkovskiy (1000+)",
+          "text": "sandro mamukelashvili (2000+)",
           "url": ""
         },
         {
           "source": "news",
-          "text": "Lindsey Vonn Says 'Never Say Never' to 'Dancing with the Stars'",
-          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/lindsey-vonn-says-never-never-140000653.html"
+          "text": "Sandro Mamukelashvili draws JJ Redick praise after ‘best game as a Lakers’",
+          "url": "https://sports.yahoo.com/articles/sandro-mamukelashvili-draws-lakers-hc-060155602.html"
         },
         {
           "source": "news",
-          "text": "EXCLUSIVE: Val Chmerkovskiy Faces Career Setback After Carrie Ann Inaba Row",
-          "url": "https://www.aol.com/articles/exclusive-val-chmerkovskiy-faces-career-130000000.html"
+          "text": "Sandro Mamukelashvili drops 23 points Monday",
+          "url": "https://www.fantasypros.com/nba/news/618976/sandro-mamukelashvili-drops-23-points-monday.php"
         }
       ],
-      "id": "6da7f34e2f",
+      "id": "dd8cd2839b",
       "category_label": "검색 급상승",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=val+chmerkovskiy&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=val+chmerkovskiy",
-        "naver": "https://search.shopping.naver.com/search/all?query=val+chmerkovskiy"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=sandro+mamukelashvili&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=sandro+mamukelashvili",
+        "naver": "https://search.shopping.naver.com/search/all?query=sandro+mamukelashvili"
       },
       "trend": {
         "status": "new",
         "prev_rank": null,
         "rank_change": 0,
         "streak": 1
-      }
-    },
-    {
-      "title": "ncis cast",
-      "query": "ncis cast",
-      "category": "trend",
-      "score": 37,
-      "reasons": [
-        "미국 검색 급상승 500+",
-        "상품 신호: 한정판"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "ncis cast (500+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "4 ‘NCIS’ Stars Who Acted Alongside Their Kids in the Franchise",
-          "url": "https://people.com/see-ncis-cast-kids-appearing-in-franchise-12244670"
-        },
-        {
-          "source": "news",
-          "text": "New episode of NCIS!",
-          "url": "https://www.cbsnews.com/gooddaysacramento/video/new-episode-of-ncis/"
-        }
-      ],
-      "id": "f471f049a3",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ncis+cast&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ncis+cast",
-        "naver": "https://search.shopping.naver.com/search/all?query=ncis+cast"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Singles' Day (11.11)",
-      "query": "singles day sale",
-      "category": "season",
-      "score": 20,
-      "reasons": [
-        "이벤트 D-0 (2026-11-11), 배송 시간 부족"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Singles' Day (11.11)",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-11-11",
-        "days_left": 0,
-        "prep_by": "2026-10-28",
-        "status": "too_late"
-      },
-      "id": "8fc95d9a75",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=singles+day+sale",
-        "naver": "https://search.shopping.naver.com/search/all?query=singles+day+sale"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 10,
-        "rank_change": -1,
-        "streak": 15
       }
     }
   ],
   "events": [
     {
-      "name": "Singles' Day (11.11)",
-      "category": "season",
-      "date": "2026-11-11",
-      "days_left": 0,
-      "prep_by": "2026-10-28",
-      "lead_days": 14,
-      "status": "too_late",
-      "keywords": [
-        "singles day sale"
-      ],
-      "match": [
-        "singles day",
-        "11.11"
-      ],
-      "note": "",
-      "source": "",
-      "kind": "yearly"
-    },
-    {
       "name": "ATEEZ 'GOLDEN HOUR Part.6'",
       "category": "kpop",
       "date": "2026-11-13",
-      "days_left": 2,
+      "days_left": 1,
       "prep_by": "2026-11-10",
       "lead_days": 3,
       "status": "prepare_now",
@@ -488,7 +557,7 @@
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 5,
+      "days_left": 4,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "upcoming",
@@ -508,7 +577,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 16,
+      "days_left": 15,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -526,7 +595,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 19,
+      "days_left": 18,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -544,7 +613,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 44,
+      "days_left": 43,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -562,112 +631,121 @@
   ],
   "other_trends": [
     {
-      "keyword": "julianne hough",
-      "traffic_label": "2000+",
+      "keyword": "where to watch oklahoma city thunder vs portland trail blazers",
+      "traffic_label": "50000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=julianne+hough&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=julianne+hough",
-        "naver": "https://search.shopping.naver.com/search/all?query=julianne+hough"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=where+to+watch+oklahoma+city+thunder+vs+portland+trail+blazers&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=where+to+watch+oklahoma+city+thunder+vs+portland+trail+blazers",
+        "naver": "https://search.shopping.naver.com/search/all?query=where+to+watch+oklahoma+city+thunder+vs+portland+trail+blazers"
       }
     },
     {
-      "keyword": "channing tatum",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=channing+tatum&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=channing+tatum",
-        "naver": "https://search.shopping.naver.com/search/all?query=channing+tatum"
-      }
-    },
-    {
-      "keyword": "clima para amanhã",
+      "keyword": "chicago fire cast",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=clima+para+amanh%C3%A3&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=clima+para+amanh%C3%A3",
-        "naver": "https://search.shopping.naver.com/search/all?query=clima+para+amanh%C3%A3"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chicago+fire+cast&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chicago+fire+cast",
+        "naver": "https://search.shopping.naver.com/search/all?query=chicago+fire+cast"
       }
     },
     {
-      "keyword": "wisconsin basketball",
+      "keyword": "violent night 2",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=wisconsin+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=wisconsin+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=wisconsin+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2",
+        "naver": "https://search.shopping.naver.com/search/all?query=violent+night+2"
       }
     },
     {
-      "keyword": "saving private ryan",
-      "traffic_label": "200+",
+      "keyword": "jamal murray",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=saving+private+ryan&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=saving+private+ryan",
-        "naver": "https://search.shopping.naver.com/search/all?query=saving+private+ryan"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jamal+murray&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jamal+murray",
+        "naver": "https://search.shopping.naver.com/search/all?query=jamal+murray"
       }
     },
     {
-      "keyword": "secret lives of mormon wives",
-      "traffic_label": "200+",
+      "keyword": "raphael warnock",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=secret+lives+of+mormon+wives&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=secret+lives+of+mormon+wives",
-        "naver": "https://search.shopping.naver.com/search/all?query=secret+lives+of+mormon+wives"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=raphael+warnock&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=raphael+warnock",
+        "naver": "https://search.shopping.naver.com/search/all?query=raphael+warnock"
       }
     },
     {
-      "keyword": "boston",
+      "keyword": "john allen rubio",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=boston&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=boston",
-        "naver": "https://search.shopping.naver.com/search/all?query=boston"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=john+allen+rubio&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=john+allen+rubio",
+        "naver": "https://search.shopping.naver.com/search/all?query=john+allen+rubio"
       }
     },
     {
-      "keyword": "kendall jenner jacob elordi the row",
+      "keyword": "nevada basketball",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kendall+jenner+jacob+elordi+the+row&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kendall+jenner+jacob+elordi+the+row",
-        "naver": "https://search.shopping.naver.com/search/all?query=kendall+jenner+jacob+elordi+the+row"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nevada+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nevada+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=nevada+basketball"
+      }
+    },
+    {
+      "keyword": "zoe saldana",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=zoe+saldana&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=zoe+saldana",
+        "naver": "https://search.shopping.naver.com/search/all?query=zoe+saldana"
+      }
+    },
+    {
+      "keyword": "alperen sengun",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=alperen+sengun&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=alperen+sengun",
+        "naver": "https://search.shopping.naver.com/search/all?query=alperen+sengun"
       }
     }
   ],
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "dropped": [
     {
-      "id": "caebe43c1e",
-      "title": "[Link in Image Caption] Funko POP! Marvel: Captain America Civil War - Falcon (Amazon Exclusive) | Official Superheroes Merch - Collectable Vinyl Figurine For Shelf Display - Birthday Gift Idea For Fans And Collectors now available at Amazon",
-      "query": "funko Official Superheroes Merch",
-      "score": 54,
-      "rank": 5
-    },
-    {
-      "id": "0f845be590",
-      "title": "Girls' Generation (SNSD) Taeyeon - The 4th Album: Unspecial (Comeback Schedule)",
-      "query": "girls generation 4th Album",
-      "score": 44,
-      "rank": 7
-    },
-    {
-      "id": "fcacd0ebbf",
-      "title": "The Legend of Zelda: Ocarina of Time remake is the UK’s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, but is roughly half of what Tears of the Kingdom did in its first week",
-      "query": "Ocarina Time remake UK s second",
+      "id": "67c5e978d2",
+      "title": "BLACKPINK JISOO with TWICE NAYEON - ADDICTED (Dance Challenge) (261110)",
+      "query": "BLACKPINK JISOO TWICE NAYEON",
       "score": 44,
       "rank": 8
     },
     {
-      "id": "eb31d63442",
-      "title": "cooper flagg",
-      "query": "cooper flagg",
-      "score": 42,
+      "id": "6da7f34e2f",
+      "title": "val chmerkovskiy",
+      "query": "val chmerkovskiy",
+      "score": 39,
       "rank": 9
+    },
+    {
+      "id": "f471f049a3",
+      "title": "ncis cast",
+      "query": "ncis cast",
+      "score": 37,
+      "rank": 10
+    },
+    {
+      "id": "8fc95d9a75",
+      "title": "Singles' Day (11.11)",
+      "query": "singles day sale",
+      "score": 20,
+      "rank": 11
     }
   ],
   "history": {
-    "date": "2026-11-11",
-    "previous_date": "2026-11-10",
-    "new_count": 5
+    "date": "2026-11-12",
+    "previous_date": "2026-11-11",
+    "new_count": 7
   }
 }
