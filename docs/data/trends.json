@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-12T03:04:17+00:00",
+  "fetched_at": "2026-11-13T02:39:06+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "where to watch oklahoma city thunder vs portland trail blazers",
-      "traffic": 50000,
-      "traffic_label": "50000+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRui9ApRp4MH5BCAjmDPsbdEx4LWUPg9Oc-DG3PzkvByK9U_gEXgEOHXkK4L2g",
+      "keyword": "chris van hollen",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Thu, 12 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUWDrKk0QZ-01_L-GnTOwlrFWo4Gt919Z5LwkgRaxEernUrVXqS62k4glz5G4",
       "news": [
         {
-          "title": "Trail Blazers 123-103 Thunder (Nov 10, 2026) Game Recap",
-          "url": "https://www.espn.com/nba/recap/_/gameId/401909965",
-          "source": "ESPN"
+          "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+          "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
+          "source": "NBC News"
         },
         {
-          "title": "Game Recap: Trail Blazers 123, Thunder 103 (Nov. 10)",
-          "url": "https://www.nba.com/watch/video/game-recap-trail-blazers-123-thunder-103",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Damian Lillard torches Thunder as Trail Blazers snap OKC's four-game win streak",
-          "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/11/okc-thunder-score-vs-trail-blazers-nba-game-sga-ajay-mitchell-damian-lillard-stats/92719257007/",
-          "source": "The Oklahoman"
-        }
-      ]
-    },
-    {
-      "keyword": "sandro mamukelashvili",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLMyTMZmBQ0BaBscAkEZEv7UV9sHug4I2reEH4-cWU5vbP33G_4zyl76AM2OU",
-      "news": [
-        {
-          "title": "Sandro Mamukelashvili draws JJ Redick praise after ‘best game as a Lakers’",
-          "url": "https://sports.yahoo.com/articles/sandro-mamukelashvili-draws-lakers-hc-060155602.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Sandro Mamukelashvili drops 23 points Monday",
-          "url": "https://www.fantasypros.com/nba/news/618976/sandro-mamukelashvili-drops-23-points-monday.php",
-          "source": "FantasyPros"
-        },
-        {
-          "title": "Sandro Mamukelashvili scores 23 off the bench",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/sandro-mamukelashvili-scores-23-off-the-bench",
-          "source": "NBC Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "chicago fire cast",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV7uMCj5KJhiGk-5PS6MHcrROItcMnHD5lCW1-grg218S_Rmts_iVNMYTXi_k",
-      "news": [
-        {
-          "title": "A Woman Got Dumped, Opened Wine, And Gained The \"Chicago Fire\" Cast As Her Hype Squad",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/woman-got-dumped-opened-wine-213231135.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "A Woman Ran Into The Chicago Fire Cast After Getting Dumped, And They Made A Video Roasting Her Ex",
-          "url": "https://www.cinemablend.com/television/chicago-fire-cast-roasted-womans-ex-video-after-breakup",
-          "source": "Cinemablend"
-        },
-        {
-          "title": "Chicago Fire cast supports girl who just got dumped",
-          "url": "https://www.themarysue.com/woman-gets-dumped-then-goes-viral-after-stumbling-across-a-surprising-group-of-supporters-the-most-iconic-way-to-go-through-a-breakup/",
-          "source": "The Mary Sue"
-        }
-      ]
-    },
-    {
-      "keyword": "violent night 2",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiuabhReujAhujwwIDFygs59Yak5djKa9SZMLGAb4aqX6l_KKCk2tQcIFKd8",
-      "news": [
-        {
-          "title": "Former AEW World Champion’s Stunt Work Impressed David Harbour In ‘Violent Night 2’",
-          "url": "https://www.mensjournal.com/entertainment/maxwell-jacob-friendman-aew-stunt-work-david-harbour-violent-night-2",
-          "source": "Men's Journal"
-        },
-        {
-          "title": "Long Range Forecast: Will Moviegoers Say Ho-Ho-Ho or No-No-No to VIOLENT NIGHT 2?",
-          "url": "https://www.boxofficepro.com/long-range-forecast-will-moviegoers-say-ho-ho-ho-or-no-no-no-to-violent-night-2/",
-          "source": "Boxoffice Pro"
-        },
-        {
-          "title": "Violent Night 2 Featurette Shows David Harbour and Kristen Bell in Action",
-          "url": "https://www.themovieblog.com/2026/11/violent-night-2-featurette-david-harbour-kristen-bell/",
-          "source": "The Movie Blog"
-        }
-      ]
-    },
-    {
-      "keyword": "jamal murray",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAzzn0nfpEyYNOR-sdbCcp3c_vtqHMsH0NpV2CG8G-o164ido5ylAFYjeA8zk",
-      "news": [
-        {
-          "title": "Nuggets are at risk of wearing Jamal Murray down too early",
-          "url": "https://sports.yahoo.com/articles/nuggets-risk-wearing-jamal-murray-140008286.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "NBA Trade Rumors: Draymond Green, ‘Seismic’ Jamal Murray Talk, Bulls’ Big Chip & More",
-          "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-seismic-jamal-murray-talk-bulls-draymond-green/",
-          "source": "Heavy.com"
-        },
-        {
-          "title": "The Ringer’s Zach Lowe this week brought up a Murray …",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/09/the-ringers-zach-lowe-this-week-brought-up-a-murray/92687201007/",
-          "source": "HoopsHype"
-        }
-      ]
-    },
-    {
-      "keyword": "raphael warnock",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4kFy6L2S6I3sY6YprJXuVdecj9ajns4Hzc_vwNX_tnEoxhE8sAR3Irx3TnbI",
-      "news": [
-        {
-          "title": "Sen. Raphael Warnock says Black voters overcame gerrymandering, but the fight isn’t over",
-          "url": "https://www.yahoo.com/news/politics/articles/sen-raphael-warnock-says-black-014253359.html",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Meet the 2028 Potential Presidential Contenders – Raphael Warnock",
-          "url": "https://www.cnn.com/interactive/politics/2028-presidential-candidates-vis/raphael-warnock/",
+          "title": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
+          "url": "https://www.cnn.com/2026/11/12/politics/chris-van-hollen-chuck-schumer-senate-democratic-leader",
           "source": "CNN"
         },
         {
-          "title": "Senator Warnock says donors laughed when he told them to invest in Scott Colom’s Mississippi race",
-          "url": "https://www.yahoo.com/news/politics/articles/senator-warnock-says-donors-laughed-215242856.html",
-          "source": "Yahoo"
+          "title": "Schumer seeks to quash Democratic rebellion",
+          "url": "https://thehill.com/homenews/senate/6214626-schumer-democratic-senate-leadership-rebellion/",
+          "source": "The Hill"
         }
       ]
     },
     {
-      "keyword": "john allen rubio",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjnX7JSmAptutOLJUpYK_wNo_yDsBTGD8iJe4lSyzwprnC2sZUHhJvnL0rY0",
+      "keyword": "al michaels",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkF-HN8TvdCy7fhKhUtS0PZ3quvYzQaEErzda0HXciiSMxeV8FFqMUMa83Ptw",
       "news": [
         {
-          "title": "South Texas man who beheaded 3 children faces execution Thursday",
-          "url": "https://www.expressnews.com/news/article/john-allen-rubio-execution-22525396.php",
-          "source": "San Antonio Express-News"
+          "title": "Al Michaels tells ‘bedtime story’ about Tom Coughlin, Jaguars during TNF blowout",
+          "url": "https://awfulannouncing.com/nfl/al-michaels-bedtime-story-thursday-night-football.html",
+          "source": "Awful Announcing"
         },
         {
-          "title": "John Allen Rubio scheduled for Thursday execution",
-          "url": "https://myrgv.com/local-news/2026/11/11/john-allen-rubio-scheduled-for-thursday-execution/",
-          "source": "MyRGV.com"
+          "title": "‘Love It When He Does This,’ ‘Needs To Pack It In’ — NFL Fans Split As Al Michaels Subtly References Jaguars-Ravens Over/Under on TNF",
+          "url": "https://sports.yahoo.com/articles/love-does-needs-pack-nfl-182430649.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Final hours: TDCJ outlines protocol as John Allen Rubio's execution nears",
-          "url": "https://www.krgv.com/news/final-hours-tdcj-outlines-protocol-as-john-allen-rubio-s-execution-nears/",
-          "source": "KRGV"
+          "title": "‘Get (Kirk) Herbstreit Off My TV,’ ‘Trying So Hard to Fake Interest’ — NFL Fans Rip Veteran Broadcaster’s ‘Irritating’ Commentary on Jaguars-Ravens",
+          "url": "https://www.profootballnetwork.com/kirk-herbstreit-fans-jaguars-ravens-commentary-tnf/",
+          "source": "Pro Football Network"
         }
       ]
     },
     {
-      "keyword": "nevada basketball",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD9rAUIQihP3Y2MHYfsNM6h4GM2Yevgelf2iAMXajBopvgSGuBZORonL7DjOc",
+      "keyword": "tacko fall",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGaVY7aTempegkmkA89QVKS2UA43JOVW65boxdsi89rE2mtcbxu_b4BMYdfbM",
       "news": [
         {
-          "title": "Nevada basketball at UC Santa Barbara: Three keys to victory and a prediction",
-          "url": "https://nevadasportsnet.com/news/reporters/nevada-basketball-at-uc-santa-barbara-three-keys-to-victory-and-a-prediction",
-          "source": "Nevada Sports Net"
+          "title": "76ers need to stop wasting space with Tacko Fall",
+          "url": "https://thesixersense.com/76ers-need-stop-wasting-space-with-tacko-fall",
+          "source": "The Sixer Sense"
         },
         {
-          "title": "Nevada vs UCSB Prediction, Picks & Odds | 11 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/nevada-wolf-pack-vs-uc-santa-barbara-gauchos-prediction-odds-2026-11-11/",
-          "source": "Sportsgambler"
+          "title": "76ers Make Tacko Fall Decision For Raptors Matchup",
+          "url": "https://heavy.com/sports/nba/philadelphia-76ers/76ers-make-tacko-fall-decision-for-raptors-matchup/",
+          "source": "Heavy.com"
         },
         {
-          "title": "Nevada hits the road to face UCSB",
-          "url": "https://nevadawolfpack.com/news/2026/11/10/mens-basketball-nevada-hits-the-road-to-face-ucsb.aspx",
-          "source": "University of Nevada Athletics"
+          "title": "Anfernee Simons on reuniting with Jaylen Brown in Philly, tilt vs. Boston Celtics",
+          "url": "https://sports.yahoo.com/articles/anfernee-simons-reuniting-jaylen-brown-002637977.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "zoe saldana",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEUk9flIExBwAzGc8pZ3qRgJDMTBwAeNHuEx6ixV6vsqB5wCi41bmOZyrNlrw",
+      "keyword": "madden movie",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTW6xD5FXOwzV6YfYGWEu4K3AuZAqUdi2XnE-h_H94ddFYB8xFDEYoQ60yPbQA",
       "news": [
         {
-          "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
-          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zoe-salda-gwyneth-paltrow-just-192729643.html",
-          "source": "Yahoo"
+          "title": "Nicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says",
+          "url": "https://www.reuters.com/lifestyle/nicolas-cage-transformed-within-madden-co-star-kathryn-hahn-says-2026-11-10/",
+          "source": "Reuters"
         },
         {
-          "title": "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
-          "url": "https://www.cinemablend.com/movies/zoe-saldana-gwyneth-paltrow-bonded-how-tough-marvel-sets-avengers-endgame",
-          "source": "Cinemablend"
+          "title": "Video Nicolas Cage stars in 'Madden'",
+          "url": "https://abcnews.com/video/138002370/",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "Zoe Saldaña Is Bringing Her New Movie to the Upper West Side This Week",
-          "url": "https://www.ilovetheupperwestside.com/zoe-saldana-is-bringing-her-new-movie-to-the-upper-west-side-this-week/",
-          "source": "iLovetheUpperWestSide.com"
+          "title": "Nicolas Cage Gained 25 Pounds for His New Movie, but Now He's Using One Machine to Lose It",
+          "url": "https://www.mensjournal.com/health/nicolas-cage-gained-25-pounds-for-his-new-movie-but-now-hes-using-one-machine-to-lose-it",
+          "source": "Men's Journal"
         }
       ]
     },
     {
-      "keyword": "alperen sengun",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 11 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3JiGwiMhT5qWKv9oLQMlLdPWvzEAHfKeI7I90WAh5EOw3R7ouqtO8lER9J0U",
+      "keyword": "islanders vs kings",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Thu, 12 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSufam9Kad99NDwvD13uymREQq9n-VA1ypMkU8s7AGYI9i7UfgAMB8slcF9g6k",
       "news": [
         {
-          "title": "Rockets 110-100 Nuggets (Nov 9, 2026) Game Recap",
-          "url": "https://www.espn.com/nba/recap/_/gameId/401909957",
-          "source": "ESPN"
+          "title": "Game Preview: Islanders at Kings",
+          "url": "https://www.nhl.com/islanders/news/game-preview-islanders-at-kings-nov-12-2026",
+          "source": "NHL.com"
         },
         {
-          "title": "Game Recap: Rockets 110, Nuggets 100 (Nov. 9)",
-          "url": "https://www.nba.com/watch/video/game-recap-rockets-110-nuggets-100-nov-9",
-          "source": "NBA.com"
+          "title": "11/12 Preview - Kevin Fiala Set To Return + 22's Impact, Managing Expectations, Doughty Expected To Play, \"Kuemper's 500",
+          "url": "https://lakingsinsider.com/2026/11/12/11-12-preview-kevin-fiala-set-to-return-22s-impact-managing-expectations-doughty-expected-to-play-kuempers-500/",
+          "source": "LA Kings Insider"
         },
         {
-          "title": "Rockets break the white unis losing streak against Denver 110-100",
-          "url": "https://www.thedreamshake.com/rockets-scores-results/42433/rockets-break-the-white-unis-losing-streak-against-denver-110-100",
-          "source": "The Dream Shake"
+          "title": "Kings Vs Islanders Game Preview: Kings Trying to Avoid 3 Straight Losses",
+          "url": "https://sports.yahoo.com/articles/kings-vs-islanders-game-preview-221425936.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "kyshawn george",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Thu, 12 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GjtGD-5GTIen-Ty_ZcD-9OliHCKX4eQPyhZ3-MopHbPUdLLOVR84uCY8cjQ",
+      "news": [
+        {
+          "title": "Analysis | Wizards’ issues overshadow Kyshawn George’s breakout as skid stretches to five",
+          "url": "https://www.washingtonpost.com/sports/2026/11/11/wizards-issues-overshadow-kyshawn-georges-breakout-skid-stretches-five/",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "For the Wizards, flipping the switch from tanking to winning is difficult - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7775347/2026/11/12/wizards-loss-pacers-bad-habits-tanking/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "“We’ve got to figure this out,” Bilal Coulibaly said. …",
+          "url": "https://sports.yahoo.com/articles/ve-got-figure-bilal-coulibaly-154858827.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "najee harris",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFf6I02XCEJn_o2ohHE6e0vnaAROpBLWjzRJEW4S_CxYqngMeCDVDbrAv7h7o",
+      "news": [
+        {
+          "title": "Cowboys Urged to Add Another Highly-Touted Ex-Steelers Player",
+          "url": "https://heavy.com/sports/nfl/dallas-cowboys/najee-harris-nfl-news-rumors-steelers-bargain-free-agents/",
+          "source": "Heavy.com"
+        },
+        {
+          "title": "Cowboys Urged to Add Another Highly-Touted Ex-Steelers Player",
+          "url": "https://sports.yahoo.com/articles/cowboys-urged-add-another-highly-160546757.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Ex-Steelers RB Predicted to Join Cowboys on ‘Bargain’ Deal",
+          "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/ex-steelers-rb-predicted-to-join-cowboys-on-bargain-deal/",
+          "source": "Heavy.com"
+        }
+      ]
+    },
+    {
+      "keyword": "vikings signing damon bankston running back",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQu52ybamouoXJfMoKdKkkamf4jux_N8725-C8ILsxGNBkzjj6Lly20mZ5Xblc",
+      "news": [
+        {
+          "title": "Vikings sign former Green Bay Packer",
+          "url": "https://www.acmepackingcompany.com/green-bay-packers-news/89566/vikings-sign-former-green-bay-packer",
+          "source": "Acme Packing Company"
+        },
+        {
+          "title": "Vikings Sign RB Damon Bankston & LB Josh Ross to Practice Squad",
+          "url": "https://www.vikings.com/news/signing-damon-bankston-josh-ross-practice-squad",
+          "source": "Minnesota Vikings"
+        },
+        {
+          "title": "Denzel Boston (toe) hopeful to practice Thursday",
+          "url": "https://www.fantasypros.com/nfl/news/619547/denzel-boston-toe-hopeful-to-practice-thursday.php",
+          "source": "FantasyPros"
+        }
+      ]
+    },
+    {
+      "keyword": "michael jordan",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 12 Nov 2026 18:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSeizNuwk76wdYb-yCUPzS6JeSUOChOgu5uIc4a4_f4MNQjONuibow-ANdko",
+      "news": [
+        {
+          "title": "‘The Thomas Crown Affair’ Trailer: Michael B. Jordan Goes Globetrotting In Amazon MGM Remake Of Classic Thriller",
+          "url": "https://deadline.com/2026/11/thomas-crown-affair-trailer-michael-b-jordan-1237006350/",
+          "source": "Deadline"
+        },
+        {
+          "title": "Michael B. Jordan’s ‘Thomas Crown Affair’ Remake Gives 1999 Writers Screenplay Credit | Exclusive",
+          "url": "https://www.thewrap.com/creative-content/movies/michael-b-jordan-thomas-crown-affair-2027-to-credit-1999-writers/",
+          "source": "TheWrap"
+        },
+        {
+          "title": "Adria Arjona Seduces — and Investigates — Michael B. Jordan’s Art Thief in Thrilling The Thomas Crown Affair Trailer",
+          "url": "https://people.com/adria-arjona-michael-b-jordan-the-thomas-crown-affair-trailer-12250450",
+          "source": "People.com"
+        }
+      ]
+    },
+    {
+      "keyword": "gayle benson",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 12 Nov 2026 18:20:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWwrNF94PdTEzvDLUxfVKgZ8XHuFf5iQiu-9gZvesDgtbOolmUO7Ru1ujimo4",
+      "news": [
+        {
+          "title": "Statement from Gayle Benson and the New Orleans Saints and Pelicans on the death of Michael Bayham",
+          "url": "https://www.neworleanssaints.com/news/statement-from-gayle-benson-new-orleans-saints-pelicans-death-michael-bayham",
+          "source": "New Orleans Saints | NewOrleansSaints.com"
+        },
+        {
+          "title": "Thursday headlines: Microsoft outage, body found on trail in Mandeville, Rep. Mike Bayham dies",
+          "url": "https://www.wwltv.com/video/news/latest-news-ott/thursday-headlines-microsoft-outage-body-found-on-trail-in-mandeville-rep-mike-bayham-dies/289-98eb9804-c652-4642-822e-3f0c3c9e0fbe",
+          "source": "WWLTV.com"
+        },
+        {
+          "title": "State Representative Mike Bayham passes away.",
+          "url": "https://www.wdsu.com/article/mike-bayham-gravely-ill-louisiana-representative/74401311",
+          "source": "WDSU"
         }
       ]
     }

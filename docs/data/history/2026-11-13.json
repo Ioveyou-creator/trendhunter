@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-13",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 85,
+   "rank": 1
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 75,
+   "rank": 2
+  },
+  {
+   "id": "312a19efa8",
+   "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+   "query": "ateez golden hour",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 4
+  },
+  {
+   "id": "c7824f3d4d",
+   "title": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
+   "query": "TXT",
+   "score": 62,
+   "rank": 5
+  },
+  {
+   "id": "9c6e4e4882",
+   "title": "chris van hollen",
+   "query": "chris van hollen",
+   "score": 48,
+   "rank": 6
+  },
+  {
+   "id": "b64a138efd",
+   "title": "Day and Night UPC Opening :)",
+   "query": "Night UPC Opening",
+   "score": 45,
+   "rank": 7
+  },
+  {
+   "id": "45f0840f76",
+   "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
+   "query": "Legend Zelda Ocarina Time 1 game",
+   "score": 45,
+   "rank": 8
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 44,
+   "rank": 9
+  },
+  {
+   "id": "842748a9cf",
+   "title": "[MOC] Universes Collide: The Maker crushing Earth and the Death Star — My entry for the LEGO Ideas Star Wars x Marvel challenge!",
+   "query": "entry LEGO Ideas Star Wars x",
+   "score": 44,
+   "rank": 10
+  },
+  {
+   "id": "283beb2105",
+   "title": "Amazon has revised it's Tomb Raider Article, removing from Tomb Raider Catalyst both it's Switch 2 support and 2028 release date",
+   "query": "Amazon revised Tomb Raider Article removing",
+   "score": 44,
+   "rank": 11
+  },
+  {
+   "id": "de5dffccd0",
+   "title": "TWICE Nayeon - The 1st Single Album: NA-sty (Online Cover)",
+   "query": "twice 1st Single Album",
+   "score": 43,
+   "rank": 12
+  },
+  {
+   "id": "aca26c37f9",
+   "title": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
+   "query": "nintendo News Release",
+   "score": 43,
+   "rank": 13
+  },
+  {
+   "id": "4185dcd37b",
+   "title": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
+   "query": "Catalyst releases Switch 2 2028",
+   "score": 42,
+   "rank": 14
+  },
+  {
+   "id": "5c8460a195",
+   "title": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
+   "query": "creators Castlebound 1-4 player platformer roguelike",
+   "score": 41,
+   "rank": 15
+  }
+ ]
+}
