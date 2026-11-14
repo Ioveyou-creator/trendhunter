@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-14",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 95,
+   "rank": 1
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 75,
+   "rank": 2
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "521525de89",
+   "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
+   "query": "Lonesome Cowboy Collection announced PS5 Xbox",
+   "score": 59,
+   "rank": 4
+  },
+  {
+   "id": "0dbb6dba7d",
+   "title": "The NCT Jisung and TXT Taehyun Self On KODE",
+   "query": "NCT Jisung TXT Taehyun Self KODE",
+   "score": 49,
+   "rank": 5
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 45,
+   "rank": 6
+  },
+  {
+   "id": "de5dffccd0",
+   "title": "TWICE NAYEON - 1st Single Album: NA-sty (SNEAK PEEK)",
+   "query": "twice 1st Single Album",
+   "score": 45,
+   "rank": 7
+  },
+  {
+   "id": "e2b8bd6b60",
+   "title": "aespa Winter - Harper's BAZAAR Korea x Polo Ralph Lauren (December 2026 Issue Pictorial Preview)",
+   "query": "aespa Harper BAZAAR Korea x Polo",
+   "score": 44,
+   "rank": 8
+  },
+  {
+   "id": "bcfb208cdc",
+   "title": "Hi, I'm Onat, co-founder of Slow Bros. and director & composer of Harold Halibut, our handmade adventure that just launched on Nintendo Switch 2. AMA!",
+   "query": "director composer Harold Halibut handmade adventure",
+   "score": 43,
+   "rank": 9
+  },
+  {
+   "id": "45f0840f76",
+   "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
+   "query": "Legend Zelda Ocarina Time 1 game",
+   "score": 43,
+   "rank": 10
+  },
+  {
+   "id": "81cecc85dd",
+   "title": "30th Celebration UPC - Day Pulls",
+   "query": "30th Celebration UPC",
+   "score": 42,
+   "rank": 11
+  },
+  {
+   "id": "283beb2105",
+   "title": "Amazon has revised it's Tomb Raider Article, removing from Tomb Raider Catalyst both it's Switch 2 support and 2028 release date",
+   "query": "Amazon revised Tomb Raider Article removing",
+   "score": 42,
+   "rank": 12
+  }
+ ]
+}

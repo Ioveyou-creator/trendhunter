@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-13T02:44:05+00:00",
+  "generated_at": "2026-11-14T02:33:12+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-13T02:39:06+00:00"
+      "fetched_at": "2026-11-14T02:28:53+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 100,
+      "count": 107,
       "error": null,
-      "fetched_at": "2026-11-13T02:44:05+00:00"
+      "fetched_at": "2026-11-14T02:33:12+00:00"
     },
     "events": {
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null,
-      "fetched_at": "2026-11-13T02:44:05+00:00"
+      "fetched_at": "2026-11-14T02:33:12+00:00"
     }
   },
   "candidates": [
@@ -25,10 +25,10 @@
       "title": "Black Friday",
       "query": "black friday deals",
       "category": "season",
-      "score": 85,
+      "score": 95,
       "reasons": [
-        "이벤트 D-14 (2026-11-27), 지금 준비할 때",
-        "다른 소스에서 2건 언급"
+        "이벤트 D-13 (2026-11-27), 지금 준비할 때",
+        "다른 소스에서 3건 언급"
       ],
       "sources": [
         "events",
@@ -42,18 +42,23 @@
         },
         {
           "source": "reddit",
+          "text": "Black Friday shopping list!",
+          "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv3w1z/black_friday_shopping_list/"
+        },
+        {
+          "source": "reddit",
           "text": "Nintendo announces Black Friday offers to help spread joy this holiday season - Nintendo Official Site",
           "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xudvz5/nintendo_announces_black_friday_offers_to_help/"
         },
         {
           "source": "reddit",
-          "text": "Walmart Black Friday 2016.",
-          "url": "https://www.reddit.com/r/gaming/comments/1xtye4g/walmart_black_friday_2016/"
+          "text": "Black friday sale well utilized",
+          "url": "https://www.reddit.com/r/funkopop/comments/1xvausx/black_friday_sale_well_utilized/"
         }
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 14,
+        "days_left": 13,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -77,7 +82,7 @@
       "category": "kpop",
       "score": 75,
       "reasons": [
-        "이벤트 D-3 (2026-11-16), 지금 준비할 때",
+        "이벤트 D-2 (2026-11-16), 지금 준비할 때",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -92,13 +97,13 @@
         },
         {
           "source": "reddit",
-          "text": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xuez1y/txt_tomorrow_x_together_angel_bite_mv_teaser_1/"
+          "text": "The NCT Jisung and TXT Taehyun Self On KODE",
+          "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv66n3/the_nct_jisung_and_txt_taehyun_self_on_kode/"
         }
       ],
       "event": {
         "date": "2026-11-16",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-11-13",
         "status": "prepare_now"
       },
@@ -110,47 +115,9 @@
         "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
       },
       "trend": {
-        "status": "up",
-        "prev_rank": 5,
-        "rank_change": 3,
-        "streak": 15
-      }
-    },
-    {
-      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
-      "query": "ateez golden hour",
-      "category": "kpop",
-      "score": 65,
-      "reasons": [
-        "이벤트 D-0 (2026-11-13), 지금 준비할 때"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "ATEEZ 'GOLDEN HOUR Part.6'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-13",
-        "days_left": 0,
-        "prep_by": "2026-11-10",
-        "status": "prepare_now"
-      },
-      "id": "312a19efa8",
-      "category_label": "K-pop",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ateez+golden+hour",
-        "naver": "https://search.shopping.naver.com/search/all?query=ateez+golden+hour"
-      },
-      "trend": {
         "status": "same",
         "prev_rank": 2,
-        "rank_change": -1,
+        "rank_change": 0,
         "streak": 15
       }
     },
@@ -160,7 +127,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-17 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-16 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -174,7 +141,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 17,
+        "days_left": 16,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -187,21 +154,20 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 3,
-        "rank_change": -1,
+        "prev_rank": 4,
+        "rank_change": 1,
         "streak": 15
       }
     },
     {
-      "title": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
-      "query": "TXT",
-      "category": "kculture",
-      "score": 62,
+      "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
+      "query": "Lonesome Cowboy Collection announced PS5 Xbox",
+      "category": "gaming",
+      "score": 59,
       "reasons": [
-        "r/kpop hot #9",
-        "상품 신호: 콜라보",
-        "브랜드/IP: txt",
-        "다가오는 이벤트와 연결: TXT 'PERFECT STORM' (D-3)"
+        "r/NintendoSwitch hot #4",
+        "상품 신호: 출시, K-pop 굿즈",
+        "브랜드/IP: switch 2"
       ],
       "sources": [
         "reddit"
@@ -209,16 +175,50 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xuez1y/txt_tomorrow_x_together_angel_bite_mv_teaser_1/"
+          "text": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xvcmf7/lucky_luke_the_lonesome_cowboy_collection/"
         }
       ],
-      "id": "c7824f3d4d",
+      "id": "521525de89",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Lonesome+Cowboy+Collection+announced+PS5+Xbox&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Lonesome+Cowboy+Collection+announced+PS5+Xbox",
+        "naver": "https://search.shopping.naver.com/search/all?query=Lonesome+Cowboy+Collection+announced+PS5+Xbox"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "The NCT Jisung and TXT Taehyun Self On KODE",
+      "query": "NCT Jisung TXT Taehyun Self KODE",
+      "category": "kculture",
+      "score": 49,
+      "reasons": [
+        "r/kpopthoughts hot #5",
+        "브랜드/IP: txt",
+        "다가오는 이벤트와 연결: TXT 'PERFECT STORM' (D-2)"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "The NCT Jisung and TXT Taehyun Self On KODE",
+          "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv66n3/the_nct_jisung_and_txt_taehyun_self_on_kode/"
+        }
+      ],
+      "id": "0dbb6dba7d",
       "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=TXT&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=TXT",
-        "naver": "https://search.shopping.naver.com/search/all?query=TXT"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=NCT+Jisung+TXT+Taehyun+Self+KODE&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=NCT+Jisung+TXT+Taehyun+Self+KODE",
+        "naver": "https://search.shopping.naver.com/search/all?query=NCT+Jisung+TXT+Taehyun+Self+KODE"
       },
       "trend": {
         "status": "new",
@@ -228,56 +228,52 @@
       }
     },
     {
-      "title": "chris van hollen",
-      "query": "chris van hollen",
-      "category": "trend",
-      "score": 48,
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 45,
       "reasons": [
-        "미국 검색 급상승 10000+",
-        "상품 신호: 출시"
+        "이벤트 D-41 (2026-12-25), 준비 예정"
       ],
       "sources": [
-        "google_trends"
+        "events"
       ],
       "evidence": [
         {
-          "source": "google_trends",
-          "text": "chris van hollen (10000+)",
+          "source": "events",
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
           "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
-          "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100"
-        },
-        {
-          "source": "news",
-          "text": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
-          "url": "https://www.cnn.com/2026/11/12/politics/chris-van-hollen-chuck-schumer-senate-democratic-leader"
         }
       ],
-      "id": "9c6e4e4882",
-      "category_label": "검색 급상승",
+      "event": {
+        "date": "2026-12-25",
+        "days_left": 41,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
+      },
+      "id": "90f88a9324",
+      "category_label": "시즌",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chris+van+hollen&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chris+van+hollen",
-        "naver": "https://search.shopping.naver.com/search/all?query=chris+van+hollen"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "up",
+        "prev_rank": 9,
+        "rank_change": 3,
+        "streak": 15
       }
     },
     {
-      "title": "Day and Night UPC Opening :)",
-      "query": "Night UPC Opening",
-      "category": "collectibles",
+      "title": "TWICE NAYEON - 1st Single Album: NA-sty (SNEAK PEEK)",
+      "query": "twice 1st Single Album",
+      "category": "kculture",
       "score": 45,
       "reasons": [
-        "r/PokemonTCG hot #4",
-        "상품 신호: 구매·개봉, TCG·수집"
+        "r/kpop hot #3",
+        "상품 신호: K-pop 굿즈",
+        "브랜드/IP: twice"
       ],
       "sources": [
         "reddit"
@@ -285,16 +281,84 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "Day and Night UPC Opening :)",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xupyxn/day_and_night_upc_opening/"
+          "text": "TWICE NAYEON - 1st Single Album: NA-sty (SNEAK PEEK)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xv7a51/twice_nayeon_1st_single_album_nasty_sneak_peek/"
         }
       ],
-      "id": "b64a138efd",
-      "category_label": "수집품",
+      "id": "de5dffccd0",
+      "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Night+UPC+Opening&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Night+UPC+Opening",
-        "naver": "https://search.shopping.naver.com/search/all?query=Night+UPC+Opening"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album",
+        "naver": "https://search.shopping.naver.com/search/all?query=twice+1st+Single+Album"
+      },
+      "trend": {
+        "status": "up",
+        "prev_rank": 12,
+        "rank_change": 5,
+        "streak": 4
+      }
+    },
+    {
+      "title": "aespa Winter - Harper's BAZAAR Korea x Polo Ralph Lauren (December 2026 Issue Pictorial Preview)",
+      "query": "aespa Harper BAZAAR Korea x Polo",
+      "category": "kculture",
+      "score": 44,
+      "reasons": [
+        "r/kpop hot #8",
+        "상품 신호: 콜라보",
+        "브랜드/IP: aespa"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "aespa Winter - Harper's BAZAAR Korea x Polo Ralph Lauren (December 2026 Issue Pictorial Preview)",
+          "url": "https://www.reddit.com/r/kpop/comments/1xv6546/aespa_winter_harpers_bazaar_korea_x_polo_ralph/"
+        }
+      ],
+      "id": "e2b8bd6b60",
+      "category_label": "K-컬처",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aespa+Harper+BAZAAR+Korea+x+Polo&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aespa+Harper+BAZAAR+Korea+x+Polo",
+        "naver": "https://search.shopping.naver.com/search/all?query=aespa+Harper+BAZAAR+Korea+x+Polo"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Hi, I'm Onat, co-founder of Slow Bros. and director & composer of Harold Halibut, our handmade adventure that just launched on Nintendo Switch 2. AMA!",
+      "query": "director composer Harold Halibut handmade adventure",
+      "category": "gaming",
+      "score": 43,
+      "reasons": [
+        "r/NintendoSwitch hot #6",
+        "상품 신호: 출시",
+        "브랜드/IP: nintendo"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Hi, I'm Onat, co-founder of Slow Bros. and director & composer of Harold Halibut, our handmade adventure that just launched on Nintendo Switch 2. AMA!",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xv8u33/hi_im_onat_cofounder_of_slow_bros_and_director/"
+        }
+      ],
+      "id": "bcfb208cdc",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=director+composer+Harold+Halibut+handmade+adventure&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=director+composer+Harold+Halibut+handmade+adventure",
+        "naver": "https://search.shopping.naver.com/search/all?query=director+composer+Harold+Halibut+handmade+adventure"
       },
       "trend": {
         "status": "new",
@@ -307,9 +371,9 @@
       "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
       "query": "Legend Zelda Ocarina Time 1 game",
       "category": "gaming",
-      "score": 45,
+      "score": 43,
       "reasons": [
-        "r/NintendoSwitch hot #2",
+        "r/NintendoSwitch hot #7",
         "상품 신호: 출시",
         "브랜드/IP: zelda"
       ],
@@ -331,59 +395,20 @@
         "naver": "https://search.shopping.naver.com/search/all?query=Legend+Zelda+Ocarina+Time+1+game"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 44,
-      "reasons": [
-        "이벤트 D-42 (2026-12-25), 준비 예정"
-      ],
-      "sources": [
-        "events"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 42,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
         "status": "same",
-        "prev_rank": 11,
-        "rank_change": 2,
-        "streak": 15
+        "prev_rank": 8,
+        "rank_change": -2,
+        "streak": 2
       }
     },
     {
-      "title": "[MOC] Universes Collide: The Maker crushing Earth and the Death Star — My entry for the LEGO Ideas Star Wars x Marvel challenge!",
-      "query": "entry LEGO Ideas Star Wars x",
+      "title": "30th Celebration UPC - Day Pulls",
+      "query": "30th Celebration UPC",
       "category": "collectibles",
-      "score": 44,
+      "score": 42,
       "reasons": [
-        "r/lego hot #10",
-        "상품 신호: 콜라보",
-        "브랜드/IP: lego"
+        "r/PokemonTCG hot #6",
+        "상품 신호: 구매·개봉, TCG·수집"
       ],
       "sources": [
         "reddit"
@@ -391,16 +416,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "[MOC] Universes Collide: The Maker crushing Earth and the Death Star — My entry for the LEGO Ideas Star Wars x Marvel challenge!",
-          "url": "https://www.reddit.com/r/lego/comments/1xudlrc/moc_universes_collide_the_maker_crushing_earth/"
+          "text": "30th Celebration UPC - Day Pulls",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvmmij/30th_celebration_upc_day_pulls/"
         }
       ],
-      "id": "842748a9cf",
+      "id": "81cecc85dd",
       "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=entry+LEGO+Ideas+Star+Wars+x&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=entry+LEGO+Ideas+Star+Wars+x",
-        "naver": "https://search.shopping.naver.com/search/all?query=entry+LEGO+Ideas+Star+Wars+x"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=30th+Celebration+UPC&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=30th+Celebration+UPC",
+        "naver": "https://search.shopping.naver.com/search/all?query=30th+Celebration+UPC"
       },
       "trend": {
         "status": "new",
@@ -413,9 +438,9 @@
       "title": "Amazon has revised it's Tomb Raider Article, removing from Tomb Raider Catalyst both it's Switch 2 support and 2028 release date",
       "query": "Amazon revised Tomb Raider Article removing",
       "category": "gaming",
-      "score": 44,
+      "score": 42,
       "reasons": [
-        "r/NintendoSwitch hot #4",
+        "r/NintendoSwitch hot #9",
         "상품 신호: 출시",
         "브랜드/IP: switch 2"
       ],
@@ -437,174 +462,19 @@
         "naver": "https://search.shopping.naver.com/search/all?query=Amazon+revised+Tomb+Raider+Article+removing"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "TWICE Nayeon - The 1st Single Album: NA-sty (Online Cover)",
-      "query": "twice 1st Single Album",
-      "category": "kculture",
-      "score": 43,
-      "reasons": [
-        "r/kpop hot #6",
-        "상품 신호: K-pop 굿즈",
-        "브랜드/IP: twice"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "TWICE Nayeon - The 1st Single Album: NA-sty (Online Cover)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xuc7di/twice_nayeon_the_1st_single_album_nasty_online/"
-        }
-      ],
-      "id": "de5dffccd0",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=twice+1st+Single+Album",
-        "naver": "https://search.shopping.naver.com/search/all?query=twice+1st+Single+Album"
-      },
-      "trend": {
         "status": "same",
-        "prev_rank": 13,
-        "rank_change": 1,
-        "streak": 3
-      }
-    },
-    {
-      "title": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
-      "query": "nintendo News Release",
-      "category": "gaming",
-      "score": 43,
-      "reasons": [
-        "r/NintendoSwitch hot #6",
-        "상품 신호: 출시",
-        "브랜드/IP: nintendo"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtamtm/news_release_nov_11_2026_the_legend_of_zelda/"
-        }
-      ],
-      "id": "aca26c37f9",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nintendo+News+Release&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nintendo+News+Release",
-        "naver": "https://search.shopping.naver.com/search/all?query=nintendo+News+Release"
-      },
-      "trend": {
-        "status": "down",
-        "prev_rank": 8,
-        "rank_change": -5,
-        "streak": 2
-      }
-    },
-    {
-      "title": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
-      "query": "Catalyst releases Switch 2 2028",
-      "category": "gaming",
-      "score": 42,
-      "reasons": [
-        "r/NintendoSwitch hot #8",
-        "상품 신호: 출시",
-        "브랜드/IP: switch 2"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xttv4l/tomb_raider_catalyst_releases_on_switch_2_along/"
-        }
-      ],
-      "id": "4185dcd37b",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Catalyst+releases+Switch+2+2028&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Catalyst+releases+Switch+2+2028",
-        "naver": "https://search.shopping.naver.com/search/all?query=Catalyst+releases+Switch+2+2028"
-      },
-      "trend": {
-        "status": "down",
-        "prev_rank": 10,
-        "rank_change": -4,
-        "streak": 2
-      }
-    },
-    {
-      "title": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
-      "query": "creators Castlebound 1-4 player platformer roguelike",
-      "category": "gaming",
-      "score": 41,
-      "reasons": [
-        "r/NintendoSwitch hot #10",
-        "상품 신호: 출시",
-        "브랜드/IP: nintendo"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtnsd1/ama_we_are_the_creators_of_castlebound_14_player/"
-        }
-      ],
-      "id": "5c8460a195",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=creators+Castlebound+1-4+player+platformer+roguelike&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=creators+Castlebound+1-4+player+platformer+roguelike",
-        "naver": "https://search.shopping.naver.com/search/all?query=creators+Castlebound+1-4+player+platformer+roguelike"
-      },
-      "trend": {
-        "status": "down",
-        "prev_rank": 7,
-        "rank_change": -8,
+        "prev_rank": 11,
+        "rank_change": -1,
         "streak": 2
       }
     }
   ],
   "events": [
     {
-      "name": "ATEEZ 'GOLDEN HOUR Part.6'",
-      "category": "kpop",
-      "date": "2026-11-13",
-      "days_left": 0,
-      "prep_by": "2026-11-10",
-      "lead_days": 3,
-      "status": "prepare_now",
-      "keywords": [
-        "ateez golden hour",
-        "ateez photocard"
-      ],
-      "match": [
-        "ateez"
-      ],
-      "note": "",
-      "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-      "kind": "once"
-    },
-    {
       "name": "TXT 'PERFECT STORM'",
       "category": "kpop",
       "date": "2026-11-16",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-11-13",
       "lead_days": 3,
       "status": "prepare_now",
@@ -624,7 +494,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 14,
+      "days_left": 13,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -642,7 +512,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 17,
+      "days_left": 16,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -660,7 +530,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 42,
+      "days_left": 41,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -678,128 +548,158 @@
   ],
   "other_trends": [
     {
-      "keyword": "al michaels",
+      "keyword": "trail blazers vs kings",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=al+michaels&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=al+michaels",
-        "naver": "https://search.shopping.naver.com/search/all?query=al+michaels"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=trail+blazers+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=trail+blazers+vs+kings",
+        "naver": "https://search.shopping.naver.com/search/all?query=trail+blazers+vs+kings"
       }
     },
     {
-      "keyword": "tacko fall",
+      "keyword": "predators vs golden knights",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tacko+fall&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tacko+fall",
-        "naver": "https://search.shopping.naver.com/search/all?query=tacko+fall"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=predators+vs+golden+knights&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=predators+vs+golden+knights",
+        "naver": "https://search.shopping.naver.com/search/all?query=predators+vs+golden+knights"
       }
     },
     {
-      "keyword": "madden movie",
+      "keyword": "anne hathaway",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=madden+movie&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=madden+movie",
-        "naver": "https://search.shopping.naver.com/search/all?query=madden+movie"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=anne+hathaway&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=anne+hathaway",
+        "naver": "https://search.shopping.naver.com/search/all?query=anne+hathaway"
       }
     },
     {
-      "keyword": "islanders vs kings",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=islanders+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=islanders+vs+kings",
-        "naver": "https://search.shopping.naver.com/search/all?query=islanders+vs+kings"
-      }
-    },
-    {
-      "keyword": "kyshawn george",
-      "traffic_label": "1000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kyshawn+george&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kyshawn+george",
-        "naver": "https://search.shopping.naver.com/search/all?query=kyshawn+george"
-      }
-    },
-    {
-      "keyword": "najee harris",
+      "keyword": "alabama basketball",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=najee+harris&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=najee+harris",
-        "naver": "https://search.shopping.naver.com/search/all?query=najee+harris"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=alabama+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=alabama+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=alabama+basketball"
       }
     },
     {
-      "keyword": "vikings signing damon bankston running back",
+      "keyword": "ty dieffenbach",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=vikings+signing+damon+bankston+running+back&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=vikings+signing+damon+bankston+running+back",
-        "naver": "https://search.shopping.naver.com/search/all?query=vikings+signing+damon+bankston+running+back"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ty+dieffenbach&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ty+dieffenbach",
+        "naver": "https://search.shopping.naver.com/search/all?query=ty+dieffenbach"
       }
     },
     {
-      "keyword": "michael jordan",
+      "keyword": "james gunn man of tomorrow rumors",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=michael+jordan&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=michael+jordan",
-        "naver": "https://search.shopping.naver.com/search/all?query=michael+jordan"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=james+gunn+man+of+tomorrow+rumors&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=james+gunn+man+of+tomorrow+rumors",
+        "naver": "https://search.shopping.naver.com/search/all?query=james+gunn+man+of+tomorrow+rumors"
       }
     },
     {
-      "keyword": "gayle benson",
+      "keyword": "canada vs",
+      "traffic_label": "500+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=canada+vs&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=canada+vs",
+        "naver": "https://search.shopping.naver.com/search/all?query=canada+vs"
+      }
+    },
+    {
+      "keyword": "xavier basketball",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=gayle+benson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=gayle+benson",
-        "naver": "https://search.shopping.naver.com/search/all?query=gayle+benson"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=xavier+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=xavier+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=xavier+basketball"
+      }
+    },
+    {
+      "keyword": "umd basketball",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=umd+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=umd+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=umd+basketball"
+      }
+    },
+    {
+      "keyword": "duffy secretary of transportation",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=duffy+secretary+of+transportation&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=duffy+secretary+of+transportation",
+        "naver": "https://search.shopping.naver.com/search/all?query=duffy+secretary+of+transportation"
       }
     }
   ],
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "dropped": [
     {
-      "id": "f505b903ff",
-      "title": "[Link in Image Caption] One Piece Demonio Fleur Funko Pop! Vinyl Figure #2572 - Entertainment Earth Exclusive, Not Mint now available at Entertainment Earth",
-      "query": "funko Vinyl Figure 2572",
-      "score": 59,
-      "rank": 4
+      "id": "312a19efa8",
+      "title": "ATEEZ 'GOLDEN HOUR Part.6'",
+      "query": "ateez golden hour",
+      "score": 65,
+      "rank": 3
     },
     {
-      "id": "71f48da797",
-      "title": "My son pulled this on his first 30th booster pack for his 6th birthday. His lifetime luck has been used up.",
-      "query": "pulled 30th booster pack 6th birthday",
-      "score": 45,
+      "id": "c7824f3d4d",
+      "title": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
+      "query": "TXT",
+      "score": 62,
+      "rank": 5
+    },
+    {
+      "id": "9c6e4e4882",
+      "title": "chris van hollen",
+      "query": "chris van hollen",
+      "score": 48,
       "rank": 6
     },
     {
-      "id": "a4c6be99ab",
-      "title": "[Link in Image Caption] Funko Pocket Pop! One Piece Tony Tony Chopper Vinyl Keychain - BoxLunch Exclusive now available at Box Lunch",
-      "query": "funko BoxLunch Exclusive now available Box",
+      "id": "b64a138efd",
+      "title": "Day and Night UPC Opening :)",
+      "query": "Night UPC Opening",
       "score": 45,
-      "rank": 9
+      "rank": 7
     },
     {
-      "id": "9f90bafa06",
-      "title": "Nintendo Switch 2 - Zelda Edition has been restocked on Nintendo.com",
-      "query": "Zelda Edition restocked Nintendo.com",
+      "id": "842748a9cf",
+      "title": "[MOC] Universes Collide: The Maker crushing Earth and the Death Star — My entry for the LEGO Ideas Star Wars x Marvel challenge!",
+      "query": "entry LEGO Ideas Star Wars x",
       "score": 44,
-      "rank": 12
+      "rank": 10
     },
     {
-      "id": "dd8cd2839b",
-      "title": "sandro mamukelashvili",
-      "query": "sandro mamukelashvili",
+      "id": "aca26c37f9",
+      "title": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
+      "query": "nintendo News Release",
+      "score": 43,
+      "rank": 13
+    },
+    {
+      "id": "4185dcd37b",
+      "title": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
+      "query": "Catalyst releases Switch 2 2028",
       "score": 42,
       "rank": 14
+    },
+    {
+      "id": "5c8460a195",
+      "title": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
+      "query": "creators Castlebound 1-4 player platformer roguelike",
+      "score": 41,
+      "rank": 15
     }
   ],
   "history": {
-    "date": "2026-11-13",
-    "previous_date": "2026-11-12",
-    "new_count": 6
+    "date": "2026-11-14",
+    "previous_date": "2026-11-13",
+    "new_count": 5
   }
 }

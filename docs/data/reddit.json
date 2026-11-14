@@ -1,813 +1,868 @@
 {
   "source": "reddit",
-  "fetched_at": "2026-11-13T02:44:05+00:00",
+  "fetched_at": "2026-11-14T02:33:12+00:00",
   "ok": true,
   "error": null,
-  "count": 100,
+  "count": 107,
   "items": [
     {
-      "title": "Bought for trip to England in mid 1980s.",
+      "title": "I want to buy my husband a really good Pocket Knife",
       "subreddit": "BuyItForLife",
-      "age_hours": 6.2,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xunp1o/bought_for_trip_to_england_in_mid_1980s/",
+      "age_hours": 2.0,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xvog0l/i_want_to_buy_my_husband_a_really_good_pocket/",
       "rank": 1,
       "hot_score": 1.0
     },
     {
-      "title": "I finally pulled my personal chase card in Chaos Rising!",
+      "title": "VidaBay Duo is a Dual Screens Eink Bag Charm.",
+      "subreddit": "shutupandtakemymoney",
+      "age_hours": 10.8,
+      "url": "https://www.reddit.com/r/shutupandtakemymoney/comments/1xvb3t2/vidabay_duo_is_a_dual_screens_eink_bag_charm/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "Help! Son is asking Santa for this Lego creation from the Lego Ideas book.",
+      "subreddit": "lego",
+      "age_hours": 4.8,
+      "url": "https://www.reddit.com/r/lego/comments/1xvkntq/help_son_is_asking_santa_for_this_lego_creation/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "My UPC didn’t come with promos or special collection pack",
+      "subreddit": "PokemonTCG",
+      "age_hours": 5.7,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvj9yj/my_upc_didnt_come_with_promos_or_special/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "On my feet today",
+      "subreddit": "Sneakers",
+      "age_hours": 8.3,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xvf8ry/on_my_feet_today/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "I'm new to collecting, should I get this?",
+      "subreddit": "funkopop",
+      "age_hours": 4.2,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvlho9/im_new_to_collecting_should_i_get_this/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "My sealed and graded collection.",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 11.7,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xv9rrv/my_sealed_and_graded_collection/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "The K-Pop Units Rate!",
+      "subreddit": "kpop",
+      "age_hours": 241.0,
+      "url": "https://www.reddit.com/r/kpop/comments/1xnbdis/the_kpop_units_rate/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "Remember you don't personally know these kpop idols",
+      "subreddit": "kpopthoughts",
+      "age_hours": 1.3,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xvpfy6/remember_you_dont_personally_know_these_kpop_idols/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "[product question] body oil- Uni, Osea, or Saltair?",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 6.5,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvi3yk/product_question_body_oil_uni_osea_or_saltair/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "Has it really been that long...",
+      "subreddit": "gaming",
+      "age_hours": 7.8,
+      "url": "https://www.reddit.com/r/gaming/comments/1xvg21o/has_it_really_been_that_long/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "What're you playing this weekend? 11/13",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 8.7,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xvekhe/whatre_you_playing_this_weekend_1113/",
+      "rank": 1,
+      "hot_score": 1.0
+    },
+    {
+      "title": "Staedtler Triplus Fineliner 0.3mm Rainbow Pens.",
+      "subreddit": "BuyItForLife",
+      "age_hours": 1.6,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xvozk1/staedtler_triplus_fineliner_03mm_rainbow_pens/",
+      "rank": 2,
+      "hot_score": 0.99
+    },
+    {
+      "title": "H1-KEY’s agency removed all AI-generated content from the group’s official social media platforms after backlash from fans over the use of AI-generated members in the “Unbelievable” music video.",
+      "subreddit": "kpop",
+      "age_hours": 5.8,
+      "url": "https://www.reddit.com/r/kpop/comments/1xvj3gb/h1keys_agency_removed_all_aigenerated_content/",
+      "rank": 2,
+      "hot_score": 0.99
+    },
+    {
+      "title": "[trigger warning] fucked myself up last night while trying to pluck out an ingrown hair that was still under my skin. is there anything I can do to make this go away? (M18)",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 8.4,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvf2o2/trigger_warning_fucked_myself_up_last_night_while/",
+      "rank": 2,
+      "hot_score": 0.99
+    },
+    {
+      "title": "Which K-pop survival show was a complete waste of everyone’s time?",
+      "subreddit": "kpopthoughts",
+      "age_hours": 4.3,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xvleb0/which_kpop_survival_show_was_a_complete_waste_of/",
+      "rank": 2,
+      "hot_score": 0.989
+    },
+    {
+      "title": "Ahead of ‘Grand Theft Auto VI,’ Rockstar Staff Vote on Union Effort | Next 2 weeks could be a little hectic for employees at Rockstar. On Nov. 19, they’ll release 'GTA VI' to seismic success. And along the way, more than 1,600 staff in the UK will vote on whether to form a union",
+      "subreddit": "gaming",
+      "age_hours": 7.7,
+      "url": "https://www.reddit.com/r/gaming/comments/1xvg6u7/ahead_of_grand_theft_auto_vi_rockstar_staff_vote/",
+      "rank": 2,
+      "hot_score": 0.983
+    },
+    {
+      "title": "Alarm Clock that differentiates between weekend and weekdays",
+      "subreddit": "BuyItForLife",
+      "age_hours": 19.0,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv1lh5/alarm_clock_that_differentiates_between_weekend/",
+      "rank": 3,
+      "hot_score": 0.98
+    },
+    {
+      "title": "[Acne] any suggestions?",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 1.7,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvoyi2/acne_any_suggestions/",
+      "rank": 3,
+      "hot_score": 0.98
+    },
+    {
+      "title": "TWICE NAYEON - 1st Single Album: NA-sty (SNEAK PEEK)",
+      "subreddit": "kpop",
+      "age_hours": 13.5,
+      "url": "https://www.reddit.com/r/kpop/comments/1xv7a51/twice_nayeon_1st_single_album_nasty_sneak_peek/",
+      "rank": 3,
+      "hot_score": 0.979
+    },
+    {
+      "title": "Lisa’s more confident with her live singing (Las Vegas Residency)",
+      "subreddit": "kpopthoughts",
+      "age_hours": 17.3,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv37gs/lisas_more_confident_with_her_live_singing_las/",
+      "rank": 3,
+      "hot_score": 0.979
+    },
+    {
+      "title": "RACCOIN: Chaos Max Edition – Launch Trailer – Nintendo Switch 2",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 3.4,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xvmp9x/raccoin_chaos_max_edition_launch_trailer_nintendo/",
+      "rank": 2,
+      "hot_score": 0.973
+    },
+    {
+      "title": "Still rocking since the 90s",
+      "subreddit": "BuyItForLife",
+      "age_hours": 5.6,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xvjgj4/still_rocking_since_the_90s/",
+      "rank": 4,
+      "hot_score": 0.97
+    },
+    {
+      "title": "BELIFT LAB and SOURCE MUSIC both lose their respective defamation lawsuits against Min Hee-Jin, with both sides set to appeal immediately",
+      "subreddit": "kpop",
+      "age_hours": 16.0,
+      "url": "https://www.reddit.com/r/kpop/comments/1xv4f4b/belift_lab_and_source_music_both_lose_their/",
+      "rank": 4,
+      "hot_score": 0.969
+    },
+    {
+      "title": "[routine help] 35f, never had a skin care routine and do not know where to start",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 13.1,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xv7uoa/routine_help_35f_never_had_a_skin_care_routine/",
+      "rank": 4,
+      "hot_score": 0.969
+    },
+    {
+      "title": "It just came out and i'm in love with Chaeryeong's Solo!!",
+      "subreddit": "kpopthoughts",
+      "age_hours": 10.2,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xvc7dh/it_just_came_out_and_im_in_love_with_chaeryeongs/",
+      "rank": 4,
+      "hot_score": 0.968
+    },
+    {
+      "title": "I ordered two PlayStation 30 year retrospective books over a year ago and forgot about them. They arrived yesterday and today",
+      "subreddit": "gaming",
+      "age_hours": 3.9,
+      "url": "https://www.reddit.com/r/gaming/comments/1xvlznz/i_ordered_two_playstation_30_year_retrospective/",
+      "rank": 3,
+      "hot_score": 0.966
+    },
+    {
+      "title": "Had these for 19 years",
+      "subreddit": "Sneakers",
+      "age_hours": 4.9,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xvkik2/had_these_for_19_years/",
+      "rank": 2,
+      "hot_score": 0.964
+    },
+    {
+      "title": "Black Friday shopping list!",
+      "subreddit": "BuyItForLife",
+      "age_hours": 16.5,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv3w1z/black_friday_shopping_list/",
+      "rank": 5,
+      "hot_score": 0.96
+    },
+    {
+      "title": "Open with me this UPC",
       "subreddit": "PokemonTCG",
       "age_hours": 4.5,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xuq9qg/i_finally_pulled_my_personal_chase_card_in_chaos/",
-      "rank": 1,
-      "hot_score": 1.0
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvl00n/open_with_me_this_upc/",
+      "rank": 2,
+      "hot_score": 0.96
     },
     {
-      "title": "Quick Info Guide! If you have pokemontcg questions, check here first!",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 47254.2,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/o65iqe/quick_info_guide_if_you_have_pokemontcg_questions/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "r/lego Monthly Open Forum and Transparency Report for November 2026",
-      "subreddit": "lego",
-      "age_hours": 251.8,
-      "url": "https://www.reddit.com/r/lego/comments/1xlz8hb/rlego_monthly_open_forum_and_transparency_report/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "2NE1 CL - THEBLACKLABEL New Artist (Profile Photo)",
+      "title": "Hwiseo from H1-KEY says she did not film any scenes for the “Unbelievable” music video, raising concerns that the company used AI to generate the members’ faces and bodies.",
       "subreddit": "kpop",
-      "age_hours": 3.7,
-      "url": "https://www.reddit.com/r/kpop/comments/1xurj6i/2ne1_cl_theblacklabel_new_artist_profile_photo/",
-      "rank": 1,
-      "hot_score": 1.0
+      "age_hours": 22.5,
+      "url": "https://www.reddit.com/r/kpop/comments/1xuxw75/hwiseo_from_h1key_says_she_did_not_film_any/",
+      "rank": 5,
+      "hot_score": 0.959
     },
     {
-      "title": "Random stats about the top 20 most-streamed 2026 K-pop songs (excl. BTS) on Spotify",
-      "subreddit": "kpopthoughts",
-      "age_hours": 4.0,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xur1zo/random_stats_about_the_top_20_moststreamed_2026/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "[Miscellaneous] Favorite skincare brand for customer service alone?",
+      "title": "Stick with your retinol! [Acne]",
       "subreddit": "SkincareAddiction",
-      "age_hours": 14.5,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xub69b/miscellaneous_favorite_skincare_brand_for/",
-      "rank": 1,
-      "hot_score": 1.0
+      "age_hours": 7.8,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvg3ib/stick_with_your_retinol_acne/",
+      "rank": 5,
+      "hot_score": 0.959
     },
     {
-      "title": "does anyone know of some circle lenses that ship to the US that resemble these?",
-      "subreddit": "AsianBeauty",
-      "age_hours": 6.5,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xunfxm/does_anyone_know_of_some_circle_lenses_that_ship/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "Previously Beloved Game Platform \"Humble Bundle\" Releases Slop Website Update that Breaks Security and Basic Functionality",
-      "subreddit": "gaming",
-      "age_hours": 8.2,
-      "url": "https://www.reddit.com/r/gaming/comments/1xukoba/previously_beloved_game_platform_humble_bundle/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "Nintendo announces Black Friday offers to help spread joy this holiday season - Nintendo Official Site",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 12.5,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xudvz5/nintendo_announces_black_friday_offers_to_help/",
-      "rank": 1,
-      "hot_score": 1.0
-    },
-    {
-      "title": "Desperately seeking quality pillow recommendations!",
-      "subreddit": "BuyItForLife",
-      "age_hours": 1.0,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xuv14z/desperately_seeking_quality_pillow_recommendations/",
-      "rank": 2,
-      "hot_score": 0.99
-    },
-    {
-      "title": "Classic Pack Pulls",
-      "subreddit": "PokemonTCG",
-      "age_hours": 4.0,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xur080/classic_pack_pulls/",
-      "rank": 2,
-      "hot_score": 0.99
-    },
-    {
-      "title": "Found this in a box at my parents house",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 5.9,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xuo7nl/found_this_in_a_box_at_my_parents_house/",
-      "rank": 2,
-      "hot_score": 0.99
-    },
-    {
-      "title": "Bricklink Outage Update. \"Unusual Activity\"",
+      "title": "Nintendo Gamecube",
       "subreddit": "lego",
-      "age_hours": 33.9,
-      "url": "https://www.reddit.com/r/lego/comments/1xtmsjn/bricklink_outage_update_unusual_activity/",
+      "age_hours": 4.4,
+      "url": "https://www.reddit.com/r/lego/comments/1xvl5kq/nintendo_gamecube/",
       "rank": 2,
-      "hot_score": 0.99
+      "hot_score": 0.958
+    },
+    {
+      "title": "The NCT Jisung and TXT Taehyun Self On KODE",
+      "subreddit": "kpopthoughts",
+      "age_hours": 14.4,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv66n3/the_nct_jisung_and_txt_taehyun_self_on_kode/",
+      "rank": 5,
+      "hot_score": 0.958
+    },
+    {
+      "title": "Looking for $700 dishwasher",
+      "subreddit": "BuyItForLife",
+      "age_hours": 6.5,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xvhyfa/looking_for_700_dishwasher/",
+      "rank": 6,
+      "hot_score": 0.949
+    },
+    {
+      "title": "[Product Request] Best sheet mask for someone on cabtreo?",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 2.3,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvo64n/product_request_best_sheet_mask_for_someone_on/",
+      "rank": 6,
+      "hot_score": 0.949
+    },
+    {
+      "title": "RIIZE, EJAE will perform at the 100th Macy’s Thanksgiving Day Parade in New York City’s Herald Square",
+      "subreddit": "kpop",
+      "age_hours": 10.4,
+      "url": "https://www.reddit.com/r/kpop/comments/1xvbqfy/riize_ejae_will_perform_at_the_100th_macys/",
+      "rank": 6,
+      "hot_score": 0.948
     },
     {
       "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
       "subreddit": "gaming",
-      "age_hours": 1.5,
+      "age_hours": 25.3,
       "url": "https://www.reddit.com/r/gaming/comments/1xuujnn/wolfenstein_3_confirmed_to_be_in_development_at/",
-      "rank": 2,
-      "hot_score": 0.985
-    },
-    {
-      "title": "This bedcover is 52 years old and still in use",
-      "subreddit": "BuyItForLife",
-      "age_hours": 17.5,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xu84mj/this_bedcover_is_52_years_old_and_still_in_use/",
-      "rank": 3,
-      "hot_score": 0.98
-    },
-    {
-      "title": "Sister Walks into Random CVS in Florida and rips a double blister pack and get these...",
-      "subreddit": "PokemonTCG",
-      "age_hours": 11.1,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xufv1s/sister_walks_into_random_cvs_in_florida_and_rips/",
-      "rank": 3,
-      "hot_score": 0.98
-    },
-    {
-      "title": "My grails 🤩",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 8.9,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xujf02/my_grails/",
-      "rank": 3,
-      "hot_score": 0.98
-    },
-    {
-      "title": "Lego Warhammer 40k Dreadnought",
-      "subreddit": "lego",
-      "age_hours": 10.8,
-      "url": "https://www.reddit.com/r/lego/comments/1xugdee/lego_warhammer_40k_dreadnought/",
-      "rank": 3,
-      "hot_score": 0.98
-    },
-    {
-      "title": "[Product Request] My lips have been extremely chapped for years, what can I do?",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 3.3,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xus28p/product_request_my_lips_have_been_extremely/",
-      "rank": 2,
-      "hot_score": 0.976
-    },
-    {
-      "title": "2NE1 CL has signed with THEBLACKLABEL",
-      "subreddit": "kpop",
-      "age_hours": 3.7,
-      "url": "https://www.reddit.com/r/kpop/comments/1xurjq3/2ne1_cl_has_signed_with_theblacklabel/",
-      "rank": 2,
-      "hot_score": 0.974
-    },
-    {
-      "title": "Sweatpants and joggers",
-      "subreddit": "BuyItForLife",
-      "age_hours": 1.4,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xuujcr/sweatpants_and_joggers/",
       "rank": 4,
-      "hot_score": 0.97
+      "hot_score": 0.948
     },
     {
-      "title": "Rate my collection 🙌",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 14.5,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xub7zt/rate_my_collection/",
-      "rank": 4,
-      "hot_score": 0.97
-    },
-    {
-      "title": "Day and Night UPC Opening :)",
-      "subreddit": "PokemonTCG",
-      "age_hours": 4.7,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xupyxn/day_and_night_upc_opening/",
-      "rank": 4,
-      "hot_score": 0.969
-    },
-    {
-      "title": "Official Reveal: 2027 LEGO Star Wars sets",
-      "subreddit": "lego",
-      "age_hours": 12.3,
-      "url": "https://www.reddit.com/r/lego/comments/1xue353/official_reveal_2027_lego_star_wars_sets/",
-      "rank": 4,
-      "hot_score": 0.969
-    },
-    {
-      "title": "Crimson Desert developer Pearl Abyss says they will integrate AI into their proprietary game engine",
-      "subreddit": "gaming",
-      "age_hours": 5.2,
-      "url": "https://www.reddit.com/r/gaming/comments/1xupe8o/crimson_desert_developer_pearl_abyss_says_they/",
-      "rank": 3,
-      "hot_score": 0.969
-    },
-    {
-      "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 13.6,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xuc9ne/famitsu_the_legend_of_zelda_ocarina_of_time_was/",
-      "rank": 2,
-      "hot_score": 0.969
-    },
-    {
-      "title": "Recommendations for a BIFL ratchetting screwdriver set",
-      "subreddit": "BuyItForLife",
-      "age_hours": 4.0,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xuqyhy/recommendations_for_a_bifl_ratchetting/",
-      "rank": 5,
-      "hot_score": 0.96
-    },
-    {
-      "title": "Komiya Stamps",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 5.6,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xuooaq/komiya_stamps/",
-      "rank": 5,
-      "hot_score": 0.96
-    },
-    {
-      "title": "Thank you, random MA man, for letting my 6 y.o. son have a chance!",
-      "subreddit": "PokemonTCG",
-      "age_hours": 1.9,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xutxiq/thank_you_random_ma_man_for_letting_my_6_yo_son/",
-      "rank": 5,
-      "hot_score": 0.959
-    },
-    {
-      "title": "Look what I found on the free table",
-      "subreddit": "lego",
-      "age_hours": 6.1,
-      "url": "https://www.reddit.com/r/lego/comments/1xunz62/look_what_i_found_on_the_free_table/",
-      "rank": 5,
-      "hot_score": 0.959
-    },
-    {
-      "title": "Early 2000's Gaming Was Definitely a Vibe, and That Vibe was 19-Year-Old Guy's College Dorm Room Decor",
-      "subreddit": "gaming",
-      "age_hours": 9.9,
-      "url": "https://www.reddit.com/r/gaming/comments/1xuhxg1/early_2000s_gaming_was_definitely_a_vibe_and_that/",
-      "rank": 4,
-      "hot_score": 0.954
-    },
-    {
-      "title": "[Selfie/B&A] after 15 years of fighting with these weird milk like spots on my nose, I’ve found a solution!",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 15.6,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xua2mx/selfieba_after_15_years_of_fighting_with_these/",
-      "rank": 3,
-      "hot_score": 0.951
-    },
-    {
-      "title": "Are Frye boots still worth it?",
-      "subreddit": "BuyItForLife",
-      "age_hours": 7.1,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xumcnc/are_frye_boots_still_worth_it/",
+      "title": "If you were on a fight but you only have a lightstick as a weapon what would it be and why?",
+      "subreddit": "kpopthoughts",
+      "age_hours": 16.2,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv4aby/if_you_were_on_a_fight_but_you_only_have_a/",
       "rank": 6,
-      "hot_score": 0.95
-    },
-    {
-      "title": "Dave & Busters UPC??😂 >>>> HITS",
-      "subreddit": "PokemonTCG",
-      "age_hours": 8.9,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xujgao/dave_busters_upc_hits/",
-      "rank": 6,
-      "hot_score": 0.949
-    },
-    {
-      "title": "Nothing new under the sun",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 1.2,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xuut05/nothing_new_under_the_sun/",
-      "rank": 6,
-      "hot_score": 0.949
-    },
-    {
-      "title": "Star Wars 50th Anniversary concept art minifigures and printed posters revealed",
-      "subreddit": "lego",
-      "age_hours": 10.9,
-      "url": "https://www.reddit.com/r/lego/comments/1xug9lp/star_wars_50th_anniversary_concept_art/",
-      "rank": 6,
-      "hot_score": 0.949
-    },
-    {
-      "title": "KATSEYE’s Megan Is Back Performing on Her Feet a Day After Doing Show Sitting Due to Concussion",
-      "subreddit": "kpop",
-      "age_hours": 10.1,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuhiet/katseyes_megan_is_back_performing_on_her_feet_a/",
-      "rank": 3,
       "hot_score": 0.947
     },
     {
-      "title": "Super soft, bouncy house slippers that aren't too warm",
-      "subreddit": "BuyItForLife",
-      "age_hours": 3.9,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xur7v5/super_soft_bouncy_house_slippers_that_arent_too/",
-      "rank": 7,
-      "hot_score": 0.94
-    },
-    {
-      "title": "Open a 30th UPC with me!",
-      "subreddit": "PokemonTCG",
-      "age_hours": 23.4,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xu1zwv/open_a_30th_upc_with_me/",
-      "rank": 7,
-      "hot_score": 0.939
-    },
-    {
-      "title": "Rate my collection I started this year",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 24.8,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xu094n/rate_my_collection_i_started_this_year/",
-      "rank": 7,
-      "hot_score": 0.939
-    },
-    {
-      "title": "How well scaled is the 3-in-1 horse set to the Knights Kingdom canister figs?",
-      "subreddit": "lego",
-      "age_hours": 3.7,
-      "url": "https://www.reddit.com/r/lego/comments/1xurjrw/how_well_scaled_is_the_3in1_horse_set_to_the/",
-      "rank": 7,
-      "hot_score": 0.939
-    },
-    {
-      "title": "Remember fat princess?",
-      "subreddit": "gaming",
-      "age_hours": 4.1,
-      "url": "https://www.reddit.com/r/gaming/comments/1xuqyey/remember_fat_princess/",
-      "rank": 5,
-      "hot_score": 0.938
-    },
-    {
-      "title": "Pokémon Legends: Z-A | Receive Shiny Xerneas and Shiny Yveltal! ✨",
+      "title": "Libraries are awesome! (Also screw Ubisoft)",
       "subreddit": "NintendoSwitch",
-      "age_hours": 12.7,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xudkqu/pokémon_legends_za_receive_shiny_xerneas_and/",
+      "age_hours": 9.6,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xvd8bv/libraries_are_awesome_also_screw_ubisoft/",
       "rank": 3,
+      "hot_score": 0.946
+    },
+    {
+      "title": "Best LASER printer brand",
+      "subreddit": "BuyItForLife",
+      "age_hours": 7.2,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xvgzu6/best_laser_printer_brand/",
+      "rank": 7,
+      "hot_score": 0.939
+    },
+    {
+      "title": "[Personal] Skincare budget, do you have it?",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 6.8,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvhlsn/personal_skincare_budget_do_you_have_it/",
+      "rank": 7,
+      "hot_score": 0.939
+    },
+    {
+      "title": "Bought my first funko pop",
+      "subreddit": "funkopop",
+      "age_hours": 3.8,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvm20d/bought_my_first_funko_pop/",
+      "rank": 2,
       "hot_score": 0.938
     },
     {
-      "title": "What do you always buy secondhand?",
-      "subreddit": "BuyItForLife",
-      "age_hours": 25.2,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xtzof8/what_do_you_always_buy_secondhand/",
-      "rank": 8,
-      "hot_score": 0.93
-    },
-    {
-      "title": "A true treasure !",
-      "subreddit": "PokemonTCG",
-      "age_hours": 2.7,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xusuxi/a_true_treasure/",
-      "rank": 8,
-      "hot_score": 0.929
-    },
-    {
-      "title": "My vintage collection",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 37.1,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xthxi5/my_vintage_collection/",
-      "rank": 8,
-      "hot_score": 0.929
-    },
-    {
-      "title": "Monochrome",
-      "subreddit": "lego",
-      "age_hours": 11.2,
-      "url": "https://www.reddit.com/r/lego/comments/1xuft2a/monochrome/",
-      "rank": 8,
-      "hot_score": 0.929
-    },
-    {
-      "title": "[Routine Help] First-time poster looking to clear up spots and bumps!",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 2.5,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xut6a9/routine_help_firsttime_poster_looking_to_clear_up/",
-      "rank": 4,
-      "hot_score": 0.927
-    },
-    {
-      "title": "We're Jackbox Games! We just released Trivia Murder Party 3, The Jackbox Party Pack 12 and Fakin' It XL and are expert party planners - AUA on Friday, Nov. 13 at 10am CT",
-      "subreddit": "gaming",
-      "age_hours": 12.0,
-      "url": "https://www.reddit.com/r/gaming/comments/1xuemmz/were_jackbox_games_we_just_released_trivia_murder/",
-      "rank": 6,
-      "hot_score": 0.923
-    },
-    {
-      "title": "2NE1 CL to make her comeback this month with a new song after signing with THEBLACKLABEL",
+      "title": "ENHYPEN - I Want You",
       "subreddit": "kpop",
-      "age_hours": 3.1,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuscp6/2ne1_cl_to_make_her_comeback_this_month_with_a/",
-      "rank": 4,
-      "hot_score": 0.921
+      "age_hours": 11.5,
+      "url": "https://www.reddit.com/r/kpop/comments/1xva321/enhypen_i_want_you/",
+      "rank": 7,
+      "hot_score": 0.938
     },
     {
-      "title": "[Request] Just bought my first apartment — looking for Buy It For Life recommendations for absolutely everything!",
+      "title": "I know we often complain about songs nowadays being 80% in english (and I usually agree) but what are some albums or songs that are fully/mostly in english yet you think work amazing that way?",
+      "subreddit": "kpopthoughts",
+      "age_hours": 12.4,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xv8t0n/i_know_we_often_complain_about_songs_nowadays/",
+      "rank": 7,
+      "hot_score": 0.937
+    },
+    {
+      "title": "what are some popular games that you just can't finish?",
+      "subreddit": "gaming",
+      "age_hours": 13.5,
+      "url": "https://www.reddit.com/r/gaming/comments/1xv79zf/what_are_some_popular_games_that_you_just_cant/",
+      "rank": 5,
+      "hot_score": 0.931
+    },
+    {
+      "title": "Full Grain Leather Belt",
       "subreddit": "BuyItForLife",
-      "age_hours": 18.4,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xu782g/request_just_bought_my_first_apartment_looking/",
-      "rank": 9,
+      "age_hours": 15.1,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv5cw4/full_grain_leather_belt/",
+      "rank": 8,
+      "hot_score": 0.929
+    },
+    {
+      "title": "Is it me or the 95s are extremely uncomfortable?",
+      "subreddit": "Sneakers",
+      "age_hours": 11.5,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xva1b4/is_it_me_or_the_95s_are_extremely_uncomfortable/",
+      "rank": 3,
+      "hot_score": 0.929
+    },
+    {
+      "title": "[Routine Help] Am I missing something??",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 5.8,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvj6dt/routine_help_am_i_missing_something/",
+      "rank": 8,
+      "hot_score": 0.929
+    },
+    {
+      "title": "aespa Winter - Harper's BAZAAR Korea x Polo Ralph Lauren (December 2026 Issue Pictorial Preview)",
+      "subreddit": "kpop",
+      "age_hours": 14.4,
+      "url": "https://www.reddit.com/r/kpop/comments/1xv6546/aespa_winter_harpers_bazaar_korea_x_polo_ralph/",
+      "rank": 8,
+      "hot_score": 0.928
+    },
+    {
+      "title": "Random stats about the top 20 most-streamed 2026 K-pop songs (excl. BTS) on Spotify",
+      "subreddit": "kpopthoughts",
+      "age_hours": 27.8,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xur1zo/random_stats_about_the_top_20_moststreamed_2026/",
+      "rank": 8,
+      "hot_score": 0.926
+    },
+    {
+      "title": "Asking my crush out tomorrow",
+      "subreddit": "PokemonTCG",
+      "age_hours": 3.4,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvmnnx/asking_my_crush_out_tomorrow/",
+      "rank": 3,
       "hot_score": 0.92
     },
     {
-      "title": "Rank me and my partners collection on 10 .. started collecting last year ( not my slabs but I only have like 6 slabs )",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 20.8,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xu4xpb/rank_me_and_my_partners_collection_on_10_started/",
+      "title": "BIFL - Headphones - Bought the Beyerdynamic DT770Pro 32 Ohm back in 2015.",
+      "subreddit": "BuyItForLife",
+      "age_hours": 12.0,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv9blj/bifl_headphones_bought_the_beyerdynamic_dt770pro/",
       "rank": 9,
       "hot_score": 0.919
     },
     {
-      "title": "Blue RGB Mew pull!",
-      "subreddit": "PokemonTCG",
-      "age_hours": 4.4,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xuqfkr/blue_rgb_mew_pull/",
-      "rank": 9,
-      "hot_score": 0.918
-    },
-    {
-      "title": "Hi that's my LEGO ideas Truman show Project- \"In Case I Don't See Ya..\"- The Truman Show Finale",
-      "subreddit": "lego",
-      "age_hours": 16.7,
-      "url": "https://www.reddit.com/r/lego/comments/1xu8u80/hi_thats_my_lego_ideas_truman_show_project_in/",
-      "rank": 9,
-      "hot_score": 0.918
-    },
-    {
-      "title": "My uncle's 1982 Zippo I carry",
-      "subreddit": "BuyItForLife",
-      "age_hours": 24.5,
-      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xu0jw3/my_uncles_1982_zippo_i_carry/",
-      "rank": 10,
-      "hot_score": 0.91
-    },
-    {
-      "title": "Just got these yesterday",
-      "subreddit": "pkmntcgcollections",
-      "age_hours": 22.0,
-      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xu3nnr/just_got_these_yesterday/",
-      "rank": 10,
-      "hot_score": 0.909
-    },
-    {
-      "title": "First ever pack opening, got a full art (Delta Reign)",
-      "subreddit": "PokemonTCG",
-      "age_hours": 19.7,
-      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xu60ff/first_ever_pack_opening_got_a_full_art_delta_reign/",
-      "rank": 10,
-      "hot_score": 0.908
-    },
-    {
-      "title": "[MOC] Universes Collide: The Maker crushing Earth and the Death Star — My entry for the LEGO Ideas Star Wars x Marvel challenge!",
-      "subreddit": "lego",
-      "age_hours": 12.6,
-      "url": "https://www.reddit.com/r/lego/comments/1xudlrc/moc_universes_collide_the_maker_crushing_earth/",
-      "rank": 10,
-      "hot_score": 0.908
-    },
-    {
-      "title": "Walmart Black Friday 2016.",
-      "subreddit": "gaming",
-      "age_hours": 26.3,
-      "url": "https://www.reddit.com/r/gaming/comments/1xtye4g/walmart_black_friday_2016/",
-      "rank": 7,
-      "hot_score": 0.908
-    },
-    {
-      "title": "Amazon has revised it's Tomb Raider Article, removing from Tomb Raider Catalyst both it's Switch 2 support and 2028 release date",
+      "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
       "subreddit": "NintendoSwitch",
-      "age_hours": 6.9,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xumsyh/amazon_has_revised_its_tomb_raider_article/",
+      "age_hours": 9.9,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xvcmf7/lucky_luke_the_lonesome_cowboy_collection/",
       "rank": 4,
-      "hot_score": 0.906
-    },
-    {
-      "title": "[Routine Help] changed my routine and now I’m completely breaking out",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 0.4,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xuvsij/routine_help_changed_my_routine_and_now_im/",
-      "rank": 5,
-      "hot_score": 0.902
-    },
-    {
-      "title": "Who is an artist whose music is best for listening to late at night?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 5.2,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xupdf7/who_is_an_artist_whose_music_is_best_for/",
-      "rank": 2,
-      "hot_score": 0.9
-    },
-    {
-      "title": "peripera mood glowy tint vs romand JLT pomelo skin??",
-      "subreddit": "AsianBeauty",
-      "age_hours": 9.7,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xui8np/peripera_mood_glowy_tint_vs_romand_jlt_pomelo_skin/",
-      "rank": 2,
-      "hot_score": 0.9
-    },
-    {
-      "title": "GIRLSET - Digital Single: young & dumb (Concept Photo 2)",
-      "subreddit": "kpop",
-      "age_hours": 9.6,
-      "url": "https://www.reddit.com/r/kpop/comments/1xui9kn/girlset_digital_single_young_dumb_concept_photo_2/",
-      "rank": 5,
-      "hot_score": 0.895
-    },
-    {
-      "title": "On this day, 19 years ago, November 12th, 2007, Super Mario Galaxy was released on the Wii!",
-      "subreddit": "gaming",
-      "age_hours": 9.7,
-      "url": "https://www.reddit.com/r/gaming/comments/1xui9hu/on_this_day_19_years_ago_november_12th_2007_super/",
-      "rank": 8,
-      "hot_score": 0.892
-    },
-    {
-      "title": "[Product Question] Using micellar water as my only cleanser?",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 8.0,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xukxxr/product_question_using_micellar_water_as_my_only/",
-      "rank": 6,
-      "hot_score": 0.878
-    },
-    {
-      "title": "Help!!! I need co-op games that my wife and I can play together!",
-      "subreddit": "gaming",
-      "age_hours": 1.3,
-      "url": "https://www.reddit.com/r/gaming/comments/1xuuonf/help_i_need_coop_games_that_my_wife_and_i_can/",
-      "rank": 9,
-      "hot_score": 0.877
-    },
-    {
-      "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – Overview Trailer",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 11.5,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xufc0y/pikmin_4_nintendo_switch_2_edition_dandori/",
-      "rank": 5,
-      "hot_score": 0.875
-    },
-    {
-      "title": "TWICE Nayeon - The 1st Single Album: NA-sty (Online Cover)",
-      "subreddit": "kpop",
-      "age_hours": 13.7,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuc7di/twice_nayeon_the_1st_single_album_nasty_online/",
-      "rank": 6,
-      "hot_score": 0.868
-    },
-    {
-      "title": "My Switch 2 joystick after almost 18 months",
-      "subreddit": "gaming",
-      "age_hours": 28.2,
-      "url": "https://www.reddit.com/r/gaming/comments/1xtvud2/my_switch_2_joystick_after_almost_18_months/",
-      "rank": 10,
-      "hot_score": 0.862
-    },
-    {
-      "title": "[Product Question] 0.5% SA moisturiser on top of retinol serum?",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 4.0,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xur68g/product_question_05_sa_moisturiser_on_top_of/",
-      "rank": 7,
-      "hot_score": 0.854
-    },
-    {
-      "title": "News Release: Nov. 11, 2026 \"The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days\"",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 44.2,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtamtm/news_release_nov_11_2026_the_legend_of_zelda/",
-      "rank": 6,
-      "hot_score": 0.844
-    },
-    {
-      "title": "oftheblue will make their official debut on January 11, 2027 with their 1st EP 'out of the blue'",
-      "subreddit": "kpop",
-      "age_hours": 2.3,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuth9k/oftheblue_will_make_their_official_debut_on/",
-      "rank": 7,
-      "hot_score": 0.842
-    },
-    {
-      "title": "[Acne] pimples around mouth and chin",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 4.1,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xuqzwu/acne_pimples_around_mouth_and_chin/",
-      "rank": 8,
-      "hot_score": 0.829
-    },
-    {
-      "title": "Happy 12th Anniversary to Lovelyz!",
-      "subreddit": "kpop",
-      "age_hours": 12.1,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuedgn/happy_12th_anniversary_to_lovelyz/",
-      "rank": 8,
-      "hot_score": 0.816
-    },
-    {
-      "title": "Ocarina sounds via pro controller",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 6.0,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xuo3h4/ocarina_sounds_via_pro_controller/",
-      "rank": 7,
-      "hot_score": 0.812
-    },
-    {
-      "title": "[Product Request] In search of HOLY GRAIL lightweight moisturizer",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 9.0,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xuj948/product_request_in_search_of_holy_grail/",
-      "rank": 9,
-      "hot_score": 0.805
-    },
-    {
-      "title": "kpop groups whose members are younger than what you expected?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 9.6,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xuibaa/kpop_groups_whose_members_are_younger_than_what/",
-      "rank": 3,
-      "hot_score": 0.8
-    },
-    {
-      "title": "Stylevana verification process",
-      "subreddit": "AsianBeauty",
-      "age_hours": 12.9,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xud91a/stylevana_verification_process/",
-      "rank": 3,
-      "hot_score": 0.8
-    },
-    {
-      "title": "TXT (TOMORROW X TOGETHER) - Angel Bite (MV Teaser 1)",
-      "subreddit": "kpop",
-      "age_hours": 11.7,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuez1y/txt_tomorrow_x_together_angel_bite_mv_teaser_1/",
-      "rank": 9,
-      "hot_score": 0.789
-    },
-    {
-      "title": "Tomb Raider: Catalyst releases on Switch 2 (along with other consoles) 2028",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 29.5,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xttv4l/tomb_raider_catalyst_releases_on_switch_2_along/",
-      "rank": 8,
-      "hot_score": 0.781
-    },
-    {
-      "title": "[Misc] Getting my girlfriend a gift card for skincare.",
-      "subreddit": "SkincareAddiction",
-      "age_hours": 11.2,
-      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xufqvt/misc_getting_my_girlfriend_a_gift_card_for/",
-      "rank": 10,
-      "hot_score": 0.78
+      "hot_score": 0.919
     },
     {
       "title": "GIRLSET - young & dumb",
       "subreddit": "kpop",
-      "age_hours": 9.5,
-      "url": "https://www.reddit.com/r/kpop/comments/1xuiiy7/girlset_young_dumb/",
-      "rank": 10,
-      "hot_score": 0.763
+      "age_hours": 21.5,
+      "url": "https://www.reddit.com/r/kpop/comments/1xuyz6f/girlset_young_dumb/",
+      "rank": 9,
+      "hot_score": 0.918
     },
     {
-      "title": "MARVEL Cosmic Invasion: The Siege of Castle Doom – DLC Trailer – Nintendo Switch 2",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 28.2,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtvsuj/marvel_cosmic_invasion_the_siege_of_castle_doom/",
+      "title": "[Routine Help] feel like my skin is aging me?",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 17.9,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xv2nbp/routine_help_feel_like_my_skin_is_aging_me/",
       "rank": 9,
+      "hot_score": 0.918
+    },
+    {
+      "title": "Visited the Bob Brickman & Brickstory Museum in Rosenheim with my kids: city, pirates, Romans and a day/night cycle",
+      "subreddit": "lego",
+      "age_hours": 8.2,
+      "url": "https://www.reddit.com/r/lego/comments/1xvfa3f/visited_the_bob_brickman_brickstory_museum_in/",
+      "rank": 3,
+      "hot_score": 0.917
+    },
+    {
+      "title": "Kpop GG idols with cat eyes help me to find them all",
+      "subreddit": "kpopthoughts",
+      "age_hours": 10.5,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xvboy4/kpop_gg_idols_with_cat_eyes_help_me_to_find_them/",
+      "rank": 9,
+      "hot_score": 0.916
+    },
+    {
+      "title": "Doom Developer id Software Confirms New Project, Says \"We Can't Wait for You to See What We're Working On\"",
+      "subreddit": "gaming",
+      "age_hours": 20.4,
+      "url": "https://www.reddit.com/r/gaming/comments/1xv07b8/doom_developer_id_software_confirms_new_project/",
+      "rank": 6,
+      "hot_score": 0.914
+    },
+    {
+      "title": "Recommendation for a good hot insulated lunch box",
+      "subreddit": "BuyItForLife",
+      "age_hours": 15.8,
+      "url": "https://www.reddit.com/r/BuyItForLife/comments/1xv4lu9/recommendation_for_a_good_hot_insulated_lunch_box/",
+      "rank": 10,
+      "hot_score": 0.909
+    },
+    {
+      "title": "[Routine Help] Oily skin type currently using Kiehl’s products",
+      "subreddit": "SkincareAddiction",
+      "age_hours": 4.3,
+      "url": "https://www.reddit.com/r/SkincareAddiction/comments/1xvlhsv/routine_help_oily_skin_type_currently_using/",
+      "rank": 10,
+      "hot_score": 0.908
+    },
+    {
+      "title": "NMIXX - NMIXX at Haidilao (261113) [ENG SUB]",
+      "subreddit": "kpop",
+      "age_hours": 2.2,
+      "url": "https://www.reddit.com/r/kpop/comments/1xvobi6/nmixx_nmixx_at_haidilao_261113_eng_sub/",
+      "rank": 10,
+      "hot_score": 0.907
+    },
+    {
+      "title": "Who is an artist whose music is best for listening to late at night?",
+      "subreddit": "kpopthoughts",
+      "age_hours": 29.0,
+      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xupdf7/who_is_an_artist_whose_music_is_best_for/",
+      "rank": 10,
+      "hot_score": 0.905
+    },
+    {
+      "title": "Previously Beloved Game Platform \"Humble Bundle\" Releases Slop Website Update that Breaks Security and Basic Functionality",
+      "subreddit": "gaming",
+      "age_hours": 32.0,
+      "url": "https://www.reddit.com/r/gaming/comments/1xukoba/previously_beloved_game_platform_humble_bundle/",
+      "rank": 7,
+      "hot_score": 0.897
+    },
+    {
+      "title": "Friday the 13th 🔪 🩸",
+      "subreddit": "Sneakers",
+      "age_hours": 2.0,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xvoi7a/friday_the_13th/",
+      "rank": 4,
+      "hot_score": 0.893
+    },
+    {
+      "title": "Nintendo announces Black Friday offers to help spread joy this holiday season - Nintendo Official Site",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 36.3,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xudvz5/nintendo_announces_black_friday_offers_to_help/",
+      "rank": 5,
+      "hot_score": 0.892
+    },
+    {
+      "title": "Moon kitty from a single loose pack",
+      "subreddit": "PokemonTCG",
+      "age_hours": 11.6,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xv9y20/moon_kitty_from_a_single_loose_pack/",
+      "rank": 4,
+      "hot_score": 0.88
+    },
+    {
+      "title": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+      "subreddit": "gaming",
+      "age_hours": 12.3,
+      "url": "https://www.reddit.com/r/gaming/comments/1xv91wn/qssr_arrives_in_marvels_spiderman_2_control/",
+      "rank": 8,
+      "hot_score": 0.879
+    },
+    {
+      "title": "Build, Paint and Play! (DnD Miniature Edition)",
+      "subreddit": "lego",
+      "age_hours": 9.0,
+      "url": "https://www.reddit.com/r/lego/comments/1xve3ox/build_paint_and_play_dnd_miniature_edition/",
+      "rank": 4,
+      "hot_score": 0.875
+    },
+    {
+      "title": "Buy 2 get 1 free",
+      "subreddit": "funkopop",
+      "age_hours": 4.3,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvlc3y/buy_2_get_1_free/",
+      "rank": 3,
+      "hot_score": 0.875
+    },
+    {
+      "title": "Hi, I'm Onat, co-founder of Slow Bros. and director & composer of Harold Halibut, our handmade adventure that just launched on Nintendo Switch 2. AMA!",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 12.4,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xv8u33/hi_im_onat_cofounder_of_slow_bros_and_director/",
+      "rank": 6,
+      "hot_score": 0.865
+    },
+    {
+      "title": "DAE struggle to get back into games due to forgetting the controls?",
+      "subreddit": "gaming",
+      "age_hours": 9.1,
+      "url": "https://www.reddit.com/r/gaming/comments/1xve13s/dae_struggle_to_get_back_into_games_due_to/",
+      "rank": 9,
+      "hot_score": 0.862
+    },
+    {
+      "title": "Happy Friday the 13th!",
+      "subreddit": "Sneakers",
+      "age_hours": 6.1,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xviouu/happy_friday_the_13th/",
+      "rank": 5,
+      "hot_score": 0.857
+    },
+    {
+      "title": "Which stage in Street Fighter 2 had the best music?",
+      "subreddit": "gaming",
+      "age_hours": 2.8,
+      "url": "https://www.reddit.com/r/gaming/comments/1xvnjsv/which_stage_in_street_fighter_2_had_the_best_music/",
+      "rank": 10,
+      "hot_score": 0.845
+    },
+    {
+      "title": "BEST ETB EVER!",
+      "subreddit": "PokemonTCG",
+      "age_hours": 5.2,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvk1zn/best_etb_ever/",
+      "rank": 5,
+      "hot_score": 0.84
+    },
+    {
+      "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 37.5,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xuc9ne/famitsu_the_legend_of_zelda_ocarina_of_time_was/",
+      "rank": 7,
+      "hot_score": 0.838
+    },
+    {
+      "title": "\"Hmm, feeling slower, I am.\" - Yoda | Snail alt build of 75438 Yoda Bust",
+      "subreddit": "lego",
+      "age_hours": 13.0,
+      "url": "https://www.reddit.com/r/lego/comments/1xv7ya2/hmm_feeling_slower_i_am_yoda_snail_alt_build_of/",
+      "rank": 5,
+      "hot_score": 0.833
+    },
+    {
+      "title": "Starting Umbreon/Espeon collection",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 3.5,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xvmg8j/starting_umbreonespeon_collection/",
+      "rank": 2,
+      "hot_score": 0.833
+    },
+    {
+      "title": "Jordan 1 Retro High ‘85 - Bred",
+      "subreddit": "Sneakers",
+      "age_hours": 5.8,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xvj5n1/jordan_1_retro_high_85_bred/",
+      "rank": 6,
+      "hot_score": 0.821
+    },
+    {
+      "title": "Look at what I got !!!!!!",
+      "subreddit": "funkopop",
+      "age_hours": 7.8,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvfzlt/look_at_what_i_got/",
+      "rank": 4,
+      "hot_score": 0.812
+    },
+    {
+      "title": "Pokémon Legends: Z-A | Receive Shiny Xerneas and Shiny Yveltal! ✨",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 36.5,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xudkqu/pokémon_legends_za_receive_shiny_xerneas_and/",
+      "rank": 8,
+      "hot_score": 0.811
+    },
+    {
+      "title": "30th Celebration UPC - Day Pulls",
+      "subreddit": "PokemonTCG",
+      "age_hours": 3.4,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvmmij/30th_celebration_upc_day_pulls/",
+      "rank": 6,
+      "hot_score": 0.8
+    },
+    {
+      "title": "Does anyone else keep all their brick separators & extra bricks/pieces?",
+      "subreddit": "lego",
+      "age_hours": 2.2,
+      "url": "https://www.reddit.com/r/lego/comments/1xvoa3l/does_anyone_else_keep_all_their_brick_separators/",
+      "rank": 6,
+      "hot_score": 0.792
+    },
+    {
+      "title": "Happy Friday the 13th!",
+      "subreddit": "Sneakers",
+      "age_hours": 13.4,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xv7c63/happy_friday_the_13th/",
+      "rank": 7,
+      "hot_score": 0.786
+    },
+    {
+      "title": "Amazon has revised it's Tomb Raider Article, removing from Tomb Raider Catalyst both it's Switch 2 support and 2028 release date",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 30.7,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xumsyh/amazon_has_revised_its_tomb_raider_article/",
+      "rank": 9,
+      "hot_score": 0.784
+    },
+    {
+      "title": "Everything is relative but its wild how a Pokemon card given by McDonalds costs more than a prehistoric 4 million years old Megalodon tooth",
+      "subreddit": "PokemonTCG",
+      "age_hours": 10.8,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvb604/everything_is_relative_but_its_wild_how_a_pokemon/",
+      "rank": 7,
+      "hot_score": 0.76
+    },
+    {
+      "title": "Game suggestions for my uncle (60s) who has never played video games",
+      "subreddit": "NintendoSwitch",
+      "age_hours": 25.5,
+      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xuu7e5/game_suggestions_for_my_uncle_60s_who_has_never/",
+      "rank": 10,
+      "hot_score": 0.757
+    },
+    {
+      "title": "My entries for the Lego Ideas: Hope Assembles challenge",
+      "subreddit": "lego",
+      "age_hours": 8.4,
+      "url": "https://www.reddit.com/r/lego/comments/1xveyvs/my_entries_for_the_lego_ideas_hope_assembles/",
+      "rank": 7,
       "hot_score": 0.75
     },
     {
-      "title": "AMA: We are the creators of Castlebound, 1-4 player platformer roguelike launching today on Nintendo Switch 2 and Nintendo Switch!",
-      "subreddit": "NintendoSwitch",
-      "age_hours": 33.3,
-      "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xtnsd1/ama_we_are_the_creators_of_castlebound_14_player/",
-      "rank": 10,
-      "hot_score": 0.719
+      "title": "Air Jordan 13 Retro Chinese New Year (2020)",
+      "subreddit": "Sneakers",
+      "age_hours": 10.4,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xvbq3l/air_jordan_13_retro_chinese_new_year_2020/",
+      "rank": 8,
+      "hot_score": 0.75
     },
     {
-      "title": "Mnet Officially Reveals The Full Lineup for MAMA 2026",
-      "subreddit": "kpopthoughts",
-      "age_hours": 17.8,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xu7vwj/mnet_officially_reveals_the_full_lineup_for_mama/",
-      "rank": 4,
-      "hot_score": 0.7
-    },
-    {
-      "title": "Anything Goes Thursday: November 12, 2026",
-      "subreddit": "AsianBeauty",
-      "age_hours": 5.1,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xupjo3/anything_goes_thursday_november_12_2026/",
-      "rank": 4,
-      "hot_score": 0.7
-    },
-    {
-      "title": "I LOVE LOONA SO MUCH♡ What is your favorite LOONA song?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 10.8,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xugg85/i_love_loona_so_much_what_is_your_favorite_loona/",
+      "title": "Birthday Surprise",
+      "subreddit": "funkopop",
+      "age_hours": 13.4,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xv7cl4/birthday_surprise/",
       "rank": 5,
-      "hot_score": 0.6
+      "hot_score": 0.75
     },
     {
-      "title": "What's working for my dehydrated skin lately",
-      "subreddit": "AsianBeauty",
-      "age_hours": 26.4,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xtybd4/whats_working_for_my_dehydrated_skin_lately/",
-      "rank": 5,
-      "hot_score": 0.6
+      "title": "Best Form of Protection",
+      "subreddit": "PokemonTCG",
+      "age_hours": 4.8,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xvkmh8/best_form_of_protection/",
+      "rank": 8,
+      "hot_score": 0.72
     },
     {
-      "title": "if your favorite group is active/together please remember to enjoy and cherish the moment",
-      "subreddit": "kpopthoughts",
+      "title": "Wears of the week V3…",
+      "subreddit": "Sneakers",
+      "age_hours": 9.0,
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xve0uz/wears_of_the_week_v3/",
+      "rank": 9,
+      "hot_score": 0.714
+    },
+    {
+      "title": "Good news, I got the Home Alone set for $200",
+      "subreddit": "lego",
+      "age_hours": 8.3,
+      "url": "https://www.reddit.com/r/lego/comments/1xvf5oa/good_news_i_got_the_home_alone_set_for_200/",
+      "rank": 8,
+      "hot_score": 0.708
+    },
+    {
+      "title": "Got it finally!",
+      "subreddit": "funkopop",
+      "age_hours": 22.1,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xuyazu/got_it_finally/",
+      "rank": 6,
+      "hot_score": 0.688
+    },
+    {
+      "title": "I let my 6-month-old pick a pack, then made the mistake of giving it to my brother-in-law. He pulled the best card I've ever gotten.",
+      "subreddit": "PokemonTCG",
+      "age_hours": 11.7,
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xv9rmz/i_let_my_6monthold_pick_a_pack_then_made_the/",
+      "rank": 9,
+      "hot_score": 0.68
+    },
+    {
+      "title": "Just got my Denny's Sticky Kicks",
+      "subreddit": "Sneakers",
       "age_hours": 28.7,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xtv3l4/if_your_favorite_group_is_activetogether_please/",
-      "rank": 6,
-      "hot_score": 0.5
+      "url": "https://www.reddit.com/r/Sneakers/comments/1xuprc3/just_got_my_dennys_sticky_kicks/",
+      "rank": 10,
+      "hot_score": 0.679
     },
     {
-      "title": "Product Authenticity Thursday November 12, 2026",
-      "subreddit": "AsianBeauty",
-      "age_hours": 15.7,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xu9wx8/product_authenticity_thursday_november_12_2026/",
-      "rank": 6,
-      "hot_score": 0.5
+      "title": "Seriously starting to run out of space",
+      "subreddit": "lego",
+      "age_hours": 5.6,
+      "url": "https://www.reddit.com/r/lego/comments/1xvjcck/seriously_starting_to_run_out_of_space/",
+      "rank": 9,
+      "hot_score": 0.667
     },
     {
-      "title": "Why have K-pop beauty standards shifted toward the Chinese Douyin style?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 19.1,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xu6osw/why_have_kpop_beauty_standards_shifted_toward_the/",
-      "rank": 7,
-      "hot_score": 0.4
+      "title": "Found this in a box at my parents house",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 29.7,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xuo7nl/found_this_in_a_box_at_my_parents_house/",
+      "rank": 3,
+      "hot_score": 0.667
     },
     {
-      "title": "Matte powder for dry skin?",
-      "subreddit": "AsianBeauty",
-      "age_hours": 25.9,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xtyyvk/matte_powder_for_dry_skin/",
-      "rank": 7,
-      "hot_score": 0.4
-    },
-    {
-      "title": "Has there been a kpop controversy where the whole Korean gp cared about?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 23.9,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xu1dvr/has_there_been_a_kpop_controversy_where_the_whole/",
-      "rank": 8,
-      "hot_score": 0.3
-    },
-    {
-      "title": "Yesstyle Surprise Duo Guidelines",
-      "subreddit": "AsianBeauty",
-      "age_hours": 26.4,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xtyc5e/yesstyle_surprise_duo_guidelines/",
-      "rank": 8,
-      "hot_score": 0.3
-    },
-    {
-      "title": "What are your top 10 all time timeless/god-tier kpop songs?",
-      "subreddit": "kpopthoughts",
+      "title": "Is there a more beautiful reverse holo than Unseen Forces?",
+      "subreddit": "PokemonTCG",
       "age_hours": 20.2,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xu5lc6/what_are_your_top_10_all_time_timelessgodtier/",
-      "rank": 9,
-      "hot_score": 0.2
-    },
-    {
-      "title": "Looking for a dupe of innisfree UV Active Poreless sunscreen (now discontinued)",
-      "subreddit": "AsianBeauty",
-      "age_hours": 23.2,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xu27q7/looking_for_a_dupe_of_innisfree_uv_active/",
-      "rank": 9,
-      "hot_score": 0.2
-    },
-    {
-      "title": "Why Haven’t Many Groups Released Songs In Chinese?",
-      "subreddit": "kpopthoughts",
-      "age_hours": 21.7,
-      "url": "https://www.reddit.com/r/kpopthoughts/comments/1xu3zbd/why_havent_many_groups_released_songs_in_chinese/",
+      "url": "https://www.reddit.com/r/PokemonTCG/comments/1xv0c7p/is_there_a_more_beautiful_reverse_holo_than/",
       "rank": 10,
-      "hot_score": 0.1
+      "hot_score": 0.64
     },
     {
-      "title": "Oppinions on the ILSO Deep Clean Master tool?",
-      "subreddit": "AsianBeauty",
-      "age_hours": 33.0,
-      "url": "https://www.reddit.com/r/AsianBeauty/comments/1xtoebr/oppinions_on_the_ilso_deep_clean_master_tool/",
+      "title": "Set 8865 - Test Car - Unforgettable",
+      "subreddit": "lego",
+      "age_hours": 17.1,
+      "url": "https://www.reddit.com/r/lego/comments/1xv3eob/set_8865_test_car_unforgettable/",
       "rank": 10,
-      "hot_score": 0.1
+      "hot_score": 0.625
+    },
+    {
+      "title": "Black friday sale well utilized",
+      "subreddit": "funkopop",
+      "age_hours": 11.0,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvausx/black_friday_sale_well_utilized/",
+      "rank": 7,
+      "hot_score": 0.625
+    },
+    {
+      "title": "Got some great deals!",
+      "subreddit": "funkopop",
+      "age_hours": 9.6,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvczr1/got_some_great_deals/",
+      "rank": 8,
+      "hot_score": 0.562
+    },
+    {
+      "title": "Haul for today.",
+      "subreddit": "funkopop",
+      "age_hours": 4.6,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvkv29/haul_for_today/",
+      "rank": 9,
+      "hot_score": 0.5
+    },
+    {
+      "title": "1999 Fossil Packs Sealed, local auction find",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 4.9,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xvkidu/1999_fossil_packs_sealed_local_auction_find/",
+      "rank": 4,
+      "hot_score": 0.5
+    },
+    {
+      "title": "Bootleg i found in a dollar store😭",
+      "subreddit": "funkopop",
+      "age_hours": 0.1,
+      "url": "https://www.reddit.com/r/funkopop/comments/1xvqtbe/bootleg_i_found_in_a_dollar_store/",
+      "rank": 10,
+      "hot_score": 0.438
+    },
+    {
+      "title": "The Start of My Species Collection",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 22.8,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xuxgq1/the_start_of_my_species_collection/",
+      "rank": 5,
+      "hot_score": 0.333
+    },
+    {
+      "title": "Rare japanese jigglypuff",
+      "subreddit": "pkmntcgcollections",
+      "age_hours": 2.0,
+      "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xvohld/rare_japanese_jigglypuff/",
+      "rank": 6,
+      "hot_score": 0.167
     }
   ],
   "failed": [
-    "r/funkopop: HTTP 429",
-    "r/Sneakers: HTTP 429"
+    "r/AsianBeauty: HTTP 429"
   ]
 }
