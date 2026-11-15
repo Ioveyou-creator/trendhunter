@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-14T02:28:53+00:00",
+  "fetched_at": "2026-11-15T01:57:30+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "trail blazers vs kings",
+      "keyword": "nz vs ind",
+      "traffic": 10000,
+      "traffic_label": "10000+",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tJc1ikQ4gvsJL92JovShhr69nRqVZNunx3lCNT1mo9W_Gg7Rdxg3PhpxC1U",
+      "news": [
+        {
+          "title": "NZ vs Ind, 5th ODI, Live Blog - NZ finally win a toss, decide to bowl in decider",
+          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/live-match-blog",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "NZ vs IND 5th ODI: India's misfiring batting seeks strong finish in Mount Maunganui",
+          "url": "https://www.cricbuzz.com/cricket-news/140900/nz-vs-ind-5th-odi-indias-misfiring-batting-seeks-strong-finish-in-mount-maunganui-cricbuzzcom",
+          "source": "Cricbuzz"
+        },
+        {
+          "title": "IND vs NZ, 5th ODI: India have 100 overs to win series, build confidence | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/ind-vs-nz-5th-odi-india-have-100-overs-to-win-series-build-confidence-101794660218979.html",
+          "source": "Hindustan Times"
+        }
+      ]
+    },
+    {
+      "keyword": "cade cunningham",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Fri, 13 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW__HLs6rXFiWQLtp_nLOFiU_UgExDuFvQN9bm73EstxiShudjm2_IIGAhmmE",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcoi6IdKr2HxWxEwoAO4xjuhGhFFWa9yD47ocY0aaGs_v3mnLKxr5cR-Gq7IM",
       "news": [
         {
-          "title": "Blazers vs Kings NBA Cup Preview",
-          "url": "https://www.blazersedge.com/gameday-coverage/118359/portland-trail-blazers-sacramento-kings-nba-cup-preview-injury-report-tv-time-news-darius-acuff",
-          "source": "Blazer's Edge"
+          "title": "Cade Cunningham's historic night puts Pistons past Wizards in 2OT thriller",
+          "url": "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
+          "source": "ESPN"
         },
         {
-          "title": "Blazers vs. Kings predictions, odds: Can Portland cover a big road number in Sacramento?",
-          "url": "https://www.oregonlive.com/betting/2026/11/blazers-vs-kings-predictions-odds-can-portland-cover-a-big-road-number-in-sacramento.html",
-          "source": "OregonLive.com"
+          "title": "Cade Cunningham makes NBA history with career night in Pistons’ 2OT win over Wizards - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7777903/2026/11/12/cade-cunningham-stats-points-pistons-wizards-score-results/",
+          "source": "The New York Times"
         },
         {
-          "title": "Portland Must Win To Keep NBA Cup Dreams Alive",
-          "url": "https://sports.yahoo.com/articles/portland-must-win-keep-nba-193915924.html",
+          "title": "Cade Cunningham scores career-high 52 points in Pistons' 144-140 win in 2OT over Wizards",
+          "url": "https://sports.yahoo.com/nba/article/cade-cunningham-scores-career-high-52-points-in-pistons-144-140-win-in-2ot-over-wizards-045008480.html",
           "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "predators vs golden knights",
+      "keyword": "zion williamson",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5yjvNydLhgkiqGiS1nu4z9G5vzIg0oiCqrIPeJhAydo1ep0UpMXVCrrL5L4s",
+      "news": [
+        {
+          "title": "Zion Williamson tears into Pelicans after 'unacceptable' loss to Nets: 'Go look yourself in the mirror'",
+          "url": "https://sports.yahoo.com/nba/article/zion-williamson-tears-into-pelicans-after-unacceptable-loss-to-nets-go-look-yourself-in-the-mirror-135005487.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Pelicans Notes: Zion, Mosley, Queen, Murray",
+          "url": "https://www.hoopsrumors.com/2026/11/pelicans-notes-zion-mosley-queen-murray.html",
+          "source": "Hoops Rumors"
+        },
+        {
+          "title": "Charles Barkley says Pelicans should be moved to a new city after another embarrassing loss",
+          "url": "https://www.nola.com/sports/pelicans/charles-barkley-pelicans-relocation-seattle/article_b58de74f-f589-472e-8ead-4eb413da687c.html",
+          "source": "NOLA.com"
+        }
+      ]
+    },
+    {
+      "keyword": "btc",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwMfeqAEviEsow6wAKLfHpkNdQzalBYIxSLpFLrt8zIHAjLj-GxmpRDnig44U",
+      "news": [
+        {
+          "title": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin is falling to fresh lows today: What’s causing the crypto decline?",
+          "url": "https://www.fastcompany.com/91642070/bitcoin-price-why-btc-down-today-inflation-outflows-more",
+          "source": "Fast Company"
+        }
+      ]
+    },
+    {
+      "keyword": "utah state vs san diego st",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Fri, 13 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0X6m0cECR9nNCahlLlYdlzpysTmtNYZJp8cIn2igr1WO4TBOb9EUkD7Kyhgk",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDUEbEo0xFHb-eaE9HKyRQgb4ME4gKmoPmtu93ot23HNydgwMCn-w_8afhyVI",
       "news": [
         {
-          "title": "NHL On Tap: Winning streaks collide for Predators, Golden Knights",
-          "url": "https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-13-2026",
-          "source": "NHL.com"
+          "title": "Utah State 120-82 UC San Diego (Nov 13, 2026) Game Recap",
+          "url": "https://www.espn.com/mens-college-basketball/recap/_/gameId/401920372",
+          "source": "ESPN"
         },
         {
-          "title": "Somethings Gotta Give: Surging Predators Visit Streaking Golden Knights",
-          "url": "https://sports.yahoo.com/videos/somethings-gotta-surging-predators-visit-004732618.html",
-          "source": "Yahoo Sports"
+          "title": "Utah State scores 120 points, beats UC San Diego by 38",
+          "url": "https://www.deseret.com/sports/2026/11/14/utah-state-scores-120-points-beats-uc-san-diego-by-38/",
+          "source": "Deseret News"
         },
         {
-          "title": "Nashville Predators vs Vegas Golden Knights Prediction, Picks & Odds | 13 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/nashville-predators-vs-vegas-golden-knights-prediction-odds-2026-11-13/",
-          "source": "Sportsgambler"
+          "title": "UC San Diego Tritons vs. Utah State Aggies Live Score and Stats - November 13, 2026 Gametracker",
+          "url": "https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20261113_CALSD@UTAHST/",
+          "source": "CBS Sports"
         }
       ]
     },
     {
-      "keyword": "anne hathaway",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 13 Nov 2026 17:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvbLVHHgEJBdwowx-RbMVz3FSQDqOcQ66JqFB93-MoLx9YNDsMzFm04QQvwY",
-      "news": [
-        {
-          "title": "What's New to Watch on HBO Max the Week of Nov. 13, 2026",
-          "url": "https://www.pcmag.com/news/whats-new-to-watch-on-hbo-max-streaming-this-week-nov-13-2026",
-          "source": "PCMag"
-        },
-        {
-          "title": "The 3 Best Movies to Watch on HBO Max This Week",
-          "url": "https://www.thewrap.com/creative-content/movies/3-best-movies-on-hbo-max-11-3-26/",
-          "source": "TheWrap"
-        },
-        {
-          "title": "HBO Max is adding 27 shows in November 2026 — here are the 2 I'm watching with 80% or higher on Rotten Tomatoes",
-          "url": "https://www.tomsguide.com/entertainment/hbo-max/hbo-max-is-adding-27-shows-in-november-2026-here-are-the-2-im-watching-with-80-percent-or-higher-on-rotten-tomatoes",
-          "source": "Tom's Guide"
-        }
-      ]
-    },
-    {
-      "keyword": "alabama basketball",
+      "keyword": "ausar thompson",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 13 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ0QktbAJ-x5izTL6hu2HR7mDbOZOHOW026zeBOICFKXWTSRllTNsiKI_2BAI",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPFhG6svwWmNToCmvzk_WZkjaDAr_zxHPTvMxnILBFXmIa5cSFQf_DaKFyDog",
       "news": [
         {
-          "title": "Can Alabama handle Seton Hall’s toughness? ‘A different deal’",
-          "url": "https://www.al.com/alabamafootball/2026/11/can-alabama-handle-seton-halls-toughness-a-different-deal.html",
-          "source": "AL.com"
+          "title": "Ausar Thompson rises up for the dunk",
+          "url": "https://www.nba.com/watch/video/ausar-thompson-rises-up-for-the-dunk-20",
+          "source": "NBA.com"
         },
         {
-          "title": "How to watch Seton Hall vs Alabama: Live stream NCAA College Basketball, TV channel",
-          "url": "https://sports.yahoo.com/articles/watch-seton-hall-vs-alabama-010000677.html",
-          "source": "Yahoo Sports"
+          "title": "Pistons get a preview of the All-Star version of Ausar Thompson",
+          "url": "https://pistonpowered.com/pistons-preview-star-version-ausar-thompson",
+          "source": "PistonPowered"
         },
         {
-          "title": "Alabama Basketball vs Seton Hall: 3 Keys, How to Watch",
-          "url": "https://www.rollbamaroll.com/alabama-crimson-tide-basketball/86520/alabama-basketball-vs-seton-hall-3-keys-how-to-watch",
-          "source": "Roll 'Bama Roll"
+          "title": "Ausar Thompson racks up triple-double in win over Wizards",
+          "url": "https://www.fantasypros.com/nba/news/619662/ausar-thompson-racks-up-triple-double-win-over-wizards.php",
+          "source": "FantasyPros"
         }
       ]
     },
     {
-      "keyword": "ty dieffenbach",
+      "keyword": "clima para amanhã",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 13 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYuC_gMfOnQodls8uqLBK9aBMytDXwrhHr2EDDsq2a4yHlsVbJIT2ZHRLu4UQ",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBuVxEY40d8VbE0COlDm4gAk2-JbAV6ynWQ6ZOnL_3M5dZqD1pE3-UERXMybw",
       "news": [
         {
-          "title": "UCLA quarterback Ty Dieffenbach named Big Ten Offensive Player of the Week",
-          "url": "https://247sports.com/college/ucla/article/ucla-quarterback-ty-dieffenbach-named-big-ten-offensive-player-of-the-week-292458229/",
-          "source": "247Sports"
+          "title": "Clima para amanhã em Florianópolis: manhã de sol dá lugar a chuva ao longo da tarde e da noite",
+          "url": "https://novo2026.portaldoholanda.com.br/florianopolis/clima-para-amanha-em-florianopolis-manha-de-sol-da-lugar-a-chuva-ao-longo-da-tarde-e-da-noite",
+          "source": "Portal do Holanda"
         },
         {
-          "title": "FOOTBALL-NCAA/",
-          "url": "https://pressofatlanticcity.com/sports/college/football/image_ef9e5554-aad1-55df-8ff7-283966c09c9b.html",
-          "source": "Press of Atlantic City"
+          "title": "Previsão do tempo em Florianópolis: 25°C com 59% de chance de chuva",
+          "url": "https://www.bra1.com.br/clima/id-699013/previsao_do_tempo_em_florianopolis__25_c_com_59__de_chance_de_chuva",
+          "source": "www.bra1.com.br"
         },
         {
-          "title": "Road Warriors",
-          "url": "https://bigten.org/news/2026/11/9/football-road-warriors.aspx",
-          "source": "Big Ten Conference"
+          "title": "Sexta de vento sul, domingo de ondas: a previsão em Florianópolis, 13 a 15 de novembro",
+          "url": "https://www.deolhonailha.com.br/florianopolis/noticias/previsao-ondas-florianopolis-13-15-novembro-2026/",
+          "source": "Deolhonailha"
         }
       ]
     },
     {
-      "keyword": "james gunn man of tomorrow rumors",
+      "keyword": "lindsay lohan",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Fri, 13 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWg2lN3G_nEgrm-_0-F1rcnN4GUlTahwbF7rrffssg9sphFG7KCOHxyvPL8z4",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrE-qMc_ez-vuXq7KlG_Bn9y_4_0vdaZ8vTNDAmSezaYH9qz4wl3KFeZnR198",
       "news": [
         {
-          "title": "James Gunn Says \"No One From Skydance Has Seen\" 'Man Of Tomorrow': \"There Are A Lot Of Untrue Rumors Going Around\"",
-          "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531/",
+          "title": "Russell Brand’s prison joke with Lindsay Lohan resurfaces",
+          "url": "https://www.news24.com.au/lifestyle/celebrity-life/russell-brands-prison-joke-with-lindsay-lohan-resurfaces-as-social-media-claims-the-actress-looks-extremely-uncomfortable-sitting-next-to-the-comedian/news-story/6f0445a258dc06ee02ea51ca7096b41c",
+          "source": "News24"
+        },
+        {
+          "title": "Lindsay Lohan retreated into sofa as she squirmed next to Russell Brand",
+          "url": "https://www.themirror.com/entertainment/lindsay-lohan-russell-brand-interview-2104320",
+          "source": "The Mirror US"
+        },
+        {
+          "title": "Moment Brand jokes with pal Jonathan Ross that he’s ‘looking at a 10 stretch’ - 13 years before fiend caged for rape",
+          "url": "https://www.thesun.co.uk/tvandshowbiz/41000247/russell-brand-jonathan-ross-rape-joke-resurfaces/",
+          "source": "The Sun"
+        }
+      ]
+    },
+    {
+      "keyword": "bill maher",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgCl72lYBJQqEaMTTHbRC01_0Nj0ZrcdpEAYiWJypM_pNd7XPIcivHxA5S48",
+      "news": [
+        {
+          "title": "‘Real Time’: Bill Maher Jokingly Attributes FAA Issues To Selma Blair",
+          "url": "https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/",
           "source": "Deadline"
         },
         {
-          "title": "Paramount Reportedly Isn’t Happy With James Gunn’s ‘Man of Tomorrow’",
-          "url": "https://www.imdb.com/news/ni66107774/?ref_=nmnw_art_perm",
+          "title": "Bill Maher Blames Selma Blair for Nationwide FAA Ground Stop",
+          "url": "https://www.tvinsider.com/1303741/billl-maher-blames-selma-blair-faa-ground-stop-real-time/",
+          "source": "TV Insider"
+        },
+        {
+          "title": "‘It could be Selma Blair’: Bill Maher jokes about her flight arrest after FAA outage",
+          "url": "https://indianexpress.com/article/entertainment/hollywood/bill-maher-jokes-about-selma-blair-flight-arrest-after-faa-outage-10962644/",
+          "source": "The Indian Express"
+        }
+      ]
+    },
+    {
+      "keyword": "endgame encore differences",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 14 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqmkJFBNkzwaG7qdklTzi6OuX00pFATd11nbz6Z-NVgpd2z8RFb5yhnsm784s",
+      "news": [
+        {
+          "title": "Avengers Endgame: Encore Is Now Streaming on Disney+",
+          "url": "https://www.imdb.com/news/ni66110652/?ref_=nwc_art_perm",
           "source": "IMDb"
         },
         {
-          "title": "2 DC Heroes Could Be Cut From Man of Tomorrow After James Gunn’s DCU Exit — Report",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/2-dc-heroes-could-cut-043415258.html",
-          "source": "Yahoo"
-        }
-      ]
-    },
-    {
-      "keyword": "canada vs",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Fri, 13 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9cjrMFk9hIZ7rUSdbaudQulxLp8v_Vyb8dxVZ0RvfSNDpwLtq-8SxALe1kmw",
-      "news": [
-        {
-          "title": "Canadian women pass stern test from Czechs at hockey worlds, advancing to semifinals",
-          "url": "https://www.cbc.ca/sports/hockey/canada-czechs-recap-quarterfinal-womens-hockey-worlds-denmark-9.7420897",
-          "source": "CBC"
+          "title": "Avengers Endgame: Encore: Streaming Details, Story, Cast & What To Watch Next | Explore Disney+",
+          "url": "https://www.disneyplus.com/explore/articles/avengers-endgame-encore",
+          "source": "Disney Plus"
         },
         {
-          "title": "Canada stumbles, but beats Czechia",
-          "url": "https://www.iihf.com/en/events/2026/ww/news/76907/cancze",
-          "source": "IIHF"
-        },
-        {
-          "title": "Canada, Finland advance to women's hockey worlds semifinals",
-          "url": "https://www.espn.com/olympics/hockey/story/_/id/50472841/canada-finland-advance-women-hockey-worlds-semifinals",
-          "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "xavier basketball",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 13 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5wrI2PFd4NX1P7_OSZ9RK9Q2WltmnPZ7Ro3jF7AEeI0lSxAm5XZpT8DJgsZE",
-      "news": [
-        {
-          "title": "The Matchup: Xavier vs Mississippi State",
-          "url": "https://247sports.com/college/xavier/article/xavier-musketeers-mississippi-state-bulldogs-basketball-how-to-watch-white-sulfur-springs-west-virginia-fs1-greenbrier-tip-off-colonial-hall-richard-pitino-chris-jans-292610836/",
-          "source": "247Sports"
-        },
-        {
-          "title": "Xavier vs Mississippi State Prediction, Picks & Odds | 13 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/xavier-musketeers-vs-mississippi-state-bulldogs-prediction-odds-2026-11-13/",
-          "source": "Sportsgambler"
-        },
-        {
-          "title": "Bulldogs face stiff challenge in men's basketball against Musketeers",
-          "url": "https://www.starkvilledailynews.com/sports/bulldogs-face-stiff-challenge-in-mens-basketball-against-musketeers/article_433e3574-85c7-42d0-ac3d-9c7767a62e69.html",
-          "source": "Starkville Daily News"
-        }
-      ]
-    },
-    {
-      "keyword": "umd basketball",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 13 Nov 2026 18:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2kNWLiFmiuioAL12Y2AO3OsGrJ9eOzy60jVcAKd8gNvezzZgN-ahF-UL5AE",
-      "news": [
-        {
-          "title": "Maryland Football Scoop: Smoke is billowing in Terps football's coaching search",
-          "url": "https://247sports.com/college/maryland/article/maryland-football-scoop-smoke-is-billowing-in-terps-footballs-coaching-search-292627108/",
-          "source": "247Sports"
-        },
-        {
-          "title": "MM 11.10: Maryland football earns first class of 2028 commitment",
-          "url": "https://www.testudotimes.com/maryland-terps-news/95111/mm-11-10-maryland-football-earns-first-class-of-2028-commitment",
-          "source": "Testudo Times"
-        },
-        {
-          "title": "Maryland Aggressively Recruiting the WPIAL",
-          "url": "https://www.on3.com/sites/pitt-sports-news/news/maryland-aggressively-recruiting-the-wpial/",
-          "source": "On3"
-        }
-      ]
-    },
-    {
-      "keyword": "duffy secretary of transportation",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 13 Nov 2026 18:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMi0LKZE5pYP-6zumYgth9359nqxbsBwgkLz6hHPyyd8BWs7h-PMbv5I_xFsw",
-      "news": [
-        {
-          "title": "Transportation Secretary Sean Duffy announces US airspace has reopened",
-          "url": "https://www.foxnews.com/video/6408364092112",
-          "source": "Fox News"
-        },
-        {
-          "title": "Video Some flights taking off over the ocean and in Alaska and Hawaii",
-          "url": "https://abcnews.com/video/138128099/",
+          "title": "'Avengers Endgame: Encore' comes to Disney+ ahead of 'Doomsday' release",
+          "url": "https://abcnews.com/GMA/Culture/avengers-endgame-encore-coming-disney-ahead-doomsday-release/story?id=138080392",
           "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Some flights taking off over the ocean and in Alaska and Hawaii",
-          "url": "https://www.centraloregondaily.com/news/nation-world/some-flights-taking-off-over-the-ocean-and-in-alaska-and-hawaii/video_a0475700-25c5-5599-8367-eee1aa8aa76a.html",
-          "source": "Central Oregon Daily"
         }
       ]
     }
