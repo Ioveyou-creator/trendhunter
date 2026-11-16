@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-16",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 75,
+   "rank": 1
+  },
+  {
+   "id": "9f050d512a",
+   "title": "TXT 'PERFECT STORM'",
+   "query": "txt perfect storm",
+   "score": 65,
+   "rank": 2
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 55,
+   "rank": 4
+  },
+  {
+   "id": "69779fbca5",
+   "title": "ILLIT - You're Under Arrest + It's Me @ The 18th Melon Music Awards (MMA 2026) Day 2 (261115)",
+   "query": "ILLIT",
+   "score": 45,
+   "rank": 5
+  },
+  {
+   "id": "376ebaffaa",
+   "title": "aespa Karina - Marie Claire Korea x Boucheron (December 2026 Issue Cover)",
+   "query": "aespa Marie Claire Korea x Boucheron",
+   "score": 44,
+   "rank": 6
+  },
+  {
+   "id": "58e3a69f56",
+   "title": "kurt russell",
+   "query": "kurt russell",
+   "score": 39,
+   "rank": 7
+  },
+  {
+   "id": "6f7921e39c",
+   "title": "robert pattinson twilight",
+   "query": "robert pattinson twilight",
+   "score": 37,
+   "rank": 8
+  }
+ ]
+}
