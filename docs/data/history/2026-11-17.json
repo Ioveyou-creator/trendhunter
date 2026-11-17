@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-17",
+ "candidates": [
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 75,
+   "rank": 1
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 66,
+   "rank": 2
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 65,
+   "rank": 3
+  },
+  {
+   "id": "499004d098",
+   "title": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
+   "query": "Humble Binder Collection Now Opening Christmas",
+   "score": 50,
+   "rank": 4
+  },
+  {
+   "id": "bca5a25fac",
+   "title": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
+   "query": "1st title surpass 1M physical units",
+   "score": 45,
+   "rank": 5
+  },
+  {
+   "id": "724c811144",
+   "title": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
+   "query": "Pull pack ever ETB",
+   "score": 44,
+   "rank": 6
+  },
+  {
+   "id": "8235fcae55",
+   "title": "Blackpink absent from YG's latest exclusive contract list for Q3",
+   "query": "Blackpink absent YG latest exclusive contract",
+   "score": 44,
+   "rank": 7
+  }
+ ]
+}

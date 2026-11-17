@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-16T02:17:09+00:00",
+  "generated_at": "2026-11-17T04:41:04+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-16T02:12:21+00:00"
+      "fetched_at": "2026-11-17T04:32:02+00:00"
     },
     "reddit": {
       "ok": true,
-      "count": 110,
+      "count": 101,
       "error": null,
-      "fetched_at": "2026-11-16T02:17:09+00:00"
+      "fetched_at": "2026-11-17T04:41:04+00:00"
     },
     "events": {
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null,
-      "fetched_at": "2026-11-16T02:17:09+00:00"
+      "fetched_at": "2026-11-17T04:41:04+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 75,
       "reasons": [
-        "이벤트 D-11 (2026-11-27), 지금 준비할 때",
+        "이벤트 D-10 (2026-11-27), 지금 준비할 때",
         "다른 소스에서 1건 언급"
       ],
       "sources": [
@@ -48,7 +48,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 11,
+        "days_left": 10,
         "prep_by": "2026-10-30",
         "status": "prepare_now"
       },
@@ -67,40 +67,52 @@
       }
     },
     {
-      "title": "TXT 'PERFECT STORM'",
-      "query": "txt perfect storm",
-      "category": "kpop",
-      "score": 65,
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 66,
       "reasons": [
-        "이벤트 D-0 (2026-11-16), 지금 준비할 때"
+        "이벤트 D-38 (2026-12-25), 준비 예정",
+        "다른 소스에서 2건 언급"
       ],
       "sources": [
-        "events"
+        "events",
+        "reddit"
       ],
       "evidence": [
         {
           "source": "events",
-          "text": "TXT 'PERFECT STORM'",
-          "url": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/"
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
+          "url": ""
+        },
+        {
+          "source": "reddit",
+          "text": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
+          "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xy1nn3/pov_your_humble_binder_collection_now_opening/"
+        },
+        {
+          "source": "reddit",
+          "text": "Christmas gift ideas!",
+          "url": "https://www.reddit.com/r/BuyItForLife/comments/1xxupub/christmas_gift_ideas/"
         }
       ],
       "event": {
-        "date": "2026-11-16",
-        "days_left": 0,
-        "prep_by": "2026-11-13",
-        "status": "prepare_now"
+        "date": "2026-12-25",
+        "days_left": 38,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
       },
-      "id": "9f050d512a",
-      "category_label": "K-pop",
+      "id": "90f88a9324",
+      "category_label": "시즌",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=txt+perfect+storm",
-        "naver": "https://search.shopping.naver.com/search/all?query=txt+perfect+storm"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
       },
       "trend": {
         "status": "same",
-        "prev_rank": 2,
-        "rank_change": 0,
+        "prev_rank": 4,
+        "rank_change": 2,
         "streak": 15
       }
     },
@@ -110,7 +122,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-14 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-13 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -124,7 +136,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 14,
+        "days_left": 13,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -143,59 +155,14 @@
       }
     },
     {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 55,
+      "title": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
+      "query": "Humble Binder Collection Now Opening Christmas",
+      "category": "collectibles",
+      "score": 50,
       "reasons": [
-        "이벤트 D-39 (2026-12-25), 준비 예정",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        },
-        {
-          "source": "reddit",
-          "text": "Almost time to break these out! Bron 8 V2 Christmas. What he wore vs Kobe as Kobe wore the Grinch 6s.",
-          "url": "https://www.reddit.com/r/Sneakers/comments/1xx7g73/almost_time_to_break_these_out_bron_8_v2/"
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 39,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
-        "status": "up",
-        "prev_rank": 7,
-        "rank_change": 3,
-        "streak": 15
-      }
-    },
-    {
-      "title": "ILLIT - You're Under Arrest + It's Me @ The 18th Melon Music Awards (MMA 2026) Day 2 (261115)",
-      "query": "ILLIT",
-      "category": "kculture",
-      "score": 45,
-      "reasons": [
-        "r/kpop hot #3",
-        "상품 신호: 모델명",
-        "브랜드/IP: illit"
+        "r/pkmntcgcollections hot #3",
+        "상품 신호: 구매·개봉",
+        "다가오는 이벤트와 연결: Christmas (D-38)"
       ],
       "sources": [
         "reddit"
@@ -203,16 +170,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "ILLIT - You're Under Arrest + It's Me @ The 18th Melon Music Awards (MMA 2026) Day 2 (261115)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xwvzry/illit_youre_under_arrest_its_me_the_18th_melon/"
+          "text": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
+          "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xy1nn3/pov_your_humble_binder_collection_now_opening/"
         }
       ],
-      "id": "69779fbca5",
-      "category_label": "K-컬처",
+      "id": "499004d098",
+      "category_label": "수집품",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ILLIT&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ILLIT",
-        "naver": "https://search.shopping.naver.com/search/all?query=ILLIT"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Humble+Binder+Collection+Now+Opening+Christmas&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Humble+Binder+Collection+Now+Opening+Christmas",
+        "naver": "https://search.shopping.naver.com/search/all?query=Humble+Binder+Collection+Now+Opening+Christmas"
       },
       "trend": {
         "status": "new",
@@ -222,14 +189,81 @@
       }
     },
     {
-      "title": "aespa Karina - Marie Claire Korea x Boucheron (December 2026 Issue Cover)",
-      "query": "aespa Marie Claire Korea x Boucheron",
+      "title": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
+      "query": "1st title surpass 1M physical units",
+      "category": "gaming",
+      "score": 45,
+      "reasons": [
+        "r/NintendoSwitch hot #1",
+        "상품 신호: 출시",
+        "브랜드/IP: zelda"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
+          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xy5hgy/circana_after_just_one_week_in_market_the_legend/"
+        }
+      ],
+      "id": "bca5a25fac",
+      "category_label": "게임",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=1st+title+surpass+1M+physical+units&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=1st+title+surpass+1M+physical+units",
+        "naver": "https://search.shopping.naver.com/search/all?query=1st+title+surpass+1M+physical+units"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
+      "query": "Pull pack ever ETB",
+      "category": "collectibles",
+      "score": 44,
+      "reasons": [
+        "r/PokemonTCG hot #7",
+        "상품 신호: 구매·개봉, TCG·수집"
+      ],
+      "sources": [
+        "reddit"
+      ],
+      "evidence": [
+        {
+          "source": "reddit",
+          "text": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
+          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xy1n08/pull_from_the_first_pack_out_of_my_first_ever_etb/"
+        }
+      ],
+      "id": "724c811144",
+      "category_label": "수집품",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Pull+pack+ever+ETB&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Pull+pack+ever+ETB",
+        "naver": "https://search.shopping.naver.com/search/all?query=Pull+pack+ever+ETB"
+      },
+      "trend": {
+        "status": "new",
+        "prev_rank": null,
+        "rank_change": 0,
+        "streak": 1
+      }
+    },
+    {
+      "title": "Blackpink absent from YG's latest exclusive contract list for Q3",
+      "query": "Blackpink absent YG latest exclusive contract",
       "category": "kculture",
       "score": 44,
       "reasons": [
-        "r/kpop hot #9",
-        "상품 신호: 콜라보",
-        "브랜드/IP: aespa"
+        "r/kpop hot #10",
+        "상품 신호: 한정판",
+        "브랜드/IP: blackpink"
       ],
       "sources": [
         "reddit"
@@ -237,102 +271,16 @@
       "evidence": [
         {
           "source": "reddit",
-          "text": "aespa Karina - Marie Claire Korea x Boucheron (December 2026 Issue Cover)",
-          "url": "https://www.reddit.com/r/kpop/comments/1xwsopk/aespa_karina_marie_claire_korea_x_boucheron/"
+          "text": "Blackpink absent from YG's latest exclusive contract list for Q3",
+          "url": "https://www.reddit.com/r/kpop/comments/1xxngvz/blackpink_absent_from_ygs_latest_exclusive/"
         }
       ],
-      "id": "376ebaffaa",
+      "id": "8235fcae55",
       "category_label": "K-컬처",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aespa+Marie+Claire+Korea+x+Boucheron&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aespa+Marie+Claire+Korea+x+Boucheron",
-        "naver": "https://search.shopping.naver.com/search/all?query=aespa+Marie+Claire+Korea+x+Boucheron"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "kurt russell",
-      "query": "kurt russell",
-      "category": "trend",
-      "score": 39,
-      "reasons": [
-        "미국 검색 급상승 1000+",
-        "상품 신호: 출시"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "kurt russell (1000+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "New Christmas Movies Coming Out In 2026 On Netflix, Prime Video",
-          "url": "https://deadline.com/lists/new-christmas-movies-2026-streaming/"
-        },
-        {
-          "source": "news",
-          "text": "5 best Christmas movies on Netflix to get you in the festive spirit",
-          "url": "https://www.yahoo.com/entertainment/movies/articles/5-best-christmas-movies-netflix-061500882.html"
-        }
-      ],
-      "id": "58e3a69f56",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kurt+russell&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kurt+russell",
-        "naver": "https://search.shopping.naver.com/search/all?query=kurt+russell"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "robert pattinson twilight",
-      "query": "robert pattinson twilight",
-      "category": "trend",
-      "score": 37,
-      "reasons": [
-        "미국 검색 급상승 500+",
-        "상품 신호: 출시"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "robert pattinson twilight (500+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Netflix’s Twilight Reboot Officially Replaces Robert Pattinson and Kristen Stewart",
-          "url": "https://www.imdb.com/news/ni66102458/?ref_=ttnw_art_perm"
-        },
-        {
-          "source": "news",
-          "text": "News we didn’t see coming: The new Twilight officially gets a new Edward and Bella",
-          "url": "https://vogueadria.com/novi-twilight-netflix/"
-        }
-      ],
-      "id": "6f7921e39c",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=robert+pattinson+twilight&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=robert+pattinson+twilight",
-        "naver": "https://search.shopping.naver.com/search/all?query=robert+pattinson+twilight"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Blackpink+absent+YG+latest+exclusive+contract&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Blackpink+absent+YG+latest+exclusive+contract",
+        "naver": "https://search.shopping.naver.com/search/all?query=Blackpink+absent+YG+latest+exclusive+contract"
       },
       "trend": {
         "status": "new",
@@ -344,30 +292,10 @@
   ],
   "events": [
     {
-      "name": "TXT 'PERFECT STORM'",
-      "category": "kpop",
-      "date": "2026-11-16",
-      "days_left": 0,
-      "prep_by": "2026-11-13",
-      "lead_days": 3,
-      "status": "prepare_now",
-      "keywords": [
-        "txt perfect storm",
-        "txt photocard"
-      ],
-      "match": [
-        "txt",
-        "tomorrow x together"
-      ],
-      "note": "",
-      "source": "https://kpopofficial.com/kpop-comeback-schedule-november-2026/",
-      "kind": "once"
-    },
-    {
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "prepare_now",
@@ -385,7 +313,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 14,
+      "days_left": 13,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -403,7 +331,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 39,
+      "days_left": 38,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -421,140 +349,137 @@
   ],
   "other_trends": [
     {
-      "keyword": "dan hicks wife",
-      "traffic_label": "10000+",
+      "keyword": "pak vs sl",
+      "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=dan+hicks+wife&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=dan+hicks+wife",
-        "naver": "https://search.shopping.naver.com/search/all?query=dan+hicks+wife"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pak+vs+sl&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pak+vs+sl",
+        "naver": "https://search.shopping.naver.com/search/all?query=pak+vs+sl"
       }
     },
     {
-      "keyword": "chris pratt",
-      "traffic_label": "1000+",
+      "keyword": "malware",
+      "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chris+pratt&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chris+pratt",
-        "naver": "https://search.shopping.naver.com/search/all?query=chris+pratt"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=malware&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=malware",
+        "naver": "https://search.shopping.naver.com/search/all?query=malware"
       }
     },
     {
-      "keyword": "amarius mims",
+      "keyword": "greta thunberg",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=amarius+mims&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=amarius+mims",
-        "naver": "https://search.shopping.naver.com/search/all?query=amarius+mims"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=greta+thunberg&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=greta+thunberg",
+        "naver": "https://search.shopping.naver.com/search/all?query=greta+thunberg"
       }
     },
     {
-      "keyword": "josh hart",
-      "traffic_label": "500+",
+      "keyword": "texas southern basketball",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=josh+hart&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=josh+hart",
-        "naver": "https://search.shopping.naver.com/search/all?query=josh+hart"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=texas+southern+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=texas+southern+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=texas+southern+basketball"
       }
     },
     {
-      "keyword": "kawhi leonard",
-      "traffic_label": "500+",
+      "keyword": "chris moore",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kawhi+leonard&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kawhi+leonard",
-        "naver": "https://search.shopping.naver.com/search/all?query=kawhi+leonard"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chris+moore&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chris+moore",
+        "naver": "https://search.shopping.naver.com/search/all?query=chris+moore"
       }
     },
     {
-      "keyword": "perine",
-      "traffic_label": "500+",
+      "keyword": "demar derozan",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=perine&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=perine",
-        "naver": "https://search.shopping.naver.com/search/all?query=perine"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan",
+        "naver": "https://search.shopping.naver.com/search/all?query=demar+derozan"
       }
     },
     {
-      "keyword": "south fulton police fugitive search",
-      "traffic_label": "500+",
+      "keyword": "john christopher depp",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=south+fulton+police+fugitive+search&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=south+fulton+police+fugitive+search",
-        "naver": "https://search.shopping.naver.com/search/all?query=south+fulton+police+fugitive+search"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=john+christopher+depp&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=john+christopher+depp",
+        "naver": "https://search.shopping.naver.com/search/all?query=john+christopher+depp"
       }
     },
     {
-      "keyword": "goldie hawn",
-      "traffic_label": "500+",
+      "keyword": "travel warning",
+      "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=goldie+hawn&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=goldie+hawn",
-        "naver": "https://search.shopping.naver.com/search/all?query=goldie+hawn"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=travel+warning&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=travel+warning",
+        "naver": "https://search.shopping.naver.com/search/all?query=travel+warning"
+      }
+    },
+    {
+      "keyword": "pax silica",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pax+silica&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pax+silica",
+        "naver": "https://search.shopping.naver.com/search/all?query=pax+silica"
+      }
+    },
+    {
+      "keyword": "portland state basketball",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=portland+state+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=portland+state+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=portland+state+basketball"
       }
     }
   ],
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "dropped": [
     {
-      "id": "82d894bb54",
-      "title": "JENNIE is reportedly set to release a new track titled “Power Trip” for Grand Theft Auto VI: The Album.",
-      "query": "JENNIE reportedly set release track titled",
-      "score": 60,
-      "rank": 4
+      "id": "9f050d512a",
+      "title": "TXT 'PERFECT STORM'",
+      "query": "txt perfect storm",
+      "score": 65,
+      "rank": 2
     },
     {
-      "id": "521525de89",
-      "title": "Lucky Luke: The Lonesome Cowboy Collection announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC",
-      "query": "Lonesome Cowboy Collection announced PS5 Xbox",
-      "score": 59,
+      "id": "69779fbca5",
+      "title": "ILLIT - You're Under Arrest + It's Me @ The 18th Melon Music Awards (MMA 2026) Day 2 (261115)",
+      "query": "ILLIT",
+      "score": 45,
       "rank": 5
     },
     {
-      "id": "bcfb208cdc",
-      "title": "Hi, I'm Onat, co-founder of Slow Bros. and director & composer of Harold Halibut, our handmade adventure that just launched on Nintendo Switch 2. AMA!",
-      "query": "director composer Harold Halibut handmade adventure",
-      "score": 45,
+      "id": "376ebaffaa",
+      "title": "aespa Karina - Marie Claire Korea x Boucheron (December 2026 Issue Cover)",
+      "query": "aespa Marie Claire Korea x Boucheron",
+      "score": 44,
       "rank": 6
     },
     {
-      "id": "2abfaf556e",
-      "title": "K/DA (i-dle SOYEON & MIYEON, Sophie Powers & Mimi Webb) and True Damage (i-dle SOYEON, Coco Jones, Sofía Reyes & Vic Mensa) - MORE + THE BADDEST + VILLAIN + POP/STARS + FIRESTARTER + Know My Name @ Worlds 2026 Final Opening Ceremony Presented by Mastercard (261115)",
-      "query": "BADDEST VILLAIN POP STARS FIRESTARTER Know",
-      "score": 44,
-      "rank": 8
+      "id": "58e3a69f56",
+      "title": "kurt russell",
+      "query": "kurt russell",
+      "score": 39,
+      "rank": 7
     },
     {
-      "id": "45f0840f76",
-      "title": "Famitsu: The Legend of Zelda Ocarina of Time was the #1 game in Japan this week selling 537,041 retail units at launch",
-      "query": "Legend Zelda Ocarina Time 1 game",
-      "score": 44,
-      "rank": 9
-    },
-    {
-      "id": "02dd907365",
-      "title": "ITZY CHAERYEONG with ILLIT WONHEE - Lovesick (Dance Challenge) (261114)",
-      "query": "ITZY CHAERYEONG ILLIT WONHEE",
-      "score": 44,
-      "rank": 10
-    },
-    {
-      "id": "40163a1cd6",
-      "title": "Funko Mystery Haul",
-      "query": "Funko Mystery Haul",
-      "score": 38,
-      "rank": 11
-    },
-    {
-      "id": "b5810a7577",
-      "title": "endgame encore differences",
-      "query": "endgame encore differences",
+      "id": "6f7921e39c",
+      "title": "robert pattinson twilight",
+      "query": "robert pattinson twilight",
       "score": 37,
-      "rank": 12
+      "rank": 8
     }
   ],
   "history": {
-    "date": "2026-11-16",
-    "previous_date": "2026-11-15",
+    "date": "2026-11-17",
+    "previous_date": "2026-11-16",
     "new_count": 4
   }
 }
