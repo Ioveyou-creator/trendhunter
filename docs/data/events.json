@@ -1,6 +1,6 @@
 {
   "source": "events",
-  "fetched_at": "2026-11-17T04:41:04+00:00",
+  "fetched_at": "2026-11-18T03:53:42+00:00",
   "ok": true,
   "error": null,
   "count": 3,
@@ -9,10 +9,10 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-10-30",
       "lead_days": 28,
-      "status": "prepare_now",
+      "status": "too_late",
       "keywords": [
         "black friday deals"
       ],
@@ -27,7 +27,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -45,7 +45,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 38,
+      "days_left": 37,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -61,5 +61,5 @@
       "kind": "yearly"
     }
   ],
-  "today": "2026-11-17"
+  "today": "2026-11-18"
 }

@@ -1,128 +1,33 @@
 {
-  "generated_at": "2026-11-17T04:41:04+00:00",
+  "generated_at": "2026-11-18T03:53:42+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-17T04:32:02+00:00"
+      "fetched_at": "2026-11-18T03:43:18+00:00"
     },
     "reddit": {
-      "ok": true,
-      "count": 101,
-      "error": null,
-      "fetched_at": "2026-11-17T04:41:04+00:00"
+      "ok": false,
+      "count": 0,
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 429, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 429, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 429, r/funkopop: HTTP 404, r/lego: HTTP 404, r/Sneakers: HTTP 429, r/kpop: HTTP 429, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 429, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 429",
+      "fetched_at": "2026-11-18T03:53:42+00:00"
     },
     "events": {
       "ok": true,
       "count": 3,
       "error": null,
-      "fetched_at": "2026-11-17T04:41:04+00:00"
+      "fetched_at": "2026-11-18T03:53:42+00:00"
     }
   },
   "candidates": [
-    {
-      "title": "Black Friday",
-      "query": "black friday deals",
-      "category": "season",
-      "score": 75,
-      "reasons": [
-        "이벤트 D-10 (2026-11-27), 지금 준비할 때",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Black Friday",
-          "url": ""
-        },
-        {
-          "source": "reddit",
-          "text": "What BIFL items are you waiting for Black Friday to buy?",
-          "url": "https://www.reddit.com/r/BuyItForLife/comments/1xx9w8w/what_bifl_items_are_you_waiting_for_black_friday/"
-        }
-      ],
-      "event": {
-        "date": "2026-11-27",
-        "days_left": 10,
-        "prep_by": "2026-10-30",
-        "status": "prepare_now"
-      },
-      "id": "d076c6152a",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 1,
-        "rank_change": 0,
-        "streak": 15
-      }
-    },
-    {
-      "title": "Christmas",
-      "query": "christmas gift",
-      "category": "season",
-      "score": 66,
-      "reasons": [
-        "이벤트 D-38 (2026-12-25), 준비 예정",
-        "다른 소스에서 2건 언급"
-      ],
-      "sources": [
-        "events",
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
-          "url": ""
-        },
-        {
-          "source": "reddit",
-          "text": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
-          "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xy1nn3/pov_your_humble_binder_collection_now_opening/"
-        },
-        {
-          "source": "reddit",
-          "text": "Christmas gift ideas!",
-          "url": "https://www.reddit.com/r/BuyItForLife/comments/1xxupub/christmas_gift_ideas/"
-        }
-      ],
-      "event": {
-        "date": "2026-12-25",
-        "days_left": 38,
-        "prep_by": "2026-11-25",
-        "status": "upcoming"
-      },
-      "id": "90f88a9324",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
-        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 4,
-        "rank_change": 2,
-        "streak": 15
-      }
-    },
     {
       "title": "Cyber Monday",
       "query": "cyber monday deals",
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-13 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-12 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -136,7 +41,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 13,
+        "days_left": 12,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -150,143 +55,84 @@
       "trend": {
         "status": "same",
         "prev_rank": 3,
+        "rank_change": 2,
+        "streak": 15
+      }
+    },
+    {
+      "title": "Christmas",
+      "query": "christmas gift",
+      "category": "season",
+      "score": 46,
+      "reasons": [
+        "이벤트 D-37 (2026-12-25), 준비 예정"
+      ],
+      "sources": [
+        "events"
+      ],
+      "evidence": [
+        {
+          "source": "events",
+          "text": "미국 USPS 국제우편 연말 마감이 빨라서 여유 있게 준비",
+          "url": ""
+        }
+      ],
+      "event": {
+        "date": "2026-12-25",
+        "days_left": 37,
+        "prep_by": "2026-11-25",
+        "status": "upcoming"
+      },
+      "id": "90f88a9324",
+      "category_label": "시즌",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christmas+gift",
+        "naver": "https://search.shopping.naver.com/search/all?query=christmas+gift"
+      },
+      "trend": {
+        "status": "same",
+        "prev_rank": 2,
         "rank_change": 0,
         "streak": 15
       }
     },
     {
-      "title": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
-      "query": "Humble Binder Collection Now Opening Christmas",
-      "category": "collectibles",
-      "score": 50,
+      "title": "Black Friday",
+      "query": "black friday deals",
+      "category": "season",
+      "score": 20,
       "reasons": [
-        "r/pkmntcgcollections hot #3",
-        "상품 신호: 구매·개봉",
-        "다가오는 이벤트와 연결: Christmas (D-38)"
+        "이벤트 D-9 (2026-11-27), 배송 시간 부족"
       ],
       "sources": [
-        "reddit"
+        "events"
       ],
       "evidence": [
         {
-          "source": "reddit",
-          "text": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
-          "url": "https://www.reddit.com/r/pkmntcgcollections/comments/1xy1nn3/pov_your_humble_binder_collection_now_opening/"
+          "source": "events",
+          "text": "Black Friday",
+          "url": ""
         }
       ],
-      "id": "499004d098",
-      "category_label": "수집품",
+      "event": {
+        "date": "2026-11-27",
+        "days_left": 9,
+        "prep_by": "2026-10-30",
+        "status": "too_late"
+      },
+      "id": "d076c6152a",
+      "category_label": "시즌",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Humble+Binder+Collection+Now+Opening+Christmas&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Humble+Binder+Collection+Now+Opening+Christmas",
-        "naver": "https://search.shopping.naver.com/search/all?query=Humble+Binder+Collection+Now+Opening+Christmas"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
+        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
       },
       "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
-      "query": "1st title surpass 1M physical units",
-      "category": "gaming",
-      "score": 45,
-      "reasons": [
-        "r/NintendoSwitch hot #1",
-        "상품 신호: 출시",
-        "브랜드/IP: zelda"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
-          "url": "https://www.reddit.com/r/NintendoSwitch/comments/1xy5hgy/circana_after_just_one_week_in_market_the_legend/"
-        }
-      ],
-      "id": "bca5a25fac",
-      "category_label": "게임",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=1st+title+surpass+1M+physical+units&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=1st+title+surpass+1M+physical+units",
-        "naver": "https://search.shopping.naver.com/search/all?query=1st+title+surpass+1M+physical+units"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
-      "query": "Pull pack ever ETB",
-      "category": "collectibles",
-      "score": 44,
-      "reasons": [
-        "r/PokemonTCG hot #7",
-        "상품 신호: 구매·개봉, TCG·수집"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
-          "url": "https://www.reddit.com/r/PokemonTCG/comments/1xy1n08/pull_from_the_first_pack_out_of_my_first_ever_etb/"
-        }
-      ],
-      "id": "724c811144",
-      "category_label": "수집품",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Pull+pack+ever+ETB&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Pull+pack+ever+ETB",
-        "naver": "https://search.shopping.naver.com/search/all?query=Pull+pack+ever+ETB"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Blackpink absent from YG's latest exclusive contract list for Q3",
-      "query": "Blackpink absent YG latest exclusive contract",
-      "category": "kculture",
-      "score": 44,
-      "reasons": [
-        "r/kpop hot #10",
-        "상품 신호: 한정판",
-        "브랜드/IP: blackpink"
-      ],
-      "sources": [
-        "reddit"
-      ],
-      "evidence": [
-        {
-          "source": "reddit",
-          "text": "Blackpink absent from YG's latest exclusive contract list for Q3",
-          "url": "https://www.reddit.com/r/kpop/comments/1xxngvz/blackpink_absent_from_ygs_latest_exclusive/"
-        }
-      ],
-      "id": "8235fcae55",
-      "category_label": "K-컬처",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=Blackpink+absent+YG+latest+exclusive+contract&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=Blackpink+absent+YG+latest+exclusive+contract",
-        "naver": "https://search.shopping.naver.com/search/all?query=Blackpink+absent+YG+latest+exclusive+contract"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
+        "status": "same",
+        "prev_rank": 1,
+        "rank_change": -2,
+        "streak": 15
       }
     }
   ],
@@ -295,10 +141,10 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 10,
+      "days_left": 9,
       "prep_by": "2026-10-30",
       "lead_days": 28,
-      "status": "prepare_now",
+      "status": "too_late",
       "keywords": [
         "black friday deals"
       ],
@@ -313,7 +159,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 13,
+      "days_left": 12,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -331,7 +177,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 38,
+      "days_left": 37,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -349,137 +195,130 @@
   ],
   "other_trends": [
     {
-      "keyword": "pak vs sl",
-      "traffic_label": "2000+",
+      "keyword": "minnesota timberwolves",
+      "traffic_label": "10000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pak+vs+sl&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pak+vs+sl",
-        "naver": "https://search.shopping.naver.com/search/all?query=pak+vs+sl"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=minnesota+timberwolves&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=minnesota+timberwolves",
+        "naver": "https://search.shopping.naver.com/search/all?query=minnesota+timberwolves"
       }
     },
     {
-      "keyword": "malware",
+      "keyword": "peltola results",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=malware&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=malware",
-        "naver": "https://search.shopping.naver.com/search/all?query=malware"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=peltola+results&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=peltola+results",
+        "naver": "https://search.shopping.naver.com/search/all?query=peltola+results"
       }
     },
     {
-      "keyword": "greta thunberg",
+      "keyword": "ausar thompson",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ausar+thompson&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ausar+thompson",
+        "naver": "https://search.shopping.naver.com/search/all?query=ausar+thompson"
+      }
+    },
+    {
+      "keyword": "jaden mcdaniels",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=greta+thunberg&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=greta+thunberg",
-        "naver": "https://search.shopping.naver.com/search/all?query=greta+thunberg"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jaden+mcdaniels&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jaden+mcdaniels",
+        "naver": "https://search.shopping.naver.com/search/all?query=jaden+mcdaniels"
       }
     },
     {
-      "keyword": "texas southern basketball",
-      "traffic_label": "200+",
+      "keyword": "trey lyles",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=texas+southern+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=texas+southern+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=texas+southern+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=trey+lyles&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=trey+lyles",
+        "naver": "https://search.shopping.naver.com/search/all?query=trey+lyles"
       }
     },
     {
-      "keyword": "chris moore",
-      "traffic_label": "200+",
+      "keyword": "utah basketball",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=chris+moore&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=chris+moore",
-        "naver": "https://search.shopping.naver.com/search/all?query=chris+moore"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=utah+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=utah+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=utah+basketball"
       }
     },
     {
-      "keyword": "demar derozan",
-      "traffic_label": "200+",
+      "keyword": "paul reed",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan",
-        "naver": "https://search.shopping.naver.com/search/all?query=demar+derozan"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=paul+reed&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=paul+reed",
+        "naver": "https://search.shopping.naver.com/search/all?query=paul+reed"
       }
     },
     {
-      "keyword": "john christopher depp",
-      "traffic_label": "200+",
+      "keyword": "julián quiñones",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=john+christopher+depp&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=john+christopher+depp",
-        "naver": "https://search.shopping.naver.com/search/all?query=john+christopher+depp"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=juli%C3%A1n+qui%C3%B1ones&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=juli%C3%A1n+qui%C3%B1ones",
+        "naver": "https://search.shopping.naver.com/search/all?query=juli%C3%A1n+qui%C3%B1ones"
       }
     },
     {
-      "keyword": "travel warning",
+      "keyword": "timberwolves score",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=travel+warning&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=travel+warning",
-        "naver": "https://search.shopping.naver.com/search/all?query=travel+warning"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=timberwolves+score&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=timberwolves+score",
+        "naver": "https://search.shopping.naver.com/search/all?query=timberwolves+score"
       }
     },
     {
-      "keyword": "pax silica",
+      "keyword": "raúl rangel",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pax+silica&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pax+silica",
-        "naver": "https://search.shopping.naver.com/search/all?query=pax+silica"
-      }
-    },
-    {
-      "keyword": "portland state basketball",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=portland+state+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=portland+state+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=portland+state+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ra%C3%BAl+rangel&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ra%C3%BAl+rangel",
+        "naver": "https://search.shopping.naver.com/search/all?query=ra%C3%BAl+rangel"
       }
     }
   ],
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "dropped": [
     {
-      "id": "9f050d512a",
-      "title": "TXT 'PERFECT STORM'",
-      "query": "txt perfect storm",
-      "score": 65,
-      "rank": 2
+      "id": "499004d098",
+      "title": "POV: Your Humble Binder Collection Now Opening Christmas Packs 1999-2012",
+      "query": "Humble Binder Collection Now Opening Christmas",
+      "score": 50,
+      "rank": 4
     },
     {
-      "id": "69779fbca5",
-      "title": "ILLIT - You're Under Arrest + It's Me @ The 18th Melon Music Awards (MMA 2026) Day 2 (261115)",
-      "query": "ILLIT",
+      "id": "bca5a25fac",
+      "title": "Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom.",
+      "query": "1st title surpass 1M physical units",
       "score": 45,
       "rank": 5
     },
     {
-      "id": "376ebaffaa",
-      "title": "aespa Karina - Marie Claire Korea x Boucheron (December 2026 Issue Cover)",
-      "query": "aespa Marie Claire Korea x Boucheron",
+      "id": "724c811144",
+      "title": "Pull from the first pack out of my first ever ETB 🔥🔥🔥",
+      "query": "Pull pack ever ETB",
       "score": 44,
       "rank": 6
     },
     {
-      "id": "58e3a69f56",
-      "title": "kurt russell",
-      "query": "kurt russell",
-      "score": 39,
+      "id": "8235fcae55",
+      "title": "Blackpink absent from YG's latest exclusive contract list for Q3",
+      "query": "Blackpink absent YG latest exclusive contract",
+      "score": 44,
       "rank": 7
-    },
-    {
-      "id": "6f7921e39c",
-      "title": "robert pattinson twilight",
-      "query": "robert pattinson twilight",
-      "score": 37,
-      "rank": 8
     }
   ],
   "history": {
-    "date": "2026-11-17",
-    "previous_date": "2026-11-16",
-    "new_count": 4
+    "date": "2026-11-18",
+    "previous_date": "2026-11-17",
+    "new_count": 0
   }
 }
