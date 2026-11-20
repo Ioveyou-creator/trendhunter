@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-19T03:44:45+00:00",
+  "generated_at": "2026-11-20T03:34:02+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-19T03:33:51+00:00"
+      "fetched_at": "2026-11-20T03:23:08+00:00"
     },
     "reddit": {
       "ok": false,
       "count": 0,
-      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 429, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 429, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 404, r/lego: HTTP 429, r/Sneakers: HTTP 404, r/kpop: HTTP 429, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 429, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 429",
-      "fetched_at": "2026-11-19T03:44:45+00:00"
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 429, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 429, r/lego: HTTP 404, r/Sneakers: HTTP 404, r/kpop: HTTP 404, r/kpopthoughts: HTTP 429, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 404",
+      "fetched_at": "2026-11-20T03:34:02+00:00"
     },
     "events": {
       "ok": true,
       "count": 3,
       "error": null,
-      "fetched_at": "2026-11-19T03:44:45+00:00"
+      "fetched_at": "2026-11-20T03:34:02+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-11 (2026-11-30), 지금 준비할 때"
+        "이벤트 D-10 (2026-11-30), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,7 +41,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 11,
+        "days_left": 10,
         "prep_by": "2026-11-02",
         "status": "prepare_now"
       },
@@ -65,7 +65,7 @@
       "category": "season",
       "score": 46,
       "reasons": [
-        "이벤트 D-36 (2026-12-25), 준비 예정"
+        "이벤트 D-35 (2026-12-25), 준비 예정"
       ],
       "sources": [
         "events"
@@ -79,7 +79,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 36,
+        "days_left": 35,
         "prep_by": "2026-11-25",
         "status": "upcoming"
       },
@@ -103,7 +103,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-8 (2026-11-27), 배송 시간 부족"
+        "이벤트 D-7 (2026-11-27), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -117,7 +117,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 8,
+        "days_left": 7,
         "prep_by": "2026-10-30",
         "status": "too_late"
       },
@@ -141,7 +141,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "too_late",
@@ -159,7 +159,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 11,
+      "days_left": 10,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "prepare_now",
@@ -177,7 +177,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 36,
+      "days_left": 35,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -195,101 +195,101 @@
   ],
   "other_trends": [
     {
-      "keyword": "demar derozan",
+      "keyword": "minnesota timberwolves",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=minnesota+timberwolves&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=minnesota+timberwolves",
+        "naver": "https://search.shopping.naver.com/search/all?query=minnesota+timberwolves"
+      }
+    },
+    {
+      "keyword": "ayo dosunmu",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ayo+dosunmu&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ayo+dosunmu",
+        "naver": "https://search.shopping.naver.com/search/all?query=ayo+dosunmu"
+      }
+    },
+    {
+      "keyword": "flyers",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=flyers&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=flyers",
+        "naver": "https://search.shopping.naver.com/search/all?query=flyers"
+      }
+    },
+    {
+      "keyword": "jonathan kuminga",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jonathan+kuminga&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jonathan+kuminga",
+        "naver": "https://search.shopping.naver.com/search/all?query=jonathan+kuminga"
+      }
+    },
+    {
+      "keyword": "penny marshall",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=demar+derozan",
-        "naver": "https://search.shopping.naver.com/search/all?query=demar+derozan"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=penny+marshall&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=penny+marshall",
+        "naver": "https://search.shopping.naver.com/search/all?query=penny+marshall"
       }
     },
     {
-      "keyword": "jokic",
+      "keyword": "de'aaron fox",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jokic&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jokic",
-        "naver": "https://search.shopping.naver.com/search/all?query=jokic"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=de%27aaron+fox&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=de%27aaron+fox",
+        "naver": "https://search.shopping.naver.com/search/all?query=de%27aaron+fox"
       }
     },
     {
-      "keyword": "ryan garcia",
+      "keyword": "cher",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ryan+garcia&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ryan+garcia",
-        "naver": "https://search.shopping.naver.com/search/all?query=ryan+garcia"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cher&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cher",
+        "naver": "https://search.shopping.naver.com/search/all?query=cher"
       }
     },
     {
-      "keyword": "boston college basketball",
+      "keyword": "kasparas jakučionis",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=boston+college+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=boston+college+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=boston+college+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kasparas+jaku%C4%8Dionis&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kasparas+jaku%C4%8Dionis",
+        "naver": "https://search.shopping.naver.com/search/all?query=kasparas+jaku%C4%8Dionis"
       }
     },
     {
-      "keyword": "tx southern vs san diego st",
+      "keyword": "astrodome",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tx+southern+vs+san+diego+st&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tx+southern+vs+san+diego+st",
-        "naver": "https://search.shopping.naver.com/search/all?query=tx+southern+vs+san+diego+st"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=astrodome&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=astrodome",
+        "naver": "https://search.shopping.naver.com/search/all?query=astrodome"
       }
     },
     {
-      "keyword": "is morgan wallen at the cmas",
+      "keyword": "jerami grant",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=is+morgan+wallen+at+the+cmas&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=is+morgan+wallen+at+the+cmas",
-        "naver": "https://search.shopping.naver.com/search/all?query=is+morgan+wallen+at+the+cmas"
-      }
-    },
-    {
-      "keyword": "aaron gordon",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aaron+gordon&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aaron+gordon",
-        "naver": "https://search.shopping.naver.com/search/all?query=aaron+gordon"
-      }
-    },
-    {
-      "keyword": "asu basketball",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=asu+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=asu+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=asu+basketball"
-      }
-    },
-    {
-      "keyword": "the dodo",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=the+dodo&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=the+dodo",
-        "naver": "https://search.shopping.naver.com/search/all?query=the+dodo"
-      }
-    },
-    {
-      "keyword": "javonte green",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=javonte+green&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=javonte+green",
-        "naver": "https://search.shopping.naver.com/search/all?query=javonte+green"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jerami+grant&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jerami+grant",
+        "naver": "https://search.shopping.naver.com/search/all?query=jerami+grant"
       }
     }
   ],
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "dropped": [],
   "history": {
-    "date": "2026-11-19",
-    "previous_date": "2026-11-18",
+    "date": "2026-11-20",
+    "previous_date": "2026-11-19",
     "new_count": 0
   }
 }

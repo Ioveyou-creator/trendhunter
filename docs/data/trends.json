@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-19T03:33:51+00:00",
+  "fetched_at": "2026-11-20T03:23:08+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "demar derozan",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 18 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRINUiPMmaKQQSWz8gtzh0lkv0dUj4cCZig-69WMxEQ3a_x83y9cGzb5klznY",
+      "keyword": "minnesota timberwolves",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS933iY0uhE6jrYf1lrPTZoz0sDibibqr5ufRkNido3N9ucSdDkQpfB5g-MfEI",
       "news": [
         {
-          "title": "Cam Whitmore could be the solution to Nuggets DeMar DeRozan issues",
-          "url": "https://sports.yahoo.com/articles/cam-whitmore-could-solution-nuggets-230003453.html",
+          "title": "Neal: Karl-Anthony Towns returns as NBA champion, but Wolves shouldn’t envy him",
+          "url": "https://www.startribune.com/minnesota-timberwolves-new-york-knicks-karl-anthony-towns-anthony-edwards-injury-wolves-roster-26-27/601921524",
+          "source": "Star Tribune"
+        },
+        {
+          "title": "Game Discussion Thread: Knicks at Timberwolves, November 19, 2026",
+          "url": "https://sports.yahoo.com/articles/game-discussion-thread-knicks-timberwolves-003000978.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Nuggets keep paying the price for David Adelman's stubbornness with DeMar DeRozan",
-          "url": "https://nugglove.com/nuggets-keep-paying-price-david-adelmans-stubbornness-with-demar-derozan",
-          "source": "Nugg Love"
-        },
-        {
-          "title": "DeMar DeRozan plays 19 minutes vs. Houston",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-09/demar-derozan-plays-19-minutes-vs-houston",
-          "source": "NBC Sports"
+          "title": "Knicks Bulletin: ‘It’s going to be bittersweet’",
+          "url": "https://www.postingandtoasting.com/knicks-news/91408/knicks-bulletin-xxx",
+          "source": "Posting and Toasting"
         }
       ]
     },
     {
-      "keyword": "jokic",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 18 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbrSGLIzSY78pWx-aos2PYo-G0RVg8XHKybKGjg3ah-GwrD1F_M9ntXbIRQ0s",
+      "keyword": "ayo dosunmu",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6_3fLmdKkTRaTXGhg1awpK9mZ1V2qFPp6F6l-alNZHtlN0aIqG6zBmJ0_vw",
       "news": [
         {
-          "title": "Rockets Floated to Land Nikola Jokic in Massive Trade Pitch",
-          "url": "https://sports.yahoo.com/articles/rockets-floated-land-nikola-jokic-180648779.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "\"Offensively, we become a terror\" - Bill Simmons floats a wild Nikola Jokic trade that sends him to the Houston Rockets",
-          "url": "https://www.basketballnetwork.net/latest-news/bill-simmons-floats-a-wild-nikola-jokic-trade-that-sends-him-to-the-houston-rockets",
-          "source": "Basketball Network"
-        },
-        {
-          "title": "Bill Simmons Suggests Blockbuster Nikola Jokic Trade to Rockets",
-          "url": "https://www.basketballnews.com/news/basketballnews-nba-active-news-bill-simmons-suggests-blockbuster-nikola-jokic-trade-to-houston-rockets/",
-          "source": "BasketballNews.com"
-        }
-      ]
-    },
-    {
-      "keyword": "ryan garcia",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 18 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX97AY0pPqNCuSvjeDVxjrWY_SbVzDzIHEO3ZI0RUueT9YJSNAMMygdEZH2L0",
-      "news": [
-        {
-          "title": "Hearn Wants Mayweather To Risk 50–0 Against Garcia",
-          "url": "https://www.boxingnews24.com/2026/11/hearn-wants-mayweather-to-risk-50-0-against-garcia/",
-          "source": "Boxing News 24"
-        },
-        {
-          "title": "'Would you bet your mortgage against Floyd Mayweather beating Ryan Garcia'",
-          "url": "https://www.boxingscene.com/articles/would-you-bet-your-mortgage-against-floyd-mayweather-beating-ryan-garcia",
-          "source": "BoxingScene"
-        },
-        {
-          "title": "Floyd Mayweather’s bid to break Hopkins’ record faces medical and licensing conditions",
-          "url": "https://timesofindia.indiatimes.com/sports/international-sports/floyd-mayweathers-bid-to-break-hopkins-record-faces-medical-and-licensing-conditions/articleshow/135809187.cms",
-          "source": "The Times of India"
-        }
-      ]
-    },
-    {
-      "keyword": "boston college basketball",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiOQGKhUfl6iCW75lEUDj_Om5__gT7tmrADpDiTUGTY_kdWlvR3B6UPMLJXDg",
-      "news": [
-        {
-          "title": "Local Showdown: Boston College Chases Fifth Win In a Row Against Nearby Crimson",
-          "url": "https://247sports.com/college/boston-college/article/local-showdown-boston-college-chases-fifth-win-in-a-row-against-nearby-crimson-292927944/",
-          "source": "247Sports"
-        },
-        {
-          "title": "Boston College Men's Basketball vs. Harvard: Game Central With Live Updates, Analysis",
-          "url": "https://sports.yahoo.com/articles/boston-college-mens-basketball-vs-223553969.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Boston College Eagles vs. Harvard Crimson Live Score and Stats - November 18, 2026 Gametracker",
-          "url": "https://www.cbssports.com/college-basketball/gametracker/live/NCAAB_20261118_BC@HARV/",
-          "source": "CBS Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "tx southern vs san diego st",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7ThQvgIw7aCXrsZ1RPyK7MwmKlZWU3zT5ILtQdQAmNYa8AriUAaCASSzmkCk",
-      "news": [
-        {
-          "title": "Scouting Report: Aztecs host Texas Southern before nonconference competition stiffens",
-          "url": "https://www.sandiegouniontribune.com/2026/11/18/scouting-report-aztecs-host-texas-southern-before-nonconference-competition-stiffens/",
-          "source": "San Diego Union-Tribune"
-        },
-        {
-          "title": "Pac-12 Basketball Predictions, Computer Picks and Best Bets | November 19",
-          "url": "https://www.bleachernation.com/picks/2026/11/18/pac-12-basketball-predictions-computer-picks-and-best-bets-november-19/",
-          "source": "Bleacher Nation"
-        },
-        {
-          "title": "Bilal leads Texas Southern against San Diego State after 36-point game",
-          "url": "https://www.foxsports.com/articles/cbk/bilal-leads-texas-southern-against-san-diego-state-after-36point-game",
-          "source": "FOX Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "is morgan wallen at the cmas",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrLAISqiPHBUh1jwblB_Nq7pbxfDUI1p0ilKvDDur2cNHJMHO3yvSCCNBGqkk",
-      "news": [
-        {
-          "title": "Is Morgan Wallen Skipping the 2026 CMA Awards? His Likely Absence, Explained",
-          "url": "https://www.imdb.com/news/ni66117697/?ref_=nwc_art_perm",
-          "source": "IMDb"
-        },
-        {
-          "title": "Chris Janson Gets Vocal About Morgan Wallen’s Constant CMA Snubs [EXCLUSIVE]",
-          "url": "https://tasteofcountry.com/morgan-wallen-cma-entertainer-snub/",
-          "source": "Taste of Country"
-        },
-        {
-          "title": "Morgan Wallen is nominated at the 2026 CMA Awards. Will he show up despite recent history?",
-          "url": "https://www.knoxnews.com/story/entertainment/music/2026/11/16/morgan-wallen-cma-awards-2026/92646013007/",
-          "source": "Knoxville News Sentinel"
-        }
-      ]
-    },
-    {
-      "keyword": "aaron gordon",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRisG6VELkKBMUSRt_fUBoEjTriktoykh9C9rMXPUTLbfKmKb05LGrQH1tM_LY",
-      "news": [
-        {
-          "title": "Aaron Gordon Props Today: Pts, Rebs, Asts, 3PT",
-          "url": "https://sports.betmgm.com/en/blog/nba/aaron-gordon-props-odds-gaa/",
-          "source": "sports.betmgm.com"
-        },
-        {
-          "title": "Aaron Gordon's drop in 3-point shooting compounding his overall decline",
-          "url": "https://nugglove.com/aaron-gordons-drop-3-point-shooting-compounding-overall-decline",
-          "source": "Nugg Love"
-        },
-        {
-          "title": "Suns 117-105 Nuggets (Nov 16, 2026) Game Recap",
-          "url": "https://www.espn.com/nba/recap/_/gameId/401910001",
+          "title": "Timberwolves' Edwards has 'no clue' on when he will return",
+          "url": "https://www.espn.com/nba/story/_/id/50532808/timberwolves-edwards-no-clue-return",
           "source": "ESPN"
-        }
-      ]
-    },
-    {
-      "keyword": "asu basketball",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxVFJH7HXzX5-0R3Nz7ABWj3exvABbbzMUzbn7m1oT3eoLBQHJ3copuU0Wqk",
-      "news": [
-        {
-          "title": "Arizona State men's basketball 2026-27 season in photos",
-          "url": "https://www.azcentral.com/picture-gallery/sports/college/asu/2026/11/18/asu-basketball-2026-27-game-photos/92852599007/",
-          "source": "azcentral.com and The Arizona Republic"
         },
         {
-          "title": "Homestand Finale: Three Things to Watch for ASU Men's Basketball vs. Oakland ahead of Power-Conference Matchups",
-          "url": "https://sports.yahoo.com/articles/homestand-finale-three-things-watch-183204933.html",
+          "title": "Timberwolves star Anthony Edwards speaks on decision to undergo knee surgery, has no clear return timeline: 'Whenever my knee tells me it's ready, then I'll be ready'",
+          "url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Oakland vs Arizona State Prediction, Picks & Odds | 18 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/oakland-golden-grizzlies-vs-arizona-state-sun-devils-prediction-odds-2026-11-18/",
-          "source": "Sportsgambler"
+          "title": "Anthony Edwards Opens Up on Knee Injury, Timeline to Return in 1st Comments Since Surgery",
+          "url": "https://bleacherreport.com/articles/25535368-anthony-edwards-opens-knee-injury-timeline-return-1st-comments-surgery",
+          "source": "Bleacher Report"
         }
       ]
     },
     {
-      "keyword": "the dodo",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFgcLeb22zl7_lddiWq4bx1QTGZKWiTbaHlhKqXMNgnG52VuY24MuEJzHXR6Q",
+      "keyword": "flyers",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQegc-jm49WW_eropfyewH7udaWJF1wMfA7-IT-8zDcK1cexlvMhXsTM5iRSHk",
       "news": [
         {
-          "title": "Visit To The Dump Leads To Unexpected Reunion Between Woman And Her Missing Dog",
-          "url": "https://www.thedodo.com/daily-dodo/visit-to-the-dump-leads-to-unexpected-reunion-between-woman-and-her-missing-dog",
-          "source": "The Dodo"
+          "title": "The State Of The Opponent: Flyers Showing Signs Of A Turnaround",
+          "url": "https://sports.yahoo.com/articles/state-opponent-flyers-showing-signs-001407112.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Goat Stranded On Remote Island Finally Gets Rescued",
-          "url": "https://www.yahoo.com/lifestyle/videos/goat-stranded-remote-island-finally-180343387.html",
+          "title": "Flyers @ Senators: How to watch, lineups, and gamethread",
+          "url": "https://www.broadstreethockey.com/post/flyers-senators-how-to-watch-lineups-and-gamethread-3/",
+          "source": "Broad Street Hockey"
+        },
+        {
+          "title": "Sens turn to Ersson as three-game homestand begins | Ottawa Senators",
+          "url": "https://www.nhl.com/senators/news/sens-turn-to-ersson-as-three-game-homestand-begins",
+          "source": "NHL.com"
+        }
+      ]
+    },
+    {
+      "keyword": "jonathan kuminga",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs3nRvo25-t0e0kCrDxq0sk5pdP6b-NOESaABAzm3hghABG-lDxcXXKbVrxtg",
+      "news": [
+        {
+          "title": "Jonathan Kuminga is IN tonight against the Knicks …",
+          "url": "https://sports.yahoo.com/articles/jonathan-kuminga-tonight-against-knicks-003556290.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Northwest Notes: Kuminga, Shannon, R. Williams, Jokic",
+          "url": "https://www.hoopsrumors.com/2026/11/northwest-notes-kuminga-shannon-r-williams-jokic.html",
+          "source": "Hoops Rumors"
+        },
+        {
+          "title": "Blazers’ Injury Report Remains Unchanged for First Matchup With T-Wolves",
+          "url": "https://www.blazersedge.com/trail-blazers-injury-report/118495/portland-trail-blazers-minnesota-timberwolves-nba-injury-report-ja-morant-shaedon-sharpe-robert-williams-nba-news",
+          "source": "Blazer's Edge"
+        }
+      ]
+    },
+    {
+      "keyword": "penny marshall",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4T68tmWeH2kNOlwmiF1c9qCYvXM5J7idI-qAoWwQghoBhiYd7DgPWCH1waL8",
+      "news": [
+        {
+          "title": "‘Laverne & Shirley’ actress dead at 88",
+          "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/laverne-shirley-actress-dead-88-170705349.html",
           "source": "Yahoo"
         },
         {
-          "title": "No One Wants These Sweet Shelter Puppies Because Of How They Look",
-          "url": "https://www.thedodo.com/daily-dodo/no-one-wants-these-sweet-shelter-puppies-because-of-how-they-look",
-          "source": "The Dodo"
+          "title": "‘Happy Days’ and ‘Laverne & Shirley’ legend dead at 88",
+          "url": "https://www.al.com/life/2026/11/happy-days-and-laverne-shirley-legend-dead-at-88.html",
+          "source": "AL.com"
+        },
+        {
+          "title": "Ronny Hallin Remembered as the ‘Unsung Hero of the Marshall Family’ After Her Death at 88",
+          "url": "https://people.com/ronny-hallin-remembered-as-the-unsung-hero-of-the-marshall-family-after-her-death-at-88-12265358",
+          "source": "People.com"
         }
       ]
     },
     {
-      "keyword": "javonte green",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Wed, 18 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2r-7eMDvBV3c-FpVuudIlgl9K97b0Hn-eGBAQUkhp72IfwZmqYjxzLsVletg",
+      "keyword": "de'aaron fox",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5gQq_bwrKe5q7wQmTHxTI0nHWnY6wiI8sHuGtV9hSv-_TXWNghEAcRBfAZLQ",
       "news": [
         {
-          "title": "Pistons' Javonte Green: Starting Wednesday",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-javonte-green-starting-wednesday/",
-          "source": "CBS Sports"
+          "title": "Spurs Rookie Jayden Quaintance Trusting Team to 'Keep Him on Right Path' in Recovery",
+          "url": "https://sports.yahoo.com/articles/spurs-rookie-jayden-quaintance-trusting-191028532.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Javonte Green News: Starting Wednesday",
-          "url": "https://www.rotowire.com/basketball/headlines/javonte-green-news-starting-wednesday-539845",
+          "title": "De'Aaron Fox gives back to East Side families, high school basketball players",
+          "url": "https://www.expressnews.com/news/education/article/fox-spurs-thanksgiving-saisd-donation-22539745.php",
+          "source": "San Antonio Express-News"
+        },
+        {
+          "title": "Thanksgiving assist: Spurs and H-E-B deliver 200 turkeys and a little extra cheer",
+          "url": "https://www.kens5.com/article/sports/nba/spurs/thanksgiving-assist-spurs-heb-deliver-200-turkeys-extra-cheer-giveaway-groceries-quaintance-community-families-donations/273-f655e867-bc37-410b-aa77-083733b55d6b",
+          "source": "kens5.com"
+        }
+      ]
+    },
+    {
+      "keyword": "cher",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3ZLR32cEr1UErDQizWDQgZYRW2ttlXOHHDIo39NN0Iahb0GEvBXS-YuOhoEY",
+      "news": [
+        {
+          "title": "Actress reveals Cher still ‘holds a grudge’ against her nearly 30 years later",
+          "url": "https://www.syracuse.com/entertainment/2026/11/actress-reveals-cher-still-holds-a-grudge-against-her-nearly-30-years-later.html",
+          "source": "Syracuse.com"
+        },
+        {
+          "title": "Cher ‘still mad’ at ‘Mermaids’ costar after 27 years, says Christina Ricci: ‘Holds a grudge’",
+          "url": "https://ew.com/christina-ricci-says-cher-mad-at-her-12262324",
+          "source": "Entertainment Weekly"
+        },
+        {
+          "title": "Christina Ricci and Cher Have Been Mad at Each Other This Whole Time?",
+          "url": "https://www.rollingstone.com/culture/culture-news/christina-ricci-cher-mermaids-feud-call-watch-what-happens-1235660349/",
+          "source": "Rolling Stone"
+        }
+      ]
+    },
+    {
+      "keyword": "kasparas jakučionis",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQG5YBe3tq9nraZwtgSpmSdCNFPHqgxj7Gj7OSNnEFgEiEqcRvCMQn3Tc4EM",
+      "news": [
+        {
+          "title": "Akistatoje su buvusiu klubu – puikus Jakučionis",
+          "url": "https://www.basketnews.lt/news-259813-akistatoje-su-buvusiu-klubu-puikus-jakucionis.html",
+          "source": "BasketNews.lt"
+        },
+        {
+          "title": "Į Majamį grįžęs Jakučionis buvusiai komandai atseikėjo 20 taškų",
+          "url": "https://www.lrt.lt/naujienos/sportas/10/3119022/i-majami-grizes-jakucionis-buvusiai-komandai-atseikejo-20-tasku",
+          "source": "LRT"
+        },
+        {
+          "title": "„VISI PAMATAI BUVO SUDĖTI SKM‘e“ | KASPARAS JAKUČIONIS | 20 METŲ PERGALIŲ",
+          "url": "https://www.15min.lt/m/24sek/video/visi-pamatai-buvo-sudeti-skme-kasparas-jakucionis-20-metu-pergaliu-285628",
+          "source": "15min.lt"
+        }
+      ]
+    },
+    {
+      "keyword": "astrodome",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ60CAGe2Wa7uF9L_HJy2s_aRgleu8gICHbUemu6Q9I26FmDCpkFOgPfQv0Qc",
+      "news": [
+        {
+          "title": "Astrodome Redo Attracts Major Developers",
+          "url": "https://realtynewsreport.com/astrodome-redo-attracts-major-developers/",
+          "source": "Realty News Report"
+        },
+        {
+          "title": "Astrodome redevelopment request draws more than 600 responses as future remains uncertain",
+          "url": "https://www.khou.com/video/money/business/houston-business-journal/astrodome-redevelopment-request-draws-more-than-600-responses-as-future-remains-uncertain/285-2277b336-eed5-4a96-96a0-867fe8c7efff",
+          "source": "KHOU"
+        },
+        {
+          "title": "New report proposes private sector partners for Astrodome renovations",
+          "url": "https://houston.culturemap.com/news/city-life/astrodome-conservancy-adaptive-reuse-proposals/",
+          "source": "CultureMap Houston"
+        }
+      ]
+    },
+    {
+      "keyword": "jerami grant",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjMhgCkAB3jv5vxkhWtay9DhB_efK56VNj3YStgFukF2EDd3G0aHLguUZnHZg",
+      "news": [
+        {
+          "title": "Grizzlies' Jerami Grant leaves game vs Warriors with calf injury",
+          "url": "https://sports.yahoo.com/articles/grizzlies-jerami-grant-leaves-game-021741730.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Jerami Grant Injury: Iffy to face Brooklyn",
+          "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-injury-iffy-to-face-brooklyn-539106",
           "source": "RotoWire"
         },
         {
-          "title": "Sixers forward Dean Wade (left hamstring …",
-          "url": "https://sports.yahoo.com/articles/sixers-forward-dean-wade-left-233757854.html",
-          "source": "Yahoo Sports"
+          "title": "Grizzlies' Jerami Grant: Limps to locker room",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/grizzlies-jerami-grant-limps-to-locker-room/",
+          "source": "CBS Sports"
         }
       ]
     }
