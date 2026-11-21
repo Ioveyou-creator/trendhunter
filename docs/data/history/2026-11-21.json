@@ -1,0 +1,33 @@
+{
+ "date": "2026-11-21",
+ "candidates": [
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 46,
+   "rank": 1
+  },
+  {
+   "id": "621198f702",
+   "title": "boston blue",
+   "query": "boston blue",
+   "score": 42,
+   "rank": 2
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 20,
+   "rank": 3
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 20,
+   "rank": 4
+  }
+ ]
+}

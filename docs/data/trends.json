@@ -1,247 +1,242 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-20T03:23:08+00:00",
+  "fetched_at": "2026-11-21T03:15:11+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "minnesota timberwolves",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS933iY0uhE6jrYf1lrPTZoz0sDibibqr5ufRkNido3N9ucSdDkQpfB5g-MfEI",
+      "keyword": "toyota recall",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzobVXI7_PZf3zcKlH8gXPV2zZh38_F9GPFV4OI2ThuEbjT75a5bxqRbf1_7k",
       "news": [
         {
-          "title": "Neal: Karl-Anthony Towns returns as NBA champion, but Wolves shouldn’t envy him",
-          "url": "https://www.startribune.com/minnesota-timberwolves-new-york-knicks-karl-anthony-towns-anthony-edwards-injury-wolves-roster-26-27/601921524",
-          "source": "Star Tribune"
+          "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue",
+          "url": "https://www.foxbusiness.com/lifestyle/over-314k-older-toyota-lexus-vehicles-recalled-potentially-dangerous-airbag-issue",
+          "source": "Fox Business"
         },
         {
-          "title": "Game Discussion Thread: Knicks at Timberwolves, November 19, 2026",
-          "url": "https://sports.yahoo.com/articles/game-discussion-thread-knicks-timberwolves-003000978.html",
-          "source": "Yahoo Sports"
+          "title": "Toyota is recalling over 300,000 vehicles. See affected models",
+          "url": "https://www.usatoday.com/story/cars/recalls/2026/11/19/toyota-recalls-vehicles-lexus-models/92860583007/",
+          "source": "USA Today"
         },
         {
-          "title": "Knicks Bulletin: ‘It’s going to be bittersweet’",
-          "url": "https://www.postingandtoasting.com/knicks-news/91408/knicks-bulletin-xxx",
-          "source": "Posting and Toasting"
+          "title": "Toyota and Lexus Recall More Cars to Replace Takata Airbags",
+          "url": "https://www.consumerreports.org/cars/car-recalls-defects/toyota-and-lexus-recall-more-cars-to-replace-takata-airbags-a9852430890/",
+          "source": "Consumer Reports"
         }
       ]
     },
     {
-      "keyword": "ayo dosunmu",
+      "keyword": "lakers vs kings",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6_3fLmdKkTRaTXGhg1awpK9mZ1V2qFPp6F6l-alNZHtlN0aIqG6zBmJ0_vw",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiBori5zpTbvjbrAIqCgfep_aREtgQ8XaeDqRqg0E67Qr2kwBlZHcQpVCze4",
       "news": [
         {
-          "title": "Timberwolves' Edwards has 'no clue' on when he will return",
-          "url": "https://www.espn.com/nba/story/_/id/50532808/timberwolves-edwards-no-clue-return",
+          "title": "Magic vs. Nets (Nov 20, 2026) Live Score",
+          "url": "https://www.espn.com/nba/game/_/gameId/401909306/magic-nets",
           "source": "ESPN"
         },
         {
-          "title": "Timberwolves star Anthony Edwards speaks on decision to undergo knee surgery, has no clear return timeline: 'Whenever my knee tells me it's ready, then I'll be ready'",
-          "url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html",
-          "source": "Yahoo Sports"
+          "title": "Central Michigan vs. Pittsburgh (Nov 20, 2026) Live Score",
+          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909709",
+          "source": "ESPN"
         },
         {
-          "title": "Anthony Edwards Opens Up on Knee Injury, Timeline to Return in 1st Comments Since Surgery",
-          "url": "https://bleacherreport.com/articles/25535368-anthony-edwards-opens-knee-injury-timeline-return-1st-comments-surgery",
-          "source": "Bleacher Report"
+          "title": "Lakers 118-114 Hornets (Nov 17, 2026) Final Score",
+          "url": "https://www.espn.com/nba/game/_/gameId/401910005/hornets-lakers",
+          "source": "ESPN"
         }
       ]
     },
     {
-      "keyword": "flyers",
+      "keyword": "boston blue",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQegc-jm49WW_eropfyewH7udaWJF1wMfA7-IT-8zDcK1cexlvMhXsTM5iRSHk",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2B587V1Lb_RBXLUV7nZXaFtiMJzIUzSLs5ZqZtdnLN-8PW5_U3WCZUxxO4vw",
       "news": [
         {
-          "title": "The State Of The Opponent: Flyers Showing Signs Of A Turnaround",
-          "url": "https://sports.yahoo.com/articles/state-opponent-flyers-showing-signs-001407112.html",
-          "source": "Yahoo Sports"
+          "title": "Why ‘Sheriff Country,’ ‘Fire Country’ & ‘Boston Blue’ Aren’t New Tonight",
+          "url": "https://www.tvinsider.com/1304937/sheriff-country-fire-country-boston-blue-not-airing-november-december-2026/",
+          "source": "TV Insider"
         },
         {
-          "title": "Flyers @ Senators: How to watch, lineups, and gamethread",
-          "url": "https://www.broadstreethockey.com/post/flyers-senators-how-to-watch-lineups-and-gamethread-3/",
-          "source": "Broad Street Hockey"
-        },
-        {
-          "title": "Sens turn to Ersson as three-game homestand begins | Ottawa Senators",
-          "url": "https://www.nhl.com/senators/news/sens-turn-to-ersson-as-three-game-homestand-begins",
-          "source": "NHL.com"
-        }
-      ]
-    },
-    {
-      "keyword": "jonathan kuminga",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQs3nRvo25-t0e0kCrDxq0sk5pdP6b-NOESaABAzm3hghABG-lDxcXXKbVrxtg",
-      "news": [
-        {
-          "title": "Jonathan Kuminga is IN tonight against the Knicks …",
-          "url": "https://sports.yahoo.com/articles/jonathan-kuminga-tonight-against-knicks-003556290.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Northwest Notes: Kuminga, Shannon, R. Williams, Jokic",
-          "url": "https://www.hoopsrumors.com/2026/11/northwest-notes-kuminga-shannon-r-williams-jokic.html",
-          "source": "Hoops Rumors"
-        },
-        {
-          "title": "Blazers’ Injury Report Remains Unchanged for First Matchup With T-Wolves",
-          "url": "https://www.blazersedge.com/trail-blazers-injury-report/118495/portland-trail-blazers-minnesota-timberwolves-nba-injury-report-ja-morant-shaedon-sharpe-robert-williams-nba-news",
-          "source": "Blazer's Edge"
-        }
-      ]
-    },
-    {
-      "keyword": "penny marshall",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4T68tmWeH2kNOlwmiF1c9qCYvXM5J7idI-qAoWwQghoBhiYd7DgPWCH1waL8",
-      "news": [
-        {
-          "title": "‘Laverne & Shirley’ actress dead at 88",
-          "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/laverne-shirley-actress-dead-88-170705349.html",
+          "title": "‘Fire Country’ Fans, You’ll Be Absolutely Devastated by This Season 5 Episode News",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/fire-country-fans-ll-absolutely-110200892.html",
           "source": "Yahoo"
         },
         {
-          "title": "‘Happy Days’ and ‘Laverne & Shirley’ legend dead at 88",
-          "url": "https://www.al.com/life/2026/11/happy-days-and-laverne-shirley-legend-dead-at-88.html",
-          "source": "AL.com"
-        },
-        {
-          "title": "Ronny Hallin Remembered as the ‘Unsung Hero of the Marshall Family’ After Her Death at 88",
-          "url": "https://people.com/ronny-hallin-remembered-as-the-unsung-hero-of-the-marshall-family-after-her-death-at-88-12265358",
-          "source": "People.com"
+          "title": "'Fire Country’ Officially Pulled From CBS’ Schedule Until Next Month",
+          "url": "https://collider.com/fire-country-no-new-episodes-november-2026/",
+          "source": "Collider"
         }
       ]
     },
     {
-      "keyword": "de'aaron fox",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5gQq_bwrKe5q7wQmTHxTI0nHWnY6wiI8sHuGtV9hSv-_TXWNghEAcRBfAZLQ",
+      "keyword": "scottie barnes",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd_WuUJP0AIBqhhQ3qJpHMdZzkEqnYES_nXPTa5JxTNsPI3CRzYjvC2ayK0Uw",
       "news": [
         {
-          "title": "Spurs Rookie Jayden Quaintance Trusting Team to 'Keep Him on Right Path' in Recovery",
-          "url": "https://sports.yahoo.com/articles/spurs-rookie-jayden-quaintance-trusting-191028532.html",
+          "title": "Scottie Barnes slams home the alley-oop",
+          "url": "https://www.nba.com/watch/video/scottie-barnes-slams-home-the-alley-oop-3",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Raptors’ Barnes hits clutch three, denies Brunson to force OT",
+          "url": "https://www.sportsnet.ca/nba/video/raptors-barnes-hits-clutch-three-denies-brunson-to-force-ot/",
+          "source": "Sportsnet.ca"
+        },
+        {
+          "title": "Scottie Barnes scores game-high 30 in OT defeat",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/scottie-barnes-scores-game-high-30-in-ot-defeat",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "nc state basketball",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFvZHX4WBjajVU6BqwLGS0o73SH5rcrrq4T_xteu-W0nHHscPQUd3Mv9kWztE",
+      "news": [
+        {
+          "title": "NC State vs. Seton Hall in 2026 Baha Mar Championship game thread",
+          "url": "https://247sports.com/college/north-carolina-state/article/nc-state-seton-hall-baha-mar-championship-game-thread-paul-mcneil-293027225/",
+          "source": "247Sports"
+        },
+        {
+          "title": "Game thread: Seton Hall vs. NC State",
+          "url": "https://sports.yahoo.com/articles/game-thread-seton-hall-vs-021823012.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "De'Aaron Fox gives back to East Side families, high school basketball players",
-          "url": "https://www.expressnews.com/news/education/article/fox-spurs-thanksgiving-saisd-donation-22539745.php",
-          "source": "San Antonio Express-News"
-        },
-        {
-          "title": "Thanksgiving assist: Spurs and H-E-B deliver 200 turkeys and a little extra cheer",
-          "url": "https://www.kens5.com/article/sports/nba/spurs/thanksgiving-assist-spurs-heb-deliver-200-turkeys-extra-cheer-giveaway-groceries-quaintance-community-families-donations/273-f655e867-bc37-410b-aa77-083733b55d6b",
-          "source": "kens5.com"
+          "title": "Seton Hall vs NC State Prediction, Picks & Odds | 20 Nov 2026",
+          "url": "https://www.sportsgambler.com/betting-tips/basketball/seton-hall-pirates-vs-nc-state-wolfpack-prediction-odds-2026-11-20/",
+          "source": "Sportsgambler"
         }
       ]
     },
     {
-      "keyword": "cher",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3ZLR32cEr1UErDQizWDQgZYRW2ttlXOHHDIo39NN0Iahb0GEvBXS-YuOhoEY",
+      "keyword": "kristen stewart",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOLTh6LOYtzcDolRNqL92s53eznc9j6nSjbvbeNPrY-fAe7DcnKSn8g2OFwc",
       "news": [
         {
-          "title": "Actress reveals Cher still ‘holds a grudge’ against her nearly 30 years later",
-          "url": "https://www.syracuse.com/entertainment/2026/11/actress-reveals-cher-still-holds-a-grudge-against-her-nearly-30-years-later.html",
-          "source": "Syracuse.com"
+          "title": "James Bond has finally been cast. Now it’s time to pick the villains",
+          "url": "https://www.smh.com.au/culture/movies/james-bond-has-finally-been-cast-now-it-s-time-to-pick-the-villains-20261121-p61fnk.html",
+          "source": "SMH.com.au"
         },
         {
-          "title": "Cher ‘still mad’ at ‘Mermaids’ costar after 27 years, says Christina Ricci: ‘Holds a grudge’",
-          "url": "https://ew.com/christina-ricci-says-cher-mad-at-her-12262324",
-          "source": "Entertainment Weekly"
+          "title": "26 Contenders To Play The Next Bond Villain",
+          "url": "https://www.vogue.co.uk/gallery/who-will-be-the-next-bond-villain",
+          "source": "Vogue"
         },
         {
-          "title": "Christina Ricci and Cher Have Been Mad at Each Other This Whole Time?",
-          "url": "https://www.rollingstone.com/culture/culture-news/christina-ricci-cher-mermaids-feud-call-watch-what-happens-1235660349/",
+          "title": "Why Fans Want Kristen Stewart as Robert Pattinson's Bond Villain",
+          "url": "https://wwd.com/pop-culture/celebrity-news/kristen-stewart-robert-pattinson-bond-villain-1239421023/",
+          "source": "WWD"
+        }
+      ]
+    },
+    {
+      "keyword": "danny wolf",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbh8QEeKM5wq25eOTzMFbWJ4j-60v8IjMKZKktJb1AruJv-JOIrF8ecWzt7U",
+      "news": [
+        {
+          "title": "Nets start Nolan, Wolf, Porter, Randle, Sharpe",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-20/nets-start-nolan-wolf-porter-randle-sharpe",
+          "source": "NBC Sports"
+        },
+        {
+          "title": "Danny Wolf delivers double-double in Wednesday's win",
+          "url": "https://www.fantasypros.com/nba/news/619505/danny-wolf-delivers-double-double-wednesdays-win.php",
+          "source": "FantasyPros"
+        },
+        {
+          "title": "Jordi Fernández Praises Danny Wolf's Expanded Role With Nets",
+          "url": "https://roundtable.io/sports/nba/nets/community/players/jordi-fernandez-praises-danny-wolfs-expanded-role-with-nets",
+          "source": "roundtable.io"
+        }
+      ]
+    },
+    {
+      "keyword": "courtney clenney",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFj7qC-kchV__kqMt1NsYIQ97AnOhWzBfzCCuH-Z06rHywVDnfphR2hnhG2zU",
+      "news": [
+        {
+          "title": "They shared their glamorous life online. Then one was killed — and the other was charged.",
+          "url": "https://www.nbcnews.com/news/us-news/onlyfans-courtney-clenney-christian-obumseli-death-rcna610149",
+          "source": "NBC News"
+        },
+        {
+          "title": "OnlyFans model murder case to be featured on NBC's Dateline",
+          "url": "https://www.nbcmiami.com/video/nbc-6-news/onlyfans-model-murder-case-to-be-featured-on-nbcs-dateline/3890740/",
+          "source": "NBC 6 South Florida"
+        },
+        {
+          "title": "‘A Lot of Fighting’: What Happened Before Courtney Clenney Killed Christian Obumseli?",
+          "url": "https://www.rollingstone.com/culture/culture-news/courtney-clenney-christian-obumseli-dateline-1235661517/",
           "source": "Rolling Stone"
         }
       ]
     },
     {
-      "keyword": "kasparas jakučionis",
+      "keyword": "oklahoma state wrestling",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Thu, 19 Nov 2026 19:10:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQG5YBe3tq9nraZwtgSpmSdCNFPHqgxj7Gj7OSNnEFgEiEqcRvCMQn3Tc4EM",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnwdbgHtDxyjCwb3-gqpyP6GmmV5RZNzUhVnsYKMqqg6AYrUpRyjS4fKXmF4M",
       "news": [
         {
-          "title": "Akistatoje su buvusiu klubu – puikus Jakučionis",
-          "url": "https://www.basketnews.lt/news-259813-akistatoje-su-buvusiu-klubu-puikus-jakucionis.html",
-          "source": "BasketNews.lt"
+          "title": "Cowboy Wrestling prepped for first road trip of season",
+          "url": "https://okstate.com/news/2026/11/19/cowboy-wrestling-prepped-for-first-road-trip-of-season",
+          "source": "Oklahoma State University Athletics"
         },
         {
-          "title": "Į Majamį grįžęs Jakučionis buvusiai komandai atseikėjo 20 taškų",
-          "url": "https://www.lrt.lt/naujienos/sportas/10/3119022/i-majami-grizes-jakucionis-buvusiai-komandai-atseikejo-20-tasku",
-          "source": "LRT"
+          "title": "Previewing Oklahoma State's Duals Against Stanford & Arizona State",
+          "url": "https://www.flowrestling.org/articles/16420129-previewing-oklahoma-state-against-stanford-arizona-state",
+          "source": "FloWrestling"
         },
         {
-          "title": "„VISI PAMATAI BUVO SUDĖTI SKM‘e“ | KASPARAS JAKUČIONIS | 20 METŲ PERGALIŲ",
-          "url": "https://www.15min.lt/m/24sek/video/visi-pamatai-buvo-sudeti-skme-kasparas-jakucionis-20-metu-pergaliu-285628",
-          "source": "15min.lt"
+          "title": "The Top 5 Potential Matches of Oklahoma State’s Dual Against Arizona State",
+          "url": "https://pistolsfiringblog.com/the-top-5-potential-matches-of-oklahoma-states-dual-against-arizona-state/",
+          "source": "Pistols Firing"
         }
       ]
     },
     {
-      "keyword": "astrodome",
+      "keyword": "javonte green",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Thu, 19 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ60CAGe2Wa7uF9L_HJy2s_aRgleu8gICHbUemu6Q9I26FmDCpkFOgPfQv0Qc",
+      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA",
       "news": [
         {
-          "title": "Astrodome Redo Attracts Major Developers",
-          "url": "https://realtynewsreport.com/astrodome-redo-attracts-major-developers/",
-          "source": "Realty News Report"
-        },
-        {
-          "title": "Astrodome redevelopment request draws more than 600 responses as future remains uncertain",
-          "url": "https://www.khou.com/video/money/business/houston-business-journal/astrodome-redevelopment-request-draws-more-than-600-responses-as-future-remains-uncertain/285-2277b336-eed5-4a96-96a0-867fe8c7efff",
-          "source": "KHOU"
-        },
-        {
-          "title": "New report proposes private sector partners for Astrodome renovations",
-          "url": "https://houston.culturemap.com/news/city-life/astrodome-conservancy-adaptive-reuse-proposals/",
-          "source": "CultureMap Houston"
-        }
-      ]
-    },
-    {
-      "keyword": "jerami grant",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 19 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjMhgCkAB3jv5vxkhWtay9DhB_efK56VNj3YStgFukF2EDd3G0aHLguUZnHZg",
-      "news": [
-        {
-          "title": "Grizzlies' Jerami Grant leaves game vs Warriors with calf injury",
-          "url": "https://sports.yahoo.com/articles/grizzlies-jerami-grant-leaves-game-021741730.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Jerami Grant Injury: Iffy to face Brooklyn",
-          "url": "https://www.rotowire.com/basketball/headlines/jerami-grant-injury-iffy-to-face-brooklyn-539106",
-          "source": "RotoWire"
-        },
-        {
-          "title": "Grizzlies' Jerami Grant: Limps to locker room",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/grizzlies-jerami-grant-limps-to-locker-room/",
+          "title": "Pistons' Javonte Green: Headed to bench",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-javonte-green-headed-to-bench/",
           "source": "CBS Sports"
+        },
+        {
+          "title": "Pistons' bargain offseason signing has been a secret weapon all season",
+          "url": "https://detroitjockcity.com/pistons-bargain-offseason-signing-has-been-secret-weapon-all-season-01m7tbzttj2s",
+          "source": "Detroit Jock City"
         }
       ]
     }
