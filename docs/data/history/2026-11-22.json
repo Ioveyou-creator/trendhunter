@@ -1,0 +1,33 @@
+{
+ "date": "2026-11-22",
+ "candidates": [
+  {
+   "id": "ed72da7c0b",
+   "title": "jordan faison",
+   "query": "jordan faison",
+   "score": 54,
+   "rank": 1
+  },
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 47,
+   "rank": 2
+  },
+  {
+   "id": "d076c6152a",
+   "title": "Black Friday",
+   "query": "black friday deals",
+   "score": 20,
+   "rank": 3
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 20,
+   "rank": 4
+  }
+ ]
+}

@@ -1,242 +1,242 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-21T03:15:11+00:00",
+  "fetched_at": "2026-11-22T02:16:26+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "toyota recall",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzobVXI7_PZf3zcKlH8gXPV2zZh38_F9GPFV4OI2ThuEbjT75a5bxqRbf1_7k",
+      "keyword": "tallulah willis",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Sat, 21 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWFIXdkELiKUHcn2Nhi_O9fVnj6m_D_OhpGLxuj4uk-hfxmxgPot6B3vLH9t4",
       "news": [
         {
-          "title": "Over 314,000 older Toyota and Lexus vehicles recalled for potentially dangerous airbag issue",
-          "url": "https://www.foxbusiness.com/lifestyle/over-314k-older-toyota-lexus-vehicles-recalled-potentially-dangerous-airbag-issue",
-          "source": "Fox Business"
+          "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
+          "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959",
+          "source": "People.com"
         },
         {
-          "title": "Toyota is recalling over 300,000 vehicles. See affected models",
-          "url": "https://www.usatoday.com/story/cars/recalls/2026/11/19/toyota-recalls-vehicles-lexus-models/92860583007/",
-          "source": "USA Today"
-        },
-        {
-          "title": "Toyota and Lexus Recall More Cars to Replace Takata Airbags",
-          "url": "https://www.consumerreports.org/cars/car-recalls-defects/toyota-and-lexus-recall-more-cars-to-replace-takata-airbags-a9852430890/",
-          "source": "Consumer Reports"
+          "title": "Tallulah Willis Shares Rare Father-Daughter Moment With Bruce Amid His Dementia Battle",
+          "url": "https://parade.com/celebrities/tallulah-willis-shares-rare-photo-bruce-willis",
+          "source": "Parade Magazine"
         }
       ]
     },
     {
-      "keyword": "lakers vs kings",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLiBori5zpTbvjbrAIqCgfep_aREtgQ8XaeDqRqg0E67Qr2kwBlZHcQpVCze4",
+      "keyword": "clima para amanhã",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sat, 21 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBuVxEY40d8VbE0COlDm4gAk2-JbAV6ynWQ6ZOnL_3M5dZqD1pE3-UERXMybw",
       "news": [
         {
-          "title": "Magic vs. Nets (Nov 20, 2026) Live Score",
-          "url": "https://www.espn.com/nba/game/_/gameId/401909306/magic-nets",
-          "source": "ESPN"
+          "title": "Clima para amanhã em Brasília: trovoada e chuva forte devem marcar a tarde de domingo",
+          "url": "https://novo2026.portaldoholanda.com.br/brasilia/clima-para-amanha-em-brasilia-trovoada-e-chuva-forte-devem-marcar-a-tarde-de-domingo",
+          "source": "Portal do Holanda"
         },
         {
-          "title": "Central Michigan vs. Pittsburgh (Nov 20, 2026) Live Score",
-          "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909709",
-          "source": "ESPN"
+          "title": "Previsão do tempo no Entorno do Distrito Federal para domingo (22)",
+          "url": "https://opopular.com.br/clima/previs-o-do-tempo-no-entorno-do-distrito-federal-para-domingo-22-1.3483393",
+          "source": "O Popular"
         },
         {
-          "title": "Lakers 118-114 Hornets (Nov 17, 2026) Final Score",
-          "url": "https://www.espn.com/nba/game/_/gameId/401910005/hornets-lakers",
-          "source": "ESPN"
+          "title": "Brasília terá sábado (21) de céu encoberto e possibilidade de chuvisco",
+          "url": "https://gpsbrasilia.com.br/brasilia-sabado-21-encoberto-chuvisco/",
+          "source": "GPS Brasília Portal de Notícias do DF"
         }
       ]
     },
     {
-      "keyword": "boston blue",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2B587V1Lb_RBXLUV7nZXaFtiMJzIUzSLs5ZqZtdnLN-8PW5_U3WCZUxxO4vw",
+      "keyword": "jordan faison",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sat, 21 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9kMD4gZ-_-KU_X-OYWxjqSuRvrMN855-LKU_EQS5ddHbGdoO-wkpjBkCaZ-U",
       "news": [
         {
-          "title": "Why ‘Sheriff Country,’ ‘Fire Country’ & ‘Boston Blue’ Aren’t New Tonight",
-          "url": "https://www.tvinsider.com/1304937/sheriff-country-fire-country-boston-blue-not-airing-november-december-2026/",
-          "source": "TV Insider"
+          "title": "Jordan Faison makes one-handed grab for Notre Dame TD against SMU",
+          "url": "https://www.nbcsports.com/watch/college-football/jordan-faison-makes-one-handed-grab-for-notre-dame-td-against-smu",
+          "source": "NBC Sports"
         },
         {
-          "title": "‘Fire Country’ Fans, You’ll Be Absolutely Devastated by This Season 5 Episode News",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/fire-country-fans-ll-absolutely-110200892.html",
+          "title": "Watch Jordan Faison make an athletic TD catch for Notre Dame vs BC",
+          "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/11/14/notre-dame-football-jordan-faison-touchdown-boston-college-eagles/92786303007/",
+          "source": "Fighting Irish Wire"
+        },
+        {
+          "title": "Boston College recovers Faison’s muffed punt",
+          "url": "https://sports.yahoo.com/videos/boston-college-recovers-faison-muffed-221950264.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "selena gomez",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Sat, 21 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLOJl8DVs3UUayporPXpaZeBa52TP5Y__ZgdYkPZG2ulyek23HjXQTgBo-kNs",
+      "news": [
+        {
+          "title": "Hailey Bieber Details Suicidal Ideation Amid Scrutiny From Fans",
+          "url": "https://www.eonline.com/news/1438278/hailey-bieber-details-past-suicidal-ideation",
+          "source": "E! News"
+        },
+        {
+          "title": "Hailey Bieber Says Online Harassment Once Made Her Question Whether She Wanted to Live",
+          "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hailey-bieber-says-online-harassment-013040070.html",
           "source": "Yahoo"
         },
         {
-          "title": "'Fire Country’ Officially Pulled From CBS’ Schedule Until Next Month",
-          "url": "https://collider.com/fire-country-no-new-episodes-november-2026/",
-          "source": "Collider"
+          "title": "Social Media Helped Build Hailey Bieber’s Company. It Also Took a Mental Toll.",
+          "url": "https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html",
+          "source": "The New York Times"
         }
       ]
     },
     {
-      "keyword": "scottie barnes",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd_WuUJP0AIBqhhQ3qJpHMdZzkEqnYES_nXPTa5JxTNsPI3CRzYjvC2ayK0Uw",
+      "keyword": "celtics vs kings",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 21 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2UBSVNuWrWnz09DnaMVQLRdoGQmO46Gl1pCjhp66GJigPunu2xwolOLMqDoE",
       "news": [
         {
-          "title": "Scottie Barnes slams home the alley-oop",
-          "url": "https://www.nba.com/watch/video/scottie-barnes-slams-home-the-alley-oop-3",
-          "source": "NBA.com"
-        },
-        {
-          "title": "Raptors’ Barnes hits clutch three, denies Brunson to force OT",
-          "url": "https://www.sportsnet.ca/nba/video/raptors-barnes-hits-clutch-three-denies-brunson-to-force-ot/",
-          "source": "Sportsnet.ca"
-        },
-        {
-          "title": "Scottie Barnes scores game-high 30 in OT defeat",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/scottie-barnes-scores-game-high-30-in-ot-defeat",
-          "source": "NBC Sports"
-        }
-      ]
-    },
-    {
-      "keyword": "nc state basketball",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFvZHX4WBjajVU6BqwLGS0o73SH5rcrrq4T_xteu-W0nHHscPQUd3Mv9kWztE",
-      "news": [
-        {
-          "title": "NC State vs. Seton Hall in 2026 Baha Mar Championship game thread",
-          "url": "https://247sports.com/college/north-carolina-state/article/nc-state-seton-hall-baha-mar-championship-game-thread-paul-mcneil-293027225/",
-          "source": "247Sports"
-        },
-        {
-          "title": "Game thread: Seton Hall vs. NC State",
-          "url": "https://sports.yahoo.com/articles/game-thread-seton-hall-vs-021823012.html",
+          "title": "Celtics Receive Favorable Injury News Just Before Kings Game",
+          "url": "https://sports.yahoo.com/articles/celtics-receive-favorable-injury-news-010128201.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Seton Hall vs NC State Prediction, Picks & Odds | 20 Nov 2026",
-          "url": "https://www.sportsgambler.com/betting-tips/basketball/seton-hall-pirates-vs-nc-state-wolfpack-prediction-odds-2026-11-20/",
-          "source": "Sportsgambler"
-        }
-      ]
-    },
-    {
-      "keyword": "kristen stewart",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Fri, 20 Nov 2026 18:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOLTh6LOYtzcDolRNqL92s53eznc9j6nSjbvbeNPrY-fAe7DcnKSn8g2OFwc",
-      "news": [
-        {
-          "title": "James Bond has finally been cast. Now it’s time to pick the villains",
-          "url": "https://www.smh.com.au/culture/movies/james-bond-has-finally-been-cast-now-it-s-time-to-pick-the-villains-20261121-p61fnk.html",
-          "source": "SMH.com.au"
+          "title": "3 Celtics, including Jayson Tatum, ruled out ahead of matchup with Kings",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/21/3-celtics-including-jayson-tatum-ruled-out-ahead-of-matchup-with-kings/",
+          "source": "Boston.com"
         },
         {
-          "title": "26 Contenders To Play The Next Bond Villain",
-          "url": "https://www.vogue.co.uk/gallery/who-will-be-the-next-bond-villain",
-          "source": "Vogue"
-        },
-        {
-          "title": "Why Fans Want Kristen Stewart as Robert Pattinson's Bond Villain",
-          "url": "https://wwd.com/pop-culture/celebrity-news/kristen-stewart-robert-pattinson-bond-villain-1239421023/",
-          "source": "WWD"
-        }
-      ]
-    },
-    {
-      "keyword": "danny wolf",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbh8QEeKM5wq25eOTzMFbWJ4j-60v8IjMKZKktJb1AruJv-JOIrF8ecWzt7U",
-      "news": [
-        {
-          "title": "Nets start Nolan, Wolf, Porter, Randle, Sharpe",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-20/nets-start-nolan-wolf-porter-randle-sharpe",
+          "title": "Jayson Tatum (rest) downgraded to out Saturday",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/jayson-tatum-rest-downgraded-to-out-saturday",
           "source": "NBC Sports"
-        },
-        {
-          "title": "Danny Wolf delivers double-double in Wednesday's win",
-          "url": "https://www.fantasypros.com/nba/news/619505/danny-wolf-delivers-double-double-wednesdays-win.php",
-          "source": "FantasyPros"
-        },
-        {
-          "title": "Jordi Fernández Praises Danny Wolf's Expanded Role With Nets",
-          "url": "https://roundtable.io/sports/nba/nets/community/players/jordi-fernandez-praises-danny-wolfs-expanded-role-with-nets",
-          "source": "roundtable.io"
         }
       ]
     },
     {
-      "keyword": "courtney clenney",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFj7qC-kchV__kqMt1NsYIQ97AnOhWzBfzCCuH-Z06rHywVDnfphR2hnhG2zU",
+      "keyword": "trump homelessness funding policy block",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Sat, 21 Nov 2026 17:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9tZZ8Aric9__xC9FJ7Wv2LkPNClWEM2ncNzxjLg832_6Q01UJulUzXGsyJ84",
       "news": [
         {
-          "title": "They shared their glamorous life online. Then one was killed — and the other was charged.",
-          "url": "https://www.nbcnews.com/news/us-news/onlyfans-courtney-clenney-christian-obumseli-death-rcna610149",
-          "source": "NBC News"
+          "title": "Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy",
+          "url": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html",
+          "source": "The New York Times"
         },
         {
-          "title": "OnlyFans model murder case to be featured on NBC's Dateline",
-          "url": "https://www.nbcmiami.com/video/nbc-6-news/onlyfans-model-murder-case-to-be-featured-on-nbcs-dateline/3890740/",
-          "source": "NBC 6 South Florida"
+          "title": "US judge rejects Trump administration's homelessness program revamp",
+          "url": "https://www.reuters.com/legal/government/us-judge-rejects-trump-administrations-homelessness-program-revamp-2026-11-20/",
+          "source": "Reuters"
         },
         {
-          "title": "‘A Lot of Fighting’: What Happened Before Courtney Clenney Killed Christian Obumseli?",
-          "url": "https://www.rollingstone.com/culture/culture-news/courtney-clenney-christian-obumseli-dateline-1235661517/",
-          "source": "Rolling Stone"
+          "title": "Federal Court Strikes Down Trump-Vance Administration’s Unlawful Restrictions on Homelessness Funding",
+          "url": "https://democracyforward.org/news/press-releases/federal-court-strikes-down-trump-vance-administrations-unlawful-restrictions-on-homelessness-funding/",
+          "source": "Democracy Forward"
         }
       ]
     },
     {
-      "keyword": "oklahoma state wrestling",
+      "keyword": "kurt russell",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnwdbgHtDxyjCwb3-gqpyP6GmmV5RZNzUhVnsYKMqqg6AYrUpRyjS4fKXmF4M",
+      "pub_date": "Sat, 21 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9ZZsO3fKq-vBu7LNk2Azei2nW9ohotrGBrJ4AEGzaf9gfWzPt8Q8uRnvTfWY",
       "news": [
         {
-          "title": "Cowboy Wrestling prepped for first road trip of season",
-          "url": "https://okstate.com/news/2026/11/19/cowboy-wrestling-prepped-for-first-road-trip-of-season",
-          "source": "Oklahoma State University Athletics"
+          "title": "Matthew McConaughey's New R-Rated Western Thriller Officially Confirms Streaming Release Date",
+          "url": "https://movieweb.com/rivals-of-amziah-king-hulu-date/",
+          "source": "MovieWeb"
         },
         {
-          "title": "Previewing Oklahoma State's Duals Against Stanford & Arizona State",
-          "url": "https://www.flowrestling.org/articles/16420129-previewing-oklahoma-state-against-stanford-arizona-state",
-          "source": "FloWrestling"
+          "title": "Kurt Russell's New R-Rated Western Crime Thriller Officially Sets Hulu Streaming Premiere Date",
+          "url": "https://www.imdb.com/it/news/ni66120918/?ref_=nm_nwr_1",
+          "source": "IMDb"
         },
         {
-          "title": "The Top 5 Potential Matches of Oklahoma State’s Dual Against Arizona State",
-          "url": "https://pistolsfiringblog.com/the-top-5-potential-matches-of-oklahoma-states-dual-against-arizona-state/",
-          "source": "Pistols Firing"
+          "title": "ESSAY: Beyond the Hive — Freedom, Community, and the Rivals of Amziah King",
+          "url": "https://indepthnews.net/essay-beyond-the-hive-freedom-community-and-the-rivals-of-amziah-king/",
+          "source": "IDN-InDepthNews"
         }
       ]
     },
     {
-      "keyword": "javonte green",
+      "keyword": "ryan garcia",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Fri, 20 Nov 2026 19:00:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgT5tGXj8gaP7CNrotnuG46zMSw9Pf_IvE93ONA2G7W-gdtpTC8LTZeLX5RA",
+      "pub_date": "Sat, 21 Nov 2026 18:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdEj-hhnOBDFSljz471nR7HKSkSwSYdu6NOAu2NxU6vDakzm7kutnVCHd4mc",
       "news": [
         {
-          "title": "Pistons' Javonte Green: Headed to bench",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-javonte-green-headed-to-bench/",
-          "source": "CBS Sports"
+          "title": "Floyd Mayweather Jr. vs Ryan Garcia Fight Date: Waiting Game Continues",
+          "url": "https://www.si.com/prediction-markets/floyd-mayweather-jr-vs-ryan-garcia-fight-date-waiting-game-continues-01m7wmj4hhgr",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Pistons' bargain offseason signing has been a secret weapon all season",
-          "url": "https://detroitjockcity.com/pistons-bargain-offseason-signing-has-been-secret-weapon-all-season-01m7tbzttj2s",
-          "source": "Detroit Jock City"
+          "title": "Former opponent Victor Ortiz sums up Floyd Mayweather's chances beating Ryan Garcia for WBC title",
+          "url": "https://boxingnewsonline.net/news/ortiz-on-mayweather-chances-garcia/",
+          "source": "Boxing News Online"
+        },
+        {
+          "title": "Floyd Mayweather’s bid to break Hopkins’ record faces medical and licensing conditions",
+          "url": "https://timesofindia.indiatimes.com/sports/international-sports/floyd-mayweathers-bid-to-break-hopkins-record-faces-medical-and-licensing-conditions/articleshow/135809187.cms",
+          "source": "The Times of India"
+        }
+      ]
+    },
+    {
+      "keyword": "erin cahill",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 21 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ59ztaNLAw_T3ISMsLNCUHoB8xDj8d8fra8A5Hegc6q5PLDukvHqC61LOelus",
+      "news": [
+        {
+          "title": "‘Christmas in Blue Dog Valley’ Cast, Plot, Filming Locations & How to Watch the Erin Cahill & Andrew Walker Holiday Movie",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/christmas-blue-dog-valley-cast-203952312.html",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Andrew Walker’s 40th Hallmark Movie Is a Christmas Romance Made for Dog Lovers (Sneak Peek)",
+          "url": "https://parade.com/tv/christmas-in-blue-dog-valley-hallmark-andrew-walker",
+          "source": "Parade Magazine"
+        },
+        {
+          "title": "Erin Cahill Talks Steamy Hallmark Kiss with Andrew Walker, Her Longtime Friend of 20 Years, in ‘Christmas in Blue Dog Valley’ (Exclusive)",
+          "url": "https://www.imdb.com/news/ni66122431/?ref_=nwc_art_perm",
+          "source": "IMDb"
+        }
+      ]
+    },
+    {
+      "keyword": "tulsa king nielsen streaming ratings",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Sat, 21 Nov 2026 17:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0GIlT70EqTp6PReanAH9BBHZ2LYNHNyK3CbNUwtG5M2VTitzSI--w4sAaWhE",
+      "news": [
+        {
+          "title": "Taylor Sheridan's 33-Episode Crime Thriller Hit Scores Half a Billion Views on Streaming in Just 1 Week",
+          "url": "https://movieweb.com/tulsa-king-nielsen-ratings/",
+          "source": "MovieWeb"
+        },
+        {
+          "title": "Taylor Sheridan’s Hit Western Series Officially Dominates Streaming Worldwide",
+          "url": "https://www.imdb.com/news/ni66117986/?ref_=nmnw_art_perm",
+          "source": "IMDb"
+        },
+        {
+          "title": "Goodbye 'Lioness,' Taylor Sheridan's New 2-Part Action Thriller Is Officially a 160-Day Streaming Hit",
+          "url": "https://movieweb.com/marshals-taylor-sheridan-streaming-paramount-november-2026/",
+          "source": "MovieWeb"
         }
       ]
     }
