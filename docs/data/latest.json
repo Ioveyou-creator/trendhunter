@@ -1,77 +1,33 @@
 {
-  "generated_at": "2026-11-22T02:27:50+00:00",
+  "generated_at": "2026-11-23T03:01:23+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-22T02:16:26+00:00"
+      "fetched_at": "2026-11-23T02:50:59+00:00"
     },
     "reddit": {
       "ok": false,
       "count": 0,
-      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 429, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 429, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 404, r/lego: HTTP 429, r/Sneakers: HTTP 404, r/kpop: HTTP 429, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 429, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 429",
-      "fetched_at": "2026-11-22T02:27:50+00:00"
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 429, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 429, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 429, r/lego: HTTP 404, r/Sneakers: HTTP 404, r/kpop: HTTP 404, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 429, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 429, r/NintendoSwitch: HTTP 404",
+      "fetched_at": "2026-11-23T03:01:23+00:00"
     },
     "events": {
       "ok": true,
       "count": 3,
       "error": null,
-      "fetched_at": "2026-11-22T02:27:50+00:00"
+      "fetched_at": "2026-11-23T03:01:23+00:00"
     }
   },
   "candidates": [
-    {
-      "title": "jordan faison",
-      "query": "jordan faison",
-      "category": "trend",
-      "score": 54,
-      "reasons": [
-        "미국 검색 급상승 1000+",
-        "상품 신호: 구매·개봉",
-        "브랜드/IP: jordan"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "jordan faison (1000+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Jordan Faison makes one-handed grab for Notre Dame TD against SMU",
-          "url": "https://www.nbcsports.com/watch/college-football/jordan-faison-makes-one-handed-grab-for-notre-dame-td-against-smu"
-        },
-        {
-          "source": "news",
-          "text": "Watch Jordan Faison make an athletic TD catch for Notre Dame vs BC",
-          "url": "https://fightingirishwire.usatoday.com/story/sports/college/fighting-irish/football/2026/11/14/notre-dame-football-jordan-faison-touchdown-boston-college-eagles/92786303007/"
-        }
-      ],
-      "id": "ed72da7c0b",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jordan+faison&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jordan+faison",
-        "naver": "https://search.shopping.naver.com/search/all?query=jordan+faison"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
     {
       "title": "Christmas",
       "query": "christmas gift",
       "category": "season",
       "score": 47,
       "reasons": [
-        "이벤트 D-33 (2026-12-25), 준비 예정"
+        "이벤트 D-32 (2026-12-25), 준비 예정"
       ],
       "sources": [
         "events"
@@ -85,7 +41,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 33,
+        "days_left": 32,
         "prep_by": "2026-11-25",
         "status": "upcoming"
       },
@@ -98,8 +54,8 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 1,
-        "rank_change": -1,
+        "prev_rank": 2,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -109,7 +65,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-5 (2026-11-27), 배송 시간 부족"
+        "이벤트 D-4 (2026-11-27), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -123,7 +79,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 5,
+        "days_left": 4,
         "prep_by": "2026-10-30",
         "status": "too_late"
       },
@@ -137,7 +93,7 @@
       "trend": {
         "status": "same",
         "prev_rank": 3,
-        "rank_change": 0,
+        "rank_change": 1,
         "streak": 15
       }
     },
@@ -147,7 +103,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-8 (2026-11-30), 배송 시간 부족"
+        "이벤트 D-7 (2026-11-30), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -161,7 +117,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 8,
+        "days_left": 7,
         "prep_by": "2026-11-02",
         "status": "too_late"
       },
@@ -175,7 +131,7 @@
       "trend": {
         "status": "same",
         "prev_rank": 4,
-        "rank_change": 0,
+        "rank_change": 1,
         "streak": 15
       }
     }
@@ -185,7 +141,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 5,
+      "days_left": 4,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "too_late",
@@ -203,7 +159,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 8,
+      "days_left": 7,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "too_late",
@@ -221,7 +177,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 33,
+      "days_left": 32,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "upcoming",
@@ -239,100 +195,109 @@
   ],
   "other_trends": [
     {
-      "keyword": "tallulah willis",
+      "keyword": "colton mckivitz",
+      "traffic_label": "50000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=colton+mckivitz&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=colton+mckivitz",
+        "naver": "https://search.shopping.naver.com/search/all?query=colton+mckivitz"
+      }
+    },
+    {
+      "keyword": "christian mccaffrey",
+      "traffic_label": "5000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=christian+mccaffrey&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=christian+mccaffrey",
+        "naver": "https://search.shopping.naver.com/search/all?query=christian+mccaffrey"
+      }
+    },
+    {
+      "keyword": "49ers schedule",
+      "traffic_label": "5000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=49ers+schedule&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=49ers+schedule",
+        "naver": "https://search.shopping.naver.com/search/all?query=49ers+schedule"
+      }
+    },
+    {
+      "keyword": "lead azide detonation",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tallulah+willis&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tallulah+willis",
-        "naver": "https://search.shopping.naver.com/search/all?query=tallulah+willis"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lead+azide+detonation&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lead+azide+detonation",
+        "naver": "https://search.shopping.naver.com/search/all?query=lead+azide+detonation"
       }
     },
     {
-      "keyword": "clima para amanhã",
+      "keyword": "kaelon black",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kaelon+black&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kaelon+black",
+        "naver": "https://search.shopping.naver.com/search/all?query=kaelon+black"
+      }
+    },
+    {
+      "keyword": "channing tatum",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=clima+para+amanh%C3%A3&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=clima+para+amanh%C3%A3",
-        "naver": "https://search.shopping.naver.com/search/all?query=clima+para+amanh%C3%A3"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=channing+tatum&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=channing+tatum",
+        "naver": "https://search.shopping.naver.com/search/all?query=channing+tatum"
       }
     },
     {
-      "keyword": "selena gomez",
+      "keyword": "49ers injuries",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=selena+gomez&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=selena+gomez",
-        "naver": "https://search.shopping.naver.com/search/all?query=selena+gomez"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=49ers+injuries&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=49ers+injuries",
+        "naver": "https://search.shopping.naver.com/search/all?query=49ers+injuries"
       }
     },
     {
-      "keyword": "celtics vs kings",
+      "keyword": "billie jean king",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=billie+jean+king&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=billie+jean+king",
+        "naver": "https://search.shopping.naver.com/search/all?query=billie+jean+king"
+      }
+    },
+    {
+      "keyword": "jamal murray",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=celtics+vs+kings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=celtics+vs+kings",
-        "naver": "https://search.shopping.naver.com/search/all?query=celtics+vs+kings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jamal+murray&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jamal+murray",
+        "naver": "https://search.shopping.naver.com/search/all?query=jamal+murray"
       }
     },
     {
-      "keyword": "trump homelessness funding policy block",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=trump+homelessness+funding+policy+block&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=trump+homelessness+funding+policy+block",
-        "naver": "https://search.shopping.naver.com/search/all?query=trump+homelessness+funding+policy+block"
-      }
-    },
-    {
-      "keyword": "kurt russell",
+      "keyword": "wendy's company",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kurt+russell&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kurt+russell",
-        "naver": "https://search.shopping.naver.com/search/all?query=kurt+russell"
-      }
-    },
-    {
-      "keyword": "ryan garcia",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ryan+garcia&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ryan+garcia",
-        "naver": "https://search.shopping.naver.com/search/all?query=ryan+garcia"
-      }
-    },
-    {
-      "keyword": "erin cahill",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=erin+cahill&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=erin+cahill",
-        "naver": "https://search.shopping.naver.com/search/all?query=erin+cahill"
-      }
-    },
-    {
-      "keyword": "tulsa king nielsen streaming ratings",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tulsa+king+nielsen+streaming+ratings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tulsa+king+nielsen+streaming+ratings",
-        "naver": "https://search.shopping.naver.com/search/all?query=tulsa+king+nielsen+streaming+ratings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=wendy%27s+company&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=wendy%27s+company",
+        "naver": "https://search.shopping.naver.com/search/all?query=wendy%27s+company"
       }
     }
   ],
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "dropped": [
     {
-      "id": "621198f702",
-      "title": "boston blue",
-      "query": "boston blue",
-      "score": 42,
-      "rank": 2
+      "id": "ed72da7c0b",
+      "title": "jordan faison",
+      "query": "jordan faison",
+      "score": 54,
+      "rank": 1
     }
   ],
   "history": {
-    "date": "2026-11-22",
-    "previous_date": "2026-11-21",
-    "new_count": 1
+    "date": "2026-11-23",
+    "previous_date": "2026-11-22",
+    "new_count": 0
   }
 }
