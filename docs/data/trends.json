@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-23T02:50:59+00:00",
+  "fetched_at": "2026-11-24T06:05:41+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "colton mckivitz",
-      "traffic": 50000,
-      "traffic_label": "50000+",
-      "pub_date": "Sun, 22 Nov 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeAY_uKE_3bZVwjZEXeL6ZvTAMykcGHer3ZXwVVxfwEH4gnF0t6aYrT6mX_G0",
+      "keyword": "collin sexton",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 23 Nov 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBL3dtMAHsqmrZf1NcMhhcb5Oa1bc8utUbSVXQnUheB2QVqFF5d0wJlHg56Uw",
       "news": [
         {
-          "title": "49ers’ Colton McKivitz carted off after gruesome leg injury on 'Sunday Night Football'",
-          "url": "https://www.usatoday.com/story/sports/nfl/49ers/2026/11/22/colton-mckivitz-injury-update-49ers-offensive-linemen-vikings/92920087007/",
-          "source": "USA Today"
+          "title": "Collin Sexton reveals secret that’s helped Lakers surge in standings",
+          "url": "https://sports.yahoo.com/articles/collin-sexton-reveals-secret-helped-042152576.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "49ers RT Colton McKivitz carted off in an air cast with apparent significant injury",
-          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-rt-colton-mckivitz-carted-off-in-an-air-cast-with-apparent-significant-injury",
+          "title": "Collin Sexton discusses his focus when Luka Doncic is off court",
+          "url": "https://lakersnation.com/collin-sexton-focused-on-getting-lakers-more-organized-when-luka-doncic-rests/",
+          "source": "Lakers Nation"
+        },
+        {
+          "title": "Collin Sexton on Lakers role, JJ Redick talks and Walker Kessler",
+          "url": "https://www.talkbasket.net/229765-collin-sexton-on-lakers-role-jj-redick-talks-and-walker-kessler",
+          "source": "TalkBasket.net"
+        }
+      ]
+    },
+    {
+      "keyword": "jake laravia",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS-nJuQbOKO2CXAF6VgRoVFwP-1DRuZV5LuinhHzU9ObEBJxWg2_0HwQH_xQs",
+      "news": [
+        {
+          "title": "Jake LaRavia returns to starting lineup vs. Utah",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/jake-laravia-returns-to-starting-lineup-vs-utah",
           "source": "NBC Sports"
         },
         {
-          "title": "49ers’ Emotional Scene After Former WVU Star Suffers Gruesome Injury",
-          "url": "https://heavy.com/sports/college-football/west-virginia-mountaineers/wvu-colton-mckivitz-49ers-frightening-injury/",
+          "title": "Redick Explains Williams Starting Role Against Kings",
+          "url": "https://demokratis.co.id/en/redick-williams-starting-role-kings",
+          "source": "Demokratis.co.id"
+        },
+        {
+          "title": "Lakers Make Big Starting Lineup Change Monday Vs Jazz",
+          "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-big-starting-lineup-change-jazz/",
           "source": "Heavy.com"
         }
       ]
     },
     {
-      "keyword": "christian mccaffrey",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbwRMe4GdAOfABWSlZQDl0-Ef8DHmi021mrDBuSEWKNfruZIvnZZBzfntovuY",
-      "news": [
-        {
-          "title": "Dan Orlovsky picks 49ers player who puts ‘fear of God' in Brian Flores, Vikings",
-          "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/christian-mccaffrey-vikings-brian-flores/1981919/",
-          "source": "NBC Sports Bay Area & California"
-        },
-        {
-          "title": "49ers injury update: Is Christian McCaffrey playing in Week 11?",
-          "url": "https://sports.yahoo.com/articles/49ers-injury-christian-mccaffrey-playing-193030098.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Shanahan, McCaffrey Talk Colorado Prep, Preview Tough Defense",
-          "url": "https://www.49ers.com/video/shanahan-mccaffrey-talk-colorado-prep-preview-tough-defense",
-          "source": "San Francisco 49ers"
-        }
-      ]
-    },
-    {
-      "keyword": "49ers schedule",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKD8rDdTOeEmNgiMA3BXzEcskKsrkSTncpvvWHbTFcBQQHVU3wApTzQRoWm6Q",
-      "news": [
-        {
-          "title": "Fantasy football Week 11 inactives: Who's in and who's out?",
-          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50530832/fantasy-football-injuries-nfl-week-11-inactive-active",
-          "source": "ESPN"
-        },
-        {
-          "title": "NFL Week 11 inactives: Players ruled out for Sunday's 11 games",
-          "url": "https://www.nfl.com/news/nfl-week-11-inactives-players-ruled-out-sunday-2026-season",
-          "source": "NFL.com"
-        },
-        {
-          "title": "NFL Week 11 inactives: Players ruled out for Sunday’s 11 games",
-          "url": "https://www.49erswebzone.com/news/205386-nfl-inactives-players-ruled-sundays/",
-          "source": "49ers Webzone"
-        }
-      ]
-    },
-    {
-      "keyword": "lead azide detonation",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd0P_L61Co-G45DXEXbwZ0V1gbSUVkm3X_XRzjev9mjbMY1pXhGNaAU3PcIS4",
-      "news": [
-        {
-          "title": "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
-          "url": "https://www.wqad.com/article/news/local/noon-sunday-deadline-set-in-iowa-army-blast-challenge-fort-madison-says-detonation-could-come-monday-or-tuesday/526-ac7e252c-8ff2-4b3c-b016-1a92530dae50",
-          "source": "WQAD"
-        },
-        {
-          "title": "Lead detonation in Iowa won't happen 'before Wednesday,' Army says",
-          "url": "https://www.desmoinesregister.com/story/news/iowa/2026/11/22/iowa-lead-azide-detonation-delayed-until-at-least-wednesday-army-says/92919470007/",
-          "source": "The Des Moines Register"
-        },
-        {
-          "title": "US Army tells court it intends to detonate bomb-making material in Iowa on Tuesday despite pause. Here’s what we know",
-          "url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "keyword": "kaelon black",
-      "traffic": 2000,
-      "traffic_label": "2000+",
-      "pub_date": "Sun, 22 Nov 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4iXdTYXThO76hx4Cy4TtbfS3yLfWVD8iwIIArtEqObWfwh-rDGmrBb7JPbU",
-      "news": [
-        {
-          "title": "Can't-Miss Play: Kaelon Black bulldozes through two Cowboys on 25-yard TD run",
-          "url": "https://www.nfl.com/videos/can-t-miss-play-kaelon-black-bulldozes-through-two-cowboys-on-25-yard-td-run",
-          "source": "NFL.com"
-        },
-        {
-          "title": "49ers rookie RB Kaelon Black manifested being drafted into the NFL by a Shanahan",
-          "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kaelon-black-shanahan-draft-manifestation/1981537/",
-          "source": "NBC Sports Bay Area & California"
-        },
-        {
-          "title": "49ers’ McCaffrey mixes NFL milestones with mentorship of Black",
-          "url": "https://www.mercurynews.com/2026/11/16/49ers-mccaffrey-mixes-nfl-milestones-with-mentorship-of-black/",
-          "source": "The Mercury News"
-        }
-      ]
-    },
-    {
-      "keyword": "channing tatum",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTBNhozx5xl7BiBplTMMpoZBXdFtVCAxuQsF7JCqVLqCWpIuD8EiQQbDreRxs",
-      "news": [
-        {
-          "title": "‘Josephine’ Review: Channing Tatum in a Deeply Felt Drama",
-          "url": "https://www.wsj.com/arts-culture/film/josephine-review-channing-tatum-in-a-deeply-felt-drama-2ad11b3f",
-          "source": "WSJ"
-        },
-        {
-          "title": "'The subject is still taboo': Shocking new film Josephine confronts sexual violence through a child's eyes",
-          "url": "https://www.bbc.com/culture/article/20261118-shocking-new-film-josephine-confronts-sexual-violence-through-a-childs-eyes",
-          "source": "BBC"
-        },
-        {
-          "title": "In the unflinching ‘Josephine,’ Beth de Araújo transmutes tragedy into art",
-          "url": "https://apnews.com/article/josephine-beth-de-araujo-channing-tatum-a81687e72bf7b941fb578f8709f43609",
-          "source": "AP News"
-        }
-      ]
-    },
-    {
-      "keyword": "49ers injuries",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 22 Nov 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx40E4jtbj6U3wuh4t-hzMK2qihtS4QC4jW_dsmUfs4pXdbs-52-7MVse7nKw",
-      "news": [
-        {
-          "title": "Wishes Pour In From George Kittle, Fred Warner & More as 49ers Star Christian Kirk Celebrates Personal Milestone",
-          "url": "https://sports.yahoo.com/articles/wishes-pour-george-kittle-fred-170005524.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "49ers WR Christian Kirk Recovering From Meniscus Surgery",
-          "url": "https://www.profootballrumors.com/2026/11/49ers-wr-christian-kirk-recovering-from-meniscus-surgery",
-          "source": "ProFootballRumors.com"
-        },
-        {
-          "title": "Ex-Jaguars $72 Million Talent Suffers Likely Season-Ending Injury on New Team",
-          "url": "https://heavy.com/sports/nfl/jacksonville-jaguars/chritian-kirk-injury-news-surgery/",
-          "source": "Heavy.com"
-        }
-      ]
-    },
-    {
-      "keyword": "billie jean king",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Sun, 22 Nov 2026 18:20:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4L0RiHb1kARgs8BdPWiUnPgRf8sXZmkpW2K6KPXOkDE1Je7lio9Tew3x6SWE",
-      "news": [
-        {
-          "title": "2026 BJK Cup Play-offs: USA seal Qualifiers return as Thailand make history on Sunday",
-          "url": "https://www.billiejeankingcup.com/en/news/2026-bjk-cup-play-offs-action-as-it-happens-sunday-22-november",
-          "source": "Billie Jean King Cup"
-        },
-        {
-          "title": "Billie Jean King Cup: Coco Gauff plays doubles, USA sweeps Hungary",
-          "url": "https://sports.yahoo.com/articles/billie-jean-king-cup-coco-224118759.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Licensable picture: Tennis: Billie Jean King Cup",
-          "url": "https://www.reutersconnect.com/item/tennis-billie-jean-king-cup/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjE2OTU",
-          "source": "Reuters Connect"
-        }
-      ]
-    },
-    {
-      "keyword": "jamal murray",
+      "keyword": "walker kessler",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhEr8MUZmaybFK96nMBT9PRAZT3TDIsRWESeC2NjUOzspgQHSZ1UwQCRs38Tc",
+      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzx-d9zCUHu8aYidtsCBNZPa3o1aGRdnGEHf7ys_SHuOifyWtxfPlPpKkJV0g",
       "news": [
         {
-          "title": "Jamal Murray drains 3-pointer vs. Chicago Bulls",
-          "url": "https://www.espn.com/video/clip/_/id/50567870/jamal-murray-drains-3-pointer-vs-chicago-bulls",
-          "source": "ESPN"
+          "title": "One of Walker Kessler’s greatest skills? Helping the Lakers’ build chemistry",
+          "url": "https://sports.yahoo.com/articles/one-walker-kessler-greatest-skills-002235852.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Jamal Murray elevates for the big-time swat",
-          "url": "https://www.espn.com/video/clip/_/id/50567645/jamal-murray-elevates-big-swat",
-          "source": "ESPN"
+          "title": "Walker Kessler Reveals His Immediate Reaction To Being Traded To Lakers",
+          "url": "https://lakersnation.com/walker-kessler-reveals-his-immediate-reaction-to-being-traded-to-lakers/",
+          "source": "Lakers Nation"
         },
         {
-          "title": "Jamal Murray with the slam",
-          "url": "https://www.nba.com/watch/video/jamal-murray-with-the-slam-8",
-          "source": "NBA.com"
+          "title": "Lakers star gets honest on public scrutiny weighing NBA players down",
+          "url": "https://nypost.com/2026/11/19/sports/lakers-star-gets-honest-on-public-scrutiny-weighing-nba-players-down/",
+          "source": "New York Post"
         }
       ]
     },
     {
-      "keyword": "wendy's company",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Sun, 22 Nov 2026 18:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_MDr_1YN7HaEGl5prllAvYyOMOHo2_Iw36C5g1bEZxCTcCGpaylTv-4wheQA",
+      "keyword": "paul walker",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmi-Tpd3A7eHbLdk6deRgqxLTnDR3oF793IbC-ogsyWrqpcwWr3hcRueZDwKM",
       "news": [
         {
-          "title": "Wendy’s store closures hit close to 100 locations in franchisee downfall: See the latest list",
-          "url": "https://www.fastcompany.com/91633391/wendys-store-closures-update-list-of-locations-franchise-downfall",
-          "source": "Fast Company"
+          "title": "Where to Find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6",
+          "url": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
+          "source": "VICE"
         },
         {
-          "title": "Major burger chain buying 163 franchisee units out of bankruptcy",
-          "url": "https://finance.yahoo.com/small-business/articles/major-burger-chain-buying-163-034700908.html",
-          "source": "Yahoo Finance"
+          "title": "Where To Find The Paul Walker 'Fast And Furious' Tribute Car In GTA 6",
+          "url": "https://www.jalopnik.com/2322396/gta-6-grand-theft-auto-paul-walker-fast-and-furious-toyota-supra-turbo-tribute/",
+          "source": "Jalopnik"
         },
         {
-          "title": "Wendy’s, Domino’s, and Chipotle",
-          "url": "https://www.nrn.com/quick-service/wendy-s-domino-s-and-chipotle",
-          "source": "Nation’s Restaurant News"
+          "title": "Players Discover Paul Walker’s Iconic Eclipse Hidden in a Grand Theft Auto 6 Garage",
+          "url": "https://www.techeblog.com/how-to-find-paul-walker-eclipse-grand-theft-auto-6/",
+          "source": "TechEBlog -"
+        }
+      ]
+    },
+    {
+      "keyword": "criminal profile gta 6",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJNjQbG0-B-AiOnJri-HG4MRRKAPSBmeVwci9ciMQpEyyUnEfyYjiQM0Yrx-Y",
+      "news": [
+        {
+          "title": "GTA 6 Criminal Profile: How the system works",
+          "url": "https://www.redbull.com/us-en/gta-6-criminal-profile-levels-explained",
+          "source": "Red Bull"
+        },
+        {
+          "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
+          "url": "https://aftermath.site/gta-6-criminal-profile-mechanic-vi-grand-theft-auto-jason-lucia-rockstar/",
+          "source": "Aftermath"
+        },
+        {
+          "title": "Clearing Up False Info About The ‘GTA 6’ Criminal Profile System",
+          "url": "https://www.forbes.com/sites/paultassi/2026/11/23/clearing-up-false-info-about-the-gta-6-criminal-profile-system/",
+          "source": "Forbes"
+        }
+      ]
+    },
+    {
+      "keyword": "lakers standings",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMUojL-_CpeQ4frgY58DAv0GWIgtX8VoE0rvIvR638Qo9foMlZ2pe7TdwRI_o",
+      "news": [
+        {
+          "title": "Too-early NBA All-Star picks: The 24 most deserving players right now",
+          "url": "https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey",
+          "source": "ESPN"
+        },
+        {
+          "title": "All Star Format",
+          "url": "https://abc7.com/tag/all-star-format/",
+          "source": "ABC7 Los Angeles"
+        },
+        {
+          "title": "And-Ones: Early All-Stars, Neto, Nunnally, Perry",
+          "url": "https://www.hoopsrumors.com/2026/11/and-ones-early-all-stars-neto-nunnally-perry.html",
+          "source": "Hoops Rumors"
+        }
+      ]
+    },
+    {
+      "keyword": "ucl",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMz2A746cY5M0OwViYVf64wTqcNw6xtOSzmnCMOXDCVqP_-tczHq_V9AsRA",
+      "news": [
+        {
+          "title": "Champions League Matchday 5: Key stats and what to look out for in every game",
+          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2219497a67d6-4ad6623df0a1-1000--champions-league-matchday-5-key-stats-and-what-to-look-o/",
+          "source": "UEFA.com"
+        },
+        {
+          "title": "Champions League Predictions 11/24: Perfect Real Madrid in Action, Man City Seek Response",
+          "url": "https://www.si.com/soccer/champions-league-predictions-11-24-26-real-madrid-man-city",
+          "source": "Sports Illustrated"
+        },
+        {
+          "title": "UCL Fantasy Matchday 5 Player Picks: Best Selections for Matchday 5",
+          "url": "https://www.nevermanagealone.com/playerpicks/16881/ucl-fantasy-matchday-5-player-picks-best-selections-for-matchday-5",
+          "source": "Never Manage Alone"
+        }
+      ]
+    },
+    {
+      "keyword": "singapore",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8q47atfpe83CdIus69lg_S2h1vw55eBoXYlcyfqUmCtahwAUyB6_HJzCdJAw",
+      "news": [
+        {
+          "title": "Singapore is no backdoor for US chips, PM says",
+          "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "A third-country link allowing Nvidia chips to get to China is under scrutiny",
+          "url": "https://www.sbs.com.au/news/article/a-loophole-allowing-nvidias-chips-to-get-to-china-is-under-scrutiny/9c85rqw04",
+          "source": "SBS"
+        },
+        {
+          "title": "Singapore investigated Alice Huang but found no basis for prosecution, prime minister says – video",
+          "url": "https://www.theguardian.com/technology/video/2026/nov/24/singapore-investigated-alice-huang-but-found-no-basis-for-prosecution-prime-minister-says-video",
+          "source": "The Guardian"
+        }
+      ]
+    },
+    {
+      "keyword": "nosedive",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 23 Nov 2026 21:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS3U6TqEjXe0p-rjwVrkegAG24VCZUNqomUJnKypD7-1R0dsONFvJkvzzSeQ8",
+      "news": [
+        {
+          "title": "Cold snap looms as temperatures take a nosedive for more than 200 million Americans ahead of Thanksgiving",
+          "url": "https://www.foxweather.com/weather-news/thanksgiving-cold-snap-looms-temperatures-nosedive-millions-us",
+          "source": "FOX Weather"
+        },
+        {
+          "title": "Tracking widespread showers before a chilly Thanksgiving",
+          "url": "https://www.wafb.com/2026/11/23/dense-fog-cold-front-kickoff-week/",
+          "source": "WAFB"
+        },
+        {
+          "title": "Overnight cold front ushers in a chilly forecast for Sunday, Thanksgiving week",
+          "url": "https://www.kcbd.com/2026/11/21/one-more-beautiful-warm-day-before-much-chillier-trend-takes-over-thanksgiving-week/",
+          "source": "KCBD"
+        }
+      ]
+    },
+    {
+      "keyword": "gta 6 chapter 2 mission list",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ87fLjNrAsNlFtGkP9WBchxN1dYcUt5oWRqpY695rfRvCSthWRPpla70ZCsZo",
+      "news": [
+        {
+          "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+          "url": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things/",
+          "source": "GameSpot"
+        },
+        {
+          "title": "How Long Is Chapter 2 in GTA 6? All Missables and Mission List",
+          "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
+          "source": "VICE"
+        },
+        {
+          "title": "GTA 6 Chapter 2 Guide: $15,000 Goal, Missable Collectibles and Tips",
+          "url": "https://www.mmoexp.com/News/gta-6-chapter-2-guide-15-000-goal-missable-collectibles-and-tips.html",
+          "source": "MMOEXP"
         }
       ]
     }
