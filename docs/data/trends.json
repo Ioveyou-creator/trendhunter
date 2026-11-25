@@ -1,247 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-24T06:05:41+00:00",
+  "fetched_at": "2026-11-25T04:54:07+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "collin sexton",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 23 Nov 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBL3dtMAHsqmrZf1NcMhhcb5Oa1bc8utUbSVXQnUheB2QVqFF5d0wJlHg56Uw",
+      "keyword": "aaron rodgers",
+      "traffic": 20000,
+      "traffic_label": "20000+",
+      "pub_date": "Tue, 24 Nov 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY2-JadU0qh_kq1cHU1HF_cWtHOEs0IDAac-XHNCGSJybrar1X-0Ke-rHrWmU",
       "news": [
         {
-          "title": "Collin Sexton reveals secret that’s helped Lakers surge in standings",
-          "url": "https://sports.yahoo.com/articles/collin-sexton-reveals-secret-helped-042152576.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Collin Sexton discusses his focus when Luka Doncic is off court",
-          "url": "https://lakersnation.com/collin-sexton-focused-on-getting-lakers-more-organized-when-luka-doncic-rests/",
-          "source": "Lakers Nation"
-        },
-        {
-          "title": "Collin Sexton on Lakers role, JJ Redick talks and Walker Kessler",
-          "url": "https://www.talkbasket.net/229765-collin-sexton-on-lakers-role-jj-redick-talks-and-walker-kessler",
-          "source": "TalkBasket.net"
-        }
-      ]
-    },
-    {
-      "keyword": "jake laravia",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS-nJuQbOKO2CXAF6VgRoVFwP-1DRuZV5LuinhHzU9ObEBJxWg2_0HwQH_xQs",
-      "news": [
-        {
-          "title": "Jake LaRavia returns to starting lineup vs. Utah",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/jake-laravia-returns-to-starting-lineup-vs-utah",
-          "source": "NBC Sports"
-        },
-        {
-          "title": "Redick Explains Williams Starting Role Against Kings",
-          "url": "https://demokratis.co.id/en/redick-williams-starting-role-kings",
-          "source": "Demokratis.co.id"
-        },
-        {
-          "title": "Lakers Make Big Starting Lineup Change Monday Vs Jazz",
-          "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-big-starting-lineup-change-jazz/",
-          "source": "Heavy.com"
-        }
-      ]
-    },
-    {
-      "keyword": "walker kessler",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzx-d9zCUHu8aYidtsCBNZPa3o1aGRdnGEHf7ys_SHuOifyWtxfPlPpKkJV0g",
-      "news": [
-        {
-          "title": "One of Walker Kessler’s greatest skills? Helping the Lakers’ build chemistry",
-          "url": "https://sports.yahoo.com/articles/one-walker-kessler-greatest-skills-002235852.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Walker Kessler Reveals His Immediate Reaction To Being Traded To Lakers",
-          "url": "https://lakersnation.com/walker-kessler-reveals-his-immediate-reaction-to-being-traded-to-lakers/",
-          "source": "Lakers Nation"
-        },
-        {
-          "title": "Lakers star gets honest on public scrutiny weighing NBA players down",
-          "url": "https://nypost.com/2026/11/19/sports/lakers-star-gets-honest-on-public-scrutiny-weighing-nba-players-down/",
-          "source": "New York Post"
-        }
-      ]
-    },
-    {
-      "keyword": "paul walker",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmi-Tpd3A7eHbLdk6deRgqxLTnDR3oF793IbC-ogsyWrqpcwWr3hcRueZDwKM",
-      "news": [
-        {
-          "title": "Where to Find Paul Walker’s 1995 Mitsubishi Eclipse in GTA 6",
-          "url": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
-          "source": "VICE"
-        },
-        {
-          "title": "Where To Find The Paul Walker 'Fast And Furious' Tribute Car In GTA 6",
-          "url": "https://www.jalopnik.com/2322396/gta-6-grand-theft-auto-paul-walker-fast-and-furious-toyota-supra-turbo-tribute/",
-          "source": "Jalopnik"
-        },
-        {
-          "title": "Players Discover Paul Walker’s Iconic Eclipse Hidden in a Grand Theft Auto 6 Garage",
-          "url": "https://www.techeblog.com/how-to-find-paul-walker-eclipse-grand-theft-auto-6/",
-          "source": "TechEBlog -"
-        }
-      ]
-    },
-    {
-      "keyword": "criminal profile gta 6",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJNjQbG0-B-AiOnJri-HG4MRRKAPSBmeVwci9ciMQpEyyUnEfyYjiQM0Yrx-Y",
-      "news": [
-        {
-          "title": "GTA 6 Criminal Profile: How the system works",
-          "url": "https://www.redbull.com/us-en/gta-6-criminal-profile-levels-explained",
-          "source": "Red Bull"
-        },
-        {
-          "title": "GTA VI Does What Most Video Games With Choice And Morality Systems Don't",
-          "url": "https://aftermath.site/gta-6-criminal-profile-mechanic-vi-grand-theft-auto-jason-lucia-rockstar/",
-          "source": "Aftermath"
-        },
-        {
-          "title": "Clearing Up False Info About The ‘GTA 6’ Criminal Profile System",
-          "url": "https://www.forbes.com/sites/paultassi/2026/11/23/clearing-up-false-info-about-the-gta-6-criminal-profile-system/",
-          "source": "Forbes"
-        }
-      ]
-    },
-    {
-      "keyword": "lakers standings",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMUojL-_CpeQ4frgY58DAv0GWIgtX8VoE0rvIvR638Qo9foMlZ2pe7TdwRI_o",
-      "news": [
-        {
-          "title": "Too-early NBA All-Star picks: The 24 most deserving players right now",
-          "url": "https://www.espn.com/nba/story/_/id/50558987/all-star-selections-wembanyama-giannis-maxey",
+          "title": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+          "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
           "source": "ESPN"
         },
         {
-          "title": "All Star Format",
-          "url": "https://abc7.com/tag/all-star-format/",
-          "source": "ABC7 Los Angeles"
+          "title": "Steelers bench Aaron Rodgers for Mason Rudolph",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-bench-aaron-rodgers-for-mason-rudolph",
+          "source": "NBC Sports"
         },
         {
-          "title": "And-Ones: Early All-Stars, Neto, Nunnally, Perry",
-          "url": "https://www.hoopsrumors.com/2026/11/and-ones-early-all-stars-neto-nunnally-perry.html",
-          "source": "Hoops Rumors"
+          "title": "NFL news, live updates: Steelers bench Aaron Rodgers, will start Mason Rudolph in Week 12; Brandon Aiyuk to visit Commanders as a free agent on Wednesday",
+          "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-11-151927308.html",
+          "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "ucl",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMz2A746cY5M0OwViYVf64wTqcNw6xtOSzmnCMOXDCVqP_-tczHq_V9AsRA",
+      "keyword": "kyrie irving",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Tue, 24 Nov 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7nJman_JQnMFMsHpdj4QhmZNKdpLXaDoeFslpY2kXrLSrWl9jwykKm6ITUo",
       "news": [
         {
-          "title": "Champions League Matchday 5: Key stats and what to look out for in every game",
-          "url": "https://www.uefa.com/uefachampionsleague/news/02ab-2219497a67d6-4ad6623df0a1-1000--champions-league-matchday-5-key-stats-and-what-to-look-o/",
-          "source": "UEFA.com"
+          "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
+          "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Champions League Predictions 11/24: Perfect Real Madrid in Action, Man City Seek Response",
-          "url": "https://www.si.com/soccer/champions-league-predictions-11-24-26-real-madrid-man-city",
-          "source": "Sports Illustrated"
+          "title": "New Lakers Trade Rumors Update Strategy to Improve Roster by 2027 NBA Deadline",
+          "url": "https://bleacherreport.com/articles/25536759-new-lakers-trade-rumors-update-strategy-improve-roster-2027-nba-deadline",
+          "source": "Bleacher Report"
         },
         {
-          "title": "UCL Fantasy Matchday 5 Player Picks: Best Selections for Matchday 5",
-          "url": "https://www.nevermanagealone.com/playerpicks/16881/ucl-fantasy-matchday-5-player-picks-best-selections-for-matchday-5",
-          "source": "Never Manage Alone"
+          "title": "Rob Pelinka says the Lakers will be active at the trade deadline",
+          "url": "https://www.silverscreenandroll.com/lakers-news/129354/lakers-news-rob-pelinka",
+          "source": "Silver Screen and Roll"
         }
       ]
     },
     {
-      "keyword": "singapore",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 23 Nov 2026 21:50:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8q47atfpe83CdIus69lg_S2h1vw55eBoXYlcyfqUmCtahwAUyB6_HJzCdJAw",
+      "keyword": "mega millions numbers",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 24 Nov 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXHqMIOjFDaagXhUNbfGpgzWHntDfsk9dH1zQxwV76ivmqrwYHmUERhUglC1I",
       "news": [
         {
-          "title": "Singapore is no backdoor for US chips, PM says",
-          "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
-          "source": "Financial Times"
+          "title": "Mega Millions winning numbers for Tuesday, Nov. 24, 2026",
+          "url": "https://www.freep.com/story/news/lottery/2026/11/24/mega-millions-winning-numbers-tuesday-november-24-2026-results/92661362007/",
+          "source": "Detroit Free Press"
         },
         {
-          "title": "A third-country link allowing Nvidia chips to get to China is under scrutiny",
-          "url": "https://www.sbs.com.au/news/article/a-loophole-allowing-nvidias-chips-to-get-to-china-is-under-scrutiny/9c85rqw04",
-          "source": "SBS"
+          "title": "Did anyone win the Mega Millions $629M jackpot? Winning numbers for Friday, Nov. 20",
+          "url": "https://www.wcnc.com/article/news/nation-world/mega-millions-jackpot-winning-numbers-friday-november-20/507-41d422cf-aafb-4133-994f-48daac86c2d4",
+          "source": "WCNC"
         },
         {
-          "title": "Singapore investigated Alice Huang but found no basis for prosecution, prime minister says – video",
-          "url": "https://www.theguardian.com/technology/video/2026/nov/24/singapore-investigated-alice-huang-but-found-no-basis-for-prosecution-prime-minister-says-video",
-          "source": "The Guardian"
+          "title": "MN Lottery Results: Mega Millions, Pick 3 winning numbers for Nov. 24, 2026",
+          "url": "https://www.sctimes.com/story/news/local/2026/11/24/minnesota-lottery-results-tuesday-november-24-2026/92953849007/",
+          "source": "St. Cloud Times"
         }
       ]
     },
     {
-      "keyword": "nosedive",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 23 Nov 2026 21:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRS3U6TqEjXe0p-rjwVrkegAG24VCZUNqomUJnKypD7-1R0dsONFvJkvzzSeQ8",
+      "keyword": "steelers record",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 24 Nov 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbzRkXSaUu1W-DpKyhOO-d2xyD5TpFm-_SKFiIOn_0V36voRRDqXXzeokBxYc",
       "news": [
         {
-          "title": "Cold snap looms as temperatures take a nosedive for more than 200 million Americans ahead of Thanksgiving",
-          "url": "https://www.foxweather.com/weather-news/thanksgiving-cold-snap-looms-temperatures-nosedive-millions-us",
-          "source": "FOX Weather"
+          "title": "Pro Football Hall of Fame voters trim Class of 2027 nominees to 52",
+          "url": "https://www.espn.com/nfl/story/_/id/50584494/pro-football-hall-fame-trims-2027-player-nominees-52",
+          "source": "ESPN"
         },
         {
-          "title": "Tracking widespread showers before a chilly Thanksgiving",
-          "url": "https://www.wafb.com/2026/11/23/dense-fog-cold-front-kickoff-week/",
-          "source": "WAFB"
+          "title": "4 Patriots legends named Pro Football Hall of Fame nominees",
+          "url": "https://sports.yahoo.com/nfl/articles/4-patriots-legends-named-pro-035036630.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "Overnight cold front ushers in a chilly forecast for Sunday, Thanksgiving week",
-          "url": "https://www.kcbd.com/2026/11/21/one-more-beautiful-warm-day-before-much-chillier-trend-takes-over-thanksgiving-week/",
-          "source": "KCBD"
+          "title": "Roethlisberger, Gronkowski are among first-time eligibles advancing in Hall of Fame voting process",
+          "url": "https://abcnews.com/Sports/wireStory/roethlisberger-gronkowski-time-eligibles-advancing-hall-fame-voting-138418127",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ]
     },
     {
-      "keyword": "gta 6 chapter 2 mission list",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Mon, 23 Nov 2026 21:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ87fLjNrAsNlFtGkP9WBchxN1dYcUt5oWRqpY695rfRvCSthWRPpla70ZCsZo",
+      "keyword": "us treasury",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Tue, 24 Nov 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgO3jhZPpi3QHKiMM6eDrB86YwChVkHxXAElSHbXWWB_s86B_GTwHtrKMnEZg",
       "news": [
         {
-          "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
-          "url": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things/",
-          "source": "GameSpot"
+          "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks",
+          "url": "https://www.reuters.com/business/finance/us-imposes-sanctions-dozens-linked-irans-shadow-banking-networks-2026-11-23/",
+          "source": "Reuters"
         },
         {
-          "title": "How Long Is Chapter 2 in GTA 6? All Missables and Mission List",
-          "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
-          "source": "VICE"
+          "title": "Iran faces year-end cash squeeze if US blockade holds",
+          "url": "https://www.iranintl.com/en/202611245272",
+          "source": "Iran International"
         },
         {
-          "title": "GTA 6 Chapter 2 Guide: $15,000 Goal, Missable Collectibles and Tips",
-          "url": "https://www.mmoexp.com/News/gta-6-chapter-2-guide-15-000-goal-missable-collectibles-and-tips.html",
-          "source": "MMOEXP"
+          "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
+          "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+          "source": "Fox News"
+        }
+      ]
+    },
+    {
+      "keyword": "steelers depth chart",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Tue, 24 Nov 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpvyfZrsHBQXchwpNEPqWKqa0OVs8IokgEqmBsdCt-wh5K8D9ttW59mAkOkpI",
+      "news": [
+        {
+          "title": "Steelers Release Updated Depth Chart For Week 12",
+          "url": "https://steelersdepot.com/2026/11/steelers-release-updated-depth-chart-for-week-12-2/",
+          "source": "Steelers Depot"
+        },
+        {
+          "title": "Pittsburgh Steelers Depth Chart 2026 (Week 11)",
+          "url": "https://atozsports.com/nfl-roster-builder/teams/steelers/",
+          "source": "A to Z Sports"
+        },
+        {
+          "title": "Steelers Release Updated Depth Chart For Week 11 Eagles Game",
+          "url": "https://steelersdepot.com/2026/11/steelers-release-updated-depth-chart-for-week-11-eagles-game/",
+          "source": "Steelers Depot"
+        }
+      ]
+    },
+    {
+      "keyword": "drew allar",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 24 Nov 2026 20:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHtAvADPd5NQfYLRTguw7UhBqCKQ9d-LqVWZ6SgU91jmY3Q5qIEZxM5c5ooKY",
+      "news": [
+        {
+          "title": "Steelers select dynamic receiver in latest ESPN mock draft",
+          "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-draft/178143/steelers-select-dynamic-receiver-in-latest-espn-mock-draft",
+          "source": "Behind the Steel Curtain"
+        },
+        {
+          "title": "FIRST-ROUND LOCK: Dante Moore’s Potential Impact for the NFL SHAKES 2027 Draft Rankings",
+          "url": "https://www.wusa9.com/video/sports/locked-on/lo-national/nfl-draft-show/first-round-lock-dante-moores-potential-impact-for-the-nfl-shakes-2027-draft-rankings/535-596836c4-3565-4720-a674-10cd5987911f",
+          "source": "WUSA9"
+        },
+        {
+          "title": "Beat Writer Outlines How Steelers Can Create ‘Optimism’ For Future",
+          "url": "https://steelersdepot.com/2026/11/beat-writer-outlines-how-steelers-can-create-optimism-for-future/",
+          "source": "Steelers Depot"
+        }
+      ]
+    },
+    {
+      "keyword": "miss international 2026",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 24 Nov 2026 20:20:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBfsmBUkql7P1JnEEz3y5GbUX1Wx_iDh2S8JgiFjQ5Pf0_RYQwoMkERKIrVXo",
+      "news": [
+        {
+          "title": "What to know about Miss International 2026’s final gala in Japan",
+          "url": "https://entertainment.inquirer.net/691237/what-to-know-about-miss-international-2026s-final-gala-in-japan",
+          "source": "Inquirer.net"
+        },
+        {
+          "title": "Miss International PH Katrina Johnson says it's a dream come true to represent the country",
+          "url": "https://www.gmanetwork.com/lifestyle/news/141515/miss-international-ph-katrina-johnson-says-its-a-dream-come-true-to-represent-the-country/story",
+          "source": "GMA Network"
+        },
+        {
+          "title": "Where to watch the 2026 Miss International pageant",
+          "url": "https://philstarlife.com/geeky/332646-where-to-watch-2026-miss-international-pageant",
+          "source": "Philstar Life"
+        }
+      ]
+    },
+    {
+      "keyword": "utep basketball",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 24 Nov 2026 20:10:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAWCG38pAikl-wWbep0bGZcdgYqHf1DXhml3Abob6kVB5hjUU_LM6vsf0FimU",
+      "news": [
+        {
+          "title": "Depth Delivers: UTEP men win in Cancun without top scorers",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/depth-delivers-utep-men-win-040559451.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "UTEP's Reid Cason (24) jumps for the opening tip against the College of Charleston at the Cancun Challenge on Tuesday, Nov. 24.",
+          "url": "https://lufkindailynews.com/news_reuters/state/uteps-reid-cason-24-jumps-for-the-opening-tip-against-the-college-of-charleston-at/image_fd65cd53-6052-5f46-bf5d-d613d831372c.html",
+          "source": "The Lufkin Daily News"
+        },
+        {
+          "title": "Charleston vs UTEP Prediction (Nov 24): Charleston 59% — Odds & Live Score",
+          "url": "https://www.accuscore.com/game/cmwtuyfit1lfxqp01zbth0myj",
+          "source": "AccuScore"
+        }
+      ]
+    },
+    {
+      "keyword": "lauren becker omaha",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Tue, 24 Nov 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPRYgp-ZodewvqeaF5dc-uIXfTYbLKA_p2cOgI3WJdwxBCZrtLTFzFau4m818",
+      "news": [
+        {
+          "title": "South Omaha children’s center homicide victim identified; police search for suspect",
+          "url": "https://www.wowt.com/2026/11/24/police-investigating-homicide-south-omaha-community-center/",
+          "source": "WOWT"
+        },
+        {
+          "title": "Omaha police arrest man connected to homicide at Kids Can Community Center",
+          "url": "https://www.ketv.com/article/omaha-police-arrest-man-connected-to-homicide-at-kids-can-community-center/74526180",
+          "source": "KETV"
+        },
+        {
+          "title": "Woman, 22, fatally stabbed in Omaha early childhood education center parking lot",
+          "url": "https://omaha.com/news/local/crime-courts/article_e482ee00-1cd1-4354-843d-a19bae0add8c.html",
+          "source": "Omaha World-Herald"
         }
       ]
     }

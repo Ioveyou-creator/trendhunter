@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-24T06:17:05+00:00",
+  "generated_at": "2026-11-25T05:05:01+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-24T06:05:41+00:00"
+      "fetched_at": "2026-11-25T04:54:07+00:00"
     },
     "reddit": {
       "ok": false,
       "count": 0,
-      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 429, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 429, r/funkopop: HTTP 404, r/lego: HTTP 404, r/Sneakers: HTTP 429, r/kpop: HTTP 404, r/kpopthoughts: HTTP 429, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 404",
-      "fetched_at": "2026-11-24T06:17:05+00:00"
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 429, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 429, r/lego: HTTP 404, r/Sneakers: HTTP 404, r/kpop: HTTP 404, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 429, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 404",
+      "fetched_at": "2026-11-25T05:05:01+00:00"
     },
     "events": {
       "ok": true,
       "count": 3,
       "error": null,
-      "fetched_at": "2026-11-24T06:17:05+00:00"
+      "fetched_at": "2026-11-25T05:05:01+00:00"
     }
   },
   "candidates": [
@@ -25,9 +25,9 @@
       "title": "Christmas",
       "query": "christmas gift",
       "category": "season",
-      "score": 47,
+      "score": 65,
       "reasons": [
-        "이벤트 D-31 (2026-12-25), 준비 예정"
+        "이벤트 D-30 (2026-12-25), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,9 +41,9 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 31,
+        "days_left": 30,
         "prep_by": "2026-11-25",
-        "status": "upcoming"
+        "status": "prepare_now"
       },
       "id": "90f88a9324",
       "category_label": "시즌",
@@ -65,7 +65,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-3 (2026-11-27), 배송 시간 부족"
+        "이벤트 D-2 (2026-11-27), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -79,7 +79,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-10-30",
         "status": "too_late"
       },
@@ -103,7 +103,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-6 (2026-11-30), 배송 시간 부족"
+        "이벤트 D-5 (2026-11-30), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -117,7 +117,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 6,
+        "days_left": 5,
         "prep_by": "2026-11-02",
         "status": "too_late"
       },
@@ -141,7 +141,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "too_late",
@@ -159,7 +159,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 6,
+      "days_left": 5,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "too_late",
@@ -177,10 +177,10 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 31,
+      "days_left": 30,
       "prep_by": "2026-11-25",
       "lead_days": 30,
-      "status": "upcoming",
+      "status": "prepare_now",
       "keywords": [
         "christmas gift",
         "stocking stuffer"
@@ -195,101 +195,101 @@
   ],
   "other_trends": [
     {
-      "keyword": "collin sexton",
+      "keyword": "aaron rodgers",
+      "traffic_label": "20000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aaron+rodgers&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aaron+rodgers",
+        "naver": "https://search.shopping.naver.com/search/all?query=aaron+rodgers"
+      }
+    },
+    {
+      "keyword": "kyrie irving",
+      "traffic_label": "2000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kyrie+irving&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kyrie+irving",
+        "naver": "https://search.shopping.naver.com/search/all?query=kyrie+irving"
+      }
+    },
+    {
+      "keyword": "mega millions numbers",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mega+millions+numbers&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mega+millions+numbers",
+        "naver": "https://search.shopping.naver.com/search/all?query=mega+millions+numbers"
+      }
+    },
+    {
+      "keyword": "steelers record",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steelers+record&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steelers+record",
+        "naver": "https://search.shopping.naver.com/search/all?query=steelers+record"
+      }
+    },
+    {
+      "keyword": "us treasury",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=us+treasury&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=us+treasury",
+        "naver": "https://search.shopping.naver.com/search/all?query=us+treasury"
+      }
+    },
+    {
+      "keyword": "steelers depth chart",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=collin+sexton&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=collin+sexton",
-        "naver": "https://search.shopping.naver.com/search/all?query=collin+sexton"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steelers+depth+chart&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steelers+depth+chart",
+        "naver": "https://search.shopping.naver.com/search/all?query=steelers+depth+chart"
       }
     },
     {
-      "keyword": "jake laravia",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jake+laravia&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jake+laravia",
-        "naver": "https://search.shopping.naver.com/search/all?query=jake+laravia"
-      }
-    },
-    {
-      "keyword": "walker kessler",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=walker+kessler&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=walker+kessler",
-        "naver": "https://search.shopping.naver.com/search/all?query=walker+kessler"
-      }
-    },
-    {
-      "keyword": "paul walker",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=paul+walker&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=paul+walker",
-        "naver": "https://search.shopping.naver.com/search/all?query=paul+walker"
-      }
-    },
-    {
-      "keyword": "criminal profile gta 6",
-      "traffic_label": "500+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=criminal+profile+gta+6&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=criminal+profile+gta+6",
-        "naver": "https://search.shopping.naver.com/search/all?query=criminal+profile+gta+6"
-      }
-    },
-    {
-      "keyword": "lakers standings",
+      "keyword": "drew allar",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lakers+standings&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lakers+standings",
-        "naver": "https://search.shopping.naver.com/search/all?query=lakers+standings"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=drew+allar&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=drew+allar",
+        "naver": "https://search.shopping.naver.com/search/all?query=drew+allar"
       }
     },
     {
-      "keyword": "ucl",
+      "keyword": "miss international 2026",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ucl&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ucl",
-        "naver": "https://search.shopping.naver.com/search/all?query=ucl"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=miss+international+2026&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=miss+international+2026",
+        "naver": "https://search.shopping.naver.com/search/all?query=miss+international+2026"
       }
     },
     {
-      "keyword": "singapore",
+      "keyword": "utep basketball",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=singapore&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=singapore",
-        "naver": "https://search.shopping.naver.com/search/all?query=singapore"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=utep+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=utep+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=utep+basketball"
       }
     },
     {
-      "keyword": "nosedive",
+      "keyword": "lauren becker omaha",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nosedive&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nosedive",
-        "naver": "https://search.shopping.naver.com/search/all?query=nosedive"
-      }
-    },
-    {
-      "keyword": "gta 6 chapter 2 mission list",
-      "traffic_label": "200+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=gta+6+chapter+2+mission+list&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=gta+6+chapter+2+mission+list",
-        "naver": "https://search.shopping.naver.com/search/all?query=gta+6+chapter+2+mission+list"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lauren+becker+omaha&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lauren+becker+omaha",
+        "naver": "https://search.shopping.naver.com/search/all?query=lauren+becker+omaha"
       }
     }
   ],
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "dropped": [],
   "history": {
-    "date": "2026-11-24",
-    "previous_date": "2026-11-23",
+    "date": "2026-11-25",
+    "previous_date": "2026-11-24",
     "new_count": 0
   }
 }
