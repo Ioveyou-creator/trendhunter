@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-25T05:05:01+00:00",
+  "generated_at": "2026-11-26T04:21:47+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-25T04:54:07+00:00"
+      "fetched_at": "2026-11-26T04:10:25+00:00"
     },
     "reddit": {
       "ok": false,
       "count": 0,
-      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 429, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 429, r/lego: HTTP 404, r/Sneakers: HTTP 404, r/kpop: HTTP 404, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 429, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 404",
-      "fetched_at": "2026-11-25T05:05:01+00:00"
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 429, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 429, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 404, r/lego: HTTP 429, r/Sneakers: HTTP 404, r/kpop: HTTP 429, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 429, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 429",
+      "fetched_at": "2026-11-26T04:21:47+00:00"
     },
     "events": {
       "ok": true,
       "count": 3,
       "error": null,
-      "fetched_at": "2026-11-25T05:05:01+00:00"
+      "fetched_at": "2026-11-26T04:21:47+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-30 (2026-12-25), 지금 준비할 때"
+        "이벤트 D-29 (2026-12-25), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,7 +41,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 30,
+        "days_left": 29,
         "prep_by": "2026-11-25",
         "status": "prepare_now"
       },
@@ -65,7 +65,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-2 (2026-11-27), 배송 시간 부족"
+        "이벤트 D-1 (2026-11-27), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -79,7 +79,7 @@
       ],
       "event": {
         "date": "2026-11-27",
-        "days_left": 2,
+        "days_left": 1,
         "prep_by": "2026-10-30",
         "status": "too_late"
       },
@@ -103,7 +103,7 @@
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-5 (2026-11-30), 배송 시간 부족"
+        "이벤트 D-4 (2026-11-30), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -117,7 +117,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 5,
+        "days_left": 4,
         "prep_by": "2026-11-02",
         "status": "too_late"
       },
@@ -141,7 +141,7 @@
       "name": "Black Friday",
       "category": "season",
       "date": "2026-11-27",
-      "days_left": 2,
+      "days_left": 1,
       "prep_by": "2026-10-30",
       "lead_days": 28,
       "status": "too_late",
@@ -159,7 +159,7 @@
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 5,
+      "days_left": 4,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "too_late",
@@ -177,7 +177,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 30,
+      "days_left": 29,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "prepare_now",
@@ -195,101 +195,101 @@
   ],
   "other_trends": [
     {
-      "keyword": "aaron rodgers",
-      "traffic_label": "20000+",
+      "keyword": "john madden",
+      "traffic_label": "5000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=aaron+rodgers&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=aaron+rodgers",
-        "naver": "https://search.shopping.naver.com/search/all?query=aaron+rodgers"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=john+madden&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=john+madden",
+        "naver": "https://search.shopping.naver.com/search/all?query=john+madden"
       }
     },
     {
-      "keyword": "kyrie irving",
-      "traffic_label": "2000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=kyrie+irving&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=kyrie+irving",
-        "naver": "https://search.shopping.naver.com/search/all?query=kyrie+irving"
-      }
-    },
-    {
-      "keyword": "mega millions numbers",
+      "keyword": "damian lillard",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mega+millions+numbers&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mega+millions+numbers",
-        "naver": "https://search.shopping.naver.com/search/all?query=mega+millions+numbers"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=damian+lillard&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=damian+lillard",
+        "naver": "https://search.shopping.naver.com/search/all?query=damian+lillard"
       }
     },
     {
-      "keyword": "steelers record",
+      "keyword": "pedro pascal",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steelers+record&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steelers+record",
-        "naver": "https://search.shopping.naver.com/search/all?query=steelers+record"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=pedro+pascal&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=pedro+pascal",
+        "naver": "https://search.shopping.naver.com/search/all?query=pedro+pascal"
       }
     },
     {
-      "keyword": "us treasury",
+      "keyword": "mike lafleur",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=us+treasury&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=us+treasury",
-        "naver": "https://search.shopping.naver.com/search/all?query=us+treasury"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mike+lafleur&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mike+lafleur",
+        "naver": "https://search.shopping.naver.com/search/all?query=mike+lafleur"
       }
     },
     {
-      "keyword": "steelers depth chart",
+      "keyword": "tyson fury schizophrenia",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=steelers+depth+chart&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=steelers+depth+chart",
-        "naver": "https://search.shopping.naver.com/search/all?query=steelers+depth+chart"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tyson+fury+schizophrenia&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tyson+fury+schizophrenia",
+        "naver": "https://search.shopping.naver.com/search/all?query=tyson+fury+schizophrenia"
       }
     },
     {
-      "keyword": "drew allar",
-      "traffic_label": "200+",
+      "keyword": "de'anthony melton",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=drew+allar&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=drew+allar",
-        "naver": "https://search.shopping.naver.com/search/all?query=drew+allar"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=de%27anthony+melton&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=de%27anthony+melton",
+        "naver": "https://search.shopping.naver.com/search/all?query=de%27anthony+melton"
       }
     },
     {
-      "keyword": "miss international 2026",
-      "traffic_label": "200+",
+      "keyword": "vcu basketball",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=miss+international+2026&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=miss+international+2026",
-        "naver": "https://search.shopping.naver.com/search/all?query=miss+international+2026"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=vcu+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=vcu+basketball",
+        "naver": "https://search.shopping.naver.com/search/all?query=vcu+basketball"
       }
     },
     {
-      "keyword": "utep basketball",
-      "traffic_label": "200+",
+      "keyword": "gui santos",
+      "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=utep+basketball&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=utep+basketball",
-        "naver": "https://search.shopping.naver.com/search/all?query=utep+basketball"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=gui+santos&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=gui+santos",
+        "naver": "https://search.shopping.naver.com/search/all?query=gui+santos"
       }
     },
     {
-      "keyword": "lauren becker omaha",
+      "keyword": "tyson fury age",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=lauren+becker+omaha&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=lauren+becker+omaha",
-        "naver": "https://search.shopping.naver.com/search/all?query=lauren+becker+omaha"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=tyson+fury+age&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=tyson+fury+age",
+        "naver": "https://search.shopping.naver.com/search/all?query=tyson+fury+age"
+      }
+    },
+    {
+      "keyword": "brandon williams",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=brandon+williams&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=brandon+williams",
+        "naver": "https://search.shopping.naver.com/search/all?query=brandon+williams"
       }
     }
   ],
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "dropped": [],
   "history": {
-    "date": "2026-11-25",
-    "previous_date": "2026-11-24",
+    "date": "2026-11-26",
+    "previous_date": "2026-11-25",
     "new_count": 0
   }
 }
