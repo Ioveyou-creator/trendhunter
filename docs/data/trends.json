@@ -1,247 +1,237 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-26T04:10:25+00:00",
+  "fetched_at": "2026-11-27T04:17:30+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "john madden",
+      "keyword": "rockford files reboot",
       "traffic": 5000,
       "traffic_label": "5000+",
-      "pub_date": "Wed, 25 Nov 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk0fXKrsrtyPekF06X-7ABHmLDUUsInAlyVYlmwBEplDLnXYVN7K2iElx9ctw",
+      "pub_date": "Thu, 26 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMEUQ68tRyCjiVNpn_fuDgemDrBjDbLAZdZdbW_w-auoSjYitxTHe3WMWzu0",
       "news": [
         {
-          "title": "‘Madden’ Makes One Of The NFL’s Biggest Characters Feel Silly And Small",
-          "url": "https://defector.com/madden-makes-one-of-the-nfls-biggest-characters-feel-silly-and-small",
-          "source": "Defector"
+          "title": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
+          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/",
+          "source": "Deadline"
         },
         {
-          "title": "‘Madden’ is a mess. Nicolas Cage makes it impossible to look away",
-          "url": "https://www.azcentral.com/story/entertainment/television-movies/2026/11/25/madden-review/92937439007/",
-          "source": "azcentral.com and The Arizona Republic"
+          "title": "David Boreanaz’s New Reboot Of Classic NBC Detective Series Recasts Iconic Original Character",
+          "url": "https://screenrant.com/david-boreanaz-rockford-files-nbc-reboot-angel-recast-brandon-t-jackson/",
+          "source": "ScreenRant"
         },
         {
-          "title": "Madden: Christian Bale and Nicolas Cage have quietly made the worst film of 2026",
-          "url": "https://www.the-independent.com/arts-entertainment/films/features/madden-nicolas-cage-christian-bale-review-b3090110.html",
-          "source": "The Independent"
+          "title": "THE ROCKFORD FILES Firebird Display at LA Auto Show Draws David Boreanaz Appearance",
+          "url": "https://www.broadwayworld.com/bwwtv/article/THE-ROCKFORD-FILES-Firebird-Display-at-LA-Auto-Show-Draws-David-Boreanaz-Appearance-20261123",
+          "source": "BroadwayWorld"
         }
       ]
     },
     {
-      "keyword": "damian lillard",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_tKECfQTRbBJR9IZgvcEYOEE1ngmd8belJCpXegdOkgd1sdwzOncRbqPwQAY",
+      "keyword": "carson schwesinger",
+      "traffic": 5000,
+      "traffic_label": "5000+",
+      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwaBTsZodYuroTpl_oKQEcf4VtbrAsBG_-9AQaNjmA4ADMR59msaecj6okIc8",
       "news": [
         {
-          "title": "Damian Lillard and Portland thankful to be reunited",
-          "url": "https://www.nba.com/news/trail-blazers-damian-lillard-perfect-pairing",
-          "source": "NBA.com"
-        },
-        {
-          "title": "How Damian Lillard has boosted Trail Blazers in promising return from Achilles injury",
-          "url": "https://sports.yahoo.com/nba/article/how-damian-lillard-has-boosted-trail-blazers-in-promising-return-from-achilles-injury-144115976.html",
+          "title": "Carson Schwesinger Is The Browns’ Midseason MVP Pick",
+          "url": "https://sports.yahoo.com/general/videos/carson-schwesinger-browns-midseason-mvp-191045095.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Damian Lillard reveals focus on weight loss and conditioning during injury recovery",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/22/damian-lillard-reveals-focus-on-weight-loss-and-conditioning-during-injury-recovery/92913702007/",
-          "source": "HoopsHype"
+          "title": "Browns roster at the bye: 3 options for team MVP",
+          "url": "https://www.dawgsbynature.com/cleveland-browns-roster-players/138711/browns-roster-mvp-schwesinger-denzel-ward-harold-fannin",
+          "source": "Dawgs By Nature"
+        },
+        {
+          "title": "Carson Schwesinger's 28 Tackles Make His All-Pro Case",
+          "url": "https://www.newsbreak.com/athlon-sports-1600280/5027757707365-carson-schwesinger-s-28-tackles-make-his-all-pro-case",
+          "source": "NewsBreak: Local News & Alerts"
         }
       ]
     },
     {
-      "keyword": "pedro pascal",
+      "keyword": "violent night 2",
+      "traffic": 2000,
+      "traffic_label": "2000+",
+      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOE0rA3kCaTOzD0asrg5anc_4QTINAJDk9Ie7f39dXLSeSjbqhDRZa6_LVWCM",
+      "news": [
+        {
+          "title": "Violent Night 2 Puts David Harbour’s Santa on His Own Naughty List, and Kristen Bell’s Mrs. Claus Brings a Sword",
+          "url": "https://creepycatalog.com/violent-night-2-puts-david-harbours-santa-on-his-own-naughty-list-and-kristen-bells-mrs-claus-brings-a-sword/",
+          "source": "Creepy Catalog"
+        },
+        {
+          "title": "Violent Night 2 Brings Sword-Wielding Mrs Claus to Theaters",
+          "url": "https://demokratis.co.id/en/violent-night-2-theatrical-release",
+          "source": "Demokratis.co.id"
+        },
+        {
+          "title": "KTVX-KUCW’s Violent Night 2 Sweepstakes",
+          "url": "https://www.abc4.com/contests/ktvx-kucws-violent-night-2-sweepstakes/",
+          "source": "ABC4 Utah"
+        }
+      ]
+    },
+    {
+      "keyword": "nohl williams",
       "traffic": 1000,
       "traffic_label": "1000+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsCXA30QrWxt8-sUPpR0h7dYF7m-m7ezaWUzUe05Q9fG0Puo2Qckc7UUfAD9M",
+      "pub_date": "Thu, 26 Nov 2026 19:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1QWm7cKRwabrNbG6TZM-DpBtWuMcmdH1yG3VyMZFjvwgHYIDofpa11LihIc",
       "news": [
         {
-          "title": "Gabriel Luna Shares What It’s Been Like Filming ‘The Last of Us’ Season 3 Without Pedro Pascal & Co-Creator Neil Druckmann",
-          "url": "https://www.imdb.com/news/ni66123980/?ref_=nwc_art_perm",
-          "source": "IMDb"
-        },
-        {
-          "title": "Gabriel Luna seemingly confirms Pedro Pascal won't return for The Last of Us season 3",
-          "url": "https://showsnob.com/gabriel-luna-seemingly-confirms-pedro-pascal-wont-return-the-last-of-us-season-3",
-          "source": "Show Snob"
-        },
-        {
-          "title": "The Last of Us gets exciting season 3 update – does this hint at a highly-anticipated release date?",
-          "url": "https://www.digitalspy.com/tv/ustv/a74501139/last-of-us-gabriel-luna-season-3-update/",
-          "source": "Digital Spy"
-        }
-      ]
-    },
-    {
-      "keyword": "mike lafleur",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmHDWbR8uPs38nen_QbURMmooXZhrTWtr7IJxn9qOVIs67KwtudZD3-2XFh8",
-      "news": [
-        {
-          "title": "HIGHLIGHTS: Rams S Jaylen McCollough intercepts Packers QB Jordan Love's pass in the third quarter",
-          "url": "https://www.therams.com/video/highlights-jaylen-mccollough-intercepts-packers-qb-jordan-love-pass-in-the-third-quarter-week-12",
-          "source": "Rams"
-        },
-        {
-          "title": "Statement from Steelers spokesman",
-          "url": "https://www.steelers.com/news/statement-from-steelers-spokesman-x8902",
-          "source": "Steelers.com"
-        },
-        {
-          "title": "Pryor shares rationale behind Steelers benching Aaron Rodgers to start Mason Rudolph vs. Broncos | 'GMFB'",
-          "url": "https://www.nfl.com/videos/pryor-shares-rationale-behind-steelers-benching-aaron-rodgers-to-start-mason-rudolph-vs-broncos-gmfb",
-          "source": "NFL.com"
-        }
-      ]
-    },
-    {
-      "keyword": "tyson fury schizophrenia",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQic28uZ0MTA7x9AbP5KGIyoVeLv7XsExoICkGTMyIaGdp6g7DWXBGWV95pCv4",
-      "news": [
-        {
-          "title": "Tyson Fury reveals schizophrenia diagnosis",
-          "url": "https://www.cnn.com/2026/11/23/sport/tyson-fury-schizophrenia-scli-intl",
-          "source": "CNN"
-        },
-        {
-          "title": "Tyson Fury Netflix documentary: Addiction, schizophrenia and glory – but a big unanswered question",
-          "url": "https://www.nytimes.com/athletic/7801170/2026/11/23/tyson-fury-netflix-documentary-a-remarkable-powerfully-told-story-with-some-questions-left-unanswered/",
+          "title": "Chiefs’ Nohl Williams delivers WWE-inspired tackle of Cardinals’ Elijah Higgins - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7803650/2026/11/22/nohl-williams-wrestling-tackle-elijah-higgins-chiefs-cardinals/",
           "source": "The New York Times"
         },
         {
-          "title": "Tyson Fury, former boxing champ, reveals schizophrenia diagnosis",
-          "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/tyson-fury-former-boxing-champ-reveals-schizophrenia-diagnosis-rcna610901",
-          "source": "NBC News"
+          "title": "Chiefs' Nohl Williams tackles Elijah Higgins with WWE-esque slam",
+          "url": "https://www.espn.com/video/clip/_/id/50564724/chiefs-nohl-williams-tackles-elijah-higgins-wwe-esque-slam",
+          "source": "ESPN"
+        },
+        {
+          "title": "'Wrestling style!\" - Nohl Williams makes huge tackle",
+          "url": "https://www.bbc.co.uk/sport/american-football/videos/cwjd7zynxxn9o",
+          "source": "BBC"
         }
       ]
     },
     {
-      "keyword": "de'anthony melton",
+      "keyword": "browns qb",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGQFkaw2jYDB5IIMXRl1y-gJ6csDf-yMEwCOVQ2Tg6qxwT4JreQRmPXLzU1M",
+      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf51hi94aPfbhoJd8R0pcNdXNpbQwQgUynqphwZUlVNZb8LHWqwbp8bFQsT2s",
       "news": [
         {
-          "title": "A De'Anthony Melton disappearance is the last thing the Warriors can afford right now",
-          "url": "https://bluemanhoop.com/a-de-anthony-melton-disappearance-is-the-last-thing-the-warriors-can-afford-right-now",
-          "source": "Blue Man Hoop"
+          "title": "Browns NFL Draft: Examining This Year's QB Class",
+          "url": "https://247sports.com/nfl/cleveland-browns/article/cleveland-browns-2027-nfl-draft-examining-the-quarterback-class-293255805/",
+          "source": "247Sports"
         },
         {
-          "title": "Warriors' De'Anthony Melton: Makes impact despite shooting woes",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/warriors-deanthony-melton-makes-impact-despite-shooting-woes/",
-          "source": "CBS Sports"
+          "title": "2027 Browns mock draft: Selecting a potential turkey at quarterback",
+          "url": "https://www.dawgsbynature.com/cleveland-browns-nfl-draft/138952/2027-browns-mock-draft-lanorris-sellers-boubacar-traore",
+          "source": "Dawgs By Nature"
         },
         {
-          "title": "De'Anthony Melton Records 7 Assists in Warriors' Win Over Celtics",
-          "url": "https://knup.com/sports/nba/player-news/performance/de-anthony-melton-performance-11-22-2026-715224/",
-          "source": "knup.com"
+          "title": "5 quarterbacks the Browns could turn to in 2027 (and one dream scenario)",
+          "url": "https://dawgpounddaily.com/5-quarterbacks-the-browns-could-turn-to-in-2027-and-one-dream-scenario-01m87gg4akw1",
+          "source": "Dawg Pound Daily"
         }
       ]
     },
     {
-      "keyword": "vcu basketball",
+      "keyword": "cameron diaz",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsrJu-0njHaOxA2YP6m21W-qOuMa2CBVod-qrVX4pASR3BWm3FXs5PBkvWYnQ",
+      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIU_HrcWqganwZho93sQtx0Zp2BLQHlD7-XCy0KqIOSkSKXFBSR6oDYwmu0No",
       "news": [
         {
-          "title": "Washington vs VCU live updates: Score, highlights, predictions, analysis",
-          "url": "https://uwhuskieswire.usatoday.com/story/sports/college/huskies/mens-basketball/2026/11/25/washington-huskies-vcu-rams-maui-invitational-time-tv-channel-score-live-updates--live/92965500007/",
-          "source": "Huskies Wire"
-        },
-        {
-          "title": "Washington Huskies take on the VCU Rams",
-          "url": "https://apnews.com/article/mens-college-basketball-college-basketball-virginia-commonwealth-rams-washington-huskies-college-sports-17c4a7976ed54c3882658427421354b6",
-          "source": "AP News"
-        },
-        {
-          "title": "VCU vs Washington Prediction on 11/25/2026 - CBB Betting Tips & Pick",
-          "url": "https://knup.com/sports/cbb/predictions/vcu-vs-washington-prediction-betting-tips-11-25-2026/",
-          "source": "knup.com"
+          "title": "SNL's 'Back Home Ballers' Perfectly Captures Thanksgiving Visits, Fans Call It a 'Biopic'",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/snls-back-home-ballers-perfectly-114647729.html",
+          "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "gui santos",
+      "keyword": "clashing through the snow cast",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Wed, 25 Nov 2026 19:30:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPIXuqY3ewsSZ0SCesrkzXTSTvXgDi_QVwhdaJrVwPxElX2euN6WxqLK9nheI",
+      "pub_date": "Thu, 26 Nov 2026 19:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxoFRj0B6mOlSB5lgNXjIKmPIf9ZSFxXNZUC-VJ55kvhW2ccj9tQJotepGk94",
       "news": [
         {
-          "title": "Why one NBA GM reportedly shied away from trading up to draft Yaxel Lendeborg",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-western-conference-gm-draft/1981918/",
-          "source": "NBC Sports Bay Area & California"
+          "title": "‘Clashing Through the Snow’ turned a Hudson Valley blizzard into a holiday rom-com",
+          "url": "https://www.timesunion.com/movies/article/clashing-through-the-snow-amazon-locations-22541310.php",
+          "source": "Times Union"
         },
         {
-          "title": "Warriors' matchup vs. Kings gives Yaxel Lendeborg a shot to re-assert his dominance",
-          "url": "https://bluemanhoop.com/warriors-matchup-vs-kings-gives-yaxel-lendeborg-a-shot-to-re-assert-his-dominance",
-          "source": "Blue Man Hoop"
+          "title": "‘Landman’ Star’s New Movie Officially Debuts at No. 1 in the World on Prime Video",
+          "url": "https://collider.com/landman-star-michelle-randolph-clashing-through-the-snow-streaming-success-prime-video-november-2026/",
+          "source": "Collider"
         },
         {
-          "title": "Nothing against Morez Johnson Jr., but Mavs could have used a guy like Yaxel Lendeborg",
-          "url": "https://www.dallasnews.com/sports/mavericks/article/yaxel-lendeborg-morez-johnson-mavericks-draft-22536356.php",
-          "source": "Dallas News"
+          "title": "'Clashing Through The Snow' Director Carlson Young Talks Film Meaning",
+          "url": "https://deadline.com/2026/11/clashing-through-the-snow-director-interview-chatgpt-1237232740/",
+          "source": "Deadline"
         }
       ]
     },
     {
-      "keyword": "tyson fury age",
+      "keyword": "adam levine",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdy2xoAEKVp6SLnz2-LDIVe1M8EhDvj9XXTyRClNVLO1FgFw9mVXwZ2rqy0mA",
+      "pub_date": "Thu, 26 Nov 2026 20:00:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1KoIAwU2PwCG6uoB4R-WPqSpIUW11xPtZG4a_HmbRpxCEnR6MvmdZZPsm8PY",
       "news": [
         {
-          "title": "Tyson Fury's sons Prince and Tutty to make boxing debuts in pay-per-view show",
-          "url": "https://www.dailystar.co.uk/sport/boxing/tyson-furys-sons-prince-tutty-37908773",
-          "source": "Daily Star"
+          "title": "Riley Green and Adam Levine Trade Playful Jabs as The Voice Names Top 8: ‘I Want Him to Lose’ (Exclusive)",
+          "url": "https://people.com/riley-green-adam-levine-trade-playful-jabs-on-the-voice-12277576",
+          "source": "People.com"
         },
         {
-          "title": "Prince Fury confirms debut at 15 as coach praises his “great shape”",
-          "url": "https://dave.sport/news/prince-fury-amateur-debut-isle-of-man/",
-          "source": "Dave.Sport"
+          "title": "Riley Green On His People Magazine's Sexiest Man Alive Feature: \"I Already Signed One For Adam\"",
+          "url": "https://holler.country/news/general/riley-green-on-his-people-magazines-sexiest-man-alive-feature-i-already-signed-one-for-adam/",
+          "source": "Holler Country"
         },
         {
-          "title": "Tyson Fury’s 15-year-old son set to make boxing debut on PPV this Saturday",
-          "url": "https://bloodyelbow.com/2026/11/23/tyson-furys-15-year-old-son-set-to-make-boxing-debut-on-ppv-this-saturday/",
-          "source": "Bloody Elbow"
+          "title": "Adam Levine, Riley Green crash each other's 'The Voice' interviews",
+          "url": "https://www.usatoday.com/videos/entertainment/tv-streaming/2026/11/17/the-voice-judges-adam-levine-riley-green-banter/92817615007/",
+          "source": "USA Today"
         }
       ]
     },
     {
-      "keyword": "brandon williams",
+      "keyword": "fred johnson",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Wed, 25 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRelVkCjRu0wFB3EF5m9WF_nmW691CdqC2ovqlAjnZjgC1SnnrRMeApvx8pFso",
+      "pub_date": "Thu, 26 Nov 2026 19:50:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfJltaYnx0QtxkBFpcWO91A-enLsCJXGYsjl4WkZ7z-3GS_cu6hQ1w2FehM4c",
       "news": [
         {
-          "title": "Warriors feeling psychological boost of having injured Steph Curry around team",
-          "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-psychological-advantage/1983057/",
-          "source": "NBC Sports Bay Area & California"
+          "title": "Chiefs sign tackle Fred Johnson to active roster",
+          "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/217493/chiefs-sign-tackle-fred-johnson-to-active-roster",
+          "source": "Arrowhead Pride"
         },
         {
-          "title": "Brandon Williams is ‘itching’ to return to Warriors offense that desperately needs him",
-          "url": "https://www.mercurynews.com/2026/11/24/warriors-brandon-williams-hamstring-injury-update/",
-          "source": "The Mercury News"
+          "title": "Chiefs sign OT Fred Johnson from practice squad, move fullback to injured reserve",
+          "url": "https://www.kctv5.com/2026/11/24/chiefs-sign-ot-fred-johnson-practice-squad-move-fullback-injured-reserve/",
+          "source": "KCTV"
         },
         {
-          "title": "Brandon Williams to return Wednesday against Kings",
-          "url": "https://www.goldenstateofmind.com/warriors-news/113634/brandon-williams-to-return-wednesday-against-kings",
-          "source": "Golden State Of Mind"
+          "title": "Chiefs promoting 1-time Eagles Super Bowl champion to roster for Thanksgiving showdown vs. Bills",
+          "url": "https://sports.yahoo.com/articles/chiefs-promoting-1-time-eagles-165951606.html",
+          "source": "Yahoo Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "t mobile black friday deals",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Thu, 26 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-Yp4onNUNM-jKj-3LoCgljtOM-_xOPEx4c5C3HvGPfffiDeEnh_NQAhN3jU",
+      "news": [
+        {
+          "title": "Get an iPhone 18 Pro for free in T-Mobile's massive Black Friday sale — how to qualify",
+          "url": "https://mashable.com/tech/nov-26-free-apple-iphone-black-friday-deal",
+          "source": "Mashable"
+        },
+        {
+          "title": "T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple’s New iPhone Duo and iPhone 18 Pro",
+          "url": "https://variety.com/2026/shopping/news/t-mobile-holiday-deals-2026-apple-iphone-duo-iphone-18-pro-1236957422/",
+          "source": "Variety"
+        },
+        {
+          "title": "Best Black Friday iPhone Deals: Up to $1200 Off iPhone Duo",
+          "url": "https://www.cnet.com/deals/black-friday-iphone-deals-2026/",
+          "source": "CNET"
         }
       ]
     }
