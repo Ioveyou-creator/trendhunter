@@ -1,0 +1,19 @@
+{
+ "date": "2026-11-28",
+ "candidates": [
+  {
+   "id": "90f88a9324",
+   "title": "Christmas",
+   "query": "christmas gift",
+   "score": 65,
+   "rank": 1
+  },
+  {
+   "id": "28fb3c4aa4",
+   "title": "Cyber Monday",
+   "query": "cyber monday deals",
+   "score": 20,
+   "rank": 2
+  }
+ ]
+}

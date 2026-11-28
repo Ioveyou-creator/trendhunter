@@ -1,237 +1,247 @@
 {
   "source": "google_trends",
-  "fetched_at": "2026-11-27T04:17:30+00:00",
+  "fetched_at": "2026-11-28T03:56:14+00:00",
   "ok": true,
   "error": null,
   "count": 10,
   "items": [
     {
-      "keyword": "rockford files reboot",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Thu, 26 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMEUQ68tRyCjiVNpn_fuDgemDrBjDbLAZdZdbW_w-auoSjYitxTHe3WMWzu0",
-      "news": [
-        {
-          "title": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
-          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/",
-          "source": "Deadline"
-        },
-        {
-          "title": "David Boreanaz’s New Reboot Of Classic NBC Detective Series Recasts Iconic Original Character",
-          "url": "https://screenrant.com/david-boreanaz-rockford-files-nbc-reboot-angel-recast-brandon-t-jackson/",
-          "source": "ScreenRant"
-        },
-        {
-          "title": "THE ROCKFORD FILES Firebird Display at LA Auto Show Draws David Boreanaz Appearance",
-          "url": "https://www.broadwayworld.com/bwwtv/article/THE-ROCKFORD-FILES-Firebird-Display-at-LA-Auto-Show-Draws-David-Boreanaz-Appearance-20261123",
-          "source": "BroadwayWorld"
-        }
-      ]
-    },
-    {
-      "keyword": "carson schwesinger",
-      "traffic": 5000,
-      "traffic_label": "5000+",
-      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwaBTsZodYuroTpl_oKQEcf4VtbrAsBG_-9AQaNjmA4ADMR59msaecj6okIc8",
-      "news": [
-        {
-          "title": "Carson Schwesinger Is The Browns’ Midseason MVP Pick",
-          "url": "https://sports.yahoo.com/general/videos/carson-schwesinger-browns-midseason-mvp-191045095.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Browns roster at the bye: 3 options for team MVP",
-          "url": "https://www.dawgsbynature.com/cleveland-browns-roster-players/138711/browns-roster-mvp-schwesinger-denzel-ward-harold-fannin",
-          "source": "Dawgs By Nature"
-        },
-        {
-          "title": "Carson Schwesinger's 28 Tackles Make His All-Pro Case",
-          "url": "https://www.newsbreak.com/athlon-sports-1600280/5027757707365-carson-schwesinger-s-28-tackles-make-his-all-pro-case",
-          "source": "NewsBreak: Local News & Alerts"
-        }
-      ]
-    },
-    {
-      "keyword": "violent night 2",
+      "keyword": "what time is the parade tomorrow",
       "traffic": 2000,
       "traffic_label": "2000+",
-      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOE0rA3kCaTOzD0asrg5anc_4QTINAJDk9Ie7f39dXLSeSjbqhDRZa6_LVWCM",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7nzdyK2OfnvlyBrUwBh17JLKHOSXL5MBo9j6dMzhMmc8uIvr9jva0gaENFTg",
       "news": [
         {
-          "title": "Violent Night 2 Puts David Harbour’s Santa on His Own Naughty List, and Kristen Bell’s Mrs. Claus Brings a Sword",
-          "url": "https://creepycatalog.com/violent-night-2-puts-david-harbours-santa-on-his-own-naughty-list-and-kristen-bells-mrs-claus-brings-a-sword/",
-          "source": "Creepy Catalog"
+          "title": "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
+          "url": "https://www.cnn.com/2026/11/27/us/macys-thanksgiving-parade-marching-bands",
+          "source": "CNN"
         },
         {
-          "title": "Violent Night 2 Brings Sword-Wielding Mrs Claus to Theaters",
-          "url": "https://demokratis.co.id/en/violent-night-2-theatrical-release",
-          "source": "Demokratis.co.id"
+          "title": "Postponed Macy's 100th Thanksgiving parade mostly the same, but now with LL Cool J and Gloria Gaynor",
+          "url": "https://apnews.com/article/macys-thanksgiving-day-parade-rescheduled-ba6b05f16873b2b8966de38d5be8444d",
+          "source": "AP News"
         },
         {
-          "title": "KTVX-KUCW’s Violent Night 2 Sweepstakes",
-          "url": "https://www.abc4.com/contests/ktvx-kucws-violent-night-2-sweepstakes/",
-          "source": "ABC4 Utah"
-        }
-      ]
-    },
-    {
-      "keyword": "nohl williams",
-      "traffic": 1000,
-      "traffic_label": "1000+",
-      "pub_date": "Thu, 26 Nov 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1QWm7cKRwabrNbG6TZM-DpBtWuMcmdH1yG3VyMZFjvwgHYIDofpa11LihIc",
-      "news": [
-        {
-          "title": "Chiefs’ Nohl Williams delivers WWE-inspired tackle of Cardinals’ Elijah Higgins - The Athletic",
-          "url": "https://www.nytimes.com/athletic/7803650/2026/11/22/nohl-williams-wrestling-tackle-elijah-higgins-chiefs-cardinals/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Chiefs' Nohl Williams tackles Elijah Higgins with WWE-esque slam",
-          "url": "https://www.espn.com/video/clip/_/id/50564724/chiefs-nohl-williams-tackles-elijah-higgins-wwe-esque-slam",
-          "source": "ESPN"
-        },
-        {
-          "title": "'Wrestling style!\" - Nohl Williams makes huge tackle",
-          "url": "https://www.bbc.co.uk/sport/american-football/videos/cwjd7zynxxn9o",
-          "source": "BBC"
-        }
-      ]
-    },
-    {
-      "keyword": "browns qb",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf51hi94aPfbhoJd8R0pcNdXNpbQwQgUynqphwZUlVNZb8LHWqwbp8bFQsT2s",
-      "news": [
-        {
-          "title": "Browns NFL Draft: Examining This Year's QB Class",
-          "url": "https://247sports.com/nfl/cleveland-browns/article/cleveland-browns-2027-nfl-draft-examining-the-quarterback-class-293255805/",
-          "source": "247Sports"
-        },
-        {
-          "title": "2027 Browns mock draft: Selecting a potential turkey at quarterback",
-          "url": "https://www.dawgsbynature.com/cleveland-browns-nfl-draft/138952/2027-browns-mock-draft-lanorris-sellers-boubacar-traore",
-          "source": "Dawgs By Nature"
-        },
-        {
-          "title": "5 quarterbacks the Browns could turn to in 2027 (and one dream scenario)",
-          "url": "https://dawgpounddaily.com/5-quarterbacks-the-browns-could-turn-to-in-2027-and-one-dream-scenario-01m87gg4akw1",
-          "source": "Dawg Pound Daily"
-        }
-      ]
-    },
-    {
-      "keyword": "cameron diaz",
-      "traffic": 500,
-      "traffic_label": "500+",
-      "pub_date": "Thu, 26 Nov 2026 19:30:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIU_HrcWqganwZho93sQtx0Zp2BLQHlD7-XCy0KqIOSkSKXFBSR6oDYwmu0No",
-      "news": [
-        {
-          "title": "SNL's 'Back Home Ballers' Perfectly Captures Thanksgiving Visits, Fans Call It a 'Biopic'",
-          "url": "https://www.yahoo.com/entertainment/tv/articles/snls-back-home-ballers-perfectly-114647729.html",
+          "title": "The Macy's Thanksgiving Day Parade is on Saturday. One high school band raised $350,000 to make it.",
+          "url": "https://www.yahoo.com/news/us/article/the-macys-thanksgiving-day-parade-is-on-for-saturday-one-high-school-band-had-to-scramble-an-extra-350000-to-make-it-141710254.html",
           "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "clashing through the snow cast",
+      "keyword": "collin sexton",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL2ZUDx_J3Eqw2QfW0A9S0dzUW_i_5JXvepktVhk3SF3CsLQJx_oSH-osrSIU",
+      "news": [
+        {
+          "title": "Exclusive: Lakers’ Collin Sexton On Luka Dončić’s MVP Chances: \"He’s Got It\"",
+          "url": "https://fadeawayworld.net/exclusive-interviews/exclusive-lakers-collin-sexton-on-luka-doncics-mvp-chances-hes-got-it",
+          "source": "Fadeaway World"
+        },
+        {
+          "title": "Collin Sexton reveals how Lakers can help Luka Doncic win MVP",
+          "url": "https://sports.yahoo.com/nba/articles/collin-sexton-reveals-lakers-help-012115699.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "\"Not to talk bad [on Utah], but he didn't play with a …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/27/not-to-talk-bad-on-utah-but-he-didnt-play-with-a/92978294007/",
+          "source": "HoopsHype"
+        }
+      ]
+    },
+    {
+      "keyword": "ryan yarbrough",
+      "traffic": 1000,
+      "traffic_label": "1000+",
+      "pub_date": "Fri, 27 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YKio0X2dS1UNt-EJnqhKy3YuRQRDMZGWNoaJ2Os-Py20H6SoMO1qpFfCMrM",
+      "news": [
+        {
+          "title": "Cubs To Sign Ryan Yarbrough",
+          "url": "https://www.mlbtraderumors.com/2026/11/cubs-to-sign-ryan-yarbrough.html",
+          "source": "MLB Trade Rumors"
+        },
+        {
+          "title": "Double Shot: Cubs to Sign Swingman Ryan Yarbrough to One-Year Deal",
+          "url": "https://northsidebaseball.com/chicago-cubs-news/cubs/double-shot-cubs-to-sign-swingman-ryan-yarbrough-to-one-year-deal-r3595/",
+          "source": "North Side Baseball"
+        },
+        {
+          "title": "Affordable Yankees free agent is worth a look by the NY Mets if they tame any spending",
+          "url": "https://risingapple.com/ny-mets-yankees-free-agent-worth-look-ryan-yarbrough",
+          "source": "Rising Apple"
+        }
+      ]
+    },
+    {
+      "keyword": "scoot henderson",
       "traffic": 500,
       "traffic_label": "500+",
-      "pub_date": "Thu, 26 Nov 2026 19:20:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxoFRj0B6mOlSB5lgNXjIKmPIf9ZSFxXNZUC-VJ55kvhW2ccj9tQJotepGk94",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAVMvP28Ze4CFwih9nzK0DAg3hmfurXvUUFqi6QOzw-xWfHPJwk1vM1kL7xco",
       "news": [
         {
-          "title": "‘Clashing Through the Snow’ turned a Hudson Valley blizzard into a holiday rom-com",
-          "url": "https://www.timesunion.com/movies/article/clashing-through-the-snow-amazon-locations-22541310.php",
-          "source": "Times Union"
+          "title": "Scoot Henderson News: Shooting woes return in victory",
+          "url": "https://www.rotowire.com/basketball/headlines/scoot-henderson-news-shooting-woes-return-in-victory-541141",
+          "source": "RotoWire"
         },
         {
-          "title": "‘Landman’ Star’s New Movie Officially Debuts at No. 1 in the World on Prime Video",
-          "url": "https://collider.com/landman-star-michelle-randolph-clashing-through-the-snow-streaming-success-prime-video-november-2026/",
-          "source": "Collider"
+          "title": "Scoot Henderson Delivers Second-Half Spark as Trail Blazers Defeat 76ers in Philadelphia",
+          "url": "https://speaks.co.in/sports/scoot-henderson-delivers-second-half-spark-as-trail-blazers-defeat-76ers-in-philadelphia/",
+          "source": "Speaks Media"
         },
         {
-          "title": "'Clashing Through The Snow' Director Carlson Young Talks Film Meaning",
-          "url": "https://deadline.com/2026/11/clashing-through-the-snow-director-interview-chatgpt-1237232740/",
+          "title": "Scoot Henderson sinks three triples, scores 17",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/scoot-henderson-sinks-three-triples-scores-17",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "mockingjay part 1",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOb176vB4uiGZ45J6zBELZGH6buatXRAEZiRgsNpUjUzOcjHLb561WiP4KO0",
+      "news": [
+        {
+          "title": "'Hunger Games' Producer Regrets Splitting 'Mockingjay' As Fans Felt It Was A \"Play To Make Them See Two Films Instead Of One\"",
+          "url": "https://deadline.com/2026/11/hunger-games-producer-regrets-splitting-mockingjay-1237233567/",
           "source": "Deadline"
+        },
+        {
+          "title": "‘Hunger Games’ Producer Admits ‘Mockingjay’ Should Have Been One Movie",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-mockingjay-one-movie-1236763038/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "The Hunger Games Producer Reveals Big Regret Over Jennifer Lawrence’s Mockingjay Movies",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/hunger-games-producer-reveals-big-184523516.html",
+          "source": "Yahoo"
         }
       ]
     },
     {
-      "keyword": "adam levine",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 26 Nov 2026 20:00:00 -0800",
-      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1KoIAwU2PwCG6uoB4R-WPqSpIUW11xPtZG4a_HmbRpxCEnR6MvmdZZPsm8PY",
+      "keyword": "jake laravia",
+      "traffic": 500,
+      "traffic_label": "500+",
+      "pub_date": "Fri, 27 Nov 2026 19:20:00 -0800",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtr096npjeB3ic7jv0V0R37jdyOK9kmcIClFRnebvSlH55nIeH0f2PLICxCaQ",
       "news": [
         {
-          "title": "Riley Green and Adam Levine Trade Playful Jabs as The Voice Names Top 8: ‘I Want Him to Lose’ (Exclusive)",
-          "url": "https://people.com/riley-green-adam-levine-trade-playful-jabs-on-the-voice-12277576",
-          "source": "People.com"
+          "title": "JJ Redick credited Jake LaRavia for ‘unbelievable’ game against Jazz",
+          "url": "https://www.silverscreenandroll.com/lakers-news/129433/lakers-news-jj-redick-jake-laravia-jazz",
+          "source": "Silver Screen and Roll"
         },
         {
-          "title": "Riley Green On His People Magazine's Sexiest Man Alive Feature: \"I Already Signed One For Adam\"",
-          "url": "https://holler.country/news/general/riley-green-on-his-people-magazines-sexiest-man-alive-feature-i-already-signed-one-for-adam/",
-          "source": "Holler Country"
+          "title": "Lakers' Ziaire Williams: Starting to trend down",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/lakers-ziaire-williams-starting-to-trend-down/",
+          "source": "CBS Sports"
         },
         {
-          "title": "Adam Levine, Riley Green crash each other's 'The Voice' interviews",
-          "url": "https://www.usatoday.com/videos/entertainment/tv-streaming/2026/11/17/the-voice-judges-adam-levine-riley-green-banter/92817615007/",
+          "title": "Jake LaRavia returns to starting lineup vs. Utah",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/jake-laravia-returns-to-starting-lineup-vs-utah",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "keyword": "memphis grizzlies vs timberwolves match player stats",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEMFfx8rfu1lrRYlE-8PIANwj74A-gzT6CiWk7ZBf-BAR-bwLmzvMyrQT82SY",
+      "news": [
+        {
+          "title": "Memphis Grizzlies at Minnesota Timberwolves - NBA Game Summary - Nov 27, 2026",
+          "url": "https://www.usatoday.com/sports/nba/event/2026/3016725/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=1",
           "source": "USA Today"
-        }
-      ]
-    },
-    {
-      "keyword": "fred johnson",
-      "traffic": 200,
-      "traffic_label": "200+",
-      "pub_date": "Thu, 26 Nov 2026 19:50:00 -0800",
-      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfJltaYnx0QtxkBFpcWO91A-enLsCJXGYsjl4WkZ7z-3GS_cu6hQ1w2FehM4c",
-      "news": [
-        {
-          "title": "Chiefs sign tackle Fred Johnson to active roster",
-          "url": "https://www.arrowheadpride.com/kansas-city-chiefs-news/217493/chiefs-sign-tackle-fred-johnson-to-active-roster",
-          "source": "Arrowhead Pride"
         },
         {
-          "title": "Chiefs sign OT Fred Johnson from practice squad, move fullback to injured reserve",
-          "url": "https://www.kctv5.com/2026/11/24/chiefs-sign-ot-fred-johnson-practice-squad-move-fullback-injured-reserve/",
-          "source": "KCTV"
+          "title": "Memphis Grizzlies @ Minnesota Timberwolves Odds",
+          "url": "https://sportsbook.fanduel.com/basketball/nba/memphis-grizzlies-@-minnesota-timberwolves-36358264",
+          "source": "FanDuel Sportsbook"
         },
         {
-          "title": "Chiefs promoting 1-time Eagles Super Bowl champion to roster for Thanksgiving showdown vs. Bills",
-          "url": "https://sports.yahoo.com/articles/chiefs-promoting-1-time-eagles-165951606.html",
+          "title": "Edey, Stewart & LaMelo's status for Grizzlies-T-Wolves: Injuries, Odds, How to Watch & Starters",
+          "url": "https://sports.yahoo.com/nba/articles/edey-stewart-lamelos-status-grizzlies-232502913.html",
           "source": "Yahoo Sports"
         }
       ]
     },
     {
-      "keyword": "t mobile black friday deals",
+      "keyword": "rsl",
       "traffic": 200,
       "traffic_label": "200+",
-      "pub_date": "Thu, 26 Nov 2026 19:40:00 -0800",
-      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-Yp4onNUNM-jKj-3LoCgljtOM-_xOPEx4c5C3HvGPfffiDeEnh_NQAhN3jU",
+      "pub_date": "Fri, 27 Nov 2026 19:40:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNriQGRaVjegIG3ImjgF_8UZVsMI_vYdpnKt3w1rMSCYToiaQc7HmKsiHAtK4",
       "news": [
         {
-          "title": "Get an iPhone 18 Pro for free in T-Mobile's massive Black Friday sale — how to qualify",
-          "url": "https://mashable.com/tech/nov-26-free-apple-iphone-black-friday-deal",
-          "source": "Mashable"
+          "title": "Rafa Cabral All Wild Card Saves: November 19, 2026 | RSL @ SEA",
+          "url": "https://www.rsl.com/video/rafa-cabral-all-wild-card-saves-november-19-2026-rsl-sea",
+          "source": "Real Salt Lake"
         },
         {
-          "title": "T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple’s New iPhone Duo and iPhone 18 Pro",
-          "url": "https://variety.com/2026/shopping/news/t-mobile-holiday-deals-2026-apple-iphone-duo-iphone-18-pro-1236957422/",
-          "source": "Variety"
+          "title": "How Real Salt Lake’s 36-year-old goalkeeper ‘found his magic’ to guide club’s playoff run",
+          "url": "https://www.sltrib.com/sports/rsl/2026/11/27/rafael-cabral-gives-real-salt-lake/",
+          "source": "The Salt Lake Tribune"
         },
         {
-          "title": "Best Black Friday iPhone Deals: Up to $1200 Off iPhone Duo",
-          "url": "https://www.cnet.com/deals/black-friday-iphone-deals-2026/",
-          "source": "CNET"
+          "title": "Cabral Sustains RSL Playoff Hopes With Consistent Goalkeeping",
+          "url": "https://suaragarut.id/en/cabral-rsl-playoff-goalkeeping",
+          "source": "SuaraGarut.ID"
+        }
+      ]
+    },
+    {
+      "keyword": "northeastern vs northwestern",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 27 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRw2xDYP_-WgszWZQvI65BQR7QgpY-5aMGzza24uIv7s4CrvqN21YLwHHXHny8",
+      "news": [
+        {
+          "title": "Gamethread/How to watch Northwestern men’s basketball vs. Northeastern: TV, streaming, radio, injury report, betting line",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/gamethread-watch-northwestern-men-basketball-000210251.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Rapid Reaction: ‘Cats roar back for 65-61 win behind surges from West, Pratt",
+          "url": "https://www.insidenu.com/northwestern-mens-basketball/75412/rapid-reaction-cats-roar-back-for-65-61-win-behind-surges-from-west-pratt",
+          "source": "Inside NU"
+        },
+        {
+          "title": "Wildcats Gear Up for Black Friday Home Clash with Northeastern",
+          "url": "https://nusports.com/news/2026/11/26/wildcats-gear-up-for-black-friday-home-clash-with-northeastern",
+          "source": "Northwestern Wildcats"
+        }
+      ]
+    },
+    {
+      "keyword": "golden state warriors vs portland trail blazers match player stats",
+      "traffic": 200,
+      "traffic_label": "200+",
+      "pub_date": "Fri, 27 Nov 2026 19:30:00 -0800",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD56O0XN2exV5nxr8WduOZZbmbP7AUsBAcCHR-4pUiRw2uhACvMUlvokG2UF4",
+      "news": [
+        {
+          "title": "San Antonio Spurs vs Portland Trail Blazers Nov 25, 2026 Box Scores",
+          "url": "https://www.nba.com/game/sas-vs-por-0022600063/box-score",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Minnesota Timberwolves vs Oklahoma City Thunder Nov 25, 2026 Play-by-Play",
+          "url": "https://www.nba.com/game/min-vs-okc-0022600058/play-by-play",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Chicago Bulls vs Charlotte Hornets Nov 25, 2026 Play-by-Play",
+          "url": "https://www.nba.com/game/chi-vs-cha-0022600056/play-by-play",
+          "source": "NBA.com"
         }
       ]
     }

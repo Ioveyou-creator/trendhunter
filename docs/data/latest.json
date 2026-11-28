@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-27T04:28:24+00:00",
+  "generated_at": "2026-11-28T04:07:09+00:00",
   "sources": {
     "google_trends": {
       "ok": true,
       "count": 10,
       "error": null,
-      "fetched_at": "2026-11-27T04:17:30+00:00"
+      "fetched_at": "2026-11-28T03:56:14+00:00"
     },
     "reddit": {
       "ok": false,
       "count": 0,
-      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 404, r/BuyItForLife: HTTP 429, r/INEEEEDIT: HTTP 404, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 404, r/funkopop: HTTP 429, r/lego: HTTP 404, r/Sneakers: HTTP 404, r/kpop: HTTP 404, r/kpopthoughts: HTTP 404, r/AsianBeauty: HTTP 429, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 429, r/NintendoSwitch: HTTP 404",
-      "fetched_at": "2026-11-27T04:28:24+00:00"
+      "error": "모든 서브레딧 실패: r/shutupandtakemymoney: HTTP 429, r/BuyItForLife: HTTP 404, r/INEEEEDIT: HTTP 429, r/PokemonTCG: HTTP 404, r/pkmntcgcollections: HTTP 429, r/funkopop: HTTP 404, r/lego: HTTP 404, r/Sneakers: HTTP 429, r/kpop: HTTP 404, r/kpopthoughts: HTTP 429, r/AsianBeauty: HTTP 404, r/SkincareAddiction: HTTP 404, r/gaming: HTTP 404, r/NintendoSwitch: HTTP 404",
+      "fetched_at": "2026-11-28T04:07:09+00:00"
     },
     "events": {
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null,
-      "fetched_at": "2026-11-27T04:28:24+00:00"
+      "fetched_at": "2026-11-28T04:07:09+00:00"
     }
   },
   "candidates": [
@@ -27,7 +27,7 @@
       "category": "season",
       "score": 65,
       "reasons": [
-        "이벤트 D-28 (2026-12-25), 지금 준비할 때"
+        "이벤트 D-27 (2026-12-25), 지금 준비할 때"
       ],
       "sources": [
         "events"
@@ -41,7 +41,7 @@
       ],
       "event": {
         "date": "2026-12-25",
-        "days_left": 28,
+        "days_left": 27,
         "prep_by": "2026-11-25",
         "status": "prepare_now"
       },
@@ -60,101 +60,12 @@
       }
     },
     {
-      "title": "t mobile black friday deals",
-      "query": "t mobile black friday deals",
-      "category": "trend",
-      "score": 54,
-      "reasons": [
-        "미국 검색 급상승 200+",
-        "상품 신호: 모델명",
-        "다가오는 이벤트와 연결: Black Friday (D-0)"
-      ],
-      "sources": [
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "google_trends",
-          "text": "t mobile black friday deals (200+)",
-          "url": ""
-        },
-        {
-          "source": "news",
-          "text": "Get an iPhone 18 Pro for free in T-Mobile's massive Black Friday sale — how to qualify",
-          "url": "https://mashable.com/tech/nov-26-free-apple-iphone-black-friday-deal"
-        },
-        {
-          "source": "news",
-          "text": "T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple’s New iPhone Duo and iPhone 18 Pro",
-          "url": "https://variety.com/2026/shopping/news/t-mobile-holiday-deals-2026-apple-iphone-duo-iphone-18-pro-1236957422/"
-        }
-      ],
-      "id": "9f80e3750f",
-      "category_label": "검색 급상승",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=t+mobile+black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=t+mobile+black+friday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=t+mobile+black+friday+deals"
-      },
-      "trend": {
-        "status": "new",
-        "prev_rank": null,
-        "rank_change": 0,
-        "streak": 1
-      }
-    },
-    {
-      "title": "Black Friday",
-      "query": "black friday deals",
-      "category": "season",
-      "score": 30,
-      "reasons": [
-        "이벤트 D-0 (2026-11-27), 배송 시간 부족",
-        "다른 소스에서 1건 언급"
-      ],
-      "sources": [
-        "events",
-        "google_trends"
-      ],
-      "evidence": [
-        {
-          "source": "events",
-          "text": "Black Friday",
-          "url": ""
-        },
-        {
-          "source": "google_trends",
-          "text": "t mobile black friday deals",
-          "url": ""
-        }
-      ],
-      "event": {
-        "date": "2026-11-27",
-        "days_left": 0,
-        "prep_by": "2026-10-30",
-        "status": "too_late"
-      },
-      "id": "d076c6152a",
-      "category_label": "시즌",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=black+friday+deals",
-        "naver": "https://search.shopping.naver.com/search/all?query=black+friday+deals"
-      },
-      "trend": {
-        "status": "same",
-        "prev_rank": 2,
-        "rank_change": -1,
-        "streak": 15
-      }
-    },
-    {
       "title": "Cyber Monday",
       "query": "cyber monday deals",
       "category": "season",
       "score": 20,
       "reasons": [
-        "이벤트 D-3 (2026-11-30), 배송 시간 부족"
+        "이벤트 D-2 (2026-11-30), 배송 시간 부족"
       ],
       "sources": [
         "events"
@@ -168,7 +79,7 @@
       ],
       "event": {
         "date": "2026-11-30",
-        "days_left": 3,
+        "days_left": 2,
         "prep_by": "2026-11-02",
         "status": "too_late"
       },
@@ -181,36 +92,18 @@
       },
       "trend": {
         "status": "same",
-        "prev_rank": 3,
-        "rank_change": -1,
+        "prev_rank": 4,
+        "rank_change": 2,
         "streak": 15
       }
     }
   ],
   "events": [
     {
-      "name": "Black Friday",
-      "category": "season",
-      "date": "2026-11-27",
-      "days_left": 0,
-      "prep_by": "2026-10-30",
-      "lead_days": 28,
-      "status": "too_late",
-      "keywords": [
-        "black friday deals"
-      ],
-      "match": [
-        "black friday"
-      ],
-      "note": "",
-      "source": "",
-      "kind": "nth_weekday"
-    },
-    {
       "name": "Cyber Monday",
       "category": "season",
       "date": "2026-11-30",
-      "days_left": 3,
+      "days_left": 2,
       "prep_by": "2026-11-02",
       "lead_days": 28,
       "status": "too_late",
@@ -228,7 +121,7 @@
       "name": "Christmas",
       "category": "season",
       "date": "2026-12-25",
-      "days_left": 28,
+      "days_left": 27,
       "prep_by": "2026-11-25",
       "lead_days": 30,
       "status": "prepare_now",
@@ -246,92 +139,116 @@
   ],
   "other_trends": [
     {
-      "keyword": "rockford files reboot",
-      "traffic_label": "5000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=rockford+files+reboot&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=rockford+files+reboot",
-        "naver": "https://search.shopping.naver.com/search/all?query=rockford+files+reboot"
-      }
-    },
-    {
-      "keyword": "carson schwesinger",
-      "traffic_label": "5000+",
-      "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=carson+schwesinger&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=carson+schwesinger",
-        "naver": "https://search.shopping.naver.com/search/all?query=carson+schwesinger"
-      }
-    },
-    {
-      "keyword": "violent night 2",
+      "keyword": "what time is the parade tomorrow",
       "traffic_label": "2000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=violent+night+2",
-        "naver": "https://search.shopping.naver.com/search/all?query=violent+night+2"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=what+time+is+the+parade+tomorrow&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=what+time+is+the+parade+tomorrow",
+        "naver": "https://search.shopping.naver.com/search/all?query=what+time+is+the+parade+tomorrow"
       }
     },
     {
-      "keyword": "nohl williams",
+      "keyword": "collin sexton",
       "traffic_label": "1000+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=nohl+williams&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=nohl+williams",
-        "naver": "https://search.shopping.naver.com/search/all?query=nohl+williams"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=collin+sexton&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=collin+sexton",
+        "naver": "https://search.shopping.naver.com/search/all?query=collin+sexton"
       }
     },
     {
-      "keyword": "browns qb",
+      "keyword": "ryan yarbrough",
+      "traffic_label": "1000+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=ryan+yarbrough&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=ryan+yarbrough",
+        "naver": "https://search.shopping.naver.com/search/all?query=ryan+yarbrough"
+      }
+    },
+    {
+      "keyword": "scoot henderson",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=browns+qb&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=browns+qb",
-        "naver": "https://search.shopping.naver.com/search/all?query=browns+qb"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=scoot+henderson&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=scoot+henderson",
+        "naver": "https://search.shopping.naver.com/search/all?query=scoot+henderson"
       }
     },
     {
-      "keyword": "cameron diaz",
+      "keyword": "mockingjay part 1",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=cameron+diaz&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=cameron+diaz",
-        "naver": "https://search.shopping.naver.com/search/all?query=cameron+diaz"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=mockingjay+part+1&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=mockingjay+part+1",
+        "naver": "https://search.shopping.naver.com/search/all?query=mockingjay+part+1"
       }
     },
     {
-      "keyword": "clashing through the snow cast",
+      "keyword": "jake laravia",
       "traffic_label": "500+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=clashing+through+the+snow+cast&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=clashing+through+the+snow+cast",
-        "naver": "https://search.shopping.naver.com/search/all?query=clashing+through+the+snow+cast"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=jake+laravia&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=jake+laravia",
+        "naver": "https://search.shopping.naver.com/search/all?query=jake+laravia"
       }
     },
     {
-      "keyword": "adam levine",
+      "keyword": "memphis grizzlies vs timberwolves match player stats",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=adam+levine&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=adam+levine",
-        "naver": "https://search.shopping.naver.com/search/all?query=adam+levine"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=memphis+grizzlies+vs+timberwolves+match+player+stats&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=memphis+grizzlies+vs+timberwolves+match+player+stats",
+        "naver": "https://search.shopping.naver.com/search/all?query=memphis+grizzlies+vs+timberwolves+match+player+stats"
       }
     },
     {
-      "keyword": "fred johnson",
+      "keyword": "rsl",
       "traffic_label": "200+",
       "links": {
-        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=fred+johnson&LH_Sold=1&LH_Complete=1&_sop=13",
-        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=fred+johnson",
-        "naver": "https://search.shopping.naver.com/search/all?query=fred+johnson"
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=rsl&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=rsl",
+        "naver": "https://search.shopping.naver.com/search/all?query=rsl"
+      }
+    },
+    {
+      "keyword": "northeastern vs northwestern",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=northeastern+vs+northwestern&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=northeastern+vs+northwestern",
+        "naver": "https://search.shopping.naver.com/search/all?query=northeastern+vs+northwestern"
+      }
+    },
+    {
+      "keyword": "golden state warriors vs portland trail blazers match player stats",
+      "traffic_label": "200+",
+      "links": {
+        "ebay_sold": "https://www.ebay.com/sch/i.html?_nkw=golden+state+warriors+vs+portland+trail+blazers+match+player+stats&LH_Sold=1&LH_Complete=1&_sop=13",
+        "ebay_active": "https://www.ebay.com/sch/i.html?_nkw=golden+state+warriors+vs+portland+trail+blazers+match+player+stats",
+        "naver": "https://search.shopping.naver.com/search/all?query=golden+state+warriors+vs+portland+trail+blazers+match+player+stats"
       }
     }
   ],
-  "date": "2026-11-27",
-  "dropped": [],
+  "date": "2026-11-28",
+  "dropped": [
+    {
+      "id": "9f80e3750f",
+      "title": "t mobile black friday deals",
+      "query": "t mobile black friday deals",
+      "score": 54,
+      "rank": 2
+    },
+    {
+      "id": "d076c6152a",
+      "title": "Black Friday",
+      "query": "black friday deals",
+      "score": 30,
+      "rank": 3
+    }
+  ],
   "history": {
-    "date": "2026-11-27",
-    "previous_date": "2026-11-26",
-    "new_count": 1
+    "date": "2026-11-28",
+    "previous_date": "2026-11-27",
+    "new_count": 0
   }
 }
